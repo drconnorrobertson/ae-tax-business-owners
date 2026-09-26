@@ -1,13 +1,73 @@
 # AE Tax Advisors for Business Owners
-> Tax planning strategies and advisory services for business owners earning $500K+ annually.
+> Educational tax planning guides for business owners and owner-operators from AE Tax Advisors.
 
 ## About
-AE Tax Advisors for Business Owners explains how AE Tax Advisors helps business owners reduce their tax burden through proactive tax planning, entity structuring (LLC, S-Corp, C-Corp), retirement plan design, reasonable compensation analysis, and strategic income timing. The firm serves business owners earning $500,000 to $1,000,000 or more in annual profit.
+AE Tax Advisors for Business Owners is an educational content site covering entity selection, owner compensation, retirement plan design, deductions and credits, and tax planning and compliance for owner-operators. Pages are general education and not tax advice.
 
 ## Key Pages
 - Home: https://aetaxadvisorsforbusinessowners.com/
+- All guides: https://aetaxadvisorsforbusinessowners.com/guides/
+
+## Entity Planning
+- Hub: https://aetaxadvisorsforbusinessowners.com/entity-planning/: Choosing and changing business entities: LLC, S corporation, C corporation, partnership, and multi-entity structures.
+- Choosing an Entity Structure at Higher Income Levels: https://aetaxadvisorsforbusinessowners.com/blog/best-entity-structure-for-business-owners-making-300k/
+- When to Switch from LLC to S Corporation Taxation: https://aetaxadvisorsforbusinessowners.com/blog/when-to-switch-from-llc-to-s-corp/
+- How Much Could an S Corporation Save in Taxes?: https://aetaxadvisorsforbusinessowners.com/blog/how-much-does-an-s-corp-save-in-taxes/
+- S Corporation Election Guide: Form 2553 and Timing: https://aetaxadvisorsforbusinessowners.com/services/s-corp-election/
+- C Corporation Tax Strategy for Owners: https://aetaxadvisorsforbusinessowners.com/services/c-corp-strategy/
+- Multi-Entity Structures for Owner-Operators: https://aetaxadvisorsforbusinessowners.com/services/entity-restructuring/
+- How LLCs Are Taxed: Classification Options Explained: https://aetaxadvisorsforbusinessowners.com/entity-planning/llc-taxation-explained/
+- Partnership vs S Corporation for Multi-Owner Businesses: https://aetaxadvisorsforbusinessowners.com/entity-planning/partnership-vs-s-corp-for-owners/
+- S Corporation Rules and Common Pitfalls: https://aetaxadvisorsforbusinessowners.com/entity-planning/s-corp-eligibility-and-pitfalls/
+
+## Owner Compensation
+- Hub: https://aetaxadvisorsforbusinessowners.com/owner-compensation/: Reasonable salary, distributions, accountable plans, health insurance, payroll, and basis for owner-operators.
+- Reasonable Compensation for S Corporation Owners: https://aetaxadvisorsforbusinessowners.com/services/reasonable-compensation/
+- How Low Can an S Corporation Salary Go?: https://aetaxadvisorsforbusinessowners.com/blog/s-corp-reasonable-compensation-how-low-can-you-go/
+- Salary vs Distributions: Planning the Owner Pay Mix: https://aetaxadvisorsforbusinessowners.com/owner-compensation/salary-vs-distributions-planning/
+- Accountable Plans for Reimbursing Business Expenses: https://aetaxadvisorsforbusinessowners.com/services/accountable-plans/
+- Health Insurance for S Corporation Shareholders: https://aetaxadvisorsforbusinessowners.com/owner-compensation/health-insurance-for-s-corp-owners/
+- Payroll Setup for Owner-Operators: https://aetaxadvisorsforbusinessowners.com/owner-compensation/payroll-setup-for-owner-operators/
+- Shareholder Loans, Stock Basis, and Debt Basis: https://aetaxadvisorsforbusinessowners.com/owner-compensation/shareholder-loans-and-basis/
+- Hiring Family Members: Tax Rules for Owners: https://aetaxadvisorsforbusinessowners.com/owner-compensation/hiring-family-members-in-your-business/
+
+## Retirement Planning
+- Hub: https://aetaxadvisorsforbusinessowners.com/retirement-planning/: Solo 401(k), SEP, SIMPLE, defined benefit, cash balance, and Roth planning for business owners.
+- Retirement Plans for Business Owners: An Overview: https://aetaxadvisorsforbusinessowners.com/services/retirement-plans/
+- Solo 401(k) Plans for Owner-Operators: https://aetaxadvisorsforbusinessowners.com/retirement-planning/solo-401k-for-owner-operators/
+- SEP IRA vs Solo 401(k) vs SIMPLE IRA: https://aetaxadvisorsforbusinessowners.com/retirement-planning/sep-ira-vs-solo-401k-vs-simple/
+- Defined Benefit Plans for Business Owners: https://aetaxadvisorsforbusinessowners.com/retirement-planning/defined-benefit-plans-for-owners/
+- Cash Balance Plans Explained for Business Owners: https://aetaxadvisorsforbusinessowners.com/retirement-planning/cash-balance-plans-explained/
+- Roth Conversions and Backdoor Roth Planning for Owners: https://aetaxadvisorsforbusinessowners.com/retirement-planning/roth-conversions-for-business-owners/
+- Retirement Plans When Your Business Has Employees: https://aetaxadvisorsforbusinessowners.com/retirement-planning/retirement-plans-when-you-have-employees/
+
+## Deductions and Credits
+- Hub: https://aetaxadvisorsforbusinessowners.com/deductions/: QBI, Augusta rule, home office, vehicles, equipment expensing, pass-through entity tax, and credits for owners.
+- Commonly Missed Business Deductions to Review: https://aetaxadvisorsforbusinessowners.com/blog/tax-deductions-every-business-owner-misses/
+- The Augusta Rule: Renting Your Home to Your Business: https://aetaxadvisorsforbusinessowners.com/services/augusta-rule/
+- The Qualified Business Income Deduction (Section 199A): https://aetaxadvisorsforbusinessowners.com/deductions/qbi-deduction-section-199a/
+- Home Office Deduction for Business Owners: https://aetaxadvisorsforbusinessowners.com/deductions/home-office-deduction-for-owners/
+- Vehicle Deductions for Business Owners: https://aetaxadvisorsforbusinessowners.com/deductions/vehicle-deductions-for-business-owners/
+- Section 179 and Bonus Depreciation for Business Equipment: https://aetaxadvisorsforbusinessowners.com/deductions/section-179-and-bonus-depreciation-for-equipment/
+- Pass-Through Entity Tax Elections Explained: https://aetaxadvisorsforbusinessowners.com/deductions/pass-through-entity-tax-elections/
+- Research Credit Basics for Small Businesses: https://aetaxadvisorsforbusinessowners.com/deductions/research-credit-basics/
+
+## Planning and Compliance
+- Hub: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/: Estimated taxes, year-end planning, bookkeeping, multi-state issues, amended returns, exit planning, and audit readiness.
+- Amending Prior-Year Returns: When It May Make Sense: https://aetaxadvisorsforbusinessowners.com/services/tax-amendments/
+- Quarterly Estimated Taxes for Business Owners: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/quarterly-estimated-taxes-for-owners/
+- Year-End Tax Planning Checklist for Business Owners: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/year-end-tax-planning-checklist-for-business-owners/
+- Bookkeeping Foundations That Support Tax Planning: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/bookkeeping-foundations-for-tax-planning/
+- Multi-State Tax Issues for Business Owners: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/multi-state-tax-issues-for-owners/
+- Selling Your Business: Tax Planning Considerations: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/selling-your-business-tax-planning/
+- Qualified Small Business Stock (Section 1202) Basics: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/qualified-small-business-stock-basics/
+- Audit Readiness for Owner-Operators: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/audit-readiness-for-owner-operators/
+- Tax Planning vs Tax Preparation: What Owners Should Know: https://aetaxadvisorsforbusinessowners.com/planning-and-compliance/tax-planning-vs-tax-preparation/
 
 ## Contact
 - Book a discovery call: https://aetaxadvisors.com/discovery
 - Email: team@aetaxadvisors.com
 - Phone: (631) 614-5762
+
+## Notice
+Content is educational only and is not tax, legal, or accounting advice.
