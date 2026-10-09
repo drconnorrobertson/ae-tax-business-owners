@@ -1,0 +1,372 @@
+{
+  "key": "owners",
+  "domain": "aetaxadvisorsforbusinessowners.com",
+  "date": "2026-10-09",
+  "baseline": 300,
+  "target": 500,
+  "route": "planning-files",
+  "publisher": "AE Tax Advisors",
+  "service": "https://www.aetaxadvisors.com/business-owner-tax-planning/",
+  "topics": [
+    {
+      "title": "Accountable plan travel advances",
+      "trigger": "An employee receives travel money before the itinerary and receipts are complete.",
+      "principle": "Business connection, substantiation and return of excess are separate requirements. Paying an advance does not establish that the final reimbursement qualifies.",
+      "example": "A practice sends a clinician to a conference, advances travel funds and later discovers the hotel refunded one night.",
+      "checks": [
+        "Business-purpose approval",
+        "Advance payment trail",
+        "Travel date evidence",
+        "Expense report submission",
+        "Refund and credit reconciliation",
+        "Excess amount return",
+        "Payroll exception review",
+        "General-ledger posting",
+        "Employee follow-up controls"
+      ],
+      "tag": "reimbursement"
+    },
+    {
+      "title": "Owner reimbursement duplicate charges",
+      "trigger": "A personally paid expense enters both the bank feed and an owner reimbursement request.",
+      "principle": "A business record should identify one underlying expenditure and its reimbursement separately. Two payment records do not justify recording the same expense twice.",
+      "example": "A consultant uploads a card receipt, records a reimbursed expense and also imports the card statement into the business books.",
+      "checks": [
+        "Original vendor receipt",
+        "Personal payment evidence",
+        "Expense request identifier",
+        "Business reimbursement payment",
+        "Bank-feed duplicate match",
+        "Credit and reversal trail",
+        "Owner balance reconciliation",
+        "Bookkeeper correction approval",
+        "Next-month duplicate screening"
+      ],
+      "tag": "reimbursement"
+    },
+    {
+      "title": "Mileage log reconstruction",
+      "trigger": "An owner has vehicle expenses but incomplete contemporaneous trip records.",
+      "principle": "A calendar can help identify trips but does not automatically establish deductible mileage. Separate supported business travel, commuting and personal use before selecting a reporting method.",
+      "example": "A home-service owner remembers several jobs but the odometer readings and appointment locations do not yet agree.",
+      "checks": [
+        "Beginning odometer evidence",
+        "Ending odometer evidence",
+        "Trip destination support",
+        "Business-purpose description",
+        "Commuting boundary review",
+        "Personal-mile reconciliation",
+        "Prior method identification",
+        "Reconstruction uncertainty log",
+        "Preparer acceptance record"
+      ],
+      "tag": "vehicle"
+    },
+    {
+      "title": "Mixed meal and entertainment invoices",
+      "trigger": "One vendor bill combines business dining with an entertainment event.",
+      "principle": "Separate the items and supporting purpose. The label on a card statement does not establish the treatment of every part of a bundled purchase.",
+      "example": "A company hosts customers at a sporting venue and receives one invoice covering seats, meals and transportation.",
+      "checks": [
+        "Itemized vendor breakdown",
+        "Attendee and role list",
+        "Business discussion evidence",
+        "Entertainment charge separation",
+        "Meal charge identification",
+        "Transportation allocation",
+        "Employee reimbursement routing",
+        "Book coding review",
+        "Missing-item request"
+      ],
+      "tag": "meals"
+    },
+    {
+      "title": "Shareholder distribution basis controls",
+      "trigger": "A profitable S corporation pays distributions while shareholder basis records lag behind the books.",
+      "principle": "Cash availability and retained earnings do not establish a shareholder's stock basis. A distribution review needs the shareholder-level history and relevant adjustments.",
+      "example": "Two owners receive equal cash distributions but contributed different amounts and have different prior-year basis histories.",
+      "checks": [
+        "Opening stock basis",
+        "Capital contribution trail",
+        "Prior distribution history",
+        "Current income adjustments",
+        "Nondeductible item mapping",
+        "Debt versus stock distinction",
+        "Cash distribution reconciliation",
+        "Form 7203 handoff",
+        "Next distribution review gate"
+      ],
+      "tag": "basis"
+    },
+    {
+      "title": "Shareholder loan repayment files",
+      "trigger": "The company repays money described as an owner loan after several years of losses.",
+      "principle": "Identify the actual debt and any prior basis reductions. A payment described as principal may require analysis beyond a bank transfer memo.",
+      "example": "An owner advances operating cash, uses debt basis in earlier years and later receives a partial repayment.",
+      "checks": [
+        "Original loan agreement",
+        "Direct lender identification",
+        "Advance payment tracing",
+        "Opening debt basis",
+        "Prior reduction history",
+        "Repayment date sequence",
+        "Interest payment separation",
+        "Preparer tax-character review",
+        "Remaining principal confirmation"
+      ],
+      "tag": "basis"
+    },
+    {
+      "title": "Owner health insurance payroll handoff",
+      "trigger": "An owner-managed corporation pays a policy that also covers family members.",
+      "principle": "The applicable ownership, entity and payroll reporting rules matter. A health-insurance expense account alone does not establish the owner's individual deduction.",
+      "example": "A dental practice reimburses its owner for a family policy but the payroll provider has not received year-end instructions.",
+      "checks": [
+        "Ownership percentage evidence",
+        "Policy holder identification",
+        "Company payment trail",
+        "Reimbursement authorization",
+        "Covered-person schedule",
+        "Payroll inclusion request",
+        "W-2 reconciliation",
+        "Preparer deduction review",
+        "Annual provider coordination"
+      ],
+      "tag": "payroll"
+    },
+    {
+      "title": "Owner compensation role changes",
+      "trigger": "An owner's duties change as managers take over daily operations.",
+      "principle": "Review actual services and compensation facts rather than mechanically carrying forward last year's salary. Distribution decisions and compensation analysis serve different purposes.",
+      "example": "A restaurant owner moves from daily operations to overseeing multiple managers and a new location.",
+      "checks": [
+        "Prior role description",
+        "Current duties inventory",
+        "Hours and responsibility evidence",
+        "Comparable compensation inputs",
+        "Payroll history reconciliation",
+        "Distribution history context",
+        "Reviewer method documentation",
+        "Approved salary implementation",
+        "Midyear role-change monitor"
+      ],
+      "tag": "payroll"
+    },
+    {
+      "title": "Retirement census reconciliation",
+      "trigger": "A business considers a retirement contribution while employee records differ between payroll and administration.",
+      "principle": "The plan administrator needs accurate eligibility and compensation facts. A projected owner contribution is not a substitute for employee coverage analysis.",
+      "example": "A salon adds employees and transfers a stylist between related entities before the administrator prepares the annual census.",
+      "checks": [
+        "Employee identifier match",
+        "Hire and termination dates",
+        "Hours-of-service records",
+        "Compensation definition review",
+        "Related-employer inventory",
+        "Ownership attribution inputs",
+        "Payroll-to-census reconciliation",
+        "Administrator correction response",
+        "Approved funding handoff"
+      ],
+      "tag": "retirement"
+    },
+    {
+      "title": "Owner retirement funding cash calendar",
+      "trigger": "An owner wants to reserve cash for retirement contributions alongside payroll and tax payments.",
+      "principle": "Separate the contribution estimate, approved plan amount and actual funding. Applicable limits, deadlines and deductibility require plan and tax review.",
+      "example": "A consulting owner receives a large late-year client payment but also owes bonuses and estimated taxes.",
+      "checks": [
+        "Plan type confirmation",
+        "Administrator estimate version",
+        "Approved contribution amount",
+        "Funding account availability",
+        "Payroll obligation calendar",
+        "Estimated-tax reservation",
+        "Contribution payment evidence",
+        "Preparer deduction period",
+        "Post-funding reconciliation"
+      ],
+      "tag": "retirement"
+    },
+    {
+      "title": "Quarterly estimated tax forecast revisions",
+      "trigger": "A forecast changes after a major contract, distribution or household income event.",
+      "principle": "Preserve the assumptions and prior payments behind each revision. A higher bank balance does not by itself measure current taxable income or payment requirements.",
+      "example": "A software business receives an annual prepayment while the owner also changes W-2 withholding from another job.",
+      "checks": [
+        "Prior forecast baseline",
+        "Updated profit bridge",
+        "Household income changes",
+        "Withholding reconciliation",
+        "Federal payment confirmations",
+        "State payment confirmations",
+        "Timing and penalty review",
+        "Approved revised instructions",
+        "Following-quarter variance check"
+      ],
+      "tag": "estimates"
+    },
+    {
+      "title": "Customer deposits and owner cash planning",
+      "trigger": "Customer cash arrives before the business has completed the related work.",
+      "principle": "Revenue timing and usable cash require separate review. Keep the contract terms and accounting method visible instead of treating every deposit as distributable profit.",
+      "example": "A contractor receives a project deposit and orders materials while several earlier jobs remain incomplete.",
+      "checks": [
+        "Contract obligation evidence",
+        "Deposit payment identification",
+        "Refundability conditions",
+        "Work-completion timeline",
+        "Accounting method record",
+        "Deferred amount reconciliation",
+        "Job cost commitments",
+        "Owner cash restriction decision",
+        "Period-end balance confirmation"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Merchant settlement reconciliation",
+      "trigger": "Processor deposits are net of fees, refunds and reserves.",
+      "principle": "Reconcile gross activity to the net cash settlement. A bank deposit is not a complete revenue record when the processor offsets other amounts.",
+      "example": "An online retailer sees a large sales report but lower bank deposits because returns and rolling reserves were withheld.",
+      "checks": [
+        "Gross transaction report",
+        "Processor fee schedule",
+        "Refund activity ledger",
+        "Chargeback case records",
+        "Reserve opening balance",
+        "Reserve release evidence",
+        "Settlement date bridge",
+        "Bookkeeper journal approval",
+        "Period-end processor balance"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Business equipment purchase cutoffs",
+      "trigger": "Equipment is purchased, delivered and installed on different dates.",
+      "principle": "Payment and readiness for intended use are different facts. Identify the asset and applicable tax-year rules before choosing a depreciation treatment.",
+      "example": "A manufacturer prepays for equipment in December but installation and testing continue into January.",
+      "checks": [
+        "Purchase agreement detail",
+        "Deposit and final payment",
+        "Delivery confirmation",
+        "Installation completion",
+        "Testing and readiness evidence",
+        "Asset identification record",
+        "Prior equipment disposition",
+        "Preparer service-date conclusion",
+        "Fixed-asset schedule update"
+      ],
+      "tag": "equipment"
+    },
+    {
+      "title": "Vendor refund and credit controls",
+      "trigger": "A vendor credits a prior business purchase after the original expense was recorded.",
+      "principle": "Trace the credit to the original transaction and period. A later refund should not disappear into miscellaneous revenue without a documented accounting decision.",
+      "example": "A practice receives a credit for defective supplies that were purchased and expensed in an earlier accounting period.",
+      "checks": [
+        "Original invoice reference",
+        "Original expense posting",
+        "Credit memo description",
+        "Refund receipt trail",
+        "Replacement item evidence",
+        "Reporting period comparison",
+        "Book adjustment explanation",
+        "Preparer prior-year question",
+        "Vendor account confirmation"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Owner-paid startup costs",
+      "trigger": "An owner pays formation and launch expenses before the operating business opens.",
+      "principle": "Organize pre-opening costs separately from later operating expenses and asset purchases. Payment by the owner does not settle capitalization or deductibility.",
+      "example": "An entrepreneur pays legal fees, training expenses and equipment deposits before the first customer contract begins.",
+      "checks": [
+        "Business activity start",
+        "Pre-opening invoice list",
+        "Formation service detail",
+        "Training purpose evidence",
+        "Asset purchase separation",
+        "Owner payment confirmation",
+        "Company reimbursement decision",
+        "Preparer cost-category review",
+        "Opening balance-sheet handoff"
+      ],
+      "tag": "equipment"
+    },
+    {
+      "title": "Intercompany service charge reconciliation",
+      "trigger": "Related entities share people or services and transfer money without consistent invoices.",
+      "principle": "Identify actual work, contractual responsibility and the accounting entry in both entities. A payment label does not prove the charge reflects a genuine service.",
+      "example": "An operating company pays a management entity while payroll and vendor costs are still split between their bank accounts.",
+      "checks": [
+        "Written service scope",
+        "Work performance evidence",
+        "Cost source schedule",
+        "Invoice period definition",
+        "Payment trail match",
+        "Paying-entity book entry",
+        "Receiving-entity book entry",
+        "Tax reviewer issue log",
+        "Next billing cycle control"
+      ],
+      "tag": "entity"
+    },
+    {
+      "title": "Entity election implementation tracking",
+      "trigger": "An adviser recommends an entity election but the owner has not confirmed filing and acceptance.",
+      "principle": "Distinguish recommendation, signed filing, submission evidence and subsequent reporting. A planning presentation does not implement an election.",
+      "example": "An owner discusses an S corporation election in a meeting while the payroll provider continues treating the business as a sole proprietorship.",
+      "checks": [
+        "Legal entity identification",
+        "Owner eligibility facts",
+        "Effective-date request",
+        "Signed form version",
+        "Submission evidence",
+        "Agency correspondence tracking",
+        "Payroll provider instruction",
+        "Return preparation alignment",
+        "Acceptance exception follow-up"
+      ],
+      "tag": "entity"
+    },
+    {
+      "title": "Tax notice response coordination",
+      "trigger": "A business receives a notice affecting payments, returns or payroll reporting.",
+      "principle": "Identify the notice, period, response instructions and responsible professional before sending a response. Do not assume a balance notice proves the original return was incorrect.",
+      "example": "A company receives a payroll notice after changing providers and cannot initially match the agency's payment credits.",
+      "checks": [
+        "Notice type identification",
+        "Response date calendar",
+        "Affected entity and period",
+        "Original filing copy",
+        "Payment confirmation evidence",
+        "Agency balance reconciliation",
+        "Representation scope confirmation",
+        "Approved response submission",
+        "Resolution document retention"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Tax adviser transition evidence",
+      "trigger": "A new professional begins work while the old preparer holds important records.",
+      "principle": "Transfer the complete reporting history and unresolved issues. A PDF return alone may omit workpapers, elections, basis schedules and implementation assumptions.",
+      "example": "An owner changes firms and supplies tax returns but no depreciation detail, shareholder basis rollforward or open-notice register.",
+      "checks": [
+        "Filed return inventory",
+        "Basis schedule transfer",
+        "Depreciation schedule transfer",
+        "Election statement archive",
+        "Open notice register",
+        "Carryforward schedule check",
+        "Prior adviser clarification",
+        "New scope acknowledgement",
+        "Missing-record follow-up"
+      ],
+      "tag": "records"
+    }
+  ]
+}
