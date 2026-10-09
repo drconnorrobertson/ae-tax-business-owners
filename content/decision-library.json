@@ -1,0 +1,269 @@
+{
+  "key": "owners",
+  "repo": "ae-tax-business-owners",
+  "domain": "aetaxadvisorsforbusinessowners.com",
+  "target": 300,
+  "route": "planning-files",
+  "title": "Business Owner Planning Files",
+  "contexts": [
+    [
+      "Restaurants",
+      "Separate dining, delivery and catering revenue and explain how the owner divides time between operations and management.",
+      "point-of-sale exports; tipped-payroll registers; food inventory; equipment leases; catering deposits",
+      "A restaurant has a busy dining room but its bank balance also includes deposits for events not yet held.",
+      "Reconcile sales-system totals to the books before using the current profit forecast."
+    ],
+    [
+      "Salons and spas",
+      "Distinguish employee payroll, chair-rental arrangements, retail products and service income in the source file.",
+      "appointment-system reports; stylist agreements; product inventory; gratuity reports; payroll registers",
+      "A salon combines service revenue, retail sales and booth-rental receipts in one deposit feed.",
+      "Document the operating relationship and revenue source rather than inferring it from a deposit description."
+    ],
+    [
+      "Medical practices",
+      "Separate practice collections, owner clinical work, administrative duties and related property arrangements.",
+      "billing-system summaries; provider compensation; equipment purchases; practice ownership; building lease",
+      "A practice owner works clinically while also managing employed providers and a separate property company.",
+      "Map the service and property entities so payments and responsibilities can be reviewed together."
+    ],
+    [
+      "Dental practices",
+      "Identify clinical equipment, lab charges, associate compensation and owner management time.",
+      "equipment agreements; lab invoices; associate contracts; collections reports; ownership documents",
+      "A dental practice buys equipment while an associate joins and the owner reduces clinical hours.",
+      "Keep the payroll discussion separate from the equipment-purchase timeline and cost file."
+    ],
+    [
+      "Law firms",
+      "Describe ownership, compensation arrangements and the timing of collected fees, without exposing client matters.",
+      "partner agreement; distributions; fee collections; payroll; capital contributions",
+      "A firm collects a large fee near year end while partner payments reflect an older forecast.",
+      "Prepare an updated entity and owner projection before treating a cash distribution as the final tax result."
+    ],
+    [
+      "Consulting firms",
+      "Distinguish billable owner work, subcontractor delivery and business development when documenting the operating model.",
+      "client contracts; project billing; subcontractor invoices; owner duties; travel records",
+      "A consultant adds subcontractors but continues selling and supervising every project.",
+      "Show which activities changed and which still depend on the owner."
+    ],
+    [
+      "Software businesses",
+      "Separate subscription receipts, implementation projects, contractor work and internally developed product activity.",
+      "subscription exports; development ledger; contractor agreements; owner roles; customer locations",
+      "A software company has annual subscription payments and a development team in several locations.",
+      "Explain recognition and cost-classification questions before using receipts as a proxy for profit."
+    ],
+    [
+      "Construction companies",
+      "Describe open jobs, retainage, project costs and the distinction between owner labor and supervision.",
+      "job-cost reports; retainage; subcontractor contracts; equipment records; payroll",
+      "A contractor has profitable completed jobs and substantial costs in unfinished projects.",
+      "Reconcile the reporting cutoff and identify which job figures remain provisional."
+    ],
+    [
+      "Ecommerce businesses",
+      "Separate marketplace receipts, inventory, sales-tax collections, returns and platform fees.",
+      "marketplace exports; inventory counts; fulfillment fees; refunds; sales-tax reports",
+      "A seller's platform payout differs substantially from reported gross sales.",
+      "Build a bridge from gross activity to net deposits rather than equating them."
+    ],
+    [
+      "Engineering firms",
+      "Record project delivery, technical review, management and the mix of owner and employee services.",
+      "project ledger; staff roles; equipment inventory; contracts; compensation records",
+      "An engineering owner moves from technical delivery to reviewing work performed by staff.",
+      "Preserve time and responsibility evidence that reflects the current role."
+    ],
+    [
+      "Marketing agencies",
+      "Separate retainers, media spend, project fees and pass-through transactions in the operating file.",
+      "client retainers; ad-spend records; contractor scopes; receivables; owner duties",
+      "An agency's revenue report includes client media budgets handled through its accounts.",
+      "Identify pass-through and earned revenue questions before setting targets or tax assumptions."
+    ],
+    [
+      "Fitness businesses",
+      "Distinguish memberships, training, merchandise and arrangements with instructors.",
+      "membership exports; instructor contracts; facility lease; equipment invoices; payroll",
+      "A studio sells prepaid memberships while adding independently contracted classes.",
+      "Explain service periods and working arrangements in the records supplied to the advisor."
+    ],
+    [
+      "Logistics businesses",
+      "Document vehicles, owner dispatch work, drivers and operating agreements.",
+      "vehicle titles; mileage and use records; driver compensation; dispatch logs; lease agreements",
+      "A logistics owner adds trucks and delegates driving but retains dispatch duties.",
+      "Keep ownership, business use and owner services as separate review questions."
+    ],
+    [
+      "Manufacturers",
+      "Describe production, inventory, owner management and major capital projects.",
+      "production reports; inventory counts; machine invoices; labor ledger; capital-project schedules",
+      "A manufacturer buys machinery while a plant project remains unfinished.",
+      "Track each project's status instead of assigning all purchases one completion date."
+    ],
+    [
+      "Home-service businesses",
+      "Separate field work, dispatch, maintenance contracts and the seasonal operating cycle.",
+      "work-order exports; vehicle records; technician payroll; service contracts; owner time",
+      "An owner spends less time on field jobs after hiring technicians but handles sales and dispatch.",
+      "Document the revised role and recurring obligations rather than reusing last year's assumptions."
+    ],
+    [
+      "Franchise operators",
+      "Keep franchisor charges, locations and separate legal entities visible in the planning file.",
+      "franchise agreements; royalty reports; location statements; manager payroll; ownership register",
+      "An operator owns two locations with different margins and management teams.",
+      "Prepare location detail and the legal-entity map before combining results."
+    ],
+    [
+      "Multi-owner businesses",
+      "Document ownership, agreed distributions, capital contributions and decision authority.",
+      "operating agreement; capital accounts; owner payments; minutes; entity returns",
+      "Two owners contribute different amounts and draw cash at different times.",
+      "Ask the preparer to reconcile ownership and ledger balances before drawing tax conclusions."
+    ],
+    [
+      "Holding companies",
+      "Identify actual activities and transactions of each subsidiary rather than treating the group as one bank account.",
+      "subsidiary register; loans; service agreements; distributions; intercompany balances",
+      "A holding company transfers funds among operating and property entities.",
+      "Trace each transfer to its counterpart and agreement before treating it as income or an expense."
+    ]
+  ],
+  "tasks": [
+    [
+      "Owner compensation evidence",
+      "Organize the facts behind owner duties and payments.",
+      "Separate direct delivery, management, sales and administration. Reconcile payroll with owner distributions and identify changes from the prior year. Retain dated comparison evidence instead of relying on a standard salary percentage.",
+      "A role-and-payment record with a named payroll handoff.",
+      "Role descriptions and payment labels do not agree.",
+      "What additional facts are needed to evaluate compensation and year-end reporting?",
+      "owner roles; time by role; wage totals; distributions; market evidence"
+    ],
+    [
+      "Benefit reporting file",
+      "Prepare the records behind benefits paid for owners and staff.",
+      "List the benefit, recipient, entity, payment date and reporting already performed. Preserve the plan or policy and ask the preparer to review eligibility and reporting. Do not infer the result from the payment's ledger account alone.",
+      "A recipient-by-benefit record with unresolved reporting questions.",
+      "Benefit payments appear in payroll and expenses without reconciliation.",
+      "Who determines the appropriate benefit treatment and who updates payroll?",
+      "benefit type; recipient category; payer; payroll treatment; policy evidence"
+    ],
+    [
+      "Expense reimbursement file",
+      "Connect owner-paid spending to supporting business records.",
+      "Record the purpose, receipt, payer and reimbursement date for each material expense. Distinguish personal spending and missing support. Ask the reviewer to assess the policy and reporting procedure before treating a transfer as an approved deduction.",
+      "An expense-to-reimbursement bridge.",
+      "Transfers use reimbursement labels but lack receipts or purposes.",
+      "What expense support or procedure needs correction before implementation?",
+      "expense purpose; receipt location; payer; reimbursement date; policy question"
+    ],
+    [
+      "Quarterly projection inputs",
+      "Prepare a current operating and household input file.",
+      "Use one reporting cutoff. Separate recurring activity from proposed transactions and reconcile withholding and estimated payments to evidence. Label forecasts and unresolved balances so the advisor can compare the updated picture with the prior projection.",
+      "A dated baseline and transaction scenario file.",
+      "Statements use different cutoff dates or unverified payment totals.",
+      "Which projection inputs are provisional and who will verify them?",
+      "financial cutoff; forecast source; tax payments; outside income; planned transactions"
+    ],
+    [
+      "Entity election readiness",
+      "Document the operating facts before evaluating an election.",
+      "Prepare ownership, current classification, duties, profit expectations and recurring compliance costs. Identify deadlines and work already completed. An interactive preparation file does not decide eligibility or submit an election.",
+      "A facts-and-cost readiness file for professional review.",
+      "The model omits ownership details, payroll readiness or state questions.",
+      "Which facts, deadlines and ongoing costs change the election comparison?",
+      "owners; classification; intended date; payroll readiness; recurring costs"
+    ],
+    [
+      "Retirement plan census",
+      "Build an accurate employee and compensation file for a plan discussion.",
+      "Record the census date, employee categories, compensation source and expected changes. Keep private identifiers out of this public worksheet. Ask the administrator which additional records are needed for a design and funding comparison.",
+      "A census-source register and provider responsibility map.",
+      "A contribution model uses outdated staffing or compensation.",
+      "Who validates the census and who owns plan administration and funding follow-up?",
+      "census date; employee categories; wage source; expected hiring; provider roles"
+    ],
+    [
+      "Intercompany reconciliation",
+      "Trace transactions between entities to agreements and counterpart entries.",
+      "List the payer, recipient, purpose, balance and supporting agreement. Reconcile the corresponding ledgers using one cutoff. Avoid treating every transfer as revenue or every balance as a documented loan without professional review.",
+      "A counterparty-by-counterparty difference log.",
+      "One entity records an expense while the other has no matching entry.",
+      "Which balances or agreements need review before the plan uses these transactions?",
+      "payer; recipient; purpose; counterpart balance; agreement location"
+    ],
+    [
+      "Capital purchase review",
+      "Separate planned and completed purchases from the tax treatment decision.",
+      "Record asset description, owner, contract date, cost support and readiness for intended use. Identify credits and financing separately. Ask the preparer to review treatment using the actual facts; a purchase price is not automatically a deductible amount.",
+      "A purchase and service-date evidence file.",
+      "The model assumes every ordered asset is already ready for use.",
+      "What source records establish ownership, cost and timing for each item?",
+      "asset description; owner; invoice support; readiness evidence; credits"
+    ],
+    [
+      "Year-end close preparation",
+      "Identify unresolved financial records before relying on the year-end figures.",
+      "Reconcile accounts, receivables, liabilities and owner balances to source evidence. Separate routine close tasks from tax adjustments that need a preparer. Track the person responsible and the evidence used to resolve each item.",
+      "A close exception register with a cutoff date.",
+      "Unreconciled accounts change profit or owner balances materially.",
+      "Which close exceptions must be resolved before a projection or return is finalized?",
+      "account; reported balance; support; exception; responsible person"
+    ],
+    [
+      "Contract and obligation review",
+      "Organize agreements that affect the operating and cash-flow picture.",
+      "List the contract, parties, term, payment commitments and changes. Match material payments to the agreement and identify deposits or future services. The worksheet gathers commercial facts and does not interpret contract enforceability.",
+      "An agreement-to-ledger register.",
+      "Cash payments do not match the stated period or contract terms.",
+      "Which agreements or recognition questions require tax or legal review?",
+      "agreement; parties; term; payment obligations; ledger match"
+    ],
+    [
+      "Prior-year issue register",
+      "Build a year-by-year record of suspected omissions or inconsistent reporting.",
+      "Keep the filed return, original workpapers and new evidence together. Identify the exact issue without assuming an amendment is the correct procedure. Ask the preparer to review deadlines and related entity or state effects.",
+      "A dated issue file with source evidence.",
+      "A missing workpaper is treated as proof that nothing was reported.",
+      "What was reported, what evidence changes it and what correction procedure should be reviewed?",
+      "tax year; return source; suspected issue; new evidence; deadline question"
+    ],
+    [
+      "Advisor transition handoff",
+      "Make the source records and work responsibilities explicit during a transition.",
+      "Inventory entities, returns, source access, open notices and active recommendations. Use secure transfer channels. Record who owns each deadline and revoke obsolete access through the appropriate process when the handoff is complete.",
+      "A secure transfer register and responsibility map.",
+      "A task is assumed complete because another professional handled it previously.",
+      "Who has accepted responsibility for each open item and filing deadline?",
+      "entity; record set; transfer status; open deadline; assigned professional"
+    ]
+  ],
+  "masters": [
+    [
+      "Planning action register",
+      "Track a recommendation from source request to documented completion.",
+      "recommendation; source needed; decision owner; implementation owner; verification evidence"
+    ],
+    [
+      "Annual record retention map",
+      "Map the location and responsible custodian of planning source records.",
+      "record set; reporting year; secure location; custodian; missing item"
+    ],
+    [
+      "Advisor meeting agenda builder",
+      "Turn unresolved facts into specific questions for the next review.",
+      "decision; known facts; missing evidence; deadline; question"
+    ]
+  ],
+  "service": "https://www.aetaxadvisors.com/business-owner-tax-planning/",
+  "sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
+  ],
+  "date": "2026-10-09",
+  "publisher": "AE Tax Advisors"
+}
