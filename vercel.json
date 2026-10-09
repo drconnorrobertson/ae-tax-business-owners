@@ -1,5 +1,7 @@
 {
   "cleanUrls": true,
   "trailingSlash": true,
-  "redirects": []
+  "redirects": [],
+  "buildCommand": "node decision-library-build.cjs",
+  "outputDirectory": "public"
 }
