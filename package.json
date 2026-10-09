@@ -1,0 +1,8 @@
+{
+  "name": "business-owner-index",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs", "check": "node scripts/check.mjs", "publish:batch": "node scripts/publish-batch.mjs" },
+  "engines": { "node": ">=22" }
+}
