@@ -83,3 +83,6 @@ const notFound=`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta
 fs.writeFileSync(path.join(out,'404.html'),notFound);
 fs.writeFileSync(path.join(root,'data/build-report.json'),JSON.stringify({owners:owners.length,companies:owners.length,industries:industries.length,indexableLocations:cityCollections.length,resources:guides.length,indexablePages:pages.length,totalHtmlPages:pages.length+locations.length-cityCollections.length+1,sourceHash:crypto.createHash('sha256').update(JSON.stringify(owners)).digest('hex'),generatedAt:new Date().toISOString()},null,2)+'\n');
 console.log(JSON.stringify({owners:owners.length,companies:owners.length,indexablePages:pages.length,totalHtmlPages:pages.length+locations.length-cityCollections.length+1}));
+
+// Publish the IndexNow ownership key with every build.
+fs.writeFileSync(path.join(out,'33f9e71594f99d5557074fb04decefdf.txt'),'33f9e71594f99d5557074fb04decefdf');
