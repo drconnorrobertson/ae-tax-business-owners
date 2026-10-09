@@ -1,0 +1,702 @@
+[
+  {
+    "key": "owners",
+    "title": "Accountable plan travel advances",
+    "tag": "reimbursement",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/accountable-plan-travel-advances/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Owner reimbursement duplicate charges",
+    "tag": "reimbursement",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/owner-reimbursement-duplicate-charges/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Mileage log reconstruction",
+    "tag": "vehicle",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/mileage-log-reconstruction/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Mixed meal and entertainment invoices",
+    "tag": "meals",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/mixed-meal-and-entertainment-invoices/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Shareholder distribution basis controls",
+    "tag": "basis",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/shareholder-distribution-basis-controls/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Shareholder loan repayment files",
+    "tag": "basis",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/shareholder-loan-repayment-files/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Owner health insurance payroll handoff",
+    "tag": "payroll",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/owner-health-insurance-payroll-handoff/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Owner compensation role changes",
+    "tag": "payroll",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/owner-compensation-role-changes/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Retirement census reconciliation",
+    "tag": "retirement",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/retirement-census-reconciliation/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Owner retirement funding cash calendar",
+    "tag": "retirement",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/owner-retirement-funding-cash-calendar/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Quarterly estimated tax forecast revisions",
+    "tag": "estimates",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/quarterly-estimated-tax-forecast-revisions/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Customer deposits and owner cash planning",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/customer-deposits-and-owner-cash-planning/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Merchant settlement reconciliation",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/merchant-settlement-reconciliation/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Business equipment purchase cutoffs",
+    "tag": "equipment",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/business-equipment-purchase-cutoffs/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Vendor refund and credit controls",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/vendor-refund-and-credit-controls/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Owner-paid startup costs",
+    "tag": "equipment",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/owner-paid-startup-costs/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Intercompany service charge reconciliation",
+    "tag": "entity",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/intercompany-service-charge-reconciliation/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Entity election implementation tracking",
+    "tag": "entity",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/entity-election-implementation-tracking/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Tax notice response coordination",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/tax-notice-response-coordination/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "owners",
+    "title": "Tax adviser transition evidence",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforbusinessowners.com/planning-files/deep-dive/tax-adviser-transition-evidence/",
+    "label": "AE business-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental closing cost allocation",
+    "tag": "basis",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-closing-cost-allocation/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Renovation contractor draw reconciliation",
+    "tag": "improvement",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/renovation-contractor-draw-reconciliation/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Roof project repair review",
+    "tag": "improvement",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/roof-project-repair-review/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "HVAC replacement documentation",
+    "tag": "improvement",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/hvac-replacement-documentation/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Appliance replacement asset history",
+    "tag": "equipment",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/appliance-replacement-asset-history/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Furniture inventory at rental turnover",
+    "tag": "equipment",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/furniture-inventory-at-rental-turnover/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Security deposit accounting",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/security-deposit-accounting/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Property manager statement reconciliation",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/property-manager-statement-reconciliation/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental insurance claim restoration",
+    "tag": "improvement",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-insurance-claim-restoration/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental property tax escrow reconciliation",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-property-tax-escrow-reconciliation/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental placed-in-service evidence",
+    "tag": "timing",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-placed-in-service-evidence/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental conversion use records",
+    "tag": "basis",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-conversion-use-records/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Vacation rental owner stays",
+    "tag": "participation",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/vacation-rental-owner-stays/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "STR guest service evidence",
+    "tag": "participation",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/str-guest-service-evidence/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental participation task logs",
+    "tag": "participation",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-participation-task-logs/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Real estate professional work calendar",
+    "tag": "participation",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/real-estate-professional-work-calendar/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental loan proceeds use tracing",
+    "tag": "financing",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-loan-proceeds-use-tracing/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental sale asset register",
+    "tag": "sale",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-sale-asset-register/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Rental portfolio shared expenses",
+    "tag": "records",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/rental-portfolio-shared-expenses/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "realestate",
+    "title": "Prior rental depreciation gaps",
+    "tag": "depreciation",
+    "url": "https://aetaxadvisorsforrealestate.com/property-files/deep-dive/prior-rental-depreciation-gaps/",
+    "label": "AE property-owner preparation"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax planning proposal deliverable boundaries",
+    "tag": "scope",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-planning-proposal-deliverable-boundaries/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax advisory recurring fee comparison",
+    "tag": "fees",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-advisory-recurring-fee-comparison/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax projection assumption transparency",
+    "tag": "projection",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-projection-assumption-transparency/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Cost segregation quote methodology",
+    "tag": "costseg",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/cost-segregation-quote-methodology/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Cost segregation audit support terms",
+    "tag": "costseg",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/cost-segregation-audit-support-terms/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Amended return engagement scope",
+    "tag": "amendment",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/amended-return-engagement-scope/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Form 3115 coordination scope",
+    "tag": "depreciation",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/form-3115-coordination-scope/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Bookkeeping cleanup opening balances",
+    "tag": "records",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/bookkeeping-cleanup-opening-balances/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Payroll correction vendor responsibility",
+    "tag": "payroll",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/payroll-correction-vendor-responsibility/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Retirement planning provider roles",
+    "tag": "retirement",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/retirement-planning-provider-roles/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Multi-entity advisory quote coverage",
+    "tag": "entity",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/multi-entity-advisory-quote-coverage/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "State tax work exclusions",
+    "tag": "state",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/state-tax-work-exclusions/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Implementation responsibility comparison",
+    "tag": "scope",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/implementation-responsibility-comparison/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax adviser response standards",
+    "tag": "scope",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-adviser-response-standards/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax professional credential verification",
+    "tag": "credentials",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-professional-credential-verification/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax advisory refund and cancellation terms",
+    "tag": "fees",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-advisory-refund-and-cancellation-terms/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax report ownership and portability",
+    "tag": "records",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-report-ownership-and-portability/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax planning and tax preparation separation",
+    "tag": "scope",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-planning-and-tax-preparation-separation/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax adviser deadline readiness",
+    "tag": "timing",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-adviser-deadline-readiness/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "reviews",
+    "title": "Tax notice support package comparison",
+    "tag": "records",
+    "url": "https://aetaxadvisorsreviews.com/proposal-lab/deep-dive/tax-notice-support-package-comparison/",
+    "label": "AE-owned proposal education"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative travel advance overpayment",
+    "tag": "reimbursement",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-travel-advance-overpayment/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative duplicate owner expense",
+    "tag": "reimbursement",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-duplicate-owner-expense/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative shareholder distribution mismatch",
+    "tag": "basis",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-shareholder-distribution-mismatch/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative shareholder debt repayment",
+    "tag": "basis",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-shareholder-debt-repayment/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative owner compensation transition",
+    "tag": "payroll",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-owner-compensation-transition/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative retirement census gap",
+    "tag": "retirement",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-retirement-census-gap/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative estimated tax revision",
+    "tag": "estimates",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-estimated-tax-revision/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative contractor deposit timing",
+    "tag": "records",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-contractor-deposit-timing/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative equipment installation delay",
+    "tag": "equipment",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-equipment-installation-delay/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative rental closing allocation",
+    "tag": "basis",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-rental-closing-allocation/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative phased rental renovation",
+    "tag": "improvement",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-phased-rental-renovation/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative rental owner-use calendar",
+    "tag": "participation",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-rental-owner-use-calendar/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative STR service classification",
+    "tag": "participation",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-str-service-classification/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative rental loss review",
+    "tag": "participation",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-rental-loss-review/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative inherited rental records",
+    "tag": "basis",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-inherited-rental-records/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative prior study overlap",
+    "tag": "costseg",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-prior-study-overlap/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative refinance proceeds tracing",
+    "tag": "financing",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-refinance-proceeds-tracing/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative rental sale reconciliation",
+    "tag": "sale",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-rental-sale-reconciliation/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative adviser transition gaps",
+    "tag": "records",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-adviser-transition-gaps/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "scenarios",
+    "title": "Illustrative tax proposal comparison",
+    "tag": "scope",
+    "url": "https://aetaxadvisorscasestudies.com/scenario-lab/deep-dive/illustrative-tax-proposal-comparison/",
+    "label": "Fictional AE educational scenario"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation electrical component evidence",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-electrical-component-evidence/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation plumbing function records",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-plumbing-function-records/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation HVAC service boundaries",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-hvac-service-boundaries/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation flooring installation facts",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-flooring-installation-facts/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation cabinetry function records",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-cabinetry-function-records/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation signage source files",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-signage-source-files/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation site drainage mapping",
+    "tag": "improvement",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-site-drainage-mapping/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation parking project reconciliation",
+    "tag": "improvement",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-parking-project-reconciliation/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation fencing and gate evidence",
+    "tag": "equipment",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-fencing-and-gate-evidence/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation landscaping cost boundaries",
+    "tag": "improvement",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-landscaping-cost-boundaries/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation tenant improvement ownership",
+    "tag": "basis",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-tenant-improvement-ownership/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation contractor allowances",
+    "tag": "records",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-contractor-allowances/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation demolition and retained structure",
+    "tag": "improvement",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-demolition-and-retained-structure/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation construction soft costs",
+    "tag": "basis",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-construction-soft-costs/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation quantity estimate confidence",
+    "tag": "records",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-quantity-estimate-confidence/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation cost estimate source dates",
+    "tag": "records",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-cost-estimate-source-dates/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation source pool exclusions",
+    "tag": "basis",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-source-pool-exclusions/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation component identifier continuity",
+    "tag": "depreciation",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-component-identifier-continuity/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation report to return reconciliation",
+    "tag": "depreciation",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-report-to-return-reconciliation/",
+    "label": "Stratum technical study records"
+  },
+  {
+    "key": "stratum",
+    "title": "Cost segregation replacement and sale archive",
+    "tag": "sale",
+    "url": "https://www.stratumcostsegregation.com/report-workbench/deep-dive/cost-segregation-replacement-and-sale-archive/",
+    "label": "Stratum technical study records"
+  }
+]

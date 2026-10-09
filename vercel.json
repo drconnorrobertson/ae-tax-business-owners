@@ -2,6 +2,6 @@
   "cleanUrls": true,
   "trailingSlash": true,
   "redirects": [],
-  "buildCommand": "node decision-library-build.cjs",
+  "buildCommand": "node topical-depth-build.cjs",
   "outputDirectory": "public"
 }
