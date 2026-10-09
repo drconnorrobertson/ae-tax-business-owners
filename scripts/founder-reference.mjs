@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 export function buildReference({root,write,e,button,aeBanner,BASE}){
+ const growth=JSON.parse(fs.readFileSync(root+'/data/owners.json','utf8')).filter(p=>p.status==='published');
  const data=JSON.parse(fs.readFileSync(root+'/data/founder-reference.json','utf8')),companies=data.companies,people=data.people;
  const cp=c=>'/company-reference/'+c.slug+'/',pp=p=>'/founder-reference/people/'+p.slug+'/';
  const byCompany=new Map(companies.map(c=>[c.id,c])),byPerson=new Map(people.map(p=>[p.id,p]));
@@ -8,7 +9,7 @@ export function buildReference({root,write,e,button,aeBanner,BASE}){
  const note=`<div class="note-box"><p>This reference library documents public founding associations. It is separate from our revenue-qualified growth profiles. Founding does not establish current ownership, employment, company revenue, or an AE client relationship.</p></div>`;
  const wrap=(title,lede,body)=>`<div class="wrap"><section class="page-head"><span class="eyebrow">U.S. founder reference library</span><h1>${e(title)}</h1><p class="lede">${e(lede)}</p></section><div class="profile-layout"><article class="prose">${body}</article><aside class="aside-box">${button('/founder-reference/','Browse founder reference')}${button('/get-featured/?request=update','Submit a sourced correction','outline')}<p>AE Tax Advisors owns and publishes Business Owner Index. These are public research records, not client testimonials.</p>${button('/tax-strategists/','Meet AE Tax Advisors','outline')}</aside></div><div class="section">${aeBanner()}</div></div>`;
  const list=arr=>`<ul>${arr.map(p=>`<li>${link(pp(p),p.name)}${p.description?' · '+e(p.description):''}</li>`).join('')}</ul>`;
- fs.writeFileSync(root+'/dist/assets/reference-index.json',JSON.stringify([...people.map(p=>({name:p.name,description:p.description,url:pp(p),type:'Founder'})),...companies.map(c=>({name:c.name,description:c.description,url:cp(c),type:'Company'}))]));
+ fs.writeFileSync(root+'/dist/assets/reference-index.json',JSON.stringify([...growth.flatMap(p=>[{name:p.name,description:p.company+' · '+p.industry+' · '+p.service,url:'/owners/'+p.slug+'/',type:'Growth profile'},{name:p.company,description:p.industry+' · '+p.service,url:'/companies/'+p.companySlug+'/',type:'Growth company'}]),...people.map(p=>({name:p.name,description:[p.description,...p.companies.map(id=>byCompany.get(id)?.name)].filter(Boolean).join(' · '),url:pp(p),type:'Founder'})),...companies.map(c=>({name:c.name,description:c.description,url:cp(c),type:'Company'}))]));
  const size=60,total=Math.ceil(people.length/size);
  for(let i=0;i<total;i++){
   const url=i?'/founder-reference/page/'+(i+1)+'/':'/founder-reference/';
