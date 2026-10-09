@@ -33,3 +33,9 @@ Confirm production commit, HTTP 200 on representative owner/company/resource pag
 Do not invent current revenues, ownership percentages, quotes, interviews, AE client relationships, testimonials or endorsements. Historical revenue qualification is labeled with its year. Profile requests prepare an email draft, which visitors choose whether to send. No backend intake or advertising tracker is installed.
 
 The directory targets founder and company discovery. AE's main site remains the destination for tax advisory service enquiries. Build output is generated and untracked.
+
+## Founder reference library
+
+The separate `/founder-reference/` and `/company-reference/` collections record U.S. founding associations from the CC0 Wikidata public dataset. These records do not use the Inc. growth-profile revenue qualification and do not verify current equity, employment, or AE client status. The source record, related person/company pages, available company website, and founder-statement reference URLs are exposed on each profile. The collection snapshot excludes explicit dissolved-company and deceased-founder statements, out-of-scope organizations, missing business descriptions, and duplicate company names/websites. Missing status statements do not prove that a company remains active.
+
+`data/founder-reference.json` is the sourced publication dataset; `scripts/founder-reference.mjs` builds the records, alphabetical pagination, and searchable reference index. Public entity IDs preserve source identity. The existing growth directory and its revenue evidence remain separate.
