@@ -1,0 +1,63 @@
+{
+  "repo": "ae-tax-business-owners",
+  "domain": "aetaxadvisorsforbusinessowners.com",
+  "label": "Business Owner Tax Planning",
+  "eyebrow": "For owners of growing businesses",
+  "headline": "Your business has grown. Your tax strategy should keep pace.",
+  "intro": "Entity structure, owner compensation, retirement funding, and the next transaction deserve one coordinated plan. Explore the decisions behind a stronger tax position, then bring your priorities to AE Tax Advisors.",
+  "service": "/business-owner-small-business-tax/",
+  "role": "Business-owner education and preparation",
+  "topics": [
+    [
+      "Entity structure",
+      "/entity-planning/",
+      "Understand how legal ownership, tax elections, distributions, and your exit plans interact."
+    ],
+    [
+      "Owner compensation",
+      "/owner-compensation/",
+      "Connect the work you do with payroll, benefits, reimbursements, and distribution records."
+    ],
+    [
+      "Retirement planning",
+      "/retirement-planning/",
+      "Evaluate owner goals alongside employee coverage, funding commitments, and business cash flow."
+    ],
+    [
+      "Deductions and documentation",
+      "/deductions/",
+      "Prepare the evidence behind business expenses before deciding how they should be reported."
+    ],
+    [
+      "Planning files",
+      "/planning-files/",
+      "Work through industry-specific records, decision files, and editable preparation worksheets."
+    ],
+    [
+      "Implementation guides",
+      "/planning-files/deep-dive/accountable-plan-travel-advances/",
+      "Follow a planning question from source documents to an accountable handoff."
+    ]
+  ],
+  "prepare": [
+    "Three years of business and personal returns, with supporting schedules",
+    "Current profit-and-loss statements and a year-end forecast",
+    "Ownership, elections, payroll, distributions, and benefit-plan records",
+    "Planned purchases, hiring, distributions, or ownership changes"
+  ],
+  "steps": [
+    [
+      "Clarify the whole picture",
+      "Map operating businesses, ownership, household income, and the decisions ahead."
+    ],
+    [
+      "Evaluate the alternatives",
+      "Compare the timing, limitations, cash requirements, and implementation responsibilities."
+    ],
+    [
+      "Translate the plan into action",
+      "Confirm who will handle payroll, elections, filings, and ongoing review."
+    ]
+  ],
+  "generated": true
+}

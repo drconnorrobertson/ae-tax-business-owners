@@ -2,6 +2,21 @@
   "cleanUrls": true,
   "trailingSlash": true,
   "redirects": [],
-  "buildCommand": "node topical-depth-build.cjs",
-  "outputDirectory": "public"
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs",
+  "outputDirectory": "public",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
 }
