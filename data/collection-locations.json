@@ -1,0 +1,6238 @@
+{
+  "reviewed": "2026-10-10",
+  "basis": "Company headquarters statements from the existing source snapshot; City labels and U.S. state associations reviewed directly on linked Wikidata place pages for 20 selected localities. Excludes deprecated, ended, and known historical company records. Does not establish current founder residence or company status.",
+  "records": [
+    {
+      "companyId": "Q24908552",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q24908552#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q5476713",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5476713#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q140181002",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q140181002#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q114980088",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q114980088#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q136387380",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q136387380#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q48815775",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q48815775#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q300323",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q300323#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2076913",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2076913#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q136774494",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q136774494#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q2578125",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2578125#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q338920",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q338920#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q339266",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q339266#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q133779712",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q133779712#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q4674765",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q4674765#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q19599368",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q19599368#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16974220",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16974220#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q11463",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q11463#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q127837183",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q127837183#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q65085822",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q65085822#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q138026004",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138026004#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q86755103",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q86755103#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q138637123",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138637123#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q63327",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q63327#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q137176743",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137176743#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139315358",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139315358#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q4713945",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q4713945#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q4716582",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q4716582#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q230051",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q230051#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q4728597",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4728597#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q16974661",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16974661#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q137847990",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137847990#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q139031844",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139031844#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q140575014",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q140575014#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q138575547",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138575547#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3884",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q3884#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q194360",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q194360#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q464673",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q464673#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q212235",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q212235#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q467348",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q467348#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q465952",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q465952#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q2845063",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2845063#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16242963",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16242963#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q120734845",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q120734845#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q116758847",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q116758847#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q4773903",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q4773903#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q4034158",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4034158#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q135683783",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q135683783#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q27585",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q27585#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q119991",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q119991#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q618091",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q618091#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q4781554",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4781554#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q138679653",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q138679653#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q109369035",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q109369035#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q4789079",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4789079#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q61791313",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q61791313#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q105102690",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q105102690#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q141393670",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q141393670#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q139562982",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139562982#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q111411592",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q111411592#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q20312364",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q20312364#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q96372482",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q96372482#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q2869434",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2869434#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3628245",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q3628245#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q125339537",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q125339537#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q140554529",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q140554529#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q135992303",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q135992303#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q138783204",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q138783204#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q131289516",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q131289516#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q136471526",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q136471526#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q790101",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q790101#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q29885927",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q29885927#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q29885927",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q29885927#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q791285",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q791285#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138796500",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138796500#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q5547514",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q5547514#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q48815838",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q48815838#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q139499931",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q139499931#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q797609",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q797609#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q798768",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q798768#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q764850",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q764850#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q85112918",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q85112918#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q109954157",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q109954157#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q806085",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q806085#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q123376569",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q123376569#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3634312",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3634312#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q806739",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q806739#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q795454",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q795454#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q133267719",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q133267719#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q571438",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q571438#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q123285127",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q123285127#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q787324",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q787324#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q813780",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q813780#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q16246881",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16246881#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q139887208",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139887208#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q137342269",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q137342269#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q832434",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q832434#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q4906840",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4906840#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q134396447",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q134396447#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q465832",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q465832#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q219635",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q219635#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q880942",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q880942#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q110778747",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q110778747#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q13977",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q13977#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q78194383",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q78194383#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q124304616",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q124304616#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q124286544",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q124286544#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16984664",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16984664#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q4835981",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q4835981#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q66",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q66#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q139558301",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q139558301#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q210075",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q210075#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q603617",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q603617#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q4844439",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q4844439#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q2882410",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2882410#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138507609",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138507609#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q4955939",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q4955939#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q390285",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q390285#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q390285",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q390285#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q134685764",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q134685764#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q46996029",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q46996029#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q4957770",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4957770#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q4980924",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4980924#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q138568325",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138568325#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q106103522",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q106103522#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q134978632",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q134978632#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q4997700",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4997700#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2719775",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2719775#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q25000196",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q25000196#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q3648415",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3648415#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q30602742",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q30602742#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q136804278",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q136804278#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q14932155",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q14932155#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q2714773",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2714773#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q139373638",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q139373638#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q5050106",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5050106#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q622848",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q622848#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q5057820",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5057820#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q136084928",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q136084928#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q131362989",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q131362989#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q1066028",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1066028#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139700341",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139700341#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q933933",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q933933#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q5096873",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5096873#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q503176",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q503176#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q173395",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q173395#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q7919769",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q7919769#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q857063",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q857063#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2394278",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2394278#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q111601174",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q111601174#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q141644574",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q141644574#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q16540469",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16540469#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2979728",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2979728#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q4778915",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4778915#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q2979949",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2979949#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q108907589",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q108907589#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5141072",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5141072#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16972754",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16972754#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q609466",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q609466#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138499182",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138499182#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q136325851",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q136325851#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q319515",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q319515#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q5169474",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5169474#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5171952",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5171952#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q116465302",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q116465302#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q112261969",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q112261969#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q1104787",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1104787#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q499962",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q499962#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q5182604",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q5182604#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q144060",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q144060#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q5183722",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5183722#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q24890758",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q24890758#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q42377899",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q42377899#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q3005562",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3005562#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q136750849",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q136750849#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q107467334",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q107467334#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q107391544",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q107391544#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1146061",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1146061#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q137667855",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q137667855#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q132142883",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q132142883#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q5215986",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5215986#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q1164193",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1164193#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q17335620",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17335620#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q18350420",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q18350420#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139595319",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139595319#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q3700496",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3700496#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q138390480",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138390480#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2289818",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2289818#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q75746293",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q75746293#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5254922",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5254922#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q27942182",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q27942182#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q2701539",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2701539#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q132134653",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q132134653#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139917442",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139917442#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1200947",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q1200947#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q515708",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q515708#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q5272768",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5272768#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q140907035",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q140907035#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q5282441",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5282441#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q5282626",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5282626#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q138662865",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138662865#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q261288",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q261288#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q20714323",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q20714323#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q16974104",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q16974104#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1251435",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1251435#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q3540895",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q3540895#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1251563",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1251563#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5299637",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5299637#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q651778",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q651778#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q1126244",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1126244#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138019146",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138019146#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q58802825",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q58802825#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q5316237",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5316237#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q110434859",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q110434859#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q124974554",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q124974554#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5326073",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5326073#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q16994745",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16994745#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1278454",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1278454#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q140034641",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q140034641#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1083470",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1083470#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q1281617",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q1281617#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q100711695",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q100711695#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q5357370",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5357370#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q5359694",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5359694#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5377000",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5377000#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q17769696",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q17769696#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q327646",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q327646#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q5380346",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5380346#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q21008543",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q21008543#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1275577",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q1275577#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q105628552",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q105628552#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1368540",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q1368540#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1260606",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1260606#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q75112321",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q75112321#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q5416929",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5416929#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q48965728",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q48965728#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1096013",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1096013#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q5431462",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5431462#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3066773",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3066773#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1386529",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q1386529#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q3067653",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q3067653#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q115273234",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q115273234#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q137759263",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q137759263#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q1411292",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q1411292#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q138548226",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138548226#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q624886",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q624886#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q21292713",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q21292713#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q15730134",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q15730134#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5453766",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q5453766#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q1420893",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1420893#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q30588539",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q30588539#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q140561552",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q140561552#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q16993668",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16993668#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q108560833",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q108560833#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1142967",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1142967#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q19880475",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q19880475#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q113293950",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q113293950#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q51709",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q51709#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q60238941",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q60238941#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3080183",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q3080183#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q30589038",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q30589038#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q140897304",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q140897304#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1475707",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1475707#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q106762602",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q106762602#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q28134981",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q28134981#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q139599339",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139599339#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q420822",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q420822#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1494445",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1494445#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1397449",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1397449#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q5531546",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5531546#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q134369638",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q134369638#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q134369638",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q134369638#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1509282",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q1509282#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q116927483",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q116927483#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1520122",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q1520122#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q11860452",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q11860452#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q29026065",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q29026065#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q5564150",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q5564150#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q128102903",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q128102903#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1426388",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q1426388#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q838015",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q838015#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q140456080",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q140456080#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q110748866",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q110748866#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q193326",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q193326#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q124637302",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q124637302#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q95",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q95#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q37848061",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q37848061#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5598232",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q5598232#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q102215785",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q102215785#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q126050137",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q126050137#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q2470307",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2470307#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q11221981",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q11221981#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q5638920",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q5638920#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1584317",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1584317#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q5665458",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q5665458#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q122166924",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q122166924#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q16927669",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16927669#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q139414535",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139414535#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3132837",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q3132837#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q572948",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q572948#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q123785471",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q123785471#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1614654",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1614654#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1615684",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1615684#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q80978",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q80978#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q128809193",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q128809193#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q81950264",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q81950264#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q101015423",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q101015423#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5635109",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5635109#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q1348264",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1348264#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q95148451",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q95148451#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q5887924",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5887924#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q16995875",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q16995875#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q1630304",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1630304#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q965400",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q965400#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q5943971",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q5943971#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q1976172",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1976172#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q19605534",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q19605534#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q108490234",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q108490234#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q68029036",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q68029036#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138789659",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q138789659#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q5969568",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q5969568#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q2669403",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2669403#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q135448520",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q135448520#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q19802998",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q19802998#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q511731",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q511731#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q138854319",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138854319#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q746676",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q746676#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q6029685",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q6029685#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q113270365",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q113270365#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q1141245",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1141245#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q22909236",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q22909236#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q137188951",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137188951#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q263800",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q263800#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q106997900",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q106997900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q202972",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q202972#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q628249",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q628249#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q1318848",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1318848#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q60760151",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q60760151#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q1070755",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q1070755#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1517490",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q1517490#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q135070836",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q135070836#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q743717",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q743717#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q113738731",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q113738731#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1676253",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1676253#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1676325",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q1676325#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q121306282",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q121306282#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q6166067",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q6166067#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q72342808",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q72342808#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q6261838",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q6261838#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q6268401",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q6268401#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q6276279",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q6276279#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q137848105",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137848105#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q18754925",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q18754925#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q25205224",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q25205224#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138603560",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138603560#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q6382275",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q6382275#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q856897",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q856897#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q139595130",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139595130#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q931032",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q931032#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q137047484",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137047484#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1469675",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1469675#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q18343414",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q18343414#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q1744498",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1744498#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q6422005",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q6422005#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q486269",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q486269#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138848062",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q138848062#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q29438842",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q29438842#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q1759732",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1759732#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q124338638",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q124338638#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139266232",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139266232#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q134086478",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q134086478#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q109954789",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q109954789#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q141184772",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q141184772#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q57650084",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q57650084#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q6517417",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q6517417#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q621364",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q621364#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q212900",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q212900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q37019245",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q37019245#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q127962",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q127962#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q775450",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q775450#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q10319190",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q10319190#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q136745839",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q136745839#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q738883",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q738883#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q63866634",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q63866634#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q116439",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q116439#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q242446",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q242446#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1169075",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1169075#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q216611",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q216611#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139274210",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139274210#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q116687011",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q116687011#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q17077936",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17077936#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1753284",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1753284#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q2703264",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2703264#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q5368270",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q5368270#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q173496",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q173496#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q367466",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q367466#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q470196",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q470196#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q141667699",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q141667699#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q28494249",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q28494249#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q139214159",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139214159#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q108559529",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q108559529#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q267313",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q267313#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q38076",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q38076#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q310207",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q310207#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q6805494",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q6805494#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q17021360",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q17021360#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q334122",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q334122#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q139588745",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139588745#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1575434",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1575434#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q650331",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q650331#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q179200",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q179200#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q135939667",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q135939667#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2741127",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2741127#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q4120765",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4120765#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q17042553",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17042553#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q117074182",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q117074182#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q65089884",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q65089884#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3879177",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3879177#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q465449",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q465449#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q54669665",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q54669665#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q4546965",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q4546965#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q675585",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q675585#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q6023447",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q6023447#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3323969",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3323969#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q334204",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q334204#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q14508400",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q14508400#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q7389749",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q7389749#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q6928524",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q6928524#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16931460",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q16931460#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q1442804",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1442804#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q135102400",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q135102400#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q645478",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q645478#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q6943741",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q6943741#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q139859900",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139859900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q6948183",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q6948183#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q123943172",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q123943172#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3870175",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3870175#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q131466174",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q131466174#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q720871",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q720871#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q524989",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q524989#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q138034938",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q138034938#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q138333628",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138333628#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q139033259",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139033259#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2696696",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q2696696#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q56102498",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q56102498#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q210057",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q210057#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q138866961",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138866961#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q29043471",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q29043471#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q59087204",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q59087204#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q79202",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q79202#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3067564",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q3067564#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q137668874",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137668874#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1785405",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q1785405#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q14289857",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q14289857#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q185278",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q185278#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q308993",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q308993#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q540891",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q540891#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q288603",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q288603#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q7045008",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7045008#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139504000",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q139504000#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q55627135",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q55627135#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q16959629",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16959629#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q20971816",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q20971816#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q114288248",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q114288248#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q1937850",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1937850#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q130863072",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q130863072#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139548926",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139548926#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q130281150",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q130281150#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q17073302",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17073302#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q138710228",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138710228#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q1148202",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1148202#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q19900",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q19900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1193678",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q1193678#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q891732",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q891732#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q28451729",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q28451729#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139266215",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139266215#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7112041",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7112041#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2326925",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2326925#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q2326925",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2326925#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2047336",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q2047336#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q159846",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q159846#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q138479427",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138479427#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2793276",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2793276#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q135652832",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q135652832#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1544011",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1544011#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q137398398",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q137398398#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q127883769",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q127883769#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q124333951",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q124333951#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q2077322",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2077322#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q206921",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q206921#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q108532521",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q108532521#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q140388042",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q140388042#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q11887890",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q11887890#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q548341",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q548341#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q138834302",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q138834302#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q28252",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q28252#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q568726",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q568726#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q682748",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q682748#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q787239",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q787239#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q3906420",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3906420#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q131386431",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q131386431#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1626895",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1626895#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q7209132",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q7209132#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q139558196",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139558196#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7231501",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q7231501#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q3359797",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3359797#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q119829520",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q119829520#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q111211164",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q111211164#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q139492993",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q139492993#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q16254330",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q16254330#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q117287533",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q117287533#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q2002710",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q2002710#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q2002710",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q2002710#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q7261130",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q7261130#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q7267084",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7267084#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q137126642",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q137126642#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q58035402",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q58035402#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1590448",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q1590448#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q1641437",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1641437#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1586156",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q1586156#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q724622",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q724622#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3041294",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3041294#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q218038",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q218038#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138969912",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138969912#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q133053002",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q133053002#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q466459",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q466459#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q137722900",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137722900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q2702789",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2702789#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q139595569",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139595569#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1852854",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1852854#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q133805565",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q133805565#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q7884447",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7884447#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q135156442",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q135156442#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q24913690",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q24913690#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q139969676",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139969676#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q1459595",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1459595#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q139220816",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139220816#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q141580205",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q141580205#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q109546866",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q109546866#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q1060165",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1060165#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q125428886",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q125428886#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q105413168",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q105413168#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q834077",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q834077#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q7366534",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q7366534#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q7366534",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7366534#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7366746",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q7366746#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q427881",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q427881#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q7277630",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7277630#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q109518390",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q109518390#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q131303900",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q131303900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q139214157",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139214157#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1207680",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1207680#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3277355",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3277355#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q941127",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q941127#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q7408879",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7408879#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q127693035",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q127693035#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q138773808",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q138773808#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q7425732",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q7425732#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q1585284",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1585284#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q134469437",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q134469437#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q107974738",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q107974738#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3481322",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3481322#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q28961476",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q28961476#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7489277",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q7489277#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q7489277",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7489277#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q123425505",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q123425505#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q140668614",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q140668614#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q18810151",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q18810151#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7499960",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7499960#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3959689",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3959689#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q15977863",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q15977863#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q4049462",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4049462#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q65084821",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q65084821#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q623459",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q623459#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q1188938",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1188938#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q996079",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q996079#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3277465",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q3277465#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q17035092",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17035092#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7537603",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7537603#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q7808625",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7808625#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q741796",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q741796#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q134850599",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q134850599#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q27022329",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q27022329#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q19903657",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q19903657#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q7559001",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7559001#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q140499476",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q140499476#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q137965007",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137965007#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1134268",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1134268#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q135969907",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q135969907#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q200816",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q200816#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q137373613",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137373613#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q1932886",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q1932886#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q2307836",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2307836#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2721586",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2721586#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q512858",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q512858#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q4049985",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q4049985#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q94680",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q94680#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q117358262",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q117358262#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q37158",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q37158#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q2701640",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q2701640#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q130906649",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q130906649#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3497261",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q3497261#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q515869",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q515869#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q136337910",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q136337910#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138952932",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138952932#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q762392",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q762392#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q113576130",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q113576130#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q115311553",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q115311553#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q620534",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q620534#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q7624104",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7624104#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q102181547",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q102181547#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7628183",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q7628183#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q19868261",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q19868261#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q7632583",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q7632583#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q109466746",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q109466746#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q7634545",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q7634545#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q115910171",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q115910171#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q126886650",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q126886650#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139306639",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139306639#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q141311986",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q141311986#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138673615",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138673615#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q6640658",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q6640658#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q117357984",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q117357984#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q2376711",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q2376711#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q3511946",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q3511946#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q18154756",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q18154756#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q94933",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q94933#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138568213",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138568213#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q117272680",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q117272680#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3515535",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3515535#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q17089516",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17089516#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7696488",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q7696488#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q7696754",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7696754#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q107676569",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q107676569#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q478214",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q478214#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q193412",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q193412#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q137792425",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q137792425#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1459090",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1459090#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q133014968",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q133014968#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q137271740",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q137271740#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q7723390",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7723390#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q3295867",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q3295867#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q1204187",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1204187#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q139885268",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q139885268#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q138025985",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q138025985#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q17343562",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17343562#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q139373136",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139373136#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q18534725",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q18534725#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q12521253",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q12521253#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q137164202",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q137164202#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q7743510",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7743510#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3521465",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3521465#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q139150267",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139150267#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q121904784",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q121904784#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q17335732",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17335732#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2529982",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2529982#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q152784",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q152784#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q980440",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q980440#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q2413243",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2413243#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7755824",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7755824#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7414",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7414#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1138789",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1138789#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16956307",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16956307#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q139123250",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q139123250#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q139402859",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q139402859#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q740999",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q740999#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q513861",
+      "placeId": "Q47265",
+      "city": "Palo Alto",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q513861#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47265"
+    },
+    {
+      "companyId": "Q7800882",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7800882#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7800882",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7800882#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1066858",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1066858#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3991229",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3991229#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3991326",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3991326#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q1411739",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1411739#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q110426923",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q110426923#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7812630",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7812630#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q634881",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q634881#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1990768",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1990768#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q497155",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q497155#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1579809",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1579809#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3998655",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q3998655#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q139861519",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q139861519#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q132705764",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q132705764#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q640786",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q640786#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q844374",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q844374#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7770555",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7770555#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7300422",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7300422#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7851053",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q7851053#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q18396211",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q18396211#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q106396125",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q106396125#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q7856971",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7856971#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7858039",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7858039#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q43303430",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q43303430#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1755165",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1755165#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q98081129",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q98081129#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q1390577",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1390577#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q620802",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q620802#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7860124",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q7860124#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q780442",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q780442#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q55080120",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q55080120#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q16958855",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q16958855#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q122512286",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q122512286#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q2311918",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q2311918#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q3550686",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q3550686#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q388234",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q388234#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1393497",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1393497#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q642996",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q642996#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q104231924",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q104231924#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q140774763",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q140774763#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q7899505",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7899505#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q3552193",
+      "placeId": "Q1345",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "source": "https://www.wikidata.org/wiki/Q3552193#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1345"
+    },
+    {
+      "companyId": "Q1345971",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1345971#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q138666519",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q138666519#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q131822807",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q131822807#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q48976518",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q48976518#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q7919303",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7919303#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q137601243",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q137601243#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q137215924",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q137215924#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q122669",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q122669#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q139617617",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q139617617#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q25339988",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q25339988#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2663520",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q2663520#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q622668",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q622668#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q114630446",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q114630446#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q137190436",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q137190436#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q122057421",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q122057421#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q17091130",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17091130#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q140011458",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q140011458#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q7942354",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7942354#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q141216392",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q141216392#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q116962343",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q116962343#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7959294",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7959294#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7962205",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7962205#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q1047410",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1047410#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q191224",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q191224#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1323594",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1323594#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1300943",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q1300943#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q7969710",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q7969710#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q126399",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q126399#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q1156642",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q1156642#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q67030918",
+      "placeId": "Q39561",
+      "city": "Burbank",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q67030918#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q39561"
+    },
+    {
+      "companyId": "Q138565380",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138565380#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q2552219",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q2552219#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q744149",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q744149#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q7983607",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q7983607#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q861042",
+      "placeId": "Q16554",
+      "city": "Denver",
+      "state": "Colorado",
+      "source": "https://www.wikidata.org/wiki/Q861042#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16554"
+    },
+    {
+      "companyId": "Q17326957",
+      "placeId": "Q16555",
+      "city": "Houston",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q17326957#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16555"
+    },
+    {
+      "companyId": "Q1780382",
+      "placeId": "Q5083",
+      "city": "Seattle",
+      "state": "Washington",
+      "source": "https://www.wikidata.org/wiki/Q1780382#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5083"
+    },
+    {
+      "companyId": "Q52410688",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q52410688#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q7998868",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q7998868#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q4019844",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q4019844#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q125428995",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q125428995#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q109954565",
+      "placeId": "Q5092",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "source": "https://www.wikidata.org/wiki/Q109954565#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q5092"
+    },
+    {
+      "companyId": "Q8022892",
+      "placeId": "Q47164",
+      "city": "Santa Monica",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q8022892#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q47164"
+    },
+    {
+      "companyId": "Q8022892",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q8022892#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q28222615",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q28222615#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q124623883",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q124623883#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q138806913",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138806913#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q130171",
+      "placeId": "Q23556",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "source": "https://www.wikidata.org/wiki/Q130171#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q23556"
+    },
+    {
+      "companyId": "Q135655099",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q135655099#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q112075687",
+      "placeId": "Q16557",
+      "city": "Dallas",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q112075687#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16557"
+    },
+    {
+      "companyId": "Q112075687",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q112075687#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q112075687",
+      "placeId": "Q8652",
+      "city": "Miami",
+      "state": "Florida",
+      "source": "https://www.wikidata.org/wiki/Q112075687#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q8652"
+    },
+    {
+      "companyId": "Q17156973",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q17156973#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q819241",
+      "placeId": "Q1297",
+      "city": "Chicago",
+      "state": "Illinois",
+      "source": "https://www.wikidata.org/wiki/Q819241#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q1297"
+    },
+    {
+      "companyId": "Q133928",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q133928#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q117705742",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q117705742#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q3073996",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q3073996#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q384744",
+      "placeId": "Q100",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "source": "https://www.wikidata.org/wiki/Q384744#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q100"
+    },
+    {
+      "companyId": "Q113293114",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q113293114#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q2299611",
+      "placeId": "Q62",
+      "city": "San Francisco",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q2299611#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q62"
+    },
+    {
+      "companyId": "Q42955033",
+      "placeId": "Q127856",
+      "city": "Beverly Hills",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q42955033#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q127856"
+    },
+    {
+      "companyId": "Q62579358",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q62579358#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q106909608",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q106909608#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q137372839",
+      "placeId": "Q60",
+      "city": "New York City",
+      "state": "New York",
+      "source": "https://www.wikidata.org/wiki/Q137372839#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q60"
+    },
+    {
+      "companyId": "Q125621231",
+      "placeId": "Q16559",
+      "city": "Austin",
+      "state": "Texas",
+      "source": "https://www.wikidata.org/wiki/Q125621231#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16559"
+    },
+    {
+      "companyId": "Q138865883",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q138865883#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    },
+    {
+      "companyId": "Q136704282",
+      "placeId": "Q486860",
+      "city": "Mountain View",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q136704282#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q486860"
+    },
+    {
+      "companyId": "Q203262",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q203262#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q17460900",
+      "placeId": "Q16553",
+      "city": "San Jose",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q17460900#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q16553"
+    },
+    {
+      "companyId": "Q111742792",
+      "placeId": "Q65",
+      "city": "Los Angeles",
+      "state": "California",
+      "source": "https://www.wikidata.org/wiki/Q111742792#P159",
+      "placeSource": "https://www.wikidata.org/wiki/Q65"
+    }
+  ]
+}
