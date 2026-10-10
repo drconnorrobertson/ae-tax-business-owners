@@ -1,0 +1,4 @@
+dist/
+.git/
+node_modules/
+data/build-report.json
