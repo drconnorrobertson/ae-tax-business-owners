@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "trailingSlash": true,
   "redirects": [],
-  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs",
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public",
   "outputDirectory": "public",
   "headers": [
     {
