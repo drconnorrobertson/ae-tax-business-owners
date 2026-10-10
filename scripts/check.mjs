@@ -20,6 +20,13 @@ for(const p of html){
   const local=path.join(dist,decodeURI(m[1]));assert(fs.existsSync(local),`Missing internal target ${m[1]} from ${p}`);
  }
 }
+assert(indexable.size>=5000,'At least 5000 indexable URLs');
+const reference=JSON.parse(fs.readFileSync(path.join(root,'data/founder-reference.json'),'utf8'));
+const byCompany=new Map(reference.companies.map(c=>[c.id,c])),byPerson=new Map(reference.people.map(p=>[p.id,p]));
+assert.equal(byCompany.size,reference.companies.length,'Unique company record IDs');
+assert.equal(byPerson.size,reference.people.length,'Unique founder record IDs');
+for(const c of reference.companies){assert(c.name&&c.description&&c.founders.length,'Complete company reference');for(const id of c.founders)assert(byPerson.get(id)?.companies.includes(c.id),'Reciprocal founder association');}
+for(const p of reference.people){assert(p.name&&p.companies.length,'Complete founder reference');for(const id of p.companies)assert(byCompany.get(id)?.founders.includes(p.id),'Reciprocal company association');}
 const sitemapURLs=new Set(files.filter(p=>/sitemap-\d+\.xml$/.test(p)).flatMap(p=>[...fs.readFileSync(p,'utf8').matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>m[1])));
 assert.deepEqual(sitemapURLs,indexable,'Sitemap includes all and only indexable pages');
 for(const key of ['slug','companySlug'])assert.equal(new Set(owners.map(p=>p[key])).size,owners.length,`Duplicate ${key}`);
