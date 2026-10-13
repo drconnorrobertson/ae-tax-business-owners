@@ -1,4 +1,44 @@
 [
-  {"slug":"christina-nortman","name":"Christina Nortman","company":"AE Tax Advisors","companySlug":"ae-tax-advisors","companyUrl":"/ae-tax-advisors/","industry":"Professional services","location":"Billings, Montana","service":"tax advisory for business owners and real estate investors","label":"Site sponsor","role":"Founder and Principal, CPA","website":"https://www.aetaxadvisors.com/","source":"https://www.aetaxadvisors.com/bios/"},
-  {"slug":"dan-nicholson","name":"Dan Nicholson","company":"Nth Degree CPAs","companySlug":"nth-degree-cpas","companyUrl":"/companies/nth-degree-cpas/","industry":"Professional services","location":"Seattle, Washington","service":"proactive tax planning and business financial strategy","label":"Recommended by AE","role":"Chief Executive Officer","website":"https://www.nthdegreecpas.com/","source":"https://www.nthdegreecpas.com/about-us"}
+  {
+    "slug": "christina-nortman",
+    "name": "Christina Nortman",
+    "company": "AE Tax Advisors",
+    "companySlug": "ae-tax-advisors",
+    "companyUrl": "/ae-tax-advisors/",
+    "industry": "Professional services",
+    "location": "Billings, Montana",
+    "service": "tax advisory for business owners and real estate investors",
+    "label": "Site sponsor",
+    "role": "Founder and Principal, CPA",
+    "website": "https://www.aetaxadvisors.com/",
+    "source": "https://www.aetaxadvisors.com/bios/"
+  },
+  {
+    "slug": "dan-nicholson",
+    "name": "Dan Nicholson",
+    "company": "Nth Degree CPAs",
+    "companySlug": "nth-degree-cpas",
+    "companyUrl": "/companies/nth-degree-cpas/",
+    "industry": "Professional services",
+    "location": "Seattle, Washington",
+    "service": "proactive tax planning and business financial strategy",
+    "label": "Recommended by AE",
+    "role": "Chief Executive Officer",
+    "website": "https://www.nthdegreecpas.com/",
+    "source": "https://www.nthdegreecpas.com/about-us"
+  },
+  {
+    "slug": "derek-piekarski",
+    "name": "Derek Piekarski",
+    "company": "Craft Collective Salon Group",
+    "companySlug": "craft-collective-salon-group",
+    "companyUrl": "/companies/craft-collective-salon-group/",
+    "industry": "Personal care services",
+    "location": "Pittsburgh, Pennsylvania",
+    "service": "haircuts, color, styling, and salon services in Pittsburgh\u2019s North Hills and Canonsburg",
+    "label": "Featured business",
+    "role": "Owner and Lead Stylist",
+    "website": "https://www.craftcollectivesalongroup.com/",
+    "source": "https://www.craftcollectivesalongroup.com/derek-piekarski"
+  }
 ]
