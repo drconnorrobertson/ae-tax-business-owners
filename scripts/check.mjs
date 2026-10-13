@@ -32,5 +32,5 @@ assert.deepEqual(sitemapURLs,indexable,'Sitemap includes all and only indexable 
 for(const key of ['slug','companySlug'])assert.equal(new Set(owners.map(p=>p[key])).size,owners.length,`Duplicate ${key}`);
 for(const p of owners){assert(p.name&&p.company&&p.milestone&&p.summary);assert(p.sources.length&&p.sources.every(s=>s.url.startsWith('https://')));assert(p.eligibility.minimumRevenue>1000000);}
 assert(fs.existsSync(path.join(dist,'assets/share.png')),'Social preview image');
-assert(JSON.parse(fs.readFileSync(path.join(dist,'assets/search-index.json'),'utf8')).length===owners.length);
+assert(JSON.parse(fs.readFileSync(path.join(dist,'assets/search-index.json'),'utf8')).length===owners.length+JSON.parse(fs.readFileSync(path.join(root,'data/featured-businesses.json'),'utf8')).length);
 console.log(`PASS: ${html.length} HTML pages; ${indexable.size} indexable URLs; metadata, schema, internal targets, sitemap and ${owners.length} sourced profiles.`);
