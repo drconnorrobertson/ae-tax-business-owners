@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node scripts/build.mjs",
+  "buildCommand": "node scripts/build.mjs && node scripts/buyer-intent-release.cjs dist",
   "outputDirectory": "dist",
   "cleanUrls": true,
   "trailingSlash": true,
