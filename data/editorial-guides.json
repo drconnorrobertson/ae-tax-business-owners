@@ -1,0 +1,327 @@
+[
+  {
+    "project": "business-owner-index",
+    "draft": "founder",
+    "new": true,
+    "route": "/resources/read-founder-association-record/",
+    "origin": "https://businessownerindex.com",
+    "hub": "/resources/",
+    "published": "2026-10-26",
+    "intent": "Explain how to read a public founding association without inferring current ownership, employment, revenue or endorsement; preserve source identity and date context.",
+    "sources": [
+      [
+        "https://www.wikidata.org/wiki/Property:P112",
+        "Wikidata founder property: founding relationship definition, not current equity evidence"
+      ],
+      [
+        "https://www.wikidata.org/wiki/Wikidata:Introduction",
+        "Wikidata introduction: structured item and statement context"
+      ]
+    ],
+    "title": "Read a Founder Association Without Assuming Current Ownership",
+    "description": "Read a public founding relationship without inferring current equity, employment, revenue or endorsement; includes a fictional source worksheet.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "A public record connecting a person with the founding of a company answers a narrower question than many readers expect. It can help you investigate how a business began, but it does not automatically establish who owns it today, who works there, what it earns or whether it remains active. A useful directory-reading method keeps those questions separate. Start with the relationship the source actually records, identify the person and organization, and then decide what further evidence your real question requires."
+      },
+      {
+        "type": "p",
+        "text": "This independent Business Owner Index guide uses invented examples to explain that method. No fictional name or identifier represents a real founder, company, ownership interest or financial result. Directory inclusion is not evidence of an AE client relationship or an endorsement. The worksheet is a research aid, not a legal ownership report, a due-diligence conclusion or permission to collect private records. Use the actual public sources and appropriate professional processes for any consequential decision."
+      },
+      {
+        "type": "h2",
+        "text": "Begin with the question the directory can answer"
+      },
+      {
+        "type": "p",
+        "text": "Write the question you are trying to resolve. \u201cWhich source records this person as a founder?\u201d concerns a historical association. \u201cDoes this person currently own the business?\u201d concerns a different relationship at a particular time. \u201cCan this person authorize a transaction?\u201d adds an authority question that a public founding reference may not address at all. Separating these questions prevents a directory result from becoming stronger evidence simply because it appears next to a recognizable company name."
+      },
+      {
+        "type": "p",
+        "text": "Read the collection description before interpreting a profile. Business Owner Index distinguishes publicly sourced founding references from profiles that carry historical growth evidence. Those collections do not use identical evidence for every field. A founding association does not inherit a revenue qualification merely because another collection uses one. Likewise, historical company revenue is not the founder's personal income. Identify the collection and the relevant evidence rather than combining the most impressive-looking facts from several parts of the directory."
+      },
+      {
+        "type": "p",
+        "text": "Keep the directory's role clear. It can organize links and context that help you research, but inclusion does not establish current equity, employment, availability or suitability for a particular purpose. If your question goes beyond the displayed source, treat the missing information as a next research question. Do not turn an empty field into a positive conclusion or a promotional description into independent verification. A useful directory page should make the evidence easier to locate while leaving its actual limits visible."
+      },
+      {
+        "type": "h2",
+        "text": "Identify the person and company separately"
+      },
+      {
+        "type": "p",
+        "text": "Confirm that the person in the record is the person you intend to research. Similar names, initials or name changes can create confusion. Use appropriate public context such as the organization association and the source's own identity information. Do not resolve a mismatch by assuming two people are the same because one result is easier to find. If the available information is insufficient, record the match as unresolved rather than publishing a confident association that the evidence does not support."
+      },
+      {
+        "type": "p",
+        "text": "Apply the same discipline to the organization. A trading name, a legal entity, a product brand and a group of related companies may not refer to the same thing. The source may describe only one of them. Preserve the identity used by the source and ask what it means in context. Do not transfer a founder relationship from one entity to another merely because the names share a word or the websites use similar branding. A relationship needs a supported subject and object, not only familiar labels."
+      },
+      {
+        "type": "p",
+        "text": "Stable source identifiers can help preserve which items were reviewed. Wikidata organizes structured information around items and statements, and its introduction explains that general model. An identifier helps locate a source item; it is not a quality score or a certificate that every statement is correct. Record the identifier with the relevant relationship and source context. If the label changes, you can still understand which item informed the directory entry without assuming the change proves a different ownership or operating status."
+      },
+      {
+        "type": "h2",
+        "text": "Read the relationship before extending it"
+      },
+      {
+        "type": "p",
+        "text": "Wikidata's founder property, P112, describes a founder or cofounder relationship. That is the relationship to investigate when the directory cites it. It is not a substitute label for present shareholder, officer or employee. Do not silently translate founded into currently owns. A historical founding association can remain meaningful even when a person's later role changes. The evidence needed for a current role or equity question must be appropriate to that separate question and time."
+      },
+      {
+        "type": "p",
+        "text": "Check which source statement supports the displayed association. A broad company page may mention several people in different capacities, while a structured statement may identify a specific relationship. Read the relevant context rather than extracting a name from a page and assuming the surrounding title supplies the role. If the directory's wording appears stronger than the source, note the exact difference. A correction request should explain which relationship is unsupported rather than broadly declaring the entire profile false."
+      },
+      {
+        "type": "p",
+        "text": "Do not infer exclusivity from a single listed name. A record connecting one person to founding does not by itself establish that there were no other founders or that the person held the entire equity interest. Missing information can reflect the source's scope or an incomplete record. Keep the statement affirmative and narrow: this source records this association. Avoid adding only, sole or full owner unless appropriate evidence actually supports the stronger claim and its relevant period."
+      },
+      {
+        "type": "h2",
+        "text": "Keep historical context separate from current status"
+      },
+      {
+        "type": "p",
+        "text": "Record the date or period supplied for the relationship where available, and distinguish it from the date you accessed the source. Reading an older account today does not turn the account into a current role confirmation. A source update date also does not necessarily describe when the underlying event occurred. Preserve those meanings in your notes. If the record supplies no date for the fact you need, say that the period is unconfirmed rather than selecting the current year."
+      },
+      {
+        "type": "p",
+        "text": "A company may change its name, structure or public presentation over time. Those changes create questions about which identity a source concerns and whether the current reference is connected appropriately. Do not assume a rebrand establishes a new business, or that a shared website proves continuity of every relationship. Read the actual source information relevant to the transition. If the connection remains unclear, keep the historical association and the current-company question distinct while seeking appropriate clarification."
+      },
+      {
+        "type": "p",
+        "text": "Absence of an explicit closure or departure statement is not proof that a company is active or a person remains involved. A dataset can omit a status fact without affirming its opposite. The directory's reference context should be read with that limitation. If present activity matters to your purpose, use suitable current evidence and recognize what it does and does not establish. A public website loading successfully is one observable event; it does not answer every question about operations, authority or ownership."
+      },
+      {
+        "type": "h2",
+        "text": "Follow references without treating every link as verification"
+      },
+      {
+        "type": "p",
+        "text": "Open the reference relevant to the specific relationship when available and appropriate. Check whether it actually discusses founding, rather than only mentioning the company or person. A source link can be useful while still failing to support the field you are examining. Do not count the number of links as a substitute for reading their roles. One direct account may answer a narrow question more clearly than several copied summaries repeating the same unsupported statement."
+      },
+      {
+        "type": "p",
+        "text": "Distinguish a primary account from an aggregator or a statement derived from another record. That distinction helps you understand where the information originated, but it does not automatically make a source complete or current. An official company biography can describe the company's own account of a role; it is not necessarily an independent audit of equity or authority. Attribute information according to what the source provides instead of turning an official-looking page into a universal proof of every business fact."
+      },
+      {
+        "type": "p",
+        "text": "If a reference is inaccessible, record that limitation. A failed download or a page requiring access does not prove the relationship false or true. Use appropriate public alternatives when available and preserve which material you actually reviewed. Do not write \u201cverified\u201d because a link exists if you were unable to inspect the relevant content. A research note can accurately say that the directory supplies a source reference while the underlying support remains unreviewed by you."
+      },
+      {
+        "type": "h2",
+        "text": "Worked example: an invented founding reference"
+      },
+      {
+        "type": "p",
+        "text": "The fictional record links EXAMPLE-PERSON to EXAMPLE-COMPANY through a founding association. These identifiers are invented worksheet labels, not live Wikidata IDs or links to real people. The record includes a historical account of the business beginning, but no current equity statement, employment confirmation or financial result. The supported worksheet note is \u201cfounding association recorded in the fictional source.\u201d It should not become \u201ccurrent sole owner\u201d or \u201cavailable to sell the business.\u201d"
+      },
+      {
+        "type": "p",
+        "text": "A second invented source describes the same person holding a later advisory role. The researcher keeps that role separate from founding and notes the period stated by the source. The worksheet does not infer what happened to equity or whether the role continues today. The next question depends on the reader's purpose. A historical overview may need an accurate chronology; a current-contact inquiry may need up-to-date public role information; a transaction question may need a different, appropriate professional process."
+      },
+      {
+        "type": "p",
+        "text": "A third invented note gives a company growth milestone from an earlier year. It is recorded as a historical company fact within the example, not a current revenue estimate or the person's income. The worksheet deliberately supplies no actual number. Its purpose is to show how a figure's subject and period matter. Combining the growth note with the founding record does not establish the person's present wealth, stake or eligibility for an unrelated service or list."
+      },
+      {
+        "type": "h2",
+        "text": "Use a source note that preserves the distinctions"
+      },
+      {
+        "type": "p",
+        "text": "Create separate fields for the source item, relationship, relevant period, access date and unresolved question. Do not place every observation in one field labeled ownership verified. That label collapses several different tasks and can mislead the next reader. A useful note might identify the founding statement and then say that current equity was not established by the reviewed material. This is more informative than a binary flag that hides which relationship was examined and what evidence was unavailable."
+      },
+      {
+        "type": "p",
+        "text": "Keep your paraphrase separate from quoted wording when you use a short quotation. Your summary may be clearer than the source while still needing an interpretation label. Do not add a direct quote that the source never contained or assign a source date from the page's design. Use concise own-word notes and a traceable location. The worksheet should help a reader return to the relevant material, not become an unattributed copy of someone else's biography or a collection of private personal information."
+      },
+      {
+        "type": "p",
+        "text": "Identify uncertainty precisely. \u201cCurrent employment not established\u201d differs from \u201cperson no longer works there.\u201d \u201cEquity not supplied\u201d differs from \u201cperson owns no shares.\u201d The first statements describe the limits of the reviewed evidence; the second assert facts requiring support. This distinction is central to responsible directory reading. An incomplete record should not produce either an inflated promotional claim or an unsupported negative conclusion about an identifiable person or business."
+      },
+      {
+        "type": "h2",
+        "text": "Separate research from contact and authority"
+      },
+      {
+        "type": "p",
+        "text": "A founding association can help identify a public business story without establishing the right person to contact about a current service or transaction. Use the organization's actual current contact information for the purpose involved, and avoid requesting private ownership material through a public correction form. The directory's research context is not permission to contact someone in a personal capacity or to assume that a historical role carries current authority. Keep the next action appropriate to the question and the information available."
+      },
+      {
+        "type": "p",
+        "text": "If your purpose is a consequential business decision, determine which facts need professional or authoritative confirmation. A directory profile cannot replace the relevant records, agreements or assessments. This guide does not prescribe a legal ownership search or tell you which person can bind an organization. It explains why the historical relationship alone cannot answer those questions. Ask the appropriate professional or responsible organization what evidence is needed for the actual decision rather than treating a directory label as sufficient."
+      },
+      {
+        "type": "p",
+        "text": "Do not use the directory's publisher relationship as an endorsement of the listed person. Business Owner Index is presented by AE Tax Advisors, but a publicly sourced feature does not establish that the subject is an AE client, that AE audited the business or that the subject recommends AE. Keep editorial inclusion separate from commercial relationships unless those relationships are actually documented and appropriately disclosed. The fictional examples in this guide imply none of them."
+      },
+      {
+        "type": "h2",
+        "text": "Request a correction with a bounded claim"
+      },
+      {
+        "type": "p",
+        "text": "If you identify a possible error, name the page and the exact statement you want reviewed. Provide a relevant public source and explain whether the issue concerns identity, relationship, wording or date context. A request saying \u201ceverything is outdated\u201d is harder to investigate than one identifying a particular role claim and a current public reference. Do not submit confidential identifiers or unnecessary personal records merely to make a correction request appear more authoritative."
+      },
+      {
+        "type": "p",
+        "text": "Distinguish correction from expansion. A source establishing a historical founding role may support accurate wording without supporting new claims about equity, revenue or current services. Ask for the specific change the evidence supports. The directory should review identity and authority through its actual process before publishing a requested change. A submitted request is not itself a corrected record, a verified relationship or a promise that the preferred wording will be adopted."
+      },
+      {
+        "type": "p",
+        "text": "If two sources conflict, explain the difference rather than choosing the one that favors the desired result. Check whether they refer to the same person, entity, period and relationship. Apparent contradictions can arise when an older founding account and a later role description are treated as answers to the same question. They may also reveal a genuine issue requiring more research. Preserve the unresolved point until the appropriate evidence supports a correction or a clearer qualification."
+      },
+      {
+        "type": "h2",
+        "text": "Recheck the question before using the record elsewhere"
+      },
+      {
+        "type": "p",
+        "text": "Before quoting the directory in another document, identify what your sentence claims. If you write currently owns, make sure you have suitable current evidence for ownership rather than only the founding reference. If you write historical founder, make sure the source supports that relationship and identity. The presence of a directory URL does not make a stronger sentence accurate. Match the wording to the evidence and retain the relevant period and source context."
+      },
+      {
+        "type": "p",
+        "text": "Avoid copying a directory note into a financial, legal or procurement decision as though it were a completed assessment. Those uses may require different evidence and appropriate review. A public founding reference is useful precisely because it identifies a specific association and helps you locate further information; it should not be stretched into every adjacent conclusion. If the next task requires facts you do not have, name that gap instead of hiding it behind a general claim of verification."
+      },
+      {
+        "type": "p",
+        "text": "The practical reading method is straightforward: identify the collection, confirm the person and company, read the relationship, preserve its time context and follow the relevant sources. Then state only what that work establishes. Keep current ownership, employment, revenue, authority and endorsement as separate questions. That approach makes a large public directory more useful without turning historical associations into unsupported claims about the present."
+      },
+      {
+        "type": "h2",
+        "text": "Frequently asked questions"
+      },
+      {
+        "type": "h3",
+        "text": "Does a founder record prove that someone owns the company today?"
+      },
+      {
+        "type": "p",
+        "text": "No such conclusion follows from the founding association alone. Identify the relationship and period the source actually records, then seek evidence appropriate to any separate current-ownership question. Do not add sole or current because only one name appears. Missing equity information does not prove either ownership or nonownership. The directory can organize a public historical reference without providing a legal ownership report or confirming who can authorize a transaction."
+      },
+      {
+        "type": "h3",
+        "text": "What does a Wikidata item identifier establish?"
+      },
+      {
+        "type": "p",
+        "text": "It helps identify the source item so you can locate the record and distinguish it from similarly named items. It is not a quality rating, a professional certification or proof that every statement is correct. Read the relationship and relevant references, preserve the source context and record uncertainty. The fictional worksheet identifiers in this guide are invented labels and must not be treated as real Wikidata IDs or evidence about actual people."
+      },
+      {
+        "type": "h3",
+        "text": "Can I treat a missing closure date as proof the business is active?"
+      },
+      {
+        "type": "p",
+        "text": "No. An absent status statement does not affirm its opposite. A dataset may be incomplete or focused on a different question. If present activity matters, seek suitable current evidence and state what it supports. Likewise, a website loading does not establish every fact about operations, ownership or authority. Keep the historical association separate from the current-status question rather than filling a missing field with the conclusion you expected."
+      },
+      {
+        "type": "h3",
+        "text": "Is historical company revenue the founder's personal income?"
+      },
+      {
+        "type": "p",
+        "text": "They are different subjects. A historical business growth figure does not automatically establish an individual's income, wealth, equity interest or present financial situation. Read the collection's evidence description and preserve the year and subject of any stated figure. Do not combine a founding association with a company milestone to create a new personal-finance claim. This guide provides no actual revenue figure or financial assessment of a listed person."
+      },
+      {
+        "type": "h3",
+        "text": "Does inclusion mean the person works with AE Tax Advisors?"
+      },
+      {
+        "type": "p",
+        "text": "Directory inclusion alone does not establish an AE client relationship, endorsement or audit. Business Owner Index is an AE-published public research resource, and its editorial features must be read within that scope. Use documented, appropriately disclosed evidence for any commercial relationship claim. The fictional examples do not involve real clients or endorsements and should not be described as business results or professional recommendations."
+      },
+      {
+        "type": "h3",
+        "text": "How can I make a useful correction request?"
+      },
+      {
+        "type": "p",
+        "text": "Identify the page, the specific statement and a relevant public source. Explain whether the concern is identity, relationship, wording or time context. Do not submit confidential records or assume that a request itself verifies the preferred change. The directory's actual review process determines what can be updated. Where evidence remains incomplete or conflicting, preserve that uncertainty rather than replacing one unsupported assertion with another."
+      }
+    ],
+    "faqs": [
+      {
+        "@type": "Question",
+        "name": "Does a founder record prove that someone owns the company today?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No such conclusion follows from the founding association alone. Identify the relationship and period the source actually records, then seek evidence appropriate to any separate current-ownership question. Do not add sole or current because only one name appears. Missing equity information does not prove either ownership or nonownership. The directory can organize a public historical reference without providing a legal ownership report or confirming who can authorize a transaction."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does a Wikidata item identifier establish?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It helps identify the source item so you can locate the record and distinguish it from similarly named items. It is not a quality rating, a professional certification or proof that every statement is correct. Read the relationship and relevant references, preserve the source context and record uncertainty. The fictional worksheet identifiers in this guide are invented labels and must not be treated as real Wikidata IDs or evidence about actual people."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I treat a missing closure date as proof the business is active?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. An absent status statement does not affirm its opposite. A dataset may be incomplete or focused on a different question. If present activity matters, seek suitable current evidence and state what it supports. Likewise, a website loading does not establish every fact about operations, ownership or authority. Keep the historical association separate from the current-status question rather than filling a missing field with the conclusion you expected."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is historical company revenue the founder's personal income?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "They are different subjects. A historical business growth figure does not automatically establish an individual's income, wealth, equity interest or present financial situation. Read the collection's evidence description and preserve the year and subject of any stated figure. Do not combine a founding association with a company milestone to create a new personal-finance claim. This guide provides no actual revenue figure or financial assessment of a listed person."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does inclusion mean the person works with AE Tax Advisors?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Directory inclusion alone does not establish an AE client relationship, endorsement or audit. Business Owner Index is an AE-published public research resource, and its editorial features must be read within that scope. Use documented, appropriately disclosed evidence for any commercial relationship claim. The fictional examples do not involve real clients or endorsements and should not be described as business results or professional recommendations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I make a useful correction request?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Identify the page, the specific statement and a relevant public source. Explain whether the concern is identity, relationship, wording or time context. Do not submit confidential records or assume that a request itself verifies the preferred change. The directory's actual review process determines what can be updated. Where evidence remains incomplete or conflicting, preserve that uncertainty rather than replacing one unsupported assertion with another."
+        }
+      }
+    ],
+    "words": 3015,
+    "coreWords": 3015,
+    "faqCount": 6,
+    "checkout": "/Users/connorrobertson/Documents/Codex/2026-10-25/go-o/work/batch16-business-owner-index",
+    "canonical": "https://businessownerindex.com/resources/read-founder-association-record/",
+    "domain": "https://businessownerindex.com",
+    "path": "/resources/read-founder-association-record/",
+    "hubUrl": "/resources/",
+    "links": [
+      [
+        "/founder-reference/",
+        "Read the separate founding-reference collection"
+      ],
+      [
+        "/editorial-standards/",
+        "Review the directory publication standards"
+      ],
+      [
+        "/resources/",
+        "Browse directory and owner resources"
+      ]
+    ],
+    "downloads": [
+      "/assets/founder-record-example.csv"
+    ],
+    "category": "Directory research",
+    "slug": "read-founder-association-record",
+    "downloadSourcePrefix": "",
+    "localOutput": "dist/resources/read-founder-association-record/index.html",
+    "publicSource": "resources/read-founder-association-record/index.html",
+    "status": "source prepared; not published or counted"
+  }
+]
