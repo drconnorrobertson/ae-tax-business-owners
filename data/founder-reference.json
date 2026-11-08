@@ -13582,15 +13582,28 @@
     {
       "id": "Q463261",
       "name": "Grumman",
-      "description": "1929-1994 aerospace manufacturer",
+      "description": "Historical aircraft manufacturer; Northrop Grumman identifies Leroy Grumman as a co-founder of Grumman Aeronautical Engineering Company.",
       "slug": "grumman-q463261",
-      "founders": [
-        "Q11571"
-      ],
+      "founders": [],
       "founded": "1929",
       "website": null,
-      "references": [],
-      "country": "United States"
+      "references": [
+        "https://www.northropgrumman.com/who-we-are/our-founders"
+      ],
+      "country": "United States",
+      "verifiedFounders": [
+        "Leroy Grumman"
+      ],
+      "verifiedHistory": {
+        "source": "https://www.northropgrumman.com/who-we-are/our-founders",
+        "sourceLabel": "Northrop Grumman\u2019s founder history",
+        "description": "Historical aircraft manufacturer; Northrop Grumman identifies Leroy Grumman as a co-founder of Grumman Aeronautical Engineering Company.",
+        "context": "Grumman was an aircraft manufacturer whose history forms part of today\u2019s Northrop Grumman.",
+        "heading": "Co-founder identified by the successor company",
+        "account": "Northrop Grumman identifies Leroy Grumman as a co-founder of Grumman Aeronautical Engineering Company. This names the co-founder verified in that source, rather than claiming to provide a complete roster.",
+        "omitFoundingDate": true,
+        "reviewed": "2026-11-08"
+      }
     },
     {
       "id": "Q2470307",
@@ -19017,15 +19030,29 @@
     {
       "id": "Q1902277",
       "name": "Marmot",
-      "description": "outdoor clothing and sporting goods company",
+      "description": "Outdoor gear company launched in 1974 by David Huntley, Eric Reynolds and Tom Boyce.",
       "slug": "marmot-q1902277",
-      "founders": [
-        "Q16189311"
-      ],
+      "founders": [],
       "founded": "1974",
       "website": "https://www.marmot.com/",
-      "references": [],
-      "country": "United States"
+      "references": [
+        "https://magazine.ucsc.edu/2024/11/david-huntley-and-eric-reynolds-living-outside-the-box/"
+      ],
+      "country": "United States",
+      "verifiedFounders": [
+        "David Huntley",
+        "Eric Reynolds",
+        "Tom Boyce"
+      ],
+      "verifiedHistory": {
+        "source": "https://magazine.ucsc.edu/2024/11/david-huntley-and-eric-reynolds-living-outside-the-box/",
+        "sourceLabel": "UC Santa Cruz\u2019s history with Marmot\u2019s founders",
+        "description": "Outdoor gear company launched in 1974 by David Huntley, Eric Reynolds and Tom Boyce.",
+        "context": "Marmot grew from the outdoor equipment work of climbers David Huntley, Eric Reynolds and Tom Boyce.",
+        "heading": "Founders described in the university account",
+        "account": "UC Santa Cruz\u2019s account, which includes Huntley\u2019s recollections, states that Huntley, Reynolds and Boyce launched Marmot in 1974 and opened Marmot Mountain Works in Grand Junction, Colorado.",
+        "reviewed": "2026-11-08"
+      }
     },
     {
       "id": "Q939291",
@@ -25356,15 +25383,28 @@
     {
       "id": "Q106170",
       "name": "Riggs Bank",
-      "description": "former Washington D.C.-based commercial bank",
+      "description": "Former Washington bank with roots in William Wilson Corcoran\u2019s 1836 brokerage and his later partnership with George Washington Riggs.",
       "slug": "riggs-bank-q106170",
-      "founders": [
-        "Q126945434"
-      ],
+      "founders": [],
       "founded": "1836",
       "website": null,
-      "references": [],
-      "country": "United States"
+      "references": [
+        "https://www.pnc.com/en/about-pnc/company-profile/legacy-project/predecessor-banks.html"
+      ],
+      "country": "United States",
+      "verifiedFounders": [
+        "William Wilson Corcoran",
+        "George Washington Riggs"
+      ],
+      "verifiedHistory": {
+        "source": "https://www.pnc.com/en/about-pnc/company-profile/legacy-project/predecessor-banks.html",
+        "sourceLabel": "PNC\u2019s predecessor-bank history",
+        "description": "Former Washington bank with roots in William Wilson Corcoran\u2019s 1836 brokerage and his later partnership with George Washington Riggs.",
+        "context": "Riggs Bank was a Washington, D.C. bank acquired by PNC in 2005. Its predecessor history includes a brokerage business and a subsequent banking partnership.",
+        "heading": "The brokerage and banking partnership",
+        "account": "PNC states that William Wilson Corcoran opened a note brokerage in 1836. Within four years he partnered with George Washington Riggs to form Corcoran & Riggs as a private bank. These are separate stages in the bank\u2019s history; the 1836 date does not mean both men established a bank together in that year.",
+        "reviewed": "2026-11-08"
+      }
     },
     {
       "id": "Q2642430",
@@ -39312,15 +39352,6 @@
       ]
     },
     {
-      "id": "Q11571",
-      "name": "Cristiano Ronaldo",
-      "description": "Portuguese association football player (born 1985)",
-      "slug": "cristiano-ronaldo-q11571",
-      "companies": [
-        "Q463261"
-      ]
-    },
-    {
       "id": "Q954975",
       "name": "Curt Schilling",
       "description": "American baseball player",
@@ -40020,15 +40051,6 @@
           "property": "P69",
           "source": "https://www.wikidata.org/wiki/Q137455251#P69"
         }
-      ]
-    },
-    {
-      "id": "Q16189311",
-      "name": "David Huntley",
-      "description": "Lacrosse coach (1986-2017)",
-      "slug": "david-huntley-q16189311",
-      "companies": [
-        "Q1902277"
       ]
     },
     {
@@ -57739,15 +57761,6 @@
       ]
     },
     {
-      "id": "Q126945434",
-      "name": "Thomas Riggs Sr.",
-      "description": "(1831-1920)",
-      "slug": "thomas-riggs-sr-q126945434",
-      "companies": [
-        "Q106170"
-      ]
-    },
-    {
       "id": "Q11278896",
       "name": "Thomas Rowe Price, Jr.",
       "description": "American businessman",
@@ -59031,10 +59044,16 @@
     {
       "id": "Q1380079",
       "name": "William Colgate",
-      "description": "soap manufacturer and philanthropist (2783-1857)",
+      "description": "Founder of the starch, soap and candle business begun in New York in 1806",
       "slug": "william-colgate-q1380079",
       "companies": [
         "Q609466"
+      ],
+      "reviewedSources": [
+        {
+          "url": "https://www.colgatepalmolive.com/en-us/who-we-are/history",
+          "label": "Colgate-Palmolive\u2019s company history"
+        }
       ]
     },
     {
@@ -59719,6 +59738,27 @@
       "reviewed": "2026-11-08",
       "reason": "Imported person identity is unrelated to the documented business history.",
       "source": "https://www.techsmith.com/about/"
+    },
+    {
+      "path": "/founder-reference/people/cristiano-ronaldo-q11571/",
+      "companyId": "Q463261",
+      "reviewed": "2026-11-08",
+      "reason": "Imported person is unrelated to the sourced company history.",
+      "source": "https://www.northropgrumman.com/who-we-are/our-founders"
+    },
+    {
+      "path": "/founder-reference/people/david-huntley-q16189311/",
+      "companyId": "Q1902277",
+      "reviewed": "2026-11-08",
+      "reason": "Imported person is unrelated to the sourced company history.",
+      "source": "https://magazine.ucsc.edu/2024/11/david-huntley-and-eric-reynolds-living-outside-the-box/"
+    },
+    {
+      "path": "/founder-reference/people/thomas-riggs-sr-q126945434/",
+      "companyId": "Q106170",
+      "reviewed": "2026-11-08",
+      "reason": "Imported person is unrelated to the sourced company history.",
+      "source": "https://www.pnc.com/en/about-pnc/company-profile/legacy-project/predecessor-banks.html"
     }
   ]
 }

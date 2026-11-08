@@ -57,3 +57,12 @@ for(const [companyId,personId,slug] of [['Q7692139','Q11887','william-rowan-hami
 assert.deepEqual(byCompany.get('Q7692139').verifiedFounders,['Bill Hamilton']);
 assert.equal(byCompany.get('Q122166924').verifiedFounders.length,0,'Division executives must not be relabeled founders');
 console.log('PASS: TechSmith and Hasbro identity corrections, sources, notices and search exclusion.');
+
+for(const [id,bad,slug] of [['Q463261','Q11571','cristiano-ronaldo-q11571'],['Q1902277','Q16189311','david-huntley-q16189311'],['Q106170','Q126945434','thomas-riggs-sr-q126945434']]){
+ const company=byCompany.get(id);assert(company.verifiedHistory?.source.startsWith('https://'));assert(!company.founders.includes(bad)&&!byPerson.has(bad),'Mistaken founder identity reintroduced');
+ const notice=fs.readFileSync(path.join(dist,'founder-reference/people',slug,'index.html'),'utf8');assert(notice.includes('noindex,follow'));
+ assert(!fs.readFileSync(path.join(dist,'assets/reference-index.json'),'utf8').includes(slug),'Withdrawn identity in search');
+}
+assert(!byPerson.get('Q1380079').description.includes('2783'),'Corrupt Colgate year reintroduced');
+assert(byPerson.get('Q1380079').reviewedSources?.length,'Colgate biography must retain reviewed source');
+console.log('PASS: Grumman, Marmot, Riggs and Colgate source corrections.');
