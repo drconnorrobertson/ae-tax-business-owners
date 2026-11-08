@@ -25,7 +25,7 @@ const reference=JSON.parse(fs.readFileSync(path.join(root,'data/founder-referenc
 const byCompany=new Map(reference.companies.map(c=>[c.id,c])),byPerson=new Map(reference.people.map(p=>[p.id,p]));
 assert.equal(byCompany.size,reference.companies.length,'Unique company record IDs');
 assert.equal(byPerson.size,reference.people.length,'Unique founder record IDs');
-for(const c of reference.companies){assert(c.name&&c.description&&(c.founders.length||c.verifiedFounders?.length),'Complete company reference');for(const id of c.founders)assert(byPerson.get(id)?.companies.includes(c.id),'Reciprocal founder association');}
+for(const c of reference.companies){assert(c.name&&c.description&&(c.founders.length||c.verifiedFounders?.length||c.verifiedHistory),'Complete company reference');for(const id of c.founders)assert(byPerson.get(id)?.companies.includes(c.id),'Reciprocal founder association');}
 for(const p of reference.people){assert(p.name&&p.companies.length,'Complete founder reference');for(const id of p.companies)assert(byCompany.get(id)?.founders.includes(p.id),'Reciprocal company association');}
 const sitemapURLs=new Set(files.filter(p=>/sitemap-\d+\.xml$/.test(p)).flatMap(p=>[...fs.readFileSync(p,'utf8').matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>m[1])));
 assert.deepEqual(sitemapURLs,indexable,'Sitemap includes all and only indexable pages');
@@ -45,3 +45,15 @@ const notice=fs.readFileSync(path.join(dist,'founder-reference/people/abdullah-c
 assert(notice.includes('noindex,follow')&&!notice.includes('founder of SeaWorld'),'Invalid association remains indexable');
 assert(!fs.readFileSync(path.join(dist,'assets/reference-index.json'),'utf8').includes('abdullah-calan-q191530'),'Withdrawn founder remains in search');
 console.log('PASS: primary-source SeaWorld founders, withdrawn noindex notice, and search exclusion.');
+
+for(const [companyId,personId,slug] of [['Q7692139','Q11887','william-rowan-hamilton-q11887'],['Q122166924','Q154145','gabriel-marcel-q154145']]){
+ const company=byCompany.get(companyId);
+ assert(company.verifiedHistory?.source.startsWith('https://'),'Correction must retain primary source');
+ assert(!company.founders.includes(personId)&&!byPerson.has(personId),'Unrelated historical person reintroduced');
+ const correction=fs.readFileSync(path.join(dist,'founder-reference/people',slug,'index.html'),'utf8');
+ assert(correction.includes('noindex,follow')&&!correction.includes('is recorded as a founder of'),'Withdrawn identity remains active');
+ assert(!fs.readFileSync(path.join(dist,'assets/reference-index.json'),'utf8').includes(slug),'Withdrawn identity in search index');
+}
+assert.deepEqual(byCompany.get('Q7692139').verifiedFounders,['Bill Hamilton']);
+assert.equal(byCompany.get('Q122166924').verifiedFounders.length,0,'Division executives must not be relabeled founders');
+console.log('PASS: TechSmith and Hasbro identity corrections, sources, notices and search exclusion.');
