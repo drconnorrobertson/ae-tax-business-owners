@@ -26336,14 +26336,22 @@
       "name": "SeaWorld",
       "description": "United States chain of marine mammal parks, oceanariums, and animal theme parks",
       "slug": "seaworld-q540102",
-      "founders": [
-        "Q191530"
+      "founders": [],
+      "founded": "1964",
+      "website": "https://seaworld.com/",
+      "references": [
+        "https://unitedparks.com/about-us/history/"
       ],
-      "founded": null,
-      "website": null,
-      "references": [],
       "country": "United States",
-      "sourceBatch": "us-founder-query-2026-10-09"
+      "sourceBatch": "us-founder-query-2026-10-09",
+      "verifiedFounders": [
+        "George Millay",
+        "Milt Shedd",
+        "Ken Norris",
+        "David DeMott"
+      ],
+      "founderSource": "https://unitedparks.com/about-us/history/",
+      "founderReviewed": "2026-11-08"
     },
     {
       "id": "Q96405236",
@@ -34819,15 +34827,6 @@
       "slug": "aaron-swartz-q302817",
       "companies": [
         "Q111759432"
-      ]
-    },
-    {
-      "id": "Q191530",
-      "name": "Abdullah \u00d6calan",
-      "description": "founder of the Kurdistan Workers' Party (PKK)",
-      "slug": "abdullah-calan-q191530",
-      "companies": [
-        "Q540102"
       ]
     },
     {
@@ -59691,6 +59690,16 @@
       "companies": [
         "Q137393322"
       ]
+    }
+  ],
+  "withdrawnRecords": [
+    {
+      "id": "Q191530",
+      "path": "/founder-reference/people/abdullah-calan-q191530/",
+      "companyId": "Q540102",
+      "reviewed": "2026-11-08",
+      "reason": "The imported founder association was not supported by the company\u2019s official history.",
+      "source": "https://unitedparks.com/about-us/history/"
     }
   ]
 }
