@@ -43,5 +43,5 @@ export function buildReference({root,write,e,button,aeBanner,BASE,featured}){
   const body=`<h2>This imported association has been withdrawn</h2><p>We could not substantiate the business-founding relationship previously shown at this address. It has been removed from the searchable founder library.</p><p>For the corrected founding history, see ${link(cp(company),company.name+' company reference')} and its linked primary source.</p><p>Reviewed ${e(withdrawn.reviewed)}. This page is kept as a correction notice and is not included in search indexing or the sitemap.</p>`;
   write(withdrawn.path,'Founder reference withdrawn','A correction notice for an unsupported imported founding association.',wrap('Founder reference withdrawn','Correction notice',body),{indexable:false});
  }
- return {referenceFounders:people.length,referenceCompanies:companies.length};
+ return {referenceFounders:people.length,referenceCompanies:companies.length,withdrawnReferenceNotices:(data.withdrawnRecords||[]).length};
 }
