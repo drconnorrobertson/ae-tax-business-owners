@@ -13919,15 +13919,26 @@
     {
       "id": "Q122166924",
       "name": "Hasbro Entertainment",
-      "description": "American production and distribution company",
+      "description": "Hasbro entertainment division announced in 2023, with its launch leadership identified by Hasbro.",
       "slug": "hasbro-entertainment-q122166924",
-      "founders": [
-        "Q154145"
-      ],
+      "founders": [],
       "founded": "2023",
       "website": null,
-      "references": [],
-      "country": "United States"
+      "references": [
+        "https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-announces-leadership-team-new-entertainment-division"
+      ],
+      "country": "United States",
+      "verifiedFounders": [],
+      "verifiedHistory": {
+        "description": "Hasbro entertainment division announced in 2023, with its launch leadership identified by Hasbro.",
+        "context": "Hasbro Entertainment is an entertainment division of Hasbro. The company announced the division\u2019s leadership team on August 16, 2023.",
+        "heading": "Division history and launch leadership",
+        "account": "Hasbro\u2019s announcement named Olivier Dumont as President, Zev Foreman as Head of Film and Gabriel Marano as Head of Television. These were leadership appointments; this reference does not describe them as individual founders or infer a founder from a similar name.",
+        "source": "https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-announces-leadership-team-new-entertainment-division",
+        "sourceLabel": "Hasbro\u2019s August 16, 2023 announcement",
+        "reviewed": "2026-11-08",
+        "parent": "Hasbro"
+      }
     },
     {
       "id": "Q139569400",
@@ -29215,15 +29226,27 @@
     {
       "id": "Q7692139",
       "name": "TechSmith",
-      "description": "software company",
+      "description": "Software company founded in 1987; its official about page identifies founder Bill Hamilton.",
       "slug": "techsmith-q7692139",
-      "founders": [
-        "Q11887"
-      ],
+      "founders": [],
       "founded": "1987",
       "website": "https://www.techsmith.com/",
-      "references": [],
-      "country": "United States"
+      "references": [
+        "https://www.techsmith.com/about/"
+      ],
+      "country": "United States",
+      "verifiedFounders": [
+        "Bill Hamilton"
+      ],
+      "verifiedHistory": {
+        "description": "Software company founded in 1987; its official about page identifies founder Bill Hamilton.",
+        "context": "TechSmith develops software for creating and sharing videos and images. Its official company history dates its founding to 1987.",
+        "heading": "Founder identified by the company",
+        "account": "TechSmith identifies Bill Hamilton as its founder. This record follows the company\u2019s own account and does not link him to the unrelated historical person in the former imported association.",
+        "source": "https://www.techsmith.com/about/",
+        "sourceLabel": "TechSmith company history",
+        "reviewed": "2026-11-08"
+      }
     },
     {
       "id": "Q114221424",
@@ -42587,15 +42610,6 @@
       "slug": "gabe-newell-q347418",
       "companies": [
         "Q193559"
-      ]
-    },
-    {
-      "id": "Q154145",
-      "name": "Gabriel Marcel",
-      "description": "French philosopher, playwright, music critic and leading Christian existentialist (1889-1973)",
-      "slug": "gabriel-marcel-q154145",
-      "companies": [
-        "Q122166924"
       ]
     },
     {
@@ -59336,15 +59350,6 @@
       ]
     },
     {
-      "id": "Q11887",
-      "name": "William Rowan Hamilton",
-      "description": "Irish mathematician and astronomer (1805-1865)",
-      "slug": "william-rowan-hamilton-q11887",
-      "companies": [
-        "Q7692139"
-      ]
-    },
-    {
       "id": "Q16889002",
       "name": "William Russell Kelly",
       "description": "American businessman (1905\u20131998)",
@@ -59700,6 +59705,20 @@
       "reviewed": "2026-11-08",
       "reason": "The imported founder association was not supported by the company\u2019s official history.",
       "source": "https://unitedparks.com/about-us/history/"
+    },
+    {
+      "path": "/founder-reference/people/gabriel-marcel-q154145/",
+      "companyId": "Q122166924",
+      "reviewed": "2026-11-08",
+      "reason": "Imported person identity is unrelated to the documented business history.",
+      "source": "https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-announces-leadership-team-new-entertainment-division"
+    },
+    {
+      "path": "/founder-reference/people/william-rowan-hamilton-q11887/",
+      "companyId": "Q7692139",
+      "reviewed": "2026-11-08",
+      "reason": "Imported person identity is unrelated to the documented business history.",
+      "source": "https://www.techsmith.com/about/"
     }
   ]
 }
