@@ -1,0 +1,22 @@
+{
+  "title": "Business Owner Tax Planning & Implementation | AE Tax",
+  "description": "Organize business owner tax decisions across entities, bookkeeping, quarterly planning and implementation. Use AE Tax Advisors guides and handoff resources.",
+  "heading": "Turn several business decisions into one working plan",
+  "intro": "Use these resources to coordinate the books, entities and people responsible for the next action.",
+  "links": [
+    {
+      "href": "/resources/multi-entity-advisor-handoff/",
+      "label": "Coordinate multiple entities"
+    },
+    {
+      "href": "/resources/bookkeeping-tax-planning-handoff/",
+      "label": "Prepare the bookkeeping handoff"
+    },
+    {
+      "href": "/planning-and-compliance/year-end-tax-planning-checklist-for-business-owners/",
+      "label": "Plan the year-end review"
+    }
+  ],
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public",
+  "outputDirectory": "public"
+}
