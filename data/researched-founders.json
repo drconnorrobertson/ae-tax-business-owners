@@ -15841,5 +15841,1353 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "laroy-sunderland-starrett",
+    "name": "Laroy Sunderland Starrett",
+    "company": "L.S. Starrett",
+    "website": "https://www.starrett.com/",
+    "role": "Historical founder of L.S. Starrett; later family members and managers led subsequent expansion.",
+    "founding": "Starrett opened his Athol, Massachusetts, factory in 1880 after developing the combination square.",
+    "intro": "Laroy Sunderland Starrett turned a measuring-tool idea into a manufacturing business in Athol, Massachusetts. The company’s histories distinguish his 1877 combination square from the factory established three years later. Its early development involved both additional production space and overseas selling relationships.",
+    "sections": [
+      {
+        "title": "An invention became an organized factory",
+        "text": "The company dates the combination square to 1877 and its first Athol factory to 1880. Those separate milestones show the distance between developing a tool and building an enterprise able to make it repeatedly. Starrett moved to larger premises in 1881. The factory provided the practical setting for turning a design into a range of manufactured instruments, with equipment and people supporting work beyond the original idea.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Sales relationships extended beyond Athol",
+        "text": "In 1882, Starrett traveled to London and Paris to establish selling connections. The original company anniversary document follows those early international relationships alongside product development. This was a commercial extension of the Massachusetts operation rather than a relocation of its beginnings. A buyer abroad needed a way to discover, order and obtain the tools, making the selling network a separate part of the manufacturer’s development. London and Paris were sales connections in this early period, while Athol remained the production base identified in the company record.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Corporate organization and succession came later",
+        "text": "The company incorporated in 1900, with Starrett serving as president and treasurer. Its histories place his death in 1922 and the succession of son-in-law Frank Ball afterward. Further factories and product categories were developed by later leadership. The chronology therefore connects the initial measuring device with a factory, an export network and a formal corporation, while leaving subsequent international manufacturing to the people responsible for those later stages.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1877 tool from the 1880 factory.",
+      "Keep the early foreign sales network distinct from later overseas factories.",
+      "Date incorporation and succession independently."
+    ],
+    "sources": [
+      {
+        "title": "Starrett — company history",
+        "url": "https://www.starrett.com/about-us/history"
+      },
+      {
+        "title": "Starrett — detailed historical timeline",
+        "url": "https://www.starrett.co.uk/our-history/"
+      },
+      {
+        "title": "Starrett — original 125-year company report",
+        "url": "https://www.sec.gov/Archives/edgar/vprr/0506/05067312.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "george-safford-parker",
+    "name": "George Safford Parker",
+    "company": "Parker Pen",
+    "website": "https://www.parkerpen.com/",
+    "role": "Historical founder of Parker Pen; subsequent products and management belong to later company periods.",
+    "founding": "Parker’s business dates its beginning to 1888, when George applied for his first pen patent.",
+    "intro": "George Safford Parker built a writing-instrument business around improving fountain pens. The company’s anniversary account starts with his 1888 patent application. An official British competition report supplies additional chronology, distinguishing the initial venture from the designs and product lines that followed.",
+    "sections": [
+      {
+        "title": "The application preceded the granted patent",
+        "text": "Parker’s anniversary timeline places George’s first application in 1888. The British report dates his first fountain-pen patent to 1889 and locates the original business in Wisconsin. That distinction matters because applying for a design, receiving a patent and building a selling organization are different events. The records together describe a founder working on an existing product category and arranging a business around improvements to it.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The Lucky Curve gave the early business a focus",
+        "text": "Both accounts identify the 1894 Lucky Curve ink-feed design as an important next step. The British report describes it as central to the company’s products into the 1920s. Its commercial significance lay in giving Parker a recognizable technical feature to manufacture and sell. The company was not simply attaching a name to generic writing instruments; its early range developed around a particular approach to moving ink through a pen.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A larger product organization developed afterward",
+        "text": "The anniversary timeline follows the Duofold introduction in 1921 and the company research department’s later work on ink. It also places the Parker 51 in the subsequent period associated with Kenneth Parker. Those details show an organization acquiring design, research and branding capabilities beyond George’s first application. The founder’s history is the beginning of that sequence, while later engineers and managers retain their own place in the business’s development.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish the 1888 application from the 1889 patent.",
+      "Treat Lucky Curve as a specific design, not the invention of all fountain pens.",
+      "Keep later product teams and leadership separate."
+    ],
+    "sources": [
+      {
+        "title": "Parker — 135th-anniversary timeline",
+        "url": "https://www.parkerpen.com/parker-135th-anniversary.html"
+      },
+      {
+        "title": "UK competition authority — Parker company history",
+        "url": "https://assets.publishing.service.gov.uk/media/5a7c412440f0b62dffde0dba/2221.pdf"
+      },
+      {
+        "title": "Parker — original trade catalog (2019)",
+        "url": "https://assets.parkerpen.com/is/content/NewellRubbermaid/FWLA/Parker/1.%20Brand%20assets/Catalogue/2020/prkr_trdctlg_2019.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "walter-a-sheaffer",
+    "name": "Walter A. Sheaffer",
+    "company": "Sheaffer",
+    "website": "https://sheaffer.com/",
+    "role": "Historical founder of Sheaffer; the later brand changed ownership independently of his lifetime.",
+    "founding": "The company identifies Fort Madison, Iowa, and 1913 as its establishment, following earlier pen development.",
+    "intro": "Walter A. Sheaffer brought a jeweler’s workshop experience to fountain-pen manufacturing in Fort Madison, Iowa. His company developed around a lever-operated filling design. Its histories describe earlier workshop activity before the 1913 establishment date used by the current brand.",
+    "sections": [
+      {
+        "title": "A jewelry shop supplied the working space",
+        "text": "Sheaffer’s official account locates early pen work in the back room of his jewelry store. The lever-filling mechanism addressed how a user replenished ink, a practical part of using a fountain pen repeatedly. That workshop beginning connected an existing trade with a new manufactured product. It also meant the first production effort preceded the larger factories and familiar product collections associated with the company later on.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The business developed before the familiar brand symbols",
+        "text": "The current About page identifies 1913 as establishment, while another company retrospective describes activity in 1912. These references concern the development and organization of the early venture rather than a single interchangeable patent date. The company later introduced its White Dot in 1924. Initially associated with a warranty promise, that symbol became a recognizable feature of the products. The filling design and the visual identity were therefore separate parts of building the business.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Later ownership belongs to another period",
+        "text": "The official history records William Penn’s acquisition of Sheaffer in 2022. That transaction concerns the later brand, long after Walter’s founding work. Its present catalog and marketing describe an organization that has continued changing products and ownership. Walter’s role is clearest in the early sequence: workshop development, the start of a Fort Madison pen enterprise and a manufactured range around a filling mechanism. Later acquisitions do not establish anything about his personal ownership at those later dates.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep development before 1913 distinct from the brand’s establishment date.",
+      "Separate the lever mechanism from the later White Dot identity.",
+      "Treat the 2022 acquisition as later company history."
+    ],
+    "sources": [
+      {
+        "title": "Sheaffer — company background",
+        "url": "https://sheaffer.com/pages/sheaffer-about-us"
+      },
+      {
+        "title": "Sheaffer — official historical retrospective",
+        "url": "https://sheaffer.com/blogs/news/the-evolution-of-sheaffer-pens-celebrating-over-a-century-of-excellence"
+      },
+      {
+        "title": "National Park Service — Fort Madison historical documentation",
+        "url": "https://npgallery.nps.gov/GetAsset/f6802f2d-9a9e-4f42-adbf-2755dc6a18f3"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "lewis-edson-waterman",
+    "name": "Lewis Edson Waterman",
+    "company": "Waterman",
+    "website": "https://www.waterman.com/",
+    "role": "Historical founder associated with the early New York Waterman pen business; later French operations developed separately.",
+    "founding": "The Smithsonian dates Waterman’s company and first pen patent to 1884; the brand’s centenary tradition points to 1883 origins.",
+    "intro": "Lewis Edson Waterman developed a fountain-pen business in New York during the 1880s. Its history involves both a mechanism for managing ink and the organization that sold the resulting pens. The surviving accounts use different starting milestones, while the later French company belongs to another period.",
+    "sections": [
+      {
+        "title": "Ink delivery was the early technical problem",
+        "text": "The Smithsonian’s collection account identifies Waterman’s first pen-related patent in 1884, the same year it gives for establishment of Waterman Pen Company. A fountain pen carries its ink with it, so the flow from the reservoir to the writing point mattered to everyday use. Waterman’s work addressed that mechanism within an existing category of writing instruments. His place in the story is as an early manufacturer and developer, rather than the originator of every form of fountain pen.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Company identity developed over several years",
+        "text": "The current brand timeline records the change from Ideal Pen Company to L. E. Waterman Company in 1888. It also records a centenary celebration in 1983, which reflects an earlier beginning than the Smithsonian’s 1884 milestone. These are different accounts of origins, not interchangeable incorporation and patent dates. Together they describe a venture moving from an early product and trading identity toward a company carrying its founder’s name. The timeline records further feed development in 1899, showing continued work after the first patent.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The French business was a later chapter",
+        "text": "The brand places Jules Fagard’s establishment of JIF-Waterman in France in 1926, followed by glass ink cartridges in 1927. These developments explain part of the later French identity without relocating Lewis Waterman’s New York beginnings. His founder association rests on the early pen enterprise. Later manufacturing, management and branded collections were built by others as the business changed countries, organization and product lines.",
+        "sourceIndexes": [
+          0
+        ]
+      }
+    ],
+    "checks": [
+      "Separate company origins from the 1884 patent milestone.",
+      "Keep the 1888 renaming distinct from the later French enterprise.",
+      "Credit subsequent product development to its own period."
+    ],
+    "sources": [
+      {
+        "title": "Waterman — official heritage timeline",
+        "url": "https://www.waterman.com/waterman-history.html"
+      },
+      {
+        "title": "Smithsonian — Waterman fountain-pen collection record",
+        "url": "https://www.americanhistory.si.edu/de/collections/object/nmah_2816?form=FUNPYRYGFFP"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "richard-cross",
+    "name": "Richard Cross",
+    "company": "A.T. Cross",
+    "website": "https://cross.com/",
+    "role": "Historical founder of the Cross writing-instrument business; son Alonzo Townsend Cross developed later inventions.",
+    "founding": "The company dates Richard’s Providence, Rhode Island, business to 1846.",
+    "intro": "Richard Cross brought jewelry-making experience to a business producing cases for writing instruments. Cross dates its beginnings to Providence in 1846. The early enterprise made ornate coverings for pencils before later generations expanded its mechanisms and range of pens.",
+    "sections": [
+      {
+        "title": "A craft background shaped the first products",
+        "text": "The company’s heritage account describes Richard as an English craftsman from a family of jewelers. His initial work used precious metals to make cases for wooden pencils. That beginning differs from the modern image of a ballpoint-pen manufacturer. The commercial product combined a familiar writing implement with decorative metalwork, placing the business at the intersection of useful objects and the skills of a jewelry workshop. A pencil casing required attention to its external finish as well as the practical task of enclosing and handling the writing implement.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Alonzo contributed another generation of inventions",
+        "text": "Richard’s son Alonzo Townsend Cross developed mechanisms and patents as the business grew. The company’s historical narrative separates the father’s founding work from the son’s inventive contribution. This distinction explains the A.T. Cross name without assigning all later products to Richard personally. A family venture could preserve a craft identity while adding technical functions and manufacturing different kinds of writing instruments.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The early business was not the entire later catalog",
+        "text": "Cross’s heritage timeline proceeds through pencils, pens and twentieth-century product collections. Those later introductions belong to a continuing organization, not to the 1846 workshop at its inception. Richard’s contribution was establishing the Providence enterprise and applying metalworking expertise to writing accessories. The resulting business history follows both production and product identity: an initial decorative casing, subsequent mechanisms and a name retained through later changes in the writing market.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Identify pencil cases as the early product.",
+      "Credit Alonzo’s inventions separately from Richard’s founding role.",
+      "Do not place later ballpoint collections in the 1846 workshop."
+    ],
+    "sources": [
+      {
+        "title": "Cross — official company background",
+        "url": "https://cross.com/pages/about-cross"
+      },
+      {
+        "title": "Cross — official heritage chronology",
+        "url": "https://ca.cross.com/blogs/news/heritage-in-every-stroke"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "william-petersen",
+    "name": "William Petersen",
+    "company": "Vise-Grip / Petersen Manufacturing",
+    "website": "https://www.irwintools.com/",
+    "role": "Historical inventor and business builder associated with Petersen Manufacturing and Vise-Grip.",
+    "founding": "Petersen developed adjustable gripping tools in DeWitt, Nebraska; the 1924 patent was one stage in a longer manufacturing story.",
+    "intro": "William Petersen’s gripping-tool business grew out of blacksmith work in DeWitt, Nebraska. Patents and a contemporary state publication show repeated development rather than one finished product appearing at once. The company’s early attempts also involved partners and, later, members of Petersen’s family.",
+    "sections": [
+      {
+        "title": "A blacksmith worked through successive designs",
+        "text": "Nebraska’s 1959 account describes Petersen experimenting during quieter winter periods in his trade. An adjustable-wrench patent preceded the 1924 document commonly associated with the Vise-Grip story. The 1924 patent describes a particular mechanical arrangement and identifies Petersen as inventor. It records an engineering step; it does not by itself establish when every later version was manufactured or how the entire company was financed.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Manufacturing took more than an initial invention",
+        "text": "The state account describes unsuccessful ventures with local partners before Petersen’s children became involved. This gives the commercial history a different shape from a simple patent-to-success narrative. Producing a tool required manufacturing experience, money and a selling operation in addition to a working mechanism. Family participation helped carry the project into a more sustained business, with the product continuing to change along the way.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Later patents refined the gripping mechanism",
+        "text": "Petersen’s 1942 patent concerns another wrench design, with a filing made in 1940. Reading it beside the earlier document shows continued work on how jaws, handles and locking parts related to one another. Those dated records are useful evidence of development, separate from modern claims about product performance. Petersen’s place is in this Nebraska invention-and-manufacturing history, distinct from Karl Peterson’s Crescent Tool business in New York. The drawings preserve that mechanical development in a form readers can examine, alongside the separate narrative about organizing a factory and keeping it operating.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate patent filing, grant and manufacturing milestones.",
+      "Retain partners and family in the commercial account.",
+      "Do not confuse William Petersen with Crescent founder Karl Peterson."
+    ],
+    "sources": [
+      {
+        "title": "Nebraska — contemporary industrial account (1959)",
+        "url": "https://govdocs.nebraska.gov/epubs/E1000/P001-1959may.pdf"
+      },
+      {
+        "title": "William Petersen — original wrench patent (1924)",
+        "url": "https://patents.google.com/patent/US1489458A/en"
+      },
+      {
+        "title": "William Petersen — original wrench patent (1942)",
+        "url": "https://patents.google.com/patent/US2280005A/en"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "karl-elsener-i",
+    "name": "Karl Elsener I",
+    "company": "Victorinox",
+    "website": "https://www.victorinox.com/",
+    "role": "Historical founder of the workshop that became Victorinox; later generations developed the company and name.",
+    "founding": "Elsener opened his Ibach-Schwyz cutlery workshop in 1884 with support from his mother Victoria.",
+    "intro": "Karl Elsener’s cutlery workshop in Ibach became the starting point of Victorinox. The company’s history credits his mother Victoria’s support and the cooperation of other Swiss cutlers. Its familiar modern name developed later than the first workshop and military-supply work.",
+    "sections": [
+      {
+        "title": "A workshop preceded the larger supply organization",
+        "text": "Elsener opened the workshop in 1884. The company chronology then describes Swiss cutlers organizing an association in 1891, with Elsener among its leading participants. He and three fellow cutlers supplied soldiers’ knives that year. The work therefore involved collaboration beyond the original shop. A manufacturing order could connect separate craftspeople while creating a more organized route from small workshops to an institutional customer.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A different knife and a family name followed",
+        "text": "The company dates the Officer’s and Sports Knife patent to 1897, distinguishing it from the earlier soldiers’ knives. In 1909, Elsener used Victoria’s name for the brand in her memory and registered the cross-and-shield emblem. These milestones joined product development with a recognizable identity. They also preserve Victoria’s role in supporting the early business rather than treating the later brand name as an arbitrary invention. The brand thus retained a direct family reference while distinguishing the business and its products in a wider market.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Successors developed the modern company",
+        "text": "Carl Elsener II assumed management in 1918. The Victorinox name followed in 1921 by combining Victoria with a term for stainless steel; it was not the name on the 1884 workshop. Later automation and additional product categories belonged to subsequent generations. The founder’s history is the establishment of a cutlery operation, cooperation with other makers and development of its early products, while the company’s later manufacturing system continued beyond his tenure.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Victoria and the collaborating cutlers.",
+      "Separate soldiers’ knives from the later officer’s design.",
+      "Keep the 1921 name and later automation in the successors’ period."
+    ],
+    "sources": [
+      {
+        "title": "Victorinox — company timeline",
+        "url": "https://www.victorinox.com/en/All-about-Victorinox/History/cms/history/"
+      },
+      {
+        "title": "SWISS — direct Elsener family account",
+        "url": "https://www.swiss.com/magazine/en/switzerland/art-culture/lifelong-companions"
+      },
+      {
+        "title": "Federation of the Swiss Watch Industry — company history",
+        "url": "https://www.fhs.swiss/eng/2012-04-12_976.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "eugene-cornwell",
+    "name": "Eugene Cornwell",
+    "company": "Cornwell Quality Tools",
+    "website": "https://www.cornwelltools.com/",
+    "role": "Historical founder of Cornwell Quality Tools; subsequent owners developed the later mobile-dealer organization.",
+    "founding": "Cornwell opened a toolmaking shop in Cuyahoga Falls, Ohio, in 1919.",
+    "intro": "Eugene Cornwell began making hand tools in a former tannery building in Cuyahoga Falls. The company dates that shop to 1919. Its later history follows larger manufacturing premises, changes of ownership and a distribution system that became closely associated with mobile tool dealers.",
+    "sections": [
+      {
+        "title": "A blacksmith supplied emerging repair markets",
+        "text": "Cornwell’s account describes its founder making chisels, punches, screwdrivers and pry bars. He experimented with steels and heat treatment as demand developed around automotive, aviation and marine work. These were practical tools for businesses repairing and assembling machinery. The early enterprise therefore connected a blacksmith’s production skills with customers whose equipment needed repeated service, rather than beginning with the much wider catalog sold by the later company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Catalogs and premises expanded the operation",
+        "text": "The company records its first product catalog in 1926 and a move to Mogadore in 1927. Its historical catalog archive preserves later editions, showing how the range continued beyond the initial shop. A catalog gave buyers a defined assortment to order, while larger premises supported manufacturing. These were separate operating developments around the founder’s work, making the products available through a more organized selling system. The archive includes both main and allied catalogs, reflecting the different assortments assembled for the company’s customers over time.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Mobile distribution was a subsequent chapter",
+        "text": "The company’s chronology identifies ownership changes in the 1940s and 1950s and a direct-to-mobile-dealer transition in 1968. Those dates put the familiar truck-based model well after Eugene’s founding shop. Later warehouses, factories and dealer programs belonged to an organization with new owners and managers. Cornwell’s role is the original toolmaking business; the modern distribution identity was built through additional commercial decisions over decades.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish the 1919 shop from the 1927 factory move.",
+      "Use the catalogs as evidence of the developing range.",
+      "Date the mobile-dealer transition separately from founding."
+    ],
+    "sources": [
+      {
+        "title": "Cornwell — detailed company history",
+        "url": "https://www.cornwelltools.com/history"
+      },
+      {
+        "title": "Cornwell — company background",
+        "url": "https://www.cornwelltools.com/"
+      },
+      {
+        "title": "Cornwell — historical catalog archive",
+        "url": "https://www.cornwelltools.com/historicalcatalogs"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "c-nelson-wright",
+    "name": "C. Nelson Wright",
+    "company": "Wright Tool",
+    "website": "https://www.wrighttool.com/",
+    "role": "Historical founder of Wright Tool; Richard Wright and later managers led subsequent development.",
+    "founding": "C. Nelson Wright established the Barberton, Ohio, tool company in 1927.",
+    "intro": "C. Nelson Wright moved from selling tools to building a tool-manufacturing company in Barberton, Ohio. Wright Tool dates its beginning to 1927. Its histories follow the founder’s early sales background, the introduction of forging operations and the later people who developed the organization.",
+    "sections": [
+      {
+        "title": "Selling tools preceded making them",
+        "text": "The company’s production website identifies the founder as C. Nelson Wright and describes him selling from his car before establishing the business. That commercial experience linked the venture to buyers in hardware, automotive and industrial markets. Its growth involved a route to customers as well as a manufactured product. The company’s anniversary account repeats the Barberton beginning, placing the factory within the same Ohio community rather than describing a later headquarters as the original location.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Forging became part of the manufacturing system",
+        "text": "Wright’s chronology places the start of hot-forged socket production in 1940. This was a later factory capability, not a process that the history dates to the first day of business. The anniversary retrospective describes production under one roof, while the main company account lists forging, heat treatment and machining among its operations. These are specific manufacturing stages; their presence explains how the enterprise makes tools without requiring an unsupported claim that its products outperform every alternative.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The next generation and managers added their own chapters",
+        "text": "Richard, known as Dick, entered the business in 1952 and became president in 1967 after engineering and purchasing responsibilities. Later, Terry and Patricia Taylor and Tom Futey became owners in the 1998 transaction recorded by the company. Those transitions separate C. Nelson’s founder role from the people responsible for later designs and management. The history follows a sales-led beginning into a continuing manufacturing organization whose work extended beyond one individual’s tenure.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Use C. Nelson Wright’s documented name.",
+      "Distinguish the 1927 company from the 1940 forging milestone.",
+      "Keep later management and ownership changes in their own periods."
+    ],
+    "sources": [
+      {
+        "title": "Wright Tool — production-site company history",
+        "url": "https://www.wrighttool.com/about"
+      },
+      {
+        "title": "Wright Tool — company anniversary retrospective (2025)",
+        "url": "https://dev.wrighttool.com/blog/nearly-a-century-of-innovation-and-craftsmanship"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "yehan-numata",
+    "name": "Yehan Numata",
+    "company": "Mitutoyo",
+    "website": "https://www.mitutoyo.com/",
+    "role": "Historical founder of Mitutoyo; the research laboratory, factory and corporation were successive organizational stages.",
+    "founding": "Numata began a Tokyo micrometer research laboratory in 1934, followed by the Kamata factory in 1936.",
+    "intro": "Yehan Numata established the research effort that became Mitutoyo in Tokyo. Its first focus was domestic production of micrometers. The company’s own chronology distinguishes the 1934 laboratory, the 1936 factory and the 1938 corporate organization rather than treating them as a single event.",
+    "sections": [
+      {
+        "title": "Research came before regular manufacturing",
+        "text": "Mitutoyo’s history places Numata’s laboratory at Musashi Nitta in 1934. The project addressed an instrument then supplied largely through imports. A micrometer measures small dimensions, linking the venture directly to workshop and manufacturing activity. The early organization had to develop a product and a repeatable method of producing it before it could operate as the later measurement-equipment company.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The first factory involved a production learning period",
+        "text": "The company museum dates the Kamata factory and Mitutoyo Manufacture name to 1936. Its account describes a first lot of one hundred instruments, of which seventeen were accepted. That episode is the company’s own account of early production standards, not a measurement of present products. It provides concrete context for the work between an intended design and saleable instruments: manufacturing, checking results and deciding what could leave the factory. The museum presents that episode as an early manufacturing difficulty, followed by further work toward an established production operation.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Corporate and product development continued afterward",
+        "text": "Numata became president when the business reorganized as a stock corporation in 1938. The chronology then records additional manufacturing sites and, in later decades, a wider range of measuring equipment. Digital instruments and coordinate measurement were subsequent company developments, not the laboratory’s initial offering. His founding contribution connects a defined domestic-production objective with the laboratory, factory and organization established to pursue it.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep 1934 research, 1936 production and 1938 incorporation distinct.",
+      "Attribute the first-lot account to the company museum.",
+      "Separate later electronic instruments from the original micrometer project."
+    ],
+    "sources": [
+      {
+        "title": "Mitutoyo America — corporate history",
+        "url": "https://www.mitutoyo.com/about-us/history/corporate-history/"
+      },
+      {
+        "title": "Mitutoyo — Japanese corporate chronology",
+        "url": "https://www2.mitutoyo.co.jp/eng/corporate/history/"
+      },
+      {
+        "title": "Mitutoyo — Numata museum guide",
+        "url": "https://www.mitutoyo.co.jp/public/cms-assets/exhibitions-and-events/museum/pdf/museum_english_20250603.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "william-shakespeare-jr",
+    "name": "William Shakespeare Jr.",
+    "company": "Shakespeare Fishing Tackle",
+    "website": "https://www.shakespeare-fishing.com/",
+    "role": "Historical founder of the fishing-tackle company; unrelated to the Elizabethan playwright.",
+    "founding": "Shakespeare established his Kalamazoo, Michigan, fishing-reel business in 1897.",
+    "intro": "William Shakespeare Jr. established a fishing-reel manufacturer in Kalamazoo in 1897. The company’s history connects its early products with work on winding line across a reel. Later designers, factories and owners extended that first business into a broader tackle operation.",
+    "sections": [
+      {
+        "title": "The reel addressed a repeated user task",
+        "text": "A fishing reel must retrieve line as well as store it. The company attributes a level-wind design to Shakespeare, describing its purpose as guiding the returning line across the spool. That mechanism gave the early manufacturer a specific product feature around which to organize production. The founder’s activity was in fishing equipment, and the familiar surname should not obscure the distinct Michigan industrial history.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Another designer broadened the technical work",
+        "text": "The official timeline identifies Walter Marhoff’s arrival in 1907 and his contribution to an improved reel. It also describes an expanding assortment that included cases, hooks and other tackle-related products. Those additions show a company developing beyond one founder’s mechanism. Design work, manufacturing and a broader range for anglers became parts of the organization, with Marhoff retaining credit for his own contribution. The assortment connected the reel with related items an angler used, creating a wider commercial offering rather than relying entirely on one mechanism.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Later corporate records describe another scale",
+        "text": "The company account records wartime manufacturing and subsequent leadership by Henry Shakespeare after William’s death in 1950. A later company filing, held by the SEC, describes the fishing-tackle division and its distribution operations as they existed decades afterward. Such records document a later corporate period, not the exact footprint of the 1897 shop. The founding story remains a reel venture that accumulated products and capabilities through successive people and organizations.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Identify the Kalamazoo manufacturer clearly.",
+      "Credit Marhoff’s later design work separately.",
+      "Keep wartime and later corporate operations in their dated periods."
+    ],
+    "sources": [
+      {
+        "title": "Shakespeare — official company timeline",
+        "url": "https://www.shakespeare-fishing.com/pages/about-us"
+      },
+      {
+        "title": "SEC — original company report",
+        "url": "https://www.sec.gov/Archives/edgar/vprr/0402/04026568.pdf"
+      },
+      {
+        "title": "Shakespeare Australia — company history",
+        "url": "https://shakespeare.com.au/about-shakespeare/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ernest-f-pflueger",
+    "name": "Ernest F. Pflueger",
+    "company": "Pflueger / Enterprise Manufacturing",
+    "website": "https://pfluegerfishing.com/",
+    "role": "Historical founder associated with Enterprise Manufacturing; son Ernest A. developed later fishing-tackle operations.",
+    "founding": "The company traces its beginnings to an Akron manufacturing venture around 1880; historical accounts also use 1881.",
+    "intro": "Ernest F. Pflueger’s business moved from small manufactured novelties into fishing equipment in Akron, Ohio. Company and historical records use slightly different dates for its beginnings. His son’s subsequent work is an important part of the tackle business, distinct from the original founder’s activity.",
+    "sections": [
+      {
+        "title": "Early production was broader than fishing tackle",
+        "text": "The current brand account, which spells his first name Earnest, dates Enterprise Manufacturing to 1880. It describes products including metal ornaments for horse harnesses before the focus shifted toward artificial fishing baits. Local historical material also uses 1881. The shared outline is a small manufacturing venture adapting its capabilities to another market, not a fully developed reel company appearing with its entire later range.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The surviving patent identifies a specific inventor",
+        "text": "An original fishing-reel patent names Ernest F. Pflueger of Akron. That record provides a technical document for his work while also supporting the spelling used here. A patent concerns the mechanism described in it; it should not be read as proof that the inventor personally created every subsequent product sold under the family name. The distinction is especially important where later catalogs and collections include several generations of products.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The next generation concentrated on tackle",
+        "text": "The company attributes a further concentration on tackle to Ernest A., the founder’s son. Its account follows rods, flies, hooks and other fishing products as the manufacturing range changed. The local historical collection preserves examples illustrating that variety. Taken together, these sources describe both continuity and specialization: an earlier novelty maker, a founder’s documented mechanical work and a successor organizing production increasingly around fishing customers. The preserved objects make those changing product categories visible.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain the 1880/1881 difference as attributed history.",
+      "Separate Ernest F. from his son Ernest A.",
+      "Use the patent for its particular mechanism, not every later product."
+    ],
+    "sources": [
+      {
+        "title": "Pflueger — official company history",
+        "url": "https://pfluegerfishing.com/pages/about-us"
+      },
+      {
+        "title": "Ernest F. Pflueger — original fishing-reel patent",
+        "url": "https://patentimages.storage.googleapis.com/88/e6/dd/e98d66e4f4e6fa/US560925.pdf"
+      },
+      {
+        "title": "Green Historical Society — Pflueger collection",
+        "url": "https://www.greenhistoricalsociety.com/pflueger-collection.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "otto-henze",
+    "name": "Otto Henze",
+    "company": "PENN Fishing Tackle",
+    "website": "https://www.pennfishing.com/",
+    "role": "Historical founder of PENN; Martha Henze led the business after his death.",
+    "founding": "Henze established PENN in Philadelphia in 1932 and began public sales in 1933.",
+    "intro": "Otto Henze started PENN after working as a machinist for another Philadelphia reel maker. The company’s history separates the 1932 manufacturing venture from its first recorded sales in 1933. It also credits Martha Henze’s leadership after the founder’s death.",
+    "sections": [
+      {
+        "title": "Machining experience preceded the new company",
+        "text": "PENN’s account places Henze’s arrival from Germany in 1922 and his subsequent employment at Ocean City Reels. He later set up his own operation in rented space within a Philadelphia machine-shop building. The 1932 venture therefore grew out of experience making reels, while the new company still needed its own designs, premises and customers. Its first manufacturing location was a loft rather than the larger factory used later. That rented arrangement placed the young manufacturer within an existing industrial building while its own sales were still being established.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Models and sales developed together",
+        "text": "The company records a first sale to a Harrisburg buyer in February 1933. Its chronology also distinguishes early model designations from the names Sea Hawk, Bayside and Long Beach used for public sales. This shows work on both the product and its presentation to customers. An original PENN catalog retrospectively discusses those early designs, giving another company-produced account of how the first assortment came together.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Martha continued the enterprise",
+        "text": "PENN moved to another Philadelphia facility in 1942. Henze died in 1948, after which his wife Martha became president. That transition is an essential part of the company’s continuity and should not disappear into a founder-only account. Later reel models belong to the organization she and subsequent leaders managed. Otto’s contribution was establishing the manufacturing venture and early range, while the company’s longer history required additional management and product work.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1932 start from 1933 public sales.",
+      "Keep the first loft distinct from the later factory.",
+      "Credit Martha’s subsequent presidency."
+    ],
+    "sources": [
+      {
+        "title": "PENN — detailed company chronology",
+        "url": "https://www.pennfishing.com/pages/about"
+      },
+      {
+        "title": "Pure Fishing — original brand history",
+        "url": "https://purefishing.com.au/our-story/"
+      },
+      {
+        "title": "PENN — original historical catalog (2005)",
+        "url": "https://www.mysticparts.com/Assets/images/pennparts/information/PennCatalogs/2005PennCatalog.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "george-rawlings",
+    "name": "George Rawlings",
+    "company": "Rawlings",
+    "website": "https://www.rawlings.com/",
+    "role": "Historical cofounder with his brother Alfred; later equipment and ownership developed separately.",
+    "founding": "The Rawlings brothers established their St. Louis sporting-goods business in 1887.",
+    "intro": "George and Alfred Rawlings began with a sporting-goods shop in St. Louis in 1887. The business later became associated particularly with baseball equipment. National Archives material and company records connect that local retail beginning with subsequent manufacturing and product development.",
+    "sections": [
+      {
+        "title": "The brothers began with a broad assortment",
+        "text": "The National Archives account identifies George and Alfred as brothers operating a retail sporting-goods shop. Their original trade was broader than the baseball gloves associated with the later brand. That distinction places the company in a selling business before every later product specialization. Two founders organized the original enterprise, and the continuing name should not reduce their shared contribution to one person.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Baseball equipment brought technical development",
+        "text": "The Archives article discusses litigation records related to baseball-glove design. It provides a view of manufacturing and intellectual-property disputes preserved in actual court holdings. Later glove changes involved players and other contributors, including the Bill Doak design described in company histories. Those developments should not be attributed automatically to George. The business grew around equipment whose form and manufacturing changed as baseball itself developed. The archival setting also distinguishes a documented court dispute from a promotional claim of absolute priority; the products and the parties were operating in an existing competitive trade.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Later corporate records show the continuing organization",
+        "text": "Rawlings’ 2019 submission to the U.S. trade authorities describes the company’s manufacturing and marketing activities and its long association with St. Louis. A 2018 announcement records an agreement to sell the business to a later investor group. These documents concern an organization more than a century after the brothers’ shop. They support a dated history of continuity and changes, while leaving the founders’ role anchored to the original retail enterprise.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Alfred alongside George.",
+      "Keep later glove designs with their documented contributors.",
+      "Separate founding history from modern transactions."
+    ],
+    "sources": [
+      {
+        "title": "National Archives — Rawlings records and company origins",
+        "url": "https://prologue.blogs.archives.gov/2012/07/09/take-me-out-to-the-ballgame-and-then-to-court/"
+      },
+      {
+        "title": "Rawlings — original trade-authority submission (2019)",
+        "url": "https://downloads.regulations.gov/USTR-2019-0004-2116/attachment_1.pdf"
+      },
+      {
+        "title": "Newell Brands — Rawlings sale-agreement announcement (2018)",
+        "url": "https://ir.newellbrands.com/news-releases/news-release-details/newell-brands-announces-agreement-sell-rawlings-sporting-goods/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "drew-mcgill",
+    "name": "Drew McGill",
+    "company": "Wright & McGill / Eagle Claw",
+    "website": "https://eagleclaw.com/",
+    "role": "Historical cofounder with Stan Wright of the Denver enterprise associated with Eagle Claw.",
+    "founding": "Wright & McGill was founded in Denver in 1925; Eagle Claw became a related product and trading identity.",
+    "intro": "Drew McGill and Stan Wright founded a Denver fishing-tackle enterprise whose products became known through Eagle Claw. The company’s current material traces its roots to 1925. Its published history links the partners’ business with the development of a recognizable hook brand.",
+    "sections": [
+      {
+        "title": "A partnership preceded the familiar hook identity",
+        "text": "The company identifies Wright and McGill together in its founding account. Its dated terms also name Wright & McGill as the organization founded in Denver in 1925 and operating under the Eagle Claw identity. The legal business name and the familiar product name are related but different pieces of the history. Keeping both names visible helps explain how the company organized and presented its tackle assortment.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A product story gave the brand a focus",
+        "text": "Eagle Claw’s account attributes the hook idea to McGill observing an eagle’s talon. This is the company’s account of inspiration, rather than independent proof that one person invented the fishing hook. The original catalog describes the partners and the development of their tackle business. A distinctive hook design could supply a recognizable product around which to build manufacture, packaging and relationships with sellers. The commercial name connected that product with a visual story that buyers could recognize on packaging and in a catalog.",
+        "sourceIndexes": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "The assortment became wider than one hook",
+        "text": "The company’s histories describe multiple tackle brands and products sold through the continuing enterprise. Such a range involves different manufacturing and merchandising tasks from the initial product story. McGill’s place remains within the founding partnership and early product development, with Wright retaining his cofounder credit. The later company’s breadth belongs to the people and operations that followed, not to an assumption that the full modern range existed in 1925.",
+        "sourceIndexes": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Stan Wright in the founding partnership.",
+      "Distinguish Wright & McGill from the Eagle Claw brand.",
+      "Attribute the talon account to the company."
+    ],
+    "sources": [
+      {
+        "title": "Eagle Claw — official company story",
+        "url": "https://eagleclaw.com/pages/about"
+      },
+      {
+        "title": "Wright & McGill — dated company terms (2024)",
+        "url": "https://eagleclaw.com/pages/terms"
+      },
+      {
+        "title": "Eagle Claw — Wright & McGill history",
+        "url": "https://home.eagleclaw.com/blog/portfolio-items/wright-mcgill/"
+      },
+      {
+        "title": "Eagle Claw — original product catalog",
+        "url": "https://assets.unilogcorp.com/187/ITEM/DOC/EAGLE_CLAW_2396530_Catalog.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "paul-c-fisher",
+    "name": "Paul C. Fisher",
+    "company": "Fisher Space Pen",
+    "website": "https://www.spacepen.com/",
+    "role": "Historical founder of Fisher’s pen business and developer of its pressurized cartridge; later family members continued the company.",
+    "founding": "Fisher’s earlier pen work preceded the pressurized design used on Apollo 7 in 1968.",
+    "intro": "Paul C. Fisher built a writing-instrument business before the Space Pen’s association with spaceflight. His company’s account connects earlier pen and refill work with a later sealed, pressurized cartridge. The product’s adoption by NASA was another milestone, distinct from establishing the underlying business.",
+    "sections": [
+      {
+        "title": "The pen business preceded the space application",
+        "text": "Fisher’s company history discusses earlier work on refills before the cartridge associated with the Space Pen. This matters because the familiar spaceflight story can hide the existing writing-instrument enterprise. A refill is a manufactured component within a pen system, linking ink, reservoir and writing point. Developing that component supplied experience relevant to the later product without making every previous Fisher pen a Space Pen.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A cartridge design connected technology and manufacture",
+        "text": "The official explanation describes a sealed cartridge using pressure to move ink toward the tip. It identifies Paul as the independent developer of the astronaut pen selected after NASA evaluation. These are separate roles: developing the product, making it and having an institutional user adopt it. The company account does not require a story in which NASA created the business or financed the founder’s entire development effort.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Apollo became part of a continuing company identity",
+        "text": "The company dates the first Apollo use to the Apollo 7 mission in 1968. Its history also includes statements from later family members, showing continuity beyond the original inventor. Spaceflight supplied a distinctive part of the brand’s story, while manufacturing and selling writing instruments remained the business activity. Paul’s historical contribution lies in the pen enterprise and cartridge development; later product ranges and management belong to succeeding company periods. The company presents that spaceflight connection alongside the continuing sale of pens and replacement cartridges, linking the historical event to a wider writing-instrument range.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate earlier pen work from the pressurized cartridge.",
+      "Distinguish independent development from NASA adoption.",
+      "Keep later family leadership in its own period."
+    ],
+    "sources": [
+      {
+        "title": "Fisher Space Pen — official company story",
+        "url": "https://www.spacepen.com/our-story"
+      },
+      {
+        "title": "Fisher Space Pen — technical and historical FAQ",
+        "url": "https://www.spacepen.com/faqs"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-mathias-bernhardt",
+    "name": "John Mathias Bernhardt",
+    "company": "Bernhardt Furniture",
+    "website": "https://www.bernhardt.com/",
+    "role": "Historical founder of Bernhardt Furniture; later family generations developed additional divisions.",
+    "founding": "Bernhardt founded his Lenoir, North Carolina, furniture enterprise in 1889.",
+    "intro": "John Mathias Bernhardt established a furniture business in Lenoir in 1889. Company histories place the venture within the region’s timber and woodworking economy. It developed from an early factory into an organization with different furniture divisions and successive family managers.",
+    "sections": [
+      {
+        "title": "Local materials and skills supported the factory",
+        "text": "Bernhardt’s original company account describes the use of nearby timber and local woodworking experience. Its textiles division’s historical retrospective identifies the early factory and its first workforce. The founder was organizing production around resources already present in western North Carolina. The business still had to bring those resources together as furniture that could be made, finished and sold, rather than merely owning a supply of wood. The company identifies native white oak in its early bedroom furniture and describes connections with merchants in Chicago and New York, extending the local factory’s customer reach.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The company weathered changes beyond the first plant",
+        "text": "The company timeline follows factory development and a damaging fire that forced the family to decide whether to continue. Such episodes show manufacturing as an ongoing organizational task, with premises and production capacity needing to be rebuilt or adapted. They also place the founder’s work within a longer company history. The later organization was shaped by managers and workers responding to events the original factory could not anticipate.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Different markets acquired their own divisions",
+        "text": "Bernhardt Design’s account connects the original enterprise with its later work for commercial interiors. The broader company timeline follows additional residential and hospitality ranges and changes in family leadership. Those divisions were not all present at the 1889 beginning. John Mathias’s historical role was establishing the furniture enterprise in Lenoir; subsequent generations developed the different design, manufacturing and selling activities that made the business broader.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the 1889 factory distinct from later divisions.",
+      "Follow manufacturing and workforce development alongside design.",
+      "Date each generation’s management separately."
+    ],
+    "sources": [
+      {
+        "title": "Bernhardt — detailed company chronology",
+        "url": "https://www.bernhardt.com/company/the-bernhardt-story/"
+      },
+      {
+        "title": "Bernhardt Design — corporate history",
+        "url": "https://bernhardtdesign.com/corporate-page/"
+      },
+      {
+        "title": "Bernhardt Textiles — company anniversary retrospective",
+        "url": "https://bernhardttextiles.com/discover/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "james-edgar-broyhill",
+    "name": "James Edgar Broyhill",
+    "company": "Broyhill / Lenoir Chair Company",
+    "website": "https://www.broyhillfurniture.com/",
+    "role": "Historical founder of Lenoir Chair Company, the enterprise associated with Broyhill Furniture Industries.",
+    "founding": "Broyhill established Lenoir Chair Company in North Carolina in 1926, after earlier work in his brother’s furniture business.",
+    "intro": "James Edgar Broyhill, often called Ed, founded Lenoir Chair Company in 1926. His earlier experience included selling and keeping books in his brother Tom’s furniture business. Family accounts and the brand’s history describe a manufacturer developing from chairs into a broader coordinated assortment.",
+    "sections": [
+      {
+        "title": "An earlier family business supplied experience",
+        "text": "A descendant’s published account describes Ed working as a salesman, clerk and bookkeeper for Tom Broyhill. That business had moved from individual furniture pieces toward coordinated bedroom groups. Ed’s experience therefore included both the product and the commercial side of manufacturing: dealing with customers, organizing orders and recording the business. It preceded his own company and should not be confused with his 1926 founding date.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Lenoir Chair became the base of a wider enterprise",
+        "text": "The current brand history identifies the Lenoir Chair Company as the new venture and connects it with a disrupted supply relationship. Later acquisitions added factories and broadened manufacturing. The initial company and the larger Broyhill organization developed at different stages. Making chairs was a defined production activity; adding other furniture meant coordinating a wider range of work, facilities and products for buyers. The Lenoir setting connected this new production venture with an already established regional furniture industry.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The next generation organized a common identity",
+        "text": "In an oral-history interview, son Paul Broyhill discusses the family businesses and bringing sales under a common Broyhill name. That firsthand account supplies another perspective on how the enterprise became more coordinated. Modern use of the brand is a later chapter, separate from Ed’s original factory. The founder’s history connects early experience in a relative’s business with the new chair company, while later managers retain credit for consolidating and extending it.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate Tom’s earlier business from Ed’s 1926 venture.",
+      "Distinguish the chair factory from the later wider organization.",
+      "Read Paul’s recollections as a dated participant account."
+    ],
+    "sources": [
+      {
+        "title": "Broyhill — official heritage timeline",
+        "url": "https://www.broyhillfurniture.com/collections/all"
+      },
+      {
+        "title": "American Home Furnishings Hall of Fame — Paul Broyhill oral history",
+        "url": "https://www.homefurnishingshalloffame.com/paul-hunt-broyhill-broyhill-furniture"
+      },
+      {
+        "title": "James Broyhill — direct family history",
+        "url": "https://www.jamesbroyhill.com/the-broyhill-legacy"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "henry-hekman",
+    "name": "Henry Hekman",
+    "company": "Hekman Furniture",
+    "website": "https://hekman.com/",
+    "role": "Historical cofounder with John and Jelle Hekman and James Boonstra; the company site reported it was no longer accepting orders when reviewed.",
+    "founding": "Hekman Furniture began in Grand Rapids, Michigan, in 1922; earlier family bakeries were separate ventures.",
+    "intro": "Henry Hekman helped establish a furniture manufacturer with his brothers John and Jelle and production engineer James Boonstra. Their 1922 venture began with tables in Grand Rapids. It followed an earlier family history in baking, rather than continuing a furniture factory founded by their father.",
+    "sections": [
+      {
+        "title": "The family had worked in a different trade",
+        "text": "Denver Academy’s campus history describes Edsko Hekman Sr. as a Dutch baker who moved to the United States with his family in 1893. Unable to obtain the furniture work he had hoped for, he built a baking business. Henry later helped operate a Denver bakery and returned to Michigan after his father’s death in 1917. Those earlier activities give context to the family’s business experience without making Edsko the founder of the furniture company organized five years later.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Four participants started the furniture company",
+        "text": "Hekman’s own history names Henry, John, Jelle and their friend James Boonstra in the 1922 formation. Boonstra brought production-engineering experience. The initial assortment consisted of thirty tables, a defined product range around which the young manufacturer could organize its work. Henry’s founder association is therefore part of a partnership involving both family members and an experienced outside collaborator, rather than a single-person workshop narrative.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The enterprise changed products and owners",
+        "text": "The company chronology follows later ownership by Beatrice Foods and its acquisition by Howard Miller in 1983. Furniture for home offices became an additional direction during the 1980s. These are later organizational and product chapters, distinct from Henry’s founding period. When this profile was reviewed in November 2026, Hekman’s official site displayed a notice that it was no longer accepting orders. Its retained history describes the earlier business; that history does not establish that a present order can be placed.",
+        "sourceIndexes": [
+          0
+        ]
+      }
+    ],
+    "checks": [
+      "Credit all four participants in the 1922 formation.",
+      "Keep the earlier family bakeries separate from furniture manufacturing.",
+      "Read the current order-status notice alongside the retained company history."
+    ],
+    "sources": [
+      {
+        "title": "Hekman — company history and current order-status notice",
+        "url": "https://hekman.com/pages/hekman-company-history"
+      },
+      {
+        "title": "Denver Academy — campus archive account of the Hekman family",
+        "url": "https://sites.google.com/a/denveracademy.org/da-history/the-hekman-family"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "s-duncan-black",
+    "name": "S. Duncan Black",
+    "company": "Black & Decker",
+    "website": "https://www.blackanddecker.com/",
+    "role": "Historical cofounder with Alonzo G. Decker; later products were developed by the continuing company.",
+    "founding": "Black and Decker opened their Baltimore machine shop in 1910, before the later portable-drill business.",
+    "intro": "S. Duncan Black and Alonzo G. Decker established a machine shop in Baltimore in 1910. The company later became closely associated with portable electric drills. Museum and government accounts help separate the broader early shop work from the product that made its name familiar.",
+    "sections": [
+      {
+        "title": "The first shop made more than drills",
+        "text": "A Canadian government industry history describes early work including machinery for capping milk bottles, small calculating devices and other manufacturing equipment. That assortment places the partners in a general machine-making business before their better-known power tools. They brought together mechanical work and commercial organization around a range of customers, rather than opening with the full household-tool catalog associated with the later brand. This range makes the initial enterprise recognizable as a machine shop taking on varied work before the portable tool became its defining product.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The portable drill became a different commercial focus",
+        "text": "The Baltimore Museum of Industry describes the partners’ work on a portable drill with a pistol-style grip and trigger control. The design connected a machine’s power with a form that a worker could hold and operate. It was a particular development within electric tools, not the invention of electricity-driven drilling in every form. The museum also describes how experience with industrial buyers revealed a wider potential market.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A new customer base changed the business",
+        "text": "Moving beyond factory use required a different way of selling and presenting tools. The museum’s account connects that shift with demand from people who wanted access to the equipment outside the workplace. Later outdoor and household products belong to the continuing organization. Black’s founding role remains shared with Decker, and the chronology moves from their machine shop to a specialized product business and then a wider range of users.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Decker as cofounder.",
+      "Distinguish the 1910 shop from the later drill design.",
+      "Keep subsequent household products outside the original assortment."
+    ],
+    "sources": [
+      {
+        "title": "Stanley Black & Decker — brand history",
+        "url": "https://www.stanleyblackanddecker.com/brands/tools/black-decker"
+      },
+      {
+        "title": "Baltimore Museum of Industry — company exhibit",
+        "url": "https://www.thebmi.org/exhibits/black-decker/"
+      },
+      {
+        "title": "Government of Canada — original industry history (1976)",
+        "url": "https://publications.gc.ca/collections/collection_2019/isde-ised/id31/Id31-50-1976.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "karl-peterson",
+    "name": "Karl Peterson",
+    "company": "Crescent Tool",
+    "website": "https://www.crescenttool.com/",
+    "role": "Historical founder of Crescent Tool Company; unrelated to William Petersen’s Nebraska Vise-Grip venture.",
+    "founding": "Peterson established Crescent Tool in Jamestown, New York, in 1907.",
+    "intro": "Karl Peterson founded Crescent Tool Company in Jamestown in 1907. Its adjustable wrench became closely associated with the company’s name. Official company and municipal histories place that product within an existing toolmaking trade rather than crediting Peterson with every earlier form of adjustable wrench.",
+    "sections": [
+      {
+        "title": "The new company followed earlier toolmaking work",
+        "text": "Jamestown’s historical-marker account identifies Peterson as a Swedish immigrant and places the new enterprise in the city’s manufacturing economy. Company material dates Crescent’s start to 1907. The founder was organizing a tool business with production and sales responsibilities, not simply registering a product name. That context helps distinguish Crescent from other manufacturers whose similarly named founders worked in different places and on different gripping tools.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The wrench became a recognizable commercial product",
+        "text": "Crescent’s account places its adjustable wrench after the company’s founding. The municipal history discusses earlier adjustable-wrench ideas, making clear that the general category did not originate with Crescent. What followed was manufacturing and marketing a specific design under a name buyers remembered. The relationship between product and company became strong enough that the brand is often encountered in descriptions of the tool type itself.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Later materials and ownership marked additional stages",
+        "text": "The Jamestown marker records the later Crestoloy development and a 1968 acquisition by Cooper Industries. These are subsequent company milestones, not events in the original 1907 startup. Peterson’s historical role is the formation and development of the Jamestown tool enterprise. Its longer history includes product changes and different corporate owners, with each stage requiring its own date rather than being folded into a single founding story. The marker presents these developments as separate dates, giving the founding, material changes and corporate transition their own places in the local record.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Karl Peterson distinct from William Petersen.",
+      "Separate a branded wrench from the whole adjustable-wrench category.",
+      "Date later materials and ownership changes separately."
+    ],
+    "sources": [
+      {
+        "title": "Crescent — official brand timeline",
+        "url": "https://www.crescenttool.com/our-brands/crescent"
+      },
+      {
+        "title": "Crescent — historical FAQ",
+        "url": "https://www.crescenttool.com/support/faqs"
+      },
+      {
+        "title": "City of Jamestown — historical-marker documentation",
+        "url": "https://www.jamestownny.net/wp-content/uploads/2019/12/WEB-Historical_Marker_Booklet_12022019.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "gustav-stickley",
+    "name": "Gustav Stickley",
+    "company": "Gustav Stickley / Craftsman Workshops",
+    "website": "https://www.stickleymuseum.org/",
+    "role": "Historical founder of his own furniture enterprise and Craftsman publishing activity; distinct from his brothers’ L. & J.G. company.",
+    "founding": "Stickley worked with brothers before establishing his own Syracuse-area enterprise in the late 1890s.",
+    "intro": "Gustav Stickley combined furniture manufacture with publishing and a wider vision of domestic design. His history includes an earlier brothers’ business and a later enterprise of his own. The different Stickley companies are related through family, but they should not be treated as one founding event.",
+    "sections": [
+      {
+        "title": "Family workshop experience preceded an independent enterprise",
+        "text": "The museum’s biography describes Stickley learning furniture work in an uncle’s Pennsylvania factory. He later joined Albert and Charles in a furniture business before organizing his own operation near Syracuse. The museum dates that independent venture to 1898, while the family collection’s archival summary uses 1899. Both place it in the late 1890s, after the earlier shared business rather than at the beginning of all Stickley furniture activity.",
+        "sourceIndexes": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "Furniture and publishing expressed a common approach",
+        "text": "Around 1900, Stickley developed the furniture associated with his Arts and Crafts work. His Craftsman publication extended the enterprise into ideas about homes and interiors. The company’s shop-mark history identifies different marks used for United Crafts and Craftsman Workshops, helping distinguish periods and organizations. These were related ways of presenting design and manufacture, rather than evidence that every item bearing a Stickley name came from Gustav’s shop. The marks also identify distinct workshops.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "His brothers’ company followed a separate path",
+        "text": "The current company history identifies Leopold and John George with L. & J.G. Stickley. Their work, later adaptations and subsequent owners form another part of the family’s industrial history. Gustav’s own business experienced financial difficulty and ended differently. Keeping the enterprises distinct preserves the substance of his contribution: a manufacturer and publisher developing a coordinated design outlook, alongside brothers who organized and continued their own furniture operation.",
+        "sourceIndexes": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the brothers’ companies and their shop marks.",
+      "Keep the late-1890s date variation attributed.",
+      "Connect publishing with Gustav’s own design enterprise."
+    ],
+    "sources": [
+      {
+        "title": "Stickley Museum — historical biography",
+        "url": "https://www.stickleymuseum.org/history/"
+      },
+      {
+        "title": "Stickley — company and family history",
+        "url": "https://www.stickley.com/pages/the-stickley-story"
+      },
+      {
+        "title": "Stickley — original shop-mark history",
+        "url": "https://www.stickley.com/blogs/stickley-blog/reading-the-signs-stickley-shop-marks-and-notations"
+      },
+      {
+        "title": "Henry Ford archive — Stickley family collection",
+        "url": "https://www.dalnet.org/henryford/docs/StickleyFamilyCollection_Accession1624.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "carl-e-weller",
+    "name": "Carl E. Weller",
+    "company": "Weller",
+    "website": "https://www.weller-tools.com/",
+    "role": "Historical founder of the Pennsylvania Weller business; later European operations and corporate owners developed separately.",
+    "founding": "Weller’s company dates its Pennsylvania establishment to 1945, followed by a Speed Iron patent in 1946.",
+    "intro": "Carl E. Weller established a soldering-tool business in Pennsylvania in 1945. The company’s historical material places product patents and international expansion in later stages. Its development connects a specific workshop tool with a manufacturer serving electronics and other assembly work.",
+    "sections": [
+      {
+        "title": "The company followed earlier work on a soldering tool",
+        "text": "Weller’s original catalog describes the founder’s work on a soldering gun before the formal company beginning. The official chronology places the Pennsylvania enterprise in 1945 and a Speed Iron patent in 1946. These are distinct milestones: developing a mechanism, organizing a manufacturer and obtaining a patent. Their sequence is more useful than assigning every event to one anniversary date.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Tools developed into systems for bench work",
+        "text": "The company’s timeline follows temperature-control designs and additional soldering products. Such equipment served a task performed repeatedly at a workbench, where a tool, tip and power source function together. The development therefore involved more than changing the shape of a handheld object. Later product systems grew around the operating context in which customers assembled or repaired electrical and electronic components. The timeline names the later Magnastat development, placing temperature-control work alongside the earlier soldering gun. It follows one product direction into additional equipment rather than describing every later system as part of the original 1945 launch.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "European operations and ownership came later",
+        "text": "The history places Weller’s European establishment in 1959 and its move into Cooper Industries in 1969. Current company material identifies the later relationship with Apex Tool Group. These chapters are separate from Carl’s original Pennsylvania enterprise. His founder association concerns the early tool and company; later geographic expansion, acquisitions and broader product lines reflect the continuing organization and the people who managed it afterward.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate product development, company formation and patent dates.",
+      "Keep European expansion distinct from the Pennsylvania beginning.",
+      "Treat later corporate ownership as a separate period."
+    ],
+    "sources": [
+      {
+        "title": "Weller — official product and company chronology",
+        "url": "https://www.weller-tools.com/us/en/why-weller"
+      },
+      {
+        "title": "Weller — official company profile",
+        "url": "https://www.linkedin.com/company/weller-soldering-tools/"
+      },
+      {
+        "title": "Weller — original historical catalog (2016–17)",
+        "url": "https://media-weller.de/weller/data/ebooks/epaper-Weller_Katalog_2016-17_DE/index.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "hans-georg-knoll",
+    "name": "Hans G. Knoll",
+    "company": "Knoll",
+    "website": "https://www.knoll.com/",
+    "role": "Historical founder of the 1938 company; Florence Schust Knoll was a central partner in its subsequent development.",
+    "founding": "Hans formed his New York furniture company in 1938; its design-and-planning business developed with Florence in the early 1940s.",
+    "intro": "Hans Knoll established a furniture company in New York in 1938, drawing on a family background in manufacturing. Its development depended on a network of designers and on Florence Schust Knoll’s architectural work. Their complementary responsibilities connected the sale of furniture with the planning of entire interiors.",
+    "sections": [
+      {
+        "title": "An import idea became domestic production",
+        "text": "Knoll’s biography describes Hans moving from Germany through England to New York in 1937. He initially planned to import European designs, then shifted toward domestic products when imports became difficult. Jens Risom joined the work in 1941, helping with space planning and designing pieces for projects. Hans established a manufacturing plant in a former dance hall in East Greenville, Pennsylvania. The enterprise was assembling design, production and customer relationships together.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Florence shaped a different kind of furniture business",
+        "text": "Florence’s recollections describe taking interior-planning work for Hans during the war while employed in architectural offices. She connected the company with other designers and developed the Planning Unit from her architectural interests. Company accounts vary between 1941 and 1943 for the beginning of that association, but agree on its importance; Hans and Florence married in 1946. Her role was substantive business development, not simply a family connection added to an already completed enterprise.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Collaborators gave the company its range",
+        "text": "The published oral histories bring together architects, designers and executives who worked with the company. They describe relationships behind commissions, showrooms and products, rather than presenting every object as Hans’s own design. Hans’s commercial work and Florence’s planning direction supported contributions by Risom, Saarinen, Bertoia and others. Hans died in 1955, and Florence continued leading the design organization. The resulting history combines a founder’s manufacturing ambition with a partner’s architectural vision and a wider creative network.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the 1938 company distinct from Florence’s early-1940s arrival.",
+      "Credit designers for their own work.",
+      "Separate Hans’s lifetime from Florence’s subsequent leadership."
+    ],
+    "sources": [
+      {
+        "title": "Knoll — historical biography of Hans Knoll",
+        "url": "https://www.knoll.com/designer/Hans-Knoll"
+      },
+      {
+        "title": "Knoll — company background and planning history",
+        "url": "https://www.knoll.com/design-plan/about-knoll"
+      },
+      {
+        "title": "Knoll — published participant oral histories (2015)",
+        "url": "https://www.knoll.com/media/288/751/knoll-transcripts.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
