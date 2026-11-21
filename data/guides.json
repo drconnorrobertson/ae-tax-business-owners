@@ -8252,5 +8252,661 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "provider-legal-name-identity-file",
+    "title": "Build a provider legal-name and trading-name identity file",
+    "category": "Provider due diligence",
+    "description": "Connect a directory listing, proposal, invoice and agreement to the same provider before onboarding.",
+    "intro": "A familiar brand name is a useful starting point for research, but the name on a directory card may differ from the entity sending a proposal or receiving payment. Build a small identity file before approving a provider. Its purpose is to explain the connections among those names, record what you checked, and give your purchasing or accounting contact a usable trail. A matching logo alone does not resolve an unexplained name difference.",
+    "sections": [
+      {
+        "title": "Separate the names by purpose",
+        "text": "Create fields for the advertised brand, proposed contracting party, invoice issuer and payment recipient. Copy names exactly from the documents rather than silently shortening them. Add the business address, website domain, contact channel and date of each observation. If a franchise office, subsidiary or individual practice is involved, ask which entity will perform the work and which will invoice it. Do not infer a parent guarantee or common ownership from similar branding. An unresolved connection belongs in the questions column until the provider supplies an explanation."
+      },
+      {
+        "title": "Use the appropriate public record",
+        "text": "SBA business-launch guidance distinguishes legal entity names from other business names and explains that registration requirements depend on structure and location. Use the relevant official state or local source for the question you actually need answered. Save the record link, exact search name, status wording and lookup date. A record can help establish an entity identity without proving service quality, financial strength, licensing or the authority of a particular salesperson. Ask a qualified professional to interpret legal status or contracting consequences when those matter to the engagement."
+      },
+      {
+        "title": "Worked example: three names on one purchase",
+        "text": "A hypothetical design studio advertises as Harbor Creative, proposes an agreement through Harbor Studio LLC, and asks for payment to a different business name. The buyer records all three, asks the studio to explain the payment recipient, and confirms the response through a contact route already obtained independently. The buyer does not replace the discrepancy with a guess. Accounting receives the resolved identity note alongside the approved agreement so that the same uncertainty does not return with the first invoice."
+      },
+      {
+        "title": "Maintain the file after selection",
+        "text": "Assign one person to own identity changes during the engagement. A new invoice issuer or payment recipient should trigger a fresh check, even if the project manager has not changed. Keep the prior document, the new document and the explanation together. Use your established payment-control process for bank changes; this identity worksheet does not authorize a transfer. Revisit the file at renewal, acquisition notices or a change of contracting party. Close the review with an explicit resolved or unresolved status rather than a vague checked box."
+      }
+    ],
+    "checklist": [
+      "Advertised brand and exact proposed contracting name",
+      "Official record URL, lookup date and scope of what it establishes",
+      "Invoice issuer and independently confirmed payment-recipient explanation",
+      "Named owner for changes and unresolved identity questions"
+    ],
+    "questions": [
+      "Which entity is accepting the engagement?",
+      "Why do any names differ across these documents?",
+      "Who will confirm a later change before accounting uses it?"
+    ],
+    "source": "https://www.sba.gov/counseling/launch-your-business/",
+    "sourceLabel": "SBA business-launch guidance provides name-registration context; this identity-file workflow is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "named-delivery-team-qualification-review",
+    "title": "Review the qualifications of the people doing the work",
+    "category": "Provider due diligence",
+    "description": "Distinguish a provider’s firm-level advertising from the qualifications and responsibilities of the assigned team.",
+    "intro": "A proposal can describe an impressive firm without identifying the people who will handle your records or make the decisions that matter. Review qualifications at the task level. The question is not whether every employee has the same credential. It is whether the named people have an appropriate role, whether any regulated activity has the required oversight, and whether you know who answers for the final work.",
+    "sections": [
+      {
+        "title": "Map activities before collecting credentials",
+        "text": "List the engagement activities in plain language: collecting records, preparing a reconciliation, giving a specialist opinion, signing a return or reviewing a deliverable. For each, record the assigned person, reviewer and substitute. Ask the provider to identify which activities require a particular license or authorization in your situation. A generic team biography cannot answer that question. Keep experience claims separate from credentials, and separate both from the scope of work actually purchased. This also prevents a senior sales presenter from becoming an assumed delivery commitment."
+      },
+      {
+        "title": "Verify the claim in its proper scope",
+        "text": "The IRS explains that tax-return preparers have different credentials and representation rights. That official distinction is relevant when buying tax work; it does not rate every business adviser or establish competence for unrelated services. For a claimed license or designation, use the relevant issuer or regulator, record the exact name searched and preserve the result date. Ask about ambiguous or unmatched records. Do not treat a directory badge, course certificate or association membership as interchangeable with a professional license."
+      },
+      {
+        "title": "Worked example: the partner and the assigned preparer",
+        "text": "A hypothetical owner meets a credentialed partner during sales but learns that another person will prepare the annual return. The owner asks who prepares, who reviews, who signs and who would handle a notice within the purchased scope. The resulting team sheet names the actual roles and identifies whether notice work requires a separate engagement. The buyer is comparing accountability, not assuming the partner personally performs every task. A promised review is written into the service description rather than left in meeting notes."
+      },
+      {
+        "title": "Plan for substitutions",
+        "text": "Request a notification process when the lead, reviewer or specialist changes. Define what information the buyer needs before approving a replacement: relevant task experience, credential where applicable, availability and access requirements. Keep personal information proportionate to the business purpose; there is no need to collect private identity documents for ordinary research. At kickoff, confirm that the promised team is still assigned and that escalation contacts work. At renewal, check responsibilities again because a stable firm name can hide a different delivery arrangement."
+      }
+    ],
+    "checklist": [
+      "Named preparer or operator, reviewer and escalation contact",
+      "Exact credential claim with relevant official verification source",
+      "Tasks included, specialist tasks excluded and substitution procedure",
+      "Written confirmation of the promised review responsibility"
+    ],
+    "questions": [
+      "Who will perform the specific work I am buying?",
+      "What does the credential establish for that task?",
+      "What happens if the assigned reviewer becomes unavailable?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications",
+    "sourceLabel": "IRS credential guidance supplies tax-preparer context; the team-review worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-reference-call-evidence-sheet",
+    "title": "Run a structured provider reference call",
+    "category": "Provider due diligence",
+    "description": "Collect comparable first-hand observations without turning a reference call into an unsupported rating.",
+    "intro": "References are most useful when they describe a comparable engagement and distinguish direct observation from general enthusiasm. Build an evidence sheet before the call. Record the relationship, the work purchased, the period involved and the reference’s own role. Ask permission to take notes for an internal buying decision. Do not publish a testimonial or attribute a quotation without appropriate permission.",
+    "sections": [
+      {
+        "title": "Choose questions that can produce evidence",
+        "text": "Ask about a concrete event: a missed input, a changed deadline, a disputed invoice or an incomplete delivery. Invite the reference to explain what happened, how the provider responded and what remained unresolved. Avoid leading questions that merely invite agreement with the provider’s sales claims. Record whether the reference personally saw the event. If they inherited the engagement later, distinguish inherited history from their own experience. A reference selected by the provider is a useful perspective, but it is not a representative customer survey."
+      },
+      {
+        "title": "Compare the underlying engagement",
+        "text": "A provider that worked well for a single-location retailer may be handling a different problem from yours. Capture team size, deliverables, systems, buyer responsibilities and the kind of change being managed. Do not demand confidential financial figures or proprietary records. Use broad operational descriptions where they are enough. Mark missing information as unknown rather than scoring it as a failure. Keep your evaluation criteria fixed across calls so that a more talkative reference does not automatically receive a higher score."
+      },
+      {
+        "title": "Worked example: two positive references",
+        "text": "A hypothetical buyer hears that both shortlisted providers were responsive. One reference means emails were acknowledged within a day; another means urgent payroll issues were resolved before a cutoff. The evidence sheet preserves those different meanings. The buyer asks each provider to state its own escalation arrangement for the proposed work, instead of converting two positive comments into identical response-time promises. A second call can then explore a comparable urgent event with clearer questions."
+      },
+      {
+        "title": "Write a conclusion with limits",
+        "text": "Finish the sheet with supported observations, contradictions and follow-up questions. Do not turn a small selected sample into a numerical satisfaction rate. FTC endorsement guidance explains why material relationships and the context of endorsements matter; an internal reference call is not automatically an advertisement, but relationships still help a buyer interpret evidence. Ask whether the reference has a referral, ownership or other business connection relevant to the introduction. Keep factual notes separate from your assessment, restrict access appropriately, and preserve the date so the evidence is not treated as timeless."
+      }
+    ],
+    "checklist": [
+      "Reference role, engagement period and permission for internal notes",
+      "Comparable scope and first-hand examples",
+      "Any relevant referral or other business relationship disclosed",
+      "Supported observations separated from buyer interpretation"
+    ],
+    "questions": [
+      "What did you personally observe?",
+      "What happened when the engagement encountered a problem?",
+      "Which part of your experience is least comparable with ours?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews",
+    "sourceLabel": "FTC endorsement resources provide relationship-disclosure context; this reference-call worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-work-sample-provenance-check",
+    "title": "Check a provider work sample’s provenance and permissions",
+    "category": "Provider due diligence",
+    "description": "Understand who created a sample, what it demonstrates and whether the provider can share it.",
+    "intro": "A polished work sample can help you understand an adviser’s approach, but it is evidence only of what you can actually trace. Before using it in a buying decision, ask whether it is a real client deliverable, a fictional demonstration, a template or a team exercise. Each can be useful. The problem begins when a demonstration is presented as a completed engagement or someone else’s contribution is silently attributed to the proposed team.",
+    "sections": [
+      {
+        "title": "Record what the sample is",
+        "text": "Create a cover note with the sample date, purpose, creator roles and the parts the provider claims as its work. Ask what has been removed, changed or anonymized. A redacted report may conceal details needed to assess a calculation, so record that limit rather than demanding confidential material. If the sample is fictional, evaluate its reasoning and usability without treating it as proof of client results. Ask how closely the format resembles the deliverable included in your proposal."
+      },
+      {
+        "title": "Respect the right to share",
+        "text": "The Copyright Office explains that authorship and ownership can differ in works made for hire and that the applicable conditions matter. Do not assume that possessing a client document gives a provider permission to distribute it. Request confirmation that the sample may be shared for this purpose and that confidential information has been handled appropriately. Ask qualified counsel about disputed ownership, licenses or confidentiality obligations. Your evidence sheet records the provider’s explanation; it does not issue a legal opinion that all rights have been cleared."
+      },
+      {
+        "title": "Worked example: an attractive dashboard",
+        "text": "A hypothetical provider shows a dashboard created during a prior joint project. The buyer learns that a software vendor built the underlying connector while the provider designed the reporting categories and monthly review. The buyer records those contributions and requests a demonstration of the provider’s actual review process. That is more informative than either dismissing the whole sample or crediting the provider with every technical component. The proposal can then identify who will supply the connector for the new engagement."
+      },
+      {
+        "title": "Test the sample against your decision",
+        "text": "Use a short rubric: relevance to your inputs, clarity of assumptions, handling of exceptions, traceability to source records and usefulness to the intended reader. Ask the provider to walk through one exception rather than only presenting the best page. Check whether the proposed team can explain the sample and whether the promised service includes the same review steps. Store only the version you are permitted to keep, record any limits on onward sharing, and remove unnecessary client details from internal comparison notes."
+      }
+    ],
+    "checklist": [
+      "Sample type, date and claimed creator contributions",
+      "Permission-to-share explanation and redaction limits",
+      "Difference between sample scope and proposed deliverable",
+      "One demonstrated exception traced from input to output"
+    ],
+    "questions": [
+      "Is this client work, a template or a fictional demonstration?",
+      "Which parts did the proposed team create?",
+      "What may we retain or share internally?"
+    ],
+    "source": "https://www.copyright.gov/circs/circ30.pdf",
+    "sourceLabel": "Copyright Office Circular 30 supplies limited authorship context; this sample-review workflow is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "paid-provider-pilot-acceptance-gates",
+    "title": "Set acceptance gates for a paid provider pilot",
+    "category": "Provider due diligence",
+    "description": "Design a bounded paid trial with observable outputs before considering a longer service engagement.",
+    "intro": "A paid pilot should answer a defined buying question. It is not useful merely because it is shorter than the proposed contract. Decide what uncertainty the trial will resolve, what inputs you can safely supply, and what evidence would support continuing, revising or stopping. Agree on the pilot price and scope directly with the provider; this guide offers no market-rate assumption or promise that a trial predicts every future outcome.",
+    "sections": [
+      {
+        "title": "Choose one operational question",
+        "text": "Examples include whether records can be imported without losing identifiers, whether an assigned analyst can explain exceptions, or whether a reporting format helps a manager make a recurring decision. Keep the question narrow enough to observe within the trial. Set the start condition, input set, delivery date and named reviewers. A pilot that requires a complete implementation before it begins is not a small test. Identify tasks excluded from the trial so an incomplete test is not mistaken for a failed full-service engagement."
+      },
+      {
+        "title": "Write observable acceptance gates",
+        "text": "Define the required artifact and how you will inspect it. Instead of good-quality report, specify a report that reconciles to an agreed source total, includes an exception list and identifies unresolved inputs. Record which defects prevent acceptance and which can be corrected later. Decide how many revisions are included and who approves the final output. Keep contract language and liability questions with qualified counsel. The operational gate sheet helps explain expectations; it does not replace the agreement or establish legal remedies."
+      },
+      {
+        "title": "Worked example: a record-migration trial",
+        "text": "A hypothetical wholesaler supplies a sanitized set of 40 records with known duplicate IDs and missing fields. The provider returns an import file, mapping note and exception log. The buyer tests whether all 40 inputs are accounted for, whether duplicates were flagged and whether unresolved fields remain visible. Passing this trial supports a decision about the migration method. It does not establish that an entire production database has already been checked, nor does it prove the provider can deliver unrelated advisory work."
+      },
+      {
+        "title": "Control the trial environment and exit",
+        "text": "FTC cybersecurity guidance emphasizes protecting business data and managing vendor access. Give a pilot only the data and permissions needed for its purpose, with an owner who can remove access afterward. Record where trial outputs will be stored, who may retain them and how open issues will be handed back. At the decision meeting, compare the actual evidence with the gates set before work began. Continue, revise or stop with written reasons; avoid extending a trial indefinitely because nobody scheduled the decision."
+      }
+    ],
+    "checklist": [
+      "One uncertainty, bounded input set and observable output",
+      "Agreed review method, corrections and decision date",
+      "Limited access with an owner and removal step",
+      "Continue, revise or stop decision supported by trial evidence"
+    ],
+    "questions": [
+      "What will this pilot prove and leave untested?",
+      "How will we inspect the acceptance criteria?",
+      "What happens to data and access when the trial ends?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC cybersecurity guidance provides data-protection context; pilot design and acceptance gates are original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "outcome-fee-baseline-evidence-plan",
+    "title": "Build an evidence baseline for an outcome-based provider fee",
+    "category": "Provider due diligence",
+    "description": "Define measurements, exclusions and attribution questions before comparing fees tied to results.",
+    "intro": "An outcome-based proposal needs more than an attractive percentage. A buyer must understand the measured outcome, the baseline, the observation window and the events that can change the result independently of the provider. Build an evidence plan before considering the fee calculation. This worksheet supports a commercial discussion; tax, legal and accounting treatment of a proposed arrangement belongs with appropriately qualified professionals.",
+    "sections": [
+      {
+        "title": "Define the measured quantity",
+        "text": "Use a quantity that can be reproduced from identified records. State the unit, source system, measurement date and person responsible for extracting it. Distinguish collected cash from invoiced sales, a forecast from an actual result, and a gross improvement from an improvement after implementation costs. Ask which definition appears in the agreement. A term such as savings is incomplete unless the parties can explain what costs are included, which period is compared and how later reversals affect the measurement."
+      },
+      {
+        "title": "Preserve a usable baseline",
+        "text": "Save the starting dataset and the method used to create it before work changes the process. Note known omissions, unusual events and any adjustments. Restrict access to sensitive information and retain a version that can be independently reviewed. IRS recordkeeping guidance explains the importance of supporting records for business transactions; it does not prescribe this fee model or approve a provider’s claims. Here, the underlying lesson is practical: a calculated outcome is easier to discuss when its inputs remain traceable."
+      },
+      {
+        "title": "Worked example: collection improvement",
+        "text": "A hypothetical buyer considers a fee tied to reduced overdue invoices. The starting balance includes a disputed invoice, a customer already scheduled to pay and several invoices issued incorrectly. The buyer and provider define separate categories before the work begins. They record later collections, credit notes and write-offs separately instead of treating every decrease in the overdue balance as provider-created cash. The example illustrates a measurement problem, not a recommended fee or a prediction of recoveries."
+      },
+      {
+        "title": "Plan disputes before the result arrives",
+        "text": "List external changes such as price increases, acquisitions, buyer staffing changes or a new payment policy. Decide who will review disputed classifications and when the calculation becomes final. Ask qualified counsel to review agreement terms, incentives and dispute procedures. Keep the commercial outcome distinct from the provider’s marketing narrative. At review, show the baseline, observed result, adjustments and unresolved items together. If the parties cannot reproduce the number, they have not yet created a dependable basis for a contingent invoice."
+      }
+    ],
+    "checklist": [
+      "Outcome definition, units and reproducible source",
+      "Dated baseline with omissions and unusual events",
+      "Adjustments, reversals and external changes recorded separately",
+      "Named reviewer and escalation for disputed calculations"
+    ],
+    "questions": [
+      "Can both parties reproduce the starting number?",
+      "Which changes count toward the fee and which do not?",
+      "How are later reversals or disputed classifications handled?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance supplies source-record context; the fee-measurement worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "response-versus-resolution-service-level-sheet",
+    "title": "Separate response time from resolution time in a service proposal",
+    "category": "Provider due diligence",
+    "description": "Turn support promises into an operational worksheet with severity, clocks and escalation.",
+    "intro": "A quick acknowledgement and a completed fix are different events. When comparing providers, write down what starts each clock and what stops it. A service-level worksheet should help your team know how to raise an issue, what response to expect and when to escalate. It should also reveal where a provider depends on your access, a third-party system or information that is still missing.",
+    "sections": [
+      {
+        "title": "Define the events and the calendar",
+        "text": "Describe acknowledgement, initial diagnosis, workaround and final resolution separately. Ask whether hours mean elapsed hours or staffed business hours, which time zone applies and how holidays are handled. Identify the approved reporting channel and the minimum information required to open a case. Record whether a clock pauses while waiting for your input. Have qualified counsel review contractual commitments and remedies; a worksheet can expose ambiguity without deciding what a disputed clause legally means."
+      },
+      {
+        "title": "Match severity to business impact",
+        "text": "Use observable consequences instead of emotional labels. A blocked payroll submission, a misleading management report and a cosmetic display issue need different escalation paths. Record who can change severity and how disagreement is handled. A provider may acknowledge every request quickly while prioritizing only certain incidents for immediate work. Compare that operating model with your needs rather than treating a single advertised response time as a universal promise. Include a backup contact for the moments when the normal channel is unavailable."
+      },
+      {
+        "title": "Worked example: acknowledged but unresolved",
+        "text": "A hypothetical buyer submits a broken data-feed ticket at 9 a.m. and receives an acknowledgement at 9:15. A temporary export is available at noon, but the automated feed is not repaired until the next day. The worksheet records three distinct events. The buyer can evaluate whether the workaround protected the required report and whether the final fix met the agreed expectation. Calling the entire incident a fifteen-minute resolution would erase information that matters for the next buying decision."
+      },
+      {
+        "title": "Review actual incidents against the sheet",
+        "text": "Keep timestamps, affected work, buyer inputs and provider updates in one incident log. NIST describes the Cybersecurity Framework as a voluntary risk-management framework for most organizations; it is not a universal support-time standard or a certification of a provider. Use relevant risk concepts to organize responsibilities without claiming that NIST requires your chosen deadlines. At renewal, review repeated failures, clock pauses and escalation outcomes. Adjust the scope or process using evidence rather than only a satisfaction impression."
+      }
+    ],
+    "checklist": [
+      "Separate acknowledgement, workaround and final-resolution events",
+      "Business calendar, channels, severity and pause rules",
+      "Backup escalation contact and case information requirements",
+      "Incident evidence reviewed against the purchased service"
+    ],
+    "questions": [
+      "Which event does the advertised response time measure?",
+      "When can the service clock pause?",
+      "Who owns an unresolved issue across third-party systems?"
+    ],
+    "source": "https://www.nist.gov/cyberframework/faqs",
+    "sourceLabel": "NIST provides voluntary risk-management context, not service-time requirements; this SLA worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "client-dependency-delayed-input-register",
+    "title": "Track client dependencies and delayed inputs",
+    "category": "Provider due diligence",
+    "description": "Make buyer-supplied records, approvals and access visible before they affect a provider’s delivery date.",
+    "intro": "A provider schedule often depends on work the buyer must complete first. Those dependencies deserve their own register. List the exact record, approval, access permission or decision needed, the person who can supply it and the consequence if it arrives late. The objective is shared visibility. It is not to assign every delay to one side or to turn an informal register into a legal determination of responsibility.",
+    "sections": [
+      {
+        "title": "Make each dependency testable",
+        "text": "Replace provide financial information with a specific file, period, format and completeness check. Record the earliest useful date, committed date and actual receipt date. Include the provider contact who will confirm whether the input can be used. If an input is incomplete, keep the missing elements visible instead of resetting the status to received. Distinguish essential prerequisites from information that can arrive while other work continues. That distinction gives the project manager options when a deadline is at risk."
+      },
+      {
+        "title": "Connect inputs to deliverables",
+        "text": "For every important dependency, name the output it enables and the next task affected. Ask the provider to explain available alternatives, extra assumptions and any proposed schedule or fee change. Route commercial changes through the agreed approval process rather than assuming the register authorizes them. FTC cybersecurity guidance supports controlling access to business information; access dependencies should identify an approved role and system owner, not encourage password sharing. Set up permissions through your normal secure process."
+      },
+      {
+        "title": "Worked example: incomplete historical records",
+        "text": "A hypothetical buyer orders a report that needs six months of transaction detail. Four months arrive on time, one arrives as a summary and one is missing. The register preserves all three states. The provider proposes a provisional four-month report and a separate list of questions, while the buyer assigns a person to obtain the missing detail. The revised plan states what the interim report can support and what remains untested. Neither party treats a file delivery timestamp as evidence of complete inputs."
+      },
+      {
+        "title": "Close the loop at every review",
+        "text": "Review overdue dependencies alongside provider deliverables in the same meeting. Record decisions, revised dates and the person who accepted any limitation. Keep sensitive content in the approved repository and use the register mainly for metadata and links. When an input is finally accepted, preserve the acceptance date and any remaining assumptions. At project close, retain the unresolved-input list with the final deliverable so a later user understands why certain questions were not answered."
+      }
+    ],
+    "checklist": [
+      "Specific input, period, format and acceptance contact",
+      "Buyer owner, committed date and actual usable date",
+      "Affected deliverable, alternative path and decision required",
+      "Open limitations carried into the final handoff"
+    ],
+    "questions": [
+      "What exactly makes this input usable?",
+      "Which work can continue while it is missing?",
+      "Who approves a changed assumption, date or scope?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC cybersecurity guidance supplies access-protection context; this dependency register is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-subcontractor-disclosure-map",
+    "title": "Map a provider’s subcontractors and delegated work",
+    "category": "Provider due diligence",
+    "description": "Identify which outside parties touch the engagement and what approvals or handoffs remain with the lead provider.",
+    "intro": "A proposal may name one provider while delivery involves several businesses. Ask which activities will be delegated, who supervises the work and which parties will receive your information. The useful output is a map of responsibilities and data movement. It should distinguish disclosed subcontracting from the buyer’s assumptions without treating every outside specialist as either a problem or an endorsement.",
+    "sections": [
+      {
+        "title": "Follow the activity and the information",
+        "text": "For each delegated activity, record the outside party or role, the work performed, the systems involved and the information required. Ask whether that party can delegate again. Include practical support functions when they matter to the engagement, such as hosting, transcription or document processing. Do not demand personal information unrelated to the work. If the provider cannot identify a party before selection, record when disclosure will occur and what decision the buyer will be able to make then."
+      },
+      {
+        "title": "Assign oversight and change responsibility",
+        "text": "Identify who reviews delegated work, handles errors and communicates with the buyer. Ask whether the lead provider remains your operating contact or whether you will manage the specialist directly. A workflow diagram should not imply legal responsibility that the agreement does not establish. Ask qualified counsel to review consent, confidentiality, liability and other contract requirements. FTC vendor-security guidance encourages businesses to consider vendors’ access to information; apply that context to the actual data flows instead of relying on a generic promise of careful handling."
+      },
+      {
+        "title": "Worked example: a reporting engagement",
+        "text": "A hypothetical adviser prepares a monthly report, an outside technician maintains the data connector and a separate specialist reviews unusual transactions. The buyer records that the technician needs system-level access while the reviewer needs only selected records. The adviser remains responsible for assembling the report and escalating unanswered questions. This map reveals two different permission needs and a review handoff that were invisible in the original phrase full-service reporting."
+      },
+      {
+        "title": "Maintain the map during delivery",
+        "text": "Choose a review trigger for a new subcontractor, changed location of processing or expanded access. Record who receives the notice and who assesses its effect on the engagement. Do not assume that a list collected during sales stays accurate forever. At exit, use the map to identify outstanding records, access removal and required handbacks. The final check should ask whether each party’s work and data access ended as expected, with any uncertainty assigned to someone who can resolve it."
+      }
+    ],
+    "checklist": [
+      "Delegated activities and identified parties or disclosure dates",
+      "Information, systems and minimum access for each role",
+      "Lead-provider review and buyer escalation responsibility",
+      "Change-notice and exit follow-up owners"
+    ],
+    "questions": [
+      "Who outside your firm will perform this work?",
+      "Who reviews their output before we use it?",
+      "How will we learn about changes to the delivery chain?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC vendor-security guidance provides data-access context; this subcontractor map is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-system-access-permission-plan",
+    "title": "Create a system-access plan for an outside provider",
+    "category": "Provider due diligence",
+    "description": "Connect each requested permission to a task, owner and removal date.",
+    "intro": "An outside provider should be able to explain why it needs access before an administrator grants it. Build a permission plan that connects systems, named users, specific tasks and review dates. This is a practical coordination document, not a security certification. Your system owner or security professional should decide which controls fit the systems and information involved.",
+    "sections": [
+      {
+        "title": "Start with the task instead of the role label",
+        "text": "For each system, write what the provider must do: read transactions, upload documents, prepare a draft or administer settings. Then ask your administrator which available permission supports that task. Do not translate a broad job title such as accountant into automatic full administrative access. Record whether access is temporary, recurring or needed only during setup. Include the person who can approve it and the person who will actually implement the change, since those may be different employees."
+      },
+      {
+        "title": "Use accountable access methods",
+        "text": "FTC cybersecurity guidance discusses protecting accounts, using multifactor authentication and limiting access to information. Apply the relevant controls with your administrator rather than sharing an owner’s password. Record the provider user, approved method, access date and review date. If a system cannot support the desired separation, document the limitation and ask a qualified security professional about alternatives. A spreadsheet entry does not make a risky workaround safe, and a vendor’s preference does not determine your internal permissions."
+      },
+      {
+        "title": "Worked example: setup access that should expire",
+        "text": "A hypothetical reporting provider needs elevated access to install a connector but only read access for monthly reporting. The plan separates those phases. An administrator grants the setup permission for the installation window, verifies the connector, and replaces the elevated role with the reporting role. The buyer records both changes. Without that phase distinction, a short setup task could leave an unnecessarily broad permission active throughout the engagement."
+      },
+      {
+        "title": "Review changes and close the engagement",
+        "text": "Make permission reviews part of personnel changes, expanded scope and contract exit. Check whether named accounts still correspond to the assigned delivery team. Review service accounts and integrations as well as human users, because removing an employee account may leave a connector active. Keep the plan in an appropriately restricted location and avoid storing passwords, secret tokens or unnecessary sensitive identifiers in it. At closure, record who removed each permission and who verified that the required handoff still works."
+      }
+    ],
+    "checklist": [
+      "System, task and approved minimum role",
+      "Named user, approver and implementing administrator",
+      "Setup-only access separated from recurring access",
+      "Review and removal evidence for users and integrations"
+    ],
+    "questions": [
+      "Which task requires this permission?",
+      "Can setup access be reduced after installation?",
+      "Who will verify that all access ends when the work ends?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC account and access guidance supplies security context; this permission-planning worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-data-export-acceptance-test",
+    "title": "Test a provider’s data export before you need to leave",
+    "category": "Provider due diligence",
+    "description": "Check whether exported records are complete, understandable and usable in a replacement workflow.",
+    "intro": "A promise that your data can be exported is only a starting point. Before relying on a provider-managed system, ask for a representative export and test what another person could actually use. The acceptance test should cover content, relationships, attachments and explanations. It need not reproduce the entire software product, but it should reveal important dependencies while there is still time to address them.",
+    "sections": [
+      {
+        "title": "Define the records and relationships",
+        "text": "List the record types you need to preserve, their identifiers, relevant date ranges and linked documents. Ask whether an export includes inactive records, amendments, notes and audit information that your process relies on. Distinguish a readable PDF report from structured transaction data; both may be useful, but they serve different purposes. Record any proprietary configuration that cannot be exported and ask how its business meaning will be documented. Legal retention and contractual rights require qualified review rather than assumptions based on a download button."
+      },
+      {
+        "title": "Run a small reconciliation",
+        "text": "Choose a representative sample containing an ordinary record, an amended record and a record with an attachment. Compare counts and agreed totals with the source system. Open the exported files using the intended receiving tools. Check whether dates, identifiers and category meanings survive the transfer. Have someone who did not create the export explain a sample record using the accompanying documentation. This tests usability instead of merely confirming that a file exists."
+      },
+      {
+        "title": "Worked example: attachments without stable links",
+        "text": "A hypothetical service exports 200 project records and a folder of 600 documents. The record count matches, but the attachments are named by upload number with no mapping to projects. The buyer records a failed relationship test and asks for a manifest linking each file to its record ID. After a revised export, a reviewer traces selected documents correctly. The test has identified a specific handoff requirement without declaring the entire service unusable."
+      },
+      {
+        "title": "Agree the operational exit steps",
+        "text": "Record export format, delivery channel, responsible person, expected lead time and whether a final incremental export is possible. Plan access long enough to inspect the handoff under the agreed terms. FTC guidance recommends protecting and backing up business information; it does not guarantee that any particular export meets your retention or migration obligations. Ask relevant professionals to assess those requirements. Repeat the test after major system changes and keep the latest passing method with your continuity documents."
+      }
+    ],
+    "checklist": [
+      "Record types, periods, identifiers and linked attachments",
+      "Sample counts, totals and relationship tests",
+      "Readable field definitions and receiving-tool check",
+      "Final export owner, timing and secure delivery method"
+    ],
+    "questions": [
+      "Can another person interpret this export without your system?",
+      "Which records or relationships are excluded?",
+      "How will we test the final handoff before access ends?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC data-protection and backup guidance supplies context; this export acceptance test is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-insurance-evidence-work-map",
+    "title": "Map provider insurance evidence to the proposed work",
+    "category": "Provider due diligence",
+    "description": "Organize policy questions for an insurance professional without treating a certificate as a coverage opinion.",
+    "intro": "When insurance is relevant to a provider engagement, collect evidence that can be reviewed against the actual work. A document with a familiar coverage label is not enough to explain whether a particular event would be covered. Use a work map to identify activities, data access and potential handoffs, then send the questions to your broker, insurer or qualified legal adviser.",
+    "sections": [
+      {
+        "title": "Describe the exposure in operational terms",
+        "text": "Write down what the provider will do, where it will work, whether it handles your information and whether it can initiate transactions. Include subcontracted activities and changes expected during the engagement. Avoid starting with a copied list of policy limits from an unrelated purchase. Your reviewer needs the real work description to assess which evidence is appropriate. The buyer’s role is to provide accurate facts, identify the requested documents and record unresolved questions, not to interpret exclusions independently."
+      },
+      {
+        "title": "Keep documents and conclusions separate",
+        "text": "Record the named insured, document date, policy period and coverage categories shown, exactly as provided. Ask your insurance professional what additional policy language or endorsements are needed to answer the question. A certificate or summary should not be treated as proof of every contractual requirement or a guarantee that a future claim will be paid. FTC cyber-insurance guidance discusses considering coverage for cyber risks; it does not establish that a specific provider policy protects your business or fits every engagement."
+      },
+      {
+        "title": "Worked example: on-site work and remote access",
+        "text": "A hypothetical provider performs an on-site equipment review and later connects remotely to a business system. The buyer describes both activities to its broker instead of submitting only the phrase consulting services. The broker can identify the evidence needed for the different exposures and flag unanswered questions. The purchasing file records the broker’s conclusion and remaining conditions. The buyer does not convert the presence of a policy number into its own statement that every possible incident is covered."
+      },
+      {
+        "title": "Plan for changes and renewal",
+        "text": "Set a follow-up date before evidence expires if work will continue. Ask who reports a change in scope, subcontractor or relevant access so the insurance review can be refreshed. Store documents securely and limit personal information to what the reviewer needs. If a requirement remains unresolved, escalate through the buyer’s approved purchasing process. Do not alter a certificate yourself or assure colleagues that coverage exists merely because a salesperson expects it. Preserve the professional review alongside the final scope."
+      }
+    ],
+    "checklist": [
+      "Accurate activities, locations, access and subcontracting description",
+      "Document dates and exact named-insured information",
+      "Broker or legal review with unresolved coverage questions",
+      "Renewal and scope-change follow-up owner"
+    ],
+    "questions": [
+      "What evidence does our insurance professional need for this work?",
+      "Which questions remain unanswered by the summary document?",
+      "Who will flag a material scope change during delivery?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC cyber-insurance guidance supplies limited risk-review context; policy interpretation belongs with qualified professionals.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-pass-through-expense-approval-schedule",
+    "title": "Set a pass-through expense approval schedule",
+    "category": "Provider due diligence",
+    "description": "Compare provider fees and reimbursable costs without hiding charges in a single total.",
+    "intro": "A proposal may separate the provider’s fee from travel, software, filing, materials or outside-specialist costs. Build an expense schedule before selection so that each category has a basis, approval owner and evidence requirement. This is a commercial comparison tool. It does not determine tax deductibility, accounting treatment or whether a disputed charge is contractually payable.",
+    "sections": [
+      {
+        "title": "Separate recurring and exceptional costs",
+        "text": "Ask which expenses are included in the quoted fee, billed at actual cost, marked up, allocated across clients or charged at a fixed amount. Record the unit and frequency for each category. A software subscription purchased only for your engagement differs from a shared platform allocation. A proposed budget is also different from a binding cap. Have the agreement reviewed where those distinctions matter, and keep the operational schedule consistent with the signed terms rather than relying on a sales summary."
+      },
+      {
+        "title": "Specify approval and supporting evidence",
+        "text": "Choose who may approve an expense, what information must be supplied beforehand and how an urgent exception is handled. Ask for the business purpose, expected amount, relevant period and supporting document appropriate to the charge. IRS recordkeeping guidance describes keeping records that support business transactions; it does not approve any particular provider charge or establish your company’s reimbursement policy. Use that source context to encourage traceability while your accountant determines classification and retention requirements."
+      },
+      {
+        "title": "Worked example: two different monthly totals",
+        "text": "A hypothetical buyer compares a 2,000-unit service quote that includes a platform charge with a 1,700-unit quote that excludes a separately billed 400-unit platform. These are fictional amounts, not market prices. The expense schedule shows 2,000 and 2,100 for the stated assumptions, before any other differences. The buyer then asks whether the separate subscription continues after the engagement ends and who owns the account. Comparing the headline fees alone would miss both the immediate cost and the exit question."
+      },
+      {
+        "title": "Reconcile the schedule with invoices",
+        "text": "Tag each invoice line to an approved category and identify charges that need clarification. Preserve the original estimate and approved change instead of overwriting history. Review recurring costs for unused subscriptions or services that no longer match the scope. At exit, assign cancellation, transfer or final settlement responsibilities under the agreement. The resulting schedule should make surprises easier to discuss without encouraging staff to reject every unfamiliar line or assume every receipt is sufficient authorization."
+      }
+    ],
+    "checklist": [
+      "Included, actual-cost, fixed and marked-up categories identified",
+      "Units, frequency, assumptions and approval owner",
+      "Evidence required and exception path",
+      "Recurring-account ownership and exit responsibility"
+    ],
+    "questions": [
+      "Which charges sit outside the headline fee?",
+      "What requires approval before the cost is incurred?",
+      "Who owns and cancels separately purchased accounts?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance supplies documentation context; the expense comparison schedule is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "commissioned-deliverable-rights-handoff",
+    "title": "Prepare a commissioned-deliverable rights handoff",
+    "category": "Provider due diligence",
+    "description": "Separate finished files, editable assets and usage questions before asking counsel to review ownership and licenses.",
+    "intro": "A purchased deliverable may include several different things: a final report, editable files, custom code, stock images, templates and third-party software. List those components before assuming that payment transfers every right. This handoff worksheet organizes the questions for your provider and legal adviser. It does not determine copyright ownership or replace a negotiated agreement.",
+    "sections": [
+      {
+        "title": "Inventory what the buyer expects to receive",
+        "text": "Name each final output and the supporting materials needed to maintain it. Separate newly created work from pre-existing provider tools and third-party assets. Ask whether editable source files, documentation, credentials or build instructions are included. A PDF may satisfy a reporting scope while being insufficient for a later design revision. Record the practical use you need, such as internal modification, public publication or transfer to another service provider, so counsel can assess the required permissions."
+      },
+      {
+        "title": "Ask about rights without assuming the answer",
+        "text": "The Copyright Office explains that works made for hire arise in specified circumstances and that the concept has important consequences. Not every commissioned item automatically qualifies. Ask qualified counsel to review ownership, assignments, licenses and any limits associated with third-party material. Record the provider’s stated rights for each component and the documents that support them. A general sentence saying all materials belong to the client may leave important questions unanswered about embedded tools or assets the provider did not create."
+      },
+      {
+        "title": "Worked example: a new website handoff",
+        "text": "A hypothetical business buys a website containing custom page designs, licensed photography, a commercial font and a provider-maintained plugin. The worksheet lists each component separately. The buyer asks which accounts and files transfer, which licenses must remain active and what a replacement developer can modify. Counsel reviews the relevant language while the technical lead tests the supplied files. The buyer avoids both assuming unlimited rights and assuming that every reusable provider component must be transferred outright."
+      },
+      {
+        "title": "Test the practical handoff",
+        "text": "Have the intended recipient open the files, locate documentation and perform a small agreed maintenance task. Record missing assets and unresolved permission questions before final acceptance under the agreement. Keep a copy of the rights-related documents with the deliverable inventory, not only in an email thread. At renewal or expansion, update the inventory for new components. Clear practical access and clear legal rights are different checks; completing one does not prove that the other has been resolved."
+      }
+    ],
+    "checklist": [
+      "Final outputs, editable files and maintenance dependencies listed",
+      "New, pre-existing and third-party components distinguished",
+      "Intended uses and counsel-reviewed rights documents",
+      "Recipient test with unresolved access or permission questions"
+    ],
+    "questions": [
+      "What will we receive beyond the finished output?",
+      "Which components have separate license terms?",
+      "Can a replacement provider maintain the deliverable lawfully and practically?"
+    ],
+    "source": "https://www.copyright.gov/circs/circ30.pdf",
+    "sourceLabel": "Copyright Office Circular 30 provides work-made-for-hire context; legal interpretation remains with qualified counsel.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-referral-conflict-disclosure-review",
+    "title": "Review referral relationships and potential provider conflicts",
+    "category": "Provider due diligence",
+    "description": "Record relevant business relationships without treating a disclosure as an automatic approval or rejection.",
+    "intro": "A recommendation can be useful even when the person making it has a business relationship with the provider. What matters is understanding that relationship and evaluating the provider on evidence relevant to your work. Build a disclosure review that records who introduced whom, what connection was disclosed and whether the connection could affect the advice you are relying on.",
+    "sections": [
+      {
+        "title": "Ask a neutral, specific question",
+        "text": "Ask whether the referrer or proposed adviser has a referral payment, shared ownership, reciprocal introduction arrangement or other business relationship relevant to the recommendation. Avoid demanding unrelated personal information. Record the answer, date and who supplied it. If the relationship is unknown, leave it unknown rather than inferring independence from silence. A warm introduction establishes a communication path; it does not by itself establish qualifications, suitability or an obligation to act for your business."
+      },
+      {
+        "title": "Separate context from evaluation",
+        "text": "FTC endorsement guidance discusses disclosure of material connections in advertising contexts. Whether a particular legal requirement applies depends on the circumstances; ask qualified counsel about that question. For an internal buying decision, the practical point is to understand the context and still verify scope, delivery responsibilities and relevant qualifications. A disclosed referral fee does not prove poor service. An unpaid recommendation does not prove that the recommended provider is the best fit. Avoid turning either fact into a substitute for evaluation."
+      },
+      {
+        "title": "Worked example: an adviser recommends software support",
+        "text": "A hypothetical adviser introduces an implementation company and explains that its firm receives a referral payment. The buyer records the relationship and asks for a comparable scope from another provider. Both candidates are assessed against the same integration, documentation and handoff criteria. The adviser’s introduction remains useful, but the buyer does not let it decide the purchase automatically. If the adviser also evaluates the completed implementation, the buyer asks how that review will remain useful and whether an independent review is appropriate."
+      },
+      {
+        "title": "Keep the disclosure connected to the decision",
+        "text": "Record the buyer’s response: proceed under the normal evaluation, obtain an alternative quote, assign an independent reviewer or seek professional advice. Use your organization’s policy where one applies. Preserve the reasons without making unsupported accusations about motive. Review the disclosure if a new product, subcontractor or compensation relationship enters the engagement. If the provider will publish your comments or logo later, handle that permission separately; agreeing to buy a service is not the same as approving a public endorsement."
+      }
+    ],
+    "checklist": [
+      "Referrer, recommended party and relevant relationship recorded",
+      "Unknowns kept visible rather than assumed away",
+      "Consistent evaluation criteria and review owner",
+      "Decision rationale and any later endorsement permission separated"
+    ],
+    "questions": [
+      "Is there a relevant payment, ownership or reciprocal relationship?",
+      "Who will independently review the work if needed?",
+      "How does this disclosure change our evaluation process?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews",
+    "sourceLabel": "FTC endorsement resources provide material-connection context; this internal disclosure review is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "provider-renewal-exit-decision-calendar",
+    "title": "Build a provider renewal and exit-readiness calendar",
+    "category": "Provider due diligence",
+    "description": "Schedule a usable review before notice dates and preserve enough time for a tested handoff.",
+    "intro": "A renewal decision should happen early enough to be meaningful. If the first review occurs after a notice deadline, the business may have fewer options than expected. Build a calendar from the actual agreement, then work backward through evidence gathering, decision approval and any transition tasks. Ask qualified counsel to interpret notice provisions, renewal terms and termination rights; do not infer them from a salesperson’s informal summary.",
+    "sections": [
+      {
+        "title": "Extract dates with their source",
+        "text": "Record the current term, renewal date, notice window, delivery method and recipient stated in the agreement. Link each entry to the relevant signed document and amendment. Distinguish the internal decision date from the legal notice date. Assign a backup owner so the calendar does not depend on one employee’s memory. If language is ambiguous, record the question and obtain professional interpretation before putting an assumed deadline into the operating calendar."
+      },
+      {
+        "title": "Define the evidence needed for renewal",
+        "text": "Gather delivery records, open issues, actual cost, assigned-team changes and feedback from the people who use the service. Compare these with the purchased scope and any approved changes. Avoid relying only on the most recent good or bad incident. Include dependencies that would affect a transition: system access, data exports, recurring subscriptions and unfinished work. FTC cybersecurity guidance supports protecting business information and managing vendor access; it does not determine the contract’s exit rights or notice requirements."
+      },
+      {
+        "title": "Worked example: a decision before the deadline",
+        "text": "A hypothetical business has a renewal review scheduled after its contract’s notice window. Its legal adviser confirms the relevant dates, and the buyer moves the internal decision meeting earlier. Operations tests an export, accounting reconciles outstanding charges and the service owner documents unresolved work. Management can then evaluate renewal with a realistic view of transition effort. The example supplies no universal notice period; the dates must come from the actual agreement and qualified interpretation."
+      },
+      {
+        "title": "Keep an exit plan even when renewing",
+        "text": "Record who would receive records, validate exports, transfer accounts and remove permissions if the relationship ended. A workable plan can improve continuity without implying dissatisfaction with the provider. At renewal, update contacts, document locations and responsibilities rather than simply advancing every old date by a year. When a notice is required, use the approved process and retain evidence of the action as advised by counsel. Close the calendar task only when the decision and necessary follow-through are complete, not when someone sends a reminder."
+      }
+    ],
+    "checklist": [
+      "Agreement-linked dates and counsel-reviewed notice questions",
+      "Earlier internal review with decision owner and backup",
+      "Performance, cost and unresolved-work evidence",
+      "Tested data handoff, account transfer and access-removal plan"
+    ],
+    "questions": [
+      "When must our internal decision occur to preserve the available options?",
+      "Which document controls the notice process?",
+      "Could we complete a usable handoff if we chose to leave?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+    "sourceLabel": "FTC vendor-access guidance supplies continuity context; agreement interpretation belongs with qualified counsel.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]
