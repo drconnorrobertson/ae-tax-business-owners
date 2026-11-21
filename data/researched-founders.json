@@ -18382,5 +18382,333 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "wade-foster-zapier",
+    "name": "Wade Foster",
+    "company": "Zapier",
+    "website": "https://zapier.com/",
+    "role": "Cofounder identified in Zapier’s company newsroom.",
+    "founding": "Zapier’s newsroom dates its founding by Wade Foster, Mike Knoop and Bryan Helmig to 2012.",
+    "intro": "Wade Foster is one of the three founders named by Zapier. The company connects applications and organizes automated workflows. This profile separates the founding team’s documented history from the current product catalog and from claims about an individual founder’s finances.",
+    "sections": [
+      {
+        "title": "A three-person founding team",
+        "text": "Zapier’s newsroom credits Foster, Mike Knoop and Bryan Helmig together and gives 2012 as the founding year. That is the company’s stated corporate history, not a reason to assign the entire product to one person. Someone researching Foster should keep the other founders in the account and distinguish company formation from earlier experiments or prototypes.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "What Zapier provides",
+        "text": "The company’s about page describes tools for connecting applications and automating work. Its current navigation includes workflows, tables, forms and agent-related products. These are different capabilities within a platform: connecting two systems is a narrower task than giving software responsibility for a complete business process. Product pages are the appropriate place to check current availability and constraints.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The business problem behind the profile",
+        "text": "Zapier is relevant to owners whose customer, finance or operational records sit in separate applications. An automation can move information across a handoff, but a founder biography cannot demonstrate that a proposed workflow is reliable. A buyer should write down the initiating event, the destination record, the required approval and the person who handles exceptions before evaluating an implementation.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Reading the evidence without extending it",
+        "text": "The newsroom supplies a named founding team, while the about page describes the business today. Neither establishes Foster’s current shareholding, personal earnings or the suitability of a particular automation for a regulated process. Keep a dated note of the source consulted and confirm contractual responsibilities directly when planning a purchase. Company-level adoption figures are not an individual founder’s revenue.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Zapier newsroom and founding team",
+        "url": "https://zapier.com/press"
+      },
+      {
+        "title": "About Zapier and its platform",
+        "url": "https://zapier.com/about"
+      }
+    ],
+    "checks": [
+      "Record all three named founders when describing the origin.",
+      "Separate a proposed workflow from the founder’s biography.",
+      "Confirm product scope and approval responsibilities before connecting live business systems."
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mathilde-collin-front",
+    "name": "Mathilde Collin",
+    "company": "Front",
+    "website": "https://front.com/",
+    "role": "Cofounder; this profile describes the company’s published founding account.",
+    "founding": "Front’s culture book says Collin and Laurent started working on Front in 2013.",
+    "intro": "Mathilde Collin cofounded Front with Laurent Perrin. Front’s own account connects its beginnings to collaboration and the experience of work. The profile follows that founding story and the business’s customer-communication purpose without treating an older leadership title as proof of a present appointment.",
+    "sections": [
+      {
+        "title": "The published origin",
+        "text": "In the Front culture book, Collin describes starting work on Front with Laurent in 2013 and explains the ambition to improve people’s experience at work. A company-published guide to customer relationships identifies the pair as Mathilde Collin and Laurent Perrin. Read together, these sources support a joint founding account rather than a sole-founder description.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "From shared messages to coordinated service",
+        "text": "The customer-relationship guide presents Front around shared inboxes, customer communication and collaboration. That framing matters for a business receiving requests across a team: the issue is not just whether a message arrives, but who owns the response and can see the relevant context. The dated guide is useful for product history; it is not a guarantee of current features or subscription terms.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Culture is an operating statement",
+        "text": "The culture book explains how Front wanted work to function. It is a first-party statement of intent, useful for understanding Collin’s account of the company, but it is not an independent assessment of every employee’s experience. A researcher should label the source accordingly and avoid converting stated values into verified claims about results, customer satisfaction or workplace quality.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Questions for an owner evaluating the category",
+        "text": "A practical comparison starts with ownership of customer conversations, handoffs, access to shared information and escalation rules. Ask how the current product fits those needs and which responsibilities remain with your team. This profile does not evaluate Front against competitors or establish present executive duties. Use current company leadership and product materials for those separate questions.",
+        "sourceIndexes": []
+      }
+    ],
+    "sources": [
+      {
+        "title": "Front culture book: Collin’s founding account",
+        "url": "https://front.com/blog/culture-book"
+      },
+      {
+        "title": "Front guide to customer relationships at scale",
+        "url": "https://front.com/assets/resources/downloads/A-guide-to-managing-customer-relationships-at-scale.pdf"
+      }
+    ],
+    "checks": [
+      "Credit Collin and Perrin together.",
+      "Date older product descriptions and leadership references.",
+      "Confirm current communication workflow and team permissions before comparing packages."
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "tope-awotona-calendly",
+    "name": "Tope Awotona",
+    "company": "Calendly",
+    "website": "https://calendly.com/",
+    "role": "Founder and chief executive officer, as identified on Calendly’s about page.",
+    "founding": "Calendly’s company biography dates the founding to 2013.",
+    "intro": "Tope Awotona founded Calendly, a business built around scheduling meetings. Company materials identify him as founder and CEO. The founder record is useful for understanding a recurring administrative problem becoming a software business, while keeping biography separate from product selection or personal wealth estimates.",
+    "sections": [
+      {
+        "title": "A business built around scheduling",
+        "text": "Calendly’s about page dates the company to 2013 and describes Awotona’s goal of reducing the back-and-forth involved in arranging meetings. It connects that origin with a wider set of tools around meetings. The stated founding year and named role come from the company itself; they should be cited as such rather than presented as an independent corporate investigation.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A first-hand university account",
+        "text": "The University of Georgia’s report on Awotona’s leadership lecture describes earlier business attempts and software sales experience preceding Calendly. It gives context for the founder’s path to the scheduling problem. This is a report of a specific appearance, not a current operating biography. It does not establish that every element of his early experience caused a particular later business outcome.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Meetings include more than a booking link",
+        "text": "Calendly’s current about page discusses scheduling alongside payments, meeting notes, follow-ups and contacts. These adjacent tasks help explain the company’s broader business category. Buyers still need to check the actual plan, integrations and conditions for each capability. A feature mentioned on a company overview should not be assumed to be included in every account or available in every market.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "What an owner should investigate next",
+        "text": "Map the journey from an invitation to a completed meeting: availability, qualification, reminders, cancellation, payment where applicable and follow-up. Identify which parts need automation and which require a person’s judgment. The founder’s story may explain why the company exists, but the purchasing decision depends on the current workflow and agreement. This record makes no claim about Awotona’s equity, earnings or personal assets.",
+        "sourceIndexes": []
+      }
+    ],
+    "sources": [
+      {
+        "title": "Calendly about page and founder biography",
+        "url": "https://calendly.com/about/"
+      },
+      {
+        "title": "University of Georgia report on Awotona’s leadership lecture",
+        "url": "https://www.terry.uga.edu/calendly-founder-learned-persevere-through-trial-and-error/"
+      }
+    ],
+    "checks": [
+      "Use the company biography for the dated role description.",
+      "Check plan-specific meeting features separately.",
+      "Keep personal financial estimates out of the founder record."
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "guillermo-rauch-vercel",
+    "name": "Guillermo Rauch",
+    "company": "Vercel",
+    "website": "https://vercel.com/",
+    "role": "Founder and CEO as identified in Vercel’s published company material.",
+    "founding": "Vercel identifies Rauch as its founder; this record does not assign an unverified founding date.",
+    "intro": "Guillermo Rauch is identified by Vercel as its founder and CEO. The business provides infrastructure and tools for building and shipping web applications. This profile focuses on the documented business relationship and the distinction between a founder’s vision, a platform’s capabilities and an application owner’s responsibilities.",
+    "sections": [
+      {
+        "title": "The founder relationship",
+        "text": "A March 2025 Vercel announcement introducing its chief operating officer identifies Rauch as CEO and founder. In that announcement, he describes an aim of making web development more accessible and powerful. The source supports the role attributed to him at publication. It should not be stretched into a complete account of the company’s capitalization or a promise about future leadership.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The company’s current scope",
+        "text": "Vercel’s about page presents the company as infrastructure for applications and agents. Its product navigation distinguishes a core build-and-deployment platform from related developer and agent tools. That distinction helps a reader place the business: a deployed website, an application runtime and an agent integration are related services, but they involve different technical requirements and responsibilities.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Founder vision and operational delivery",
+        "text": "The leadership announcement explains why a growing platform added an operational executive. It is an account of organizational intent, not independent evidence that a customer deployment will meet a particular performance target. An owner assessing the platform should connect the broad vision to concrete requirements: who releases changes, how failures are detected and how the previous working version can be restored.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Researching a platform business",
+        "text": "Use the company overview for scope and the original announcement for its dated leadership context. For an actual project, review current documentation, service terms, data handling and the deployment process with the team responsible for the application. This profile does not certify product security, estimate the founder’s personal wealth or imply that every tool in the product catalog is required for a successful website.",
+        "sourceIndexes": []
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vercel introduces Jeanne DeWitt Grosser as COO",
+        "url": "https://vercel.com/blog/jeanne-dewitt-grosser-joins-vercel-as-coo"
+      },
+      {
+        "title": "Vercel company overview",
+        "url": "https://vercel.com/about"
+      }
+    ],
+    "checks": [
+      "Keep the March 2025 announcement’s date attached to its leadership context.",
+      "Distinguish application ownership from infrastructure services.",
+      "Confirm current deployment, rollback and data-handling requirements."
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "april-koh-spring-health",
+    "name": "April Koh",
+    "company": "Spring Health",
+    "website": "https://www.springhealth.com/",
+    "role": "Cofounder identified in Spring Health’s account of its origins.",
+    "founding": "Spring Health dates its founding to 2016 and describes Koh and Adam Chekroud’s founding work.",
+    "intro": "April Koh cofounded Spring Health, a company serving the mental-health benefit and care market. This is a business-history profile, not a clinical recommendation. It follows the company’s account of its origins and distinguishes organizational purchasing questions from decisions about an individual’s care.",
+    "sections": [
+      {
+        "title": "A company origin connected to research",
+        "text": "Spring Health’s account of its development describes Koh and Adam Chekroud building a company around research and the challenge of connecting people with care. The company overview dates its founding to 2016. These first-party sources identify the business origin; they do not establish that any particular service will be appropriate for an individual patient.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The business and its buyers",
+        "text": "The company overview describes mental-health support offered through employers, health plans and partners. Its stated service categories include self-guided tools, coaching, therapy, medication management and specialty care. Those are distinct kinds of support. A business reviewing a benefit needs to establish the actual contracted scope and availability rather than assume all categories are included for every eligible person.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Keep marketing and clinical evidence separate",
+        "text": "The about page contains company claims about access and outcomes. This founder profile does not reproduce those performance claims as independently established facts. Evaluating clinical evidence requires the underlying studies, populations and methods, while evaluating a benefits contract requires eligibility, service coverage and implementation details. A biography cannot substitute for either review.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An owner’s organizational research checklist",
+        "text": "Before evaluating a benefit provider, identify who administers eligibility, which services are offered, how provider availability is explained and what aggregate reporting an employer receives. Handle individual health information through the appropriate confidential process rather than a public directory. Koh’s founding role is a business fact; it is not a recommendation to select a provider or a treatment.",
+        "sourceIndexes": []
+      }
+    ],
+    "sources": [
+      {
+        "title": "Spring Health company overview",
+        "url": "https://www.springhealth.com/about-us"
+      },
+      {
+        "title": "Spring Health account of its founding and development",
+        "url": "https://www.springhealth.com/news/journey-to-become-unicorn"
+      }
+    ],
+    "checks": [
+      "Distinguish a benefit contract from individual clinical care.",
+      "Verify service availability and eligibility in current documents.",
+      "Do not submit personal health information through a public profile correction."
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "andrew-filev-wrike",
+    "name": "Andrew Filev",
+    "company": "Wrike",
+    "website": "https://www.wrike.com/",
+    "role": "Founder; Wrike’s 2023 retrospective records his transition out of the CEO role.",
+    "founding": "Wrike’s May 2019 announcement dates Filev’s founding of the company to 2006.",
+    "intro": "Andrew Filev founded Wrike, a company providing work-management software. Its own publications document both his founding role and a later leadership transition. This profile preserves the difference between establishing a company and serving as its current chief executive.",
+    "sections": [
+      {
+        "title": "Founding and the early operating problem",
+        "text": "Wrike’s May 2019 announcement identifies Filev as founder and then-CEO and dates the company’s beginnings to 2006. It describes software for collaborative work management. The historical source is useful because it names the person, role and year together. Its older customer counts and descriptions should not be treated as present-day measurements.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Why the leadership date matters",
+        "text": "Wrike’s retrospective on 2023 describes its move to Symphony Technology Group and Filev’s departure from the CEO position, with a transition to a board-adviser role at that time. The article names Thomas Scott as the incoming CEO. That makes an undated description of Filev as Wrike’s current CEO misleading. The article establishes a historical transition, not a permanent guarantee of anyone’s current appointment.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Work management as a business category",
+        "text": "The cited publications place Wrike in collaborative work management rather than a single-purpose personal task list. For an organization, the practical questions concern responsibility across projects, information shared between teams and visibility into unfinished work. A founder’s background can explain the category, but it does not demonstrate that the product matches a particular company’s process or contractual requirements.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Using the record in a current decision",
+        "text": "Keep the 2006 founding fact, the 2019 role description and the 2023 leadership transition as separate dated facts. Then consult the current company and product material for today’s leadership and service scope. Owners comparing work-management systems should bring examples of real handoffs and reporting needs. This profile does not infer Filev’s present shareholding, personal income or continuing management authority.",
+        "sourceIndexes": []
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wrike founder announcement, May 2019",
+        "url": "https://www.wrike.com/newsroom/ey-entrepreneur-of-the-year-2019-award/"
+      },
+      {
+        "title": "Wrike’s retrospective on 2023 and leadership transition",
+        "url": "https://www.wrike.com/blog/wrike-highlights-2023/"
+      }
+    ],
+    "checks": [
+      "Do not reuse the 2019 CEO title as a current claim.",
+      "Separate company ownership changes from an individual’s shareholding.",
+      "Review today’s product and leadership information independently of founding history."
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
