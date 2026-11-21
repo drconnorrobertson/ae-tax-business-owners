@@ -13119,5 +13119,1349 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "william-henry-hoover",
+    "name": "William Henry Hoover",
+    "company": "Hoover",
+    "website": "https://hoover.com/",
+    "role": "Historical commercial founder working with inventor James Murray Spangler.",
+    "founding": "The sweeper business began in 1908, after Spangler’s earlier work on an electric cleaning device.",
+    "intro": "William Henry Hoover brought manufacturing and commercial organization to a cleaning device developed by James Murray Spangler. Hoover had operated a leather-goods business in Ohio. The company history and a Smithsonian collection record describe how that existing workshop became the setting for a new sweeper enterprise in 1908.",
+    "sections": [
+      {
+        "title": "A working invention needed manufacturing support",
+        "text": "Spangler worked as a janitor and assembled an electric sweeper from available components. The Smithsonian describes him seeking support because he could not finance production at scale. Hoover’s company account identifies a 1908 agreement and says Spangler stayed involved as a partner. The arrangement joined an inventor with a manufacturer rather than making Hoover the sole originator of the device. It also connected a product idea with premises and workers who could make it repeatedly.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A corner of the leather shop became a production line",
+        "text": "Hoover’s history describes a small group assembling sweepers in part of the existing leather-goods shop. That is a concrete example of a business using established operating capacity for a different product. The early company needed more than a working prototype: parts, assembly and customer orders had to be organized together. The Smithsonian’s surviving early cleaner provides physical evidence of the product alongside the written business account.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The company continued developing the cleaning system",
+        "text": "The company chronology identifies later features, including a beater bar introduced in 1926. Those changes belong to an enterprise continuing after its first production arrangement, with additional technical contributors over time. Hoover’s role remains the historical commercial founder who helped turn Spangler’s device into a manufactured and distributed product. The origin connects invention, an existing workshop and a new market without treating every subsequent mechanism as the work of one person.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Spangler’s invention and Hoover’s commercial role separately.",
+      "Distinguish the 1908 business from later patent and product milestones.",
+      "Read the early cleaner as an artifact of the manufacturing transition."
+    ],
+    "sources": [
+      {
+        "title": "Hoover — company origin account",
+        "url": "https://hoover.com/pages/about-hoover"
+      },
+      {
+        "title": "Smithsonian — early Hoover cleaner collection record",
+        "url": "https://www.si.edu/object/hoover-upright-vacuum-cleaner:nmah_704090"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "melville-bissell",
+    "name": "Melville R. Bissell",
+    "company": "BISSELL",
+    "website": "https://www.bissell.com/",
+    "role": "Historical cofounder with Anna Bissell, who continued leading the business after his death.",
+    "founding": "The sweeper business began in Grand Rapids in 1876; a larger factory followed in 1883.",
+    "intro": "Melville R. and Anna Bissell’s cleaning-equipment business began in a Grand Rapids crockery shop. The company traces its sweeper to the sawdust left by unpacking merchandise. Melville worked on the mechanism while Anna took an active role in selling, operations and the company’s later leadership.",
+    "sections": [
+      {
+        "title": "The shop supplied both the problem and the first audience",
+        "text": "BISSELL’s historical account places the improved sweeper in 1876. Customers and acquaintances noticed the device used in the shop and asked about buying one. The company’s anniversary chronology also describes Melville and Anna making sales calls to distributors. Their work connected a practical improvement with people who could place it in stores. The new product business grew out of an operating retail setting rather than a factory created without a market.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A factory changed the scale of production",
+        "text": "The company dates its move into a larger factory to 1883. The following year, a fire interrupted that operation; the anniversary account describes employees salvaging materials and restoring production. These episodes show the manufacturing demands behind the familiar product: premises, equipment and coordinated work became central as orders extended beyond the crockery shop. The business was increasingly an organization of people and production tasks, not only an inventor making an occasional sweeper.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Anna carried the enterprise into another generation",
+        "text": "Melville died in 1889, after which Anna led the company. BISSELL’s own testimony and histories credit both spouses in the founding, while the chronology follows later leadership by their descendants. Anna’s selling and operating experience preceded the succession, so her role was not confined to taking over after a death. The company’s continued development is best understood as shared founding work followed by distinct periods of management and product expansion.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Anna’s founding sales and operations work visible.",
+      "Separate the 1876 product beginning from the 1883 factory.",
+      "Distinguish Melville’s lifetime from Anna’s later leadership."
+    ],
+    "sources": [
+      {
+        "title": "BISSELL — anniversary chronology",
+        "url": "https://150.bissell.com/"
+      },
+      {
+        "title": "BISSELL — company history",
+        "url": "https://www.bissell.com/en-ca/about-us/our-history/"
+      },
+      {
+        "title": "BISSELL — company testimony to the US trade representative",
+        "url": "https://ustr.gov/sites/default/files/enforcement/301Investigations/0822%20USTR.PDF"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "david-oreck",
+    "name": "David Oreck",
+    "company": "Oreck",
+    "website": "https://oreck.com/",
+    "role": "Historical founder of Oreck Corporation; later corporate ownership and product teams are separate.",
+    "founding": "Oreck Corporation began in 1963 with equipment for the hotel industry.",
+    "intro": "David Oreck’s company began by selling upright vacuum cleaners to hotels. Its history describes a focus on equipment that housekeeping staff could move and use through repeated cleaning work. The enterprise later reached household buyers, bringing a commercially oriented product into a different sales market.",
+    "sections": [
+      {
+        "title": "Hotel work defined the initial application",
+        "text": "Oreck dates the company’s founding to 1963 and identifies hotels as the original customers. This gave the business a particular user and working environment: housekeeping staff moving equipment between rooms. The historical account presents a lighter cleaner as the product idea behind that market choice. It is a record of the intended application and selling proposition, rather than independent proof of how every model performs in a particular property.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Household demand widened the route to customers",
+        "text": "According to the company, hotel staff also wanted cleaners for use at home. That response helped extend the business into residential sales. A product developed for commercial users now needed to be presented to people buying equipment for their own households. The transition matters because manufacturing a cleaner and reaching a different buyer are separate tasks. Oreck’s history describes both a product focus and a change in the audience served.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Product development involved a continuing team",
+        "text": "A federal court’s account of a later patent dispute describes an October 1984 meeting involving Oreck personnel and the founder. That dated record places David within a product-development organization more than twenty years after the company began. It does not make him the sole engineer of every later feature. Together, the company history and court record show a founder choosing an initial market, extending distribution and remaining involved as the equipment business developed additional designs.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Start with the hotel market described in the company history.",
+      "Separate household expansion from the original commercial focus.",
+      "Treat the 1984 meeting as a dated team-development record."
+    ],
+    "sources": [
+      {
+        "title": "Oreck — company history",
+        "url": "https://oreck.com/pages/company-history"
+      },
+      {
+        "title": "US District Court — historical product-development account (2006)",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-laed-2_05-cv-00361/pdf/USCOURTS-laed-2_05-cv-00361-0.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "paul-iams",
+    "name": "Paul F. Iams",
+    "company": "IAMS",
+    "website": "https://www.iams.com/",
+    "role": "Historical founder; subsequent product teams and international owners developed the later brand.",
+    "founding": "Paul Iams established his Ohio pet-food company in 1946.",
+    "intro": "Paul F. Iams founded a pet-food business in Ohio in 1946. IAMS histories describe his contact with breeders and nutrition specialists and follow the products that came after the company’s beginning. The business developed across decades, with changing formulas, packaging and international markets.",
+    "sections": [
+      {
+        "title": "A specialized food business began before its familiar products",
+        "text": "The company’s histories place the founding in 1946 and the IAMS 999 product in the 1950s. This separates establishment of the enterprise from the introduction of a named line. Iams worked with people familiar with the animals and their feeding practices, according to the brand’s account. Those relationships supplied a setting for product development, while manufacturing and selling packaged food required a repeatable commercial operation behind the recipes.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The range developed over successive periods",
+        "text": "The European history identifies IAMS Plus in 1961. Other company timelines describe later changes in the assortment and ingredients studied by the product team. The useful business history is a sequence of development rather than a claim that one founder personally created every later formula. Product names and dated introductions show how an initially focused enterprise built a recognizable range over time. They also leave current feeding suitability to the documentation for an actual product.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Exporting extended an Ohio business into another market",
+        "text": "IAMS dates the start of exports to Europe to 1984. Reaching that market involved a different geography from the original Ohio operation and took place long after the 1946 beginning. The brand’s later international histories reflect that wider footprint. Paul’s role remains that of historical founder whose enterprise established an initial product direction; subsequent teams and corporate arrangements belong to later chapters in manufacturing and distributing the brand.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1946 company from later named products.",
+      "Date European exports rather than assuming an international launch.",
+      "Use the history for business context, not veterinary or nutritional recommendations."
+    ],
+    "sources": [
+      {
+        "title": "IAMS Europe — historical timeline",
+        "url": "https://iams.eu/en-gb/about-us"
+      },
+      {
+        "title": "IAMS New Zealand — company background",
+        "url": "https://www.iams.co.nz/about-iams/who-we-are"
+      },
+      {
+        "title": "IAMS — founder and development account",
+        "url": "https://www.iams.com/why-iams"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "burt-shavitz",
+    "name": "Burt Shavitz",
+    "company": "Burt’s Bees",
+    "website": "https://www.burtsbees.com/",
+    "role": "Historical cofounder with Roxanne Quimby, whose product and commercial work was central to the enterprise.",
+    "founding": "The Maine business began with beeswax products in the 1980s, including candles in 1984.",
+    "intro": "Burt Shavitz and Roxanne Quimby created Burt’s Bees from a small beekeeping and craft-product venture in Maine. The company’s account describes Burt supplying honey and accumulated beeswax while Roxanne explored products and presentation. Their different experience became part of the commercial beginning.",
+    "sections": [
+      {
+        "title": "Beekeeping supplied a material for another product",
+        "text": "The company says Burt had been selling honey and storing surplus wax before meeting Roxanne. She found recipes that offered a way to turn that material into candles. The brand’s chronology places candle-making in 1984. This was an adjacent use for something produced by an existing activity, but it required a new product-making and selling effort. The original honey business and the emerging beeswax range therefore belonged to related, distinct stages.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The partners contributed different kinds of work",
+        "text": "Burt’s experience came from beekeeping, while Roxanne brought an artist’s approach to making and presenting goods. The company’s origin story names both people. Their partnership explains why a brand bearing Burt’s name cannot be understood solely through his work with the hives. Turning wax into a marketable product also involved recipes, packaging and reaching customers. The later company anniversary account continues to credit the collaboration in its Maine beginning.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The assortment moved beyond the first candles",
+        "text": "The company dates its lip balm to 1991, several years after the candles. That later introduction became an important part of the brand’s identity, but was not the initial offering. Subsequent products and ownership belong to a longer company history. Burt’s historical association remains the cofounder’s, with Roxanne’s product and commercial contribution retained. The account follows materials and assortment development without adopting modern advertising claims about ingredient or skin-care performance.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Roxanne alongside the namesake cofounder.",
+      "Distinguish honey, the 1984 candles and the 1991 lip balm.",
+      "Separate the founding partnership from later brand ownership."
+    ],
+    "sources": [
+      {
+        "title": "Burt’s Bees — origin story",
+        "url": "https://www.burtsbees.com/our-story/"
+      },
+      {
+        "title": "Clorox — company fortieth-anniversary account (2024)",
+        "url": "https://www.thecloroxcompany.com/blog/celebrating-40-years-of-burts-bees-with-a-look-back-to-1984/"
+      },
+      {
+        "title": "Burt’s Bees — historical brand presentation (2023)",
+        "url": "https://www.burtsbees.ca/wp-content/uploads/sites/4/2023/03/BB-History-and-Sustainability_2023-1.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "spencer-williams",
+    "name": "Spencer Williams",
+    "company": "West Paw",
+    "website": "https://www.westpaw.com/",
+    "role": "1996 acquirer and business builder of the enterprise that became West Paw; not founder of the pre-existing Pet Pals business.",
+    "founding": "Williams purchased Pet Pals in 1996; the West Paw name followed later.",
+    "intro": "Spencer Williams’s West Paw story begins with buying a small existing business in Montana. The company’s twenty-fifth-anniversary account identifies that business as Pet Pals, a cut-and-sew maker of dog and cat toys. Williams’s role was to acquire and develop that operation, which subsequently became West Paw.",
+    "sections": [
+      {
+        "title": "An acquisition supplied products and customer connections",
+        "text": "The company dates Williams’s purchase to 1996. Its anniversary account recalls a recipe box holding the names of current and prospective retailers. That detail gives the acquisition a practical shape: it included an existing product activity and a way of reaching buyers. Williams did not need to invent the predecessor company for the next phase to be entrepreneurial. He had to work with and expand a business that already made fabric toys.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Retail relationships preceded the larger product range",
+        "text": "West Paw’s account describes the early business before its later factory, website and Zogoflex products. The retailer contacts in the box connected a small manufacturing operation to shops that could carry its goods. Product development and customer relationships therefore advanced together. The company’s thirtieth-anniversary post also distinguishes the Pet Pals name from the later West Paw name, preventing the present brand from being projected onto every earlier stage.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Later manufacturing reflects an extended building period",
+        "text": "The 2021 anniversary account describes a broader assortment of toys, beds and other pet products, alongside expanded manufacturing and distribution. Those are dated company statements, not assumptions about the current scale of the enterprise. They show how the acquired cut-and-sew operation became the starting point for years of additional work. Williams expanded the acquired Pet Pals operation into a wider manufacturing and distribution business, with new products and additional relationships built over the years.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Identify Williams as the 1996 acquirer and subsequent business builder.",
+      "Preserve Pet Pals as a pre-existing operation.",
+      "Date descriptions of product range and leadership to the company statements."
+    ],
+    "sources": [
+      {
+        "title": "West Paw — twenty-fifth anniversary account (2021)",
+        "url": "https://www.westpaw.com/blogs/scoop/west-paw-celebrates-25-years-of-being-dogs-best-friend"
+      },
+      {
+        "title": "West Paw — thirtieth anniversary company statement (2026)",
+        "url": "https://www.linkedin.com/posts/westpaw_westpaw-madeintheusa-certifiedbcorp-activity-7489413480085729280-DR7j"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "patrick-kruse",
+    "name": "Patrick Kruse",
+    "company": "Ruffwear",
+    "website": "https://ruffwear.com/",
+    "role": "Historical founder of Ruffwear; later product development involved an expanded team.",
+    "founding": "A 1992 prototype preceded Ruffwear’s commercial introduction at a 1994 trade show.",
+    "intro": "Patrick Kruse’s Ruffwear began with an idea for a collapsible dog bowl during an outdoor trip. The company’s timeline distinguishes the 1992 prototype from the 1994 trade-show introduction. His earlier experience making outdoor equipment supplied a practical starting point for the new product business.",
+    "sections": [
+      {
+        "title": "A fabric problem suggested a first product",
+        "text": "Ruffwear’s account describes Kruse watching a friend try to give her dog water from a plastic bag. He considered using fabric to contain water and developed a collapsible bowl. The idea drew on materials associated with outdoor equipment, but served an animal accompanying its owner. This connection between an existing material and a different use defined the first product more specifically than a general ambition to enter the pet market.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "A trade show brought the bowl to retail buyers",
+        "text": "The first commercial presentation came at the 1994 Outdoor Retailer show. The company and Kruse’s direct interview describe retailer interest, including an order from L.L.Bean. The important common sequence is the introduction, buyer response and subsequent need to produce and deliver the bowls. Kruse initially handled design, sales and fulfillment himself, according to the company history. The business therefore developed around carrying a product from prototype into repeat orders.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Travel and a new base supported additional products",
+        "text": "Ruffwear dates customer visits and show travel to the late 1990s, followed by Kruse’s move to Bend in 1998 and the hiring of employees. The company’s later pack history connects his outdoor experience with an expanding range of dog equipment. Those developments involved a broader organization than the original garage operation. The founder’s history follows observation, material experimentation, retail distribution and a growing team, with each stage attached to its own period.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the 1992 prototype and 1994 sales launch distinct.",
+      "Avoid treating conflicting order quantities as one established total.",
+      "Follow the move to Bend and hiring as later operating changes."
+    ],
+    "sources": [
+      {
+        "title": "Ruffwear — company timeline",
+        "url": "https://ruffwear.com/pages/our-path"
+      },
+      {
+        "title": "Ruffwear — company pack-development retrospective (2026)",
+        "url": "https://ruffwear.eu/blogs/explored/from-diy-saddlebags-to-the-palisades-pack-the-evolution-of-the-ruffwear-dog-pack"
+      },
+      {
+        "title": "Patrick Kruse — direct interview (2012)",
+        "url": "https://cascadebusnews.com/news-pages/business-profiles/2377-patrick-kruse-leader-of-the-pack"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "william-coffin-coleman",
+    "name": "William Coffin Coleman",
+    "company": "Coleman",
+    "website": "https://www.coleman.com/",
+    "role": "Historical founder; later family managers and corporate owners continued the business.",
+    "founding": "Coleman’s lamp-selling venture began around 1900, before its later camping-equipment range.",
+    "intro": "William Coffin Coleman entered the lighting business after seeing a bright gasoline-powered lamp while working as a salesman. A company catalog and Kansas historical records follow his move from selling another maker’s lamp to manufacturing. The familiar camping brand developed from that earlier lighting enterprise.",
+    "sections": [
+      {
+        "title": "Selling an existing lamp came first",
+        "text": "The company catalog describes Coleman noticing the Efficient Lamp while visiting customers in Alabama. He agreed to sell it, but potential buyers were wary of similar products they had tried. The account then follows a service-oriented arrangement that let merchants use lighting rather than simply purchase an unfamiliar device. Coleman’s initial contribution was commercial as well as technical: finding a workable way for customers to try and keep using the product.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Manufacturing followed the sales experience",
+        "text": "The Kansas Historical Society describes Coleman obtaining rights to the lamp and continuing to improve it. A small Wichita workshop became the basis for manufacturing. The company records preserved at Wichita State include cash books, employee publications and production material, showing how much more the enterprise became than its first sales route. The sequence matters: an outside product introduced Coleman to a market, then acquired rights and production work made a different kind of business possible.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Lighting grew into an outdoor-equipment business",
+        "text": "The historical collections document later stoves and wartime manufacturing alongside lamps. Those products broadened the enterprise beyond lighting for shops and homes. Subsequent family managers and corporate owners operated the company after Coleman’s own period. His founder history is rooted in the connection between selling, servicing and manufacturing a useful light; the much wider camping assortment is a later development. The archive helps keep those stages connected without making them all the founder’s personal inventions.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish selling the original lamp from making Coleman products.",
+      "Keep the approximate beginning separate from later factories and stoves.",
+      "Follow later managers and owners in their own periods."
+    ],
+    "sources": [
+      {
+        "title": "Coleman — historical product catalog",
+        "url": "https://adventuregears.com/pub/media/wysiwyg/coleman_cata.pdf"
+      },
+      {
+        "title": "Wichita State — Coleman company-records finding aid",
+        "url": "https://specialcollections.wichita.edu/collections/pdf/2013-3-a.pdf"
+      },
+      {
+        "title": "Kansas Historical Society — William Coleman biography",
+        "url": "https://www.kansashistory.gov/kansapedia/william-coffin-coleman/12018"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "george-stephen",
+    "name": "George A. Stephen Sr.",
+    "company": "Weber",
+    "website": "https://www.weber.com/",
+    "role": "Historical founder of the Weber grill business; Weber Brothers Metal Works existed before his kettle design.",
+    "founding": "Stephen developed the kettle grill in 1952; the later Weber-Stephen company followed an older metalworking enterprise.",
+    "intro": "George A. Stephen Sr.’s grill business grew out of his work at Weber Brothers Metal Works in Illinois. Company histories connect the round kettle with the metal buoy shapes made in the shop. His story is a product venture within an older manufacturer, followed by a later business reorganization.",
+    "sections": [
+      {
+        "title": "An existing workshop supplied the shape and skills",
+        "text": "Weber’s account places Stephen at the metalworks in 1952, working with halves used to make marine buoys. He adapted the form into a cooking bowl and lid. The company’s later securities filing repeats that origin as part of its product chronology. Stephen could draw on a manufacturing setting, tools and metalworking experience that already existed. The kettle therefore belongs to a new application of those capabilities, not the original founding of the metalworks.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A product line became a focused business",
+        "text": "The company history describes subsequent work to improve and sell the grill. Later accounts place the Weber-Stephen organization in the 1950s, distinct from the initial prototype. That progression involved more than a recognizable silhouette: a product had to be made consistently and distributed to buyers. Keeping the older shop and the grill enterprise separate explains why the business carries two surnames and why its product origin is dated to 1952.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The next generation took on different responsibilities",
+        "text": "A dated biography of Stephen’s son Jim describes his later work in national sales and manufacturing. Those roles belong to an established company expanding its products and distribution, rather than to the original kettle project. They show a family enterprise developing specialized management as it grew. George’s historical role remains the founder of the grill business whose first product drew on metal-shop practice; later categories and operations reflect the work of succeeding teams.",
+        "sourceIndexes": [
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Weber Brothers Metal Works distinct from the grill enterprise.",
+      "Date the kettle design separately from later company changes.",
+      "Separate George’s founding role from Jim’s subsequent management."
+    ],
+    "sources": [
+      {
+        "title": "Weber — George Stephen retrospective",
+        "url": "https://www.weber.com/US/en/blog/behind-the-grill/georges-legacy-lives-on/weber-30171.html"
+      },
+      {
+        "title": "Weber — securities-registration product chronology (2021)",
+        "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001857951/532910c0-afc7-4bc7-8179-14ffd72b92bb.pdf"
+      },
+      {
+        "title": "Northern Trust — company-participant biography of Jim Stephen (2014)",
+        "url": "https://www.northerntrust.com/documents/events-conferences/fe2014-speaker-bios.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "joe-traeger",
+    "name": "Joe Traeger",
+    "company": "Traeger",
+    "website": "https://www.traeger.com/",
+    "role": "Historical founder of the original Traeger equipment business; the business and intellectual property were sold in 2006.",
+    "founding": "Pellet-grill development in the 1980s preceded the later company and ownership arrangements.",
+    "intro": "Joe Traeger’s equipment business developed from work with pellet fuel and a grill in Oregon. The present brand describes his mid-1980s invention, while a federal court record provides a separate account of the original family enterprise and its 2006 sale. Those sources distinguish the founder from later corporate operators.",
+    "sections": [
+      {
+        "title": "A heating background led toward cooking equipment",
+        "text": "The company describes Traeger as a heating contractor with an idea for using wood pellets in a grill. Its current history places the invention in 1985, while a hall-of-fame biography uses 1986. Both describe the same mid-1980s development period. The product applied an existing fuel and feeding approach to another task, connecting experience in one equipment market with a new commercial application.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The family business preceded a transfer to another company",
+        "text": "The court’s historical account identifies Traeger Industries as the business through which Joe and his family made and sold the equipment. It dates use of the Traeger mark in commerce to January 1986. The record then describes separate asset and intellectual-property agreements in February 2006. These are concrete organizational changes, not simply a new product launch. They mark the passage from the original family operation to a different company operating the brand.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The name continued after the founder’s ownership period",
+        "text": "The later Traeger business developed additional products and distribution under the acquired name. That continuity can make a founder’s historical association easy to confuse with present ownership. The company history and transaction record provide a clearer sequence: equipment development, the original family enterprise and the documented sale. Joe’s biography belongs to that founding chapter. Later appearances or work in the industry do not by themselves establish a current role at the company carrying his surname.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Describe the development period without merging different source dates.",
+      "Separate the original family enterprise from the 2006 buyer.",
+      "Keep historical founder identity distinct from current brand ownership."
+    ],
+    "sources": [
+      {
+        "title": "Traeger — company history",
+        "url": "https://www.traeger.com/about-us"
+      },
+      {
+        "title": "US District Court — historical transaction account (2019)",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-azd-2_19-cv-04732/pdf/USCOURTS-azd-2_19-cv-04732-0.pdf"
+      },
+      {
+        "title": "American Royal — Joe Traeger biography",
+        "url": "https://americanroyal.com/wp-content/uploads/2024/07/Joe-Traeger.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "andreas-stihl",
+    "name": "Andreas Stihl",
+    "company": "STIHL",
+    "website": "https://www.stihl.com/",
+    "role": "Historical founder; his children and later professional managers led subsequent stages.",
+    "founding": "Andreas Stihl opened his independent engineering office in Stuttgart in 1926.",
+    "intro": "Andreas Stihl’s company began as a Stuttgart engineering office in 1926. Its histories follow the development of early powered saws alongside the practical work of building a manufacturing business. Later management by his children belongs to another stage of the enterprise, after its founding engineering period.",
+    "sections": [
+      {
+        "title": "An engineering office developed a manufacturing focus",
+        "text": "The company’s historical statement distinguishes Stihl’s independent 1926 venture from an earlier engineering partnership. Its initial work included equipment for other industrial purposes before powered saws became central. This context makes the beginning more specific than a single finished product appearing without preparation. Stihl worked within engineering and machinery markets, then organized an enterprise around equipment he believed could change how timber work was performed.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Early saws required further development and capacity",
+        "text": "The first company saw was electric and required two operators. A gasoline-powered model followed in 1929. The annual-report history describes the growing workshop and its move to more industrial space in Cannstatt. These milestones connect technical development with the place and capacity needed to manufacture equipment. They also show that early products differed substantially from modern handheld tools, rather than implying the present range was available from the start.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A new generation expanded the organization",
+        "text": "The company’s governance history records Eva and Hans Peter Stihl joining in the late 1950s and 1960 respectively, with later leadership responsibilities. International sales and production expanded across succeeding periods. Those developments belong to a continuing organization, not solely to the founder’s personal engineering. Andreas’s role is the historical founder of the 1926 business; the later family and professional-management chapters explain how the enterprise operated beyond that beginning.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the earlier partnership separate from the 1926 independent office.",
+      "Distinguish electric and gasoline models in the early chronology.",
+      "Date the next generation’s entry and leadership independently."
+    ],
+    "sources": [
+      {
+        "title": "STIHL — governance history",
+        "url": "https://corporate.stihl.com/en/about-stihl/history/family-leadership"
+      },
+      {
+        "title": "STIHL — annual-report company history (2020)",
+        "url": "https://ar.stihl.com/2020/journal/95-years-of-stihl.html"
+      },
+      {
+        "title": "STIHL — Andreas Stihl historical statement (2021)",
+        "url": "https://www.stihlusa.com/WebContent/PressReleases/Releases/nov21_stihlbirthdaycompanyfounder/nov21_stihlbirthdaycompanyfounder_PressRelease.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-rich-woolrich",
+    "name": "John Rich",
+    "company": "Woolrich",
+    "website": "https://www.woolrich.com/",
+    "role": "Historical cofounder with Daniel McCormick; later family leadership and brand arrangements belong to separate periods.",
+    "founding": "The first Rich–McCormick mill began in Pennsylvania in 1830.",
+    "intro": "John Rich’s Woolrich history begins with a Pennsylvania woolen mill shared with Daniel McCormick. A company anniversary book, described in a United Kingdom trademark decision, records both founders. Later company statements trace the brand’s 1830 origin while describing generations of management after Rich’s own period.",
+    "sections": [
+      {
+        "title": "A partnership preceded the familiar brand",
+        "text": "The 2010 trademark decision describes evidence submitted by the company, including its book marking 175 years of business. That evidence identifies Rich and McCormick as the original partners and notes Rich’s later purchase of McCormick’s interest. The account is especially useful because the present name highlights only one surname. The founding enterprise was a partnership making woolen goods, not a modern outdoor-clothing assortment created all at once.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Manufacturing and selling developed together",
+        "text": "The company’s regional chronology identifies the first mill at Plum Run in 1830, then records later clothing and blanket production. Rich’s business supplied an area where textile manufacturing and local demand were closely connected. The historical company materials also preserved labels, advertisements and catalogs. Those records show a manufacturer developing a recognizable commercial identity over time, with product descriptions and distribution accompanying the work of the mill.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Later generations managed the mill",
+        "text": "Woolrich’s 2012 announcement named descendants Nicholas Brayton and Joshua Rich to leadership positions. That release is a dated record of succession within an established enterprise, not a description of John Rich’s role or of current brand ownership. The original mill, subsequent family company and later licensing arrangements should be followed as different chapters. This profile centers on Rich’s founding partnership and the manufacturing business that carried the name forward.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Daniel McCormick as the founding partner.",
+      "Attribute the anniversary-book evidence to the trademark decision.",
+      "Keep dated descendant appointments distinct from current corporate arrangements."
+    ],
+    "sources": [
+      {
+        "title": "Woolrich — company leadership announcement (2012)",
+        "url": "https://www.prnewswire.com/news-releases/woolrich-original-family-members-brayton-rich-named-president-and-vp-international-142464355.html"
+      },
+      {
+        "title": "UK Intellectual Property Office — decision describing company anniversary evidence (2010)",
+        "url": "https://www.ipo.gov.uk/t-challenge-decision-results/o40010.pdf"
+      },
+      {
+        "title": "Woolrich — regional brand chronology",
+        "url": "https://woolrich.ca/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "clarence-morton-bishop",
+    "name": "Clarence Morton Bishop",
+    "company": "Pendleton Woolen Mills",
+    "website": "https://www.pendleton-usa.com/",
+    "role": "Historical founding operator with brothers Roy and Chauncey; earlier Kay family mills were separate businesses.",
+    "founding": "The Bishop family reopened and rebuilt the Pendleton mill in 1909, drawing on earlier family textile and retail experience.",
+    "intro": "Clarence Morton Bishop helped establish the Pendleton Woolen Mills business that opened in 1909. He worked with brothers Roy and Chauncey, drawing on their parents’ retail and manufacturing experience. The company’s own history distinguishes this mill from their grandfather Thomas Kay’s earlier Oregon textile work.",
+    "sections": [
+      {
+        "title": "Family experience preceded the new mill",
+        "text": "Pendleton’s historical publication describes Fannie Kay and C.P. Bishop passing textile and retail knowledge to their three sons. Thomas Kay had worked in Oregon woolen manufacturing from the 1860s, but the Pendleton enterprise came later. This family background supplied practical experience without making the grandfather the operator of a mill opened after his lifetime. Clarence’s biography belongs to the generation that negotiated and managed the new business.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The brothers took on an idle operation",
+        "text": "The company’s account places the reopening in 1909, with financing from both the family and the local community. The Willamette Heritage Center biography describes Clarence and Roy moving to eastern Oregon to manage construction, equipment upgrades and day-to-day work. A new concrete building and Jacquard looms formed part of that effort. The existing local mill was not simply renamed: the family organized a new stage of production and marketing around it.",
+        "sourceIndexes": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "Shirtmaking broadened a blanket business",
+        "text": "Pendleton’s shirt history identifies Clarence’s interest in a different fabric for men’s wool shirts. That development extended the business beyond its earlier blankets and robes. It linked weaving decisions to a finished garment and a new use for the mill’s capabilities. The company’s later product range reflects many subsequent contributors, but the transition helps explain Clarence’s own business role: organizing mill operations and helping apply textile production to additional markets.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Roy and Chauncey in the 1909 founding account.",
+      "Credit Fannie and C.P. Bishop’s earlier experience without merging separate mills.",
+      "Distinguish Clarence’s operating and product work from later company leadership."
+    ],
+    "sources": [
+      {
+        "title": "Pendleton — historical company publication",
+        "url": "https://www.pendleton-usa.com/on/demandware.static/-/Sites-PWM-Library/default/dw368e9ded/assets/files/pdf/Pendleton_story.pdf"
+      },
+      {
+        "title": "Pendleton — ninety years of shirtmaking",
+        "url": "https://www.pendleton-usa.com/blog/90-years-of-shirtmaking-the-taxonomy-of-pendleton-shirts/"
+      },
+      {
+        "title": "Willamette Heritage Center — archival Clarence Bishop biography",
+        "url": "https://www.willametteheritage.org/clarence-m-bishop/"
+      },
+      {
+        "title": "Pendleton — company historical film (2009)",
+        "url": "https://www.youtube.com/watch?v=IejBGUynAs4"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "hamilton-carhartt",
+    "name": "Hamilton Carhartt",
+    "company": "Carhartt",
+    "website": "https://www.carhartt.com/",
+    "role": "Historical founder and president from 1889 to 1937; later family members continued the business.",
+    "founding": "Hamilton Carhartt & Company began making work clothing in Detroit in 1889.",
+    "intro": "Hamilton Carhartt founded his clothing company in Detroit in 1889. Company histories describe a small manufacturing operation and direct conversations with railroad workers. The resulting workwear business grew through mills, sewing facilities and distribution, then faced a difficult contraction during the Great Depression.",
+    "sections": [
+      {
+        "title": "Workers helped define the first successful product",
+        "text": "Carhartt’s account describes early difficulties before Hamilton focused on the needs of railroad employees. He spoke with workers and developed bib overalls around that market. The early shop used a small amount of equipment, so the enterprise began with a focused garment rather than a broad lifestyle assortment. Its commercial direction came from identifying a working customer and making clothing suited to that customer’s tasks.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A wider manufacturing system followed",
+        "text": "The company chronology places mills in the South and sewing facilities in several US cities by 1910, alongside international operations. That organization linked fabric production with garment assembly and the movement of finished goods. Hamilton’s company had become much more than the original Detroit room. The historical narrative also includes additional garments, with the company archive preserving advertisements for the Chore Coat from the 1910s.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The Depression tested the expanded enterprise",
+        "text": "The company describes the severe impact of the economic downturn and the role of Hamilton and his sons in keeping the business operating. Later generations continued Carhartt after his presidency ended in 1937. This history is useful as a sequence of customer focus, manufacturing expansion and adaptation under pressure. It gives the familiar name a concrete business background without treating every garment introduced by succeeding teams as a personal design by Hamilton.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the railroad-customer research connected to the early overalls.",
+      "Distinguish mill expansion from the original Detroit shop.",
+      "Date Hamilton’s presidency separately from later family leadership."
+    ],
+    "sources": [
+      {
+        "title": "Carhartt — company history",
+        "url": "https://www.carhartt.com/carhartt-history?icid=abouthistory_042721_carhartt-history_allvisitors"
+      },
+      {
+        "title": "Carhartt — manufacturing history film (2011)",
+        "url": "https://www.youtube.com/watch?v=JiLkfttHcfY"
+      },
+      {
+        "title": "Carhartt — anniversary company film (2019)",
+        "url": "https://www.youtube.com/watch?v=-OSBX-fxO00"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "albert-weinbrenner",
+    "name": "Albert H. Weinbrenner",
+    "company": "Weinbrenner Shoe Company / Thorogood",
+    "website": "https://thorogoodusa.com/",
+    "role": "Historical cofounder with Joseph Pfeifer; the Thorogood brand followed the earlier cobblery business.",
+    "founding": "Weinbrenner and Pfeifer opened their Milwaukee business in 1892; Thorogood was introduced later.",
+    "intro": "Albert H. Weinbrenner’s footwear company began with a Milwaukee cobblery partnership. He had learned the trade in his father’s shop before starting a business with Joseph Pfeifer in 1892. The later Thorogood brand grew from that earlier focus on shoes for working customers.",
+    "sections": [
+      {
+        "title": "Apprenticeship preceded the partnership",
+        "text": "The company’s historical account describes Weinbrenner entering his father’s trade as an apprentice. By the time he opened a separate business, he had experience making and repairing footwear. Joseph Pfeifer joined him in the new cobblery, which served people in the jobbing trades. That background connects a learned craft with a particular customer base, rather than presenting the later shoe factory as the first step in his working life.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Specialized footwear encouraged manufacturing growth",
+        "text": "The company histories describe the partners moving beyond repairs and sales into making work boots. Their product direction followed the occupations around them, including jobs with specific footwear requirements. Later distribution centers brought the business to customers beyond Milwaukee. These developments turned a local storefront into a manufacturing and selling organization, with the demands of different trades helping shape the assortment.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The Thorogood name belongs to a later stage",
+        "text": "The company dates the Thorogood brand to 1917, after the partnership’s 1892 beginning. Its later history includes additional categories and Wisconsin factories. Those chapters reflect the work of an expanding organization and succeeding employees. Albert’s founding role remains connected to the earlier business with Pfeifer, while the brand’s development is followed separately. The history explains the commercial focus on occupational footwear without making a present safety or performance judgment about any particular boot.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Joseph Pfeifer as a founding partner.",
+      "Distinguish apprenticeship, the 1892 cobblery and the 1917 brand.",
+      "Use current specifications for any occupational-footwear purchasing decision."
+    ],
+    "sources": [
+      {
+        "title": "Weinbrenner — company chronology",
+        "url": "https://www.weinbrennerusa.com/ourHistory.cfm"
+      },
+      {
+        "title": "Weinbrenner — founder and business background",
+        "url": "https://www.weinbrennerusa.com/aboutus.cfm"
+      },
+      {
+        "title": "Thorogood — historical company retrospective",
+        "url": "https://thorogoodusa.com/history-of-weinbrenner-shoe-co/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "gustav-adolf-krause",
+    "name": "Gustav Adolf Krause",
+    "company": "Wolverine",
+    "website": "https://wolverineworldwide.com/",
+    "role": "Historical cofounder with Fredrick Hirth; later manufacturing involved Krause’s sons and succeeding managers.",
+    "founding": "The Hirth-Krause business began in 1883, before the Rockford shoe factory and Wolverine corporate name.",
+    "intro": "Gustav Adolf Krause’s footwear enterprise began with a partnership, then developed factories and a tannery in Michigan. Wolverine Worldwide’s history names Fredrick Hirth alongside him in the 1883 Hirth-Krause Company. The familiar Wolverine name and the company’s own shoe manufacturing came in later stages.",
+    "sections": [
+      {
+        "title": "The partnership came before a shoe factory",
+        "text": "The company chronology places Hirth-Krause in Grand Rapids in 1883. That business provided the commercial foundation for the later manufacturer. Preserving Hirth’s name matters because the modern brand often highlights Krause alone. The early enterprise and the factory are separate milestones: a partnership could trade and organize customers before it had the production facilities associated with the later Wolverine company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Electric power and production were connected decisions",
+        "text": "Wolverine’s histories describe Krause’s involvement with the Rogue River Electric Light and Power Company before a Rockford shoe factory opened in 1903. Power was part of the industrial setting needed for that expansion. The corporate chronology then dates the Wolverine Tanning Company to 1908, with Krause’s son Victor involved. Together, these steps show the business developing links between materials, production and the infrastructure supporting the factory.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A later name joined the expanding operations",
+        "text": "The Wolverine Shoe and Tanning Corporation name followed in 1921. Product lines and brands continued to develop under later managers. The founder’s history follows different parts of a manufacturing operation, from materials to finished footwear. It is more than an account of a boot bearing a familiar name: it follows a trading partnership, factory construction and material production across decades. Krause’s sons and Hirth belong within that chronology, while subsequent corporate products and ownership should not be assigned to the original partners personally.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Fredrick Hirth in the 1883 partnership.",
+      "Separate the 1903 factory and 1908 tannery.",
+      "Keep the 1921 name distinct from the earlier business."
+    ],
+    "sources": [
+      {
+        "title": "Wolverine Worldwide — company chronology",
+        "url": "https://wolverineworldwide.com/about-us"
+      },
+      {
+        "title": "Wolverine — founder and factory history",
+        "url": "https://www.wolverine.com/US/en/content?caid=our-story-20150220"
+      },
+      {
+        "title": "Wolverine — company origin account",
+        "url": "https://www.wolverine.com/US/en/about-us-our-story/?caid=footer-about-us"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "dane-scag",
+    "name": "Dane Scag",
+    "company": "Scag Power Equipment",
+    "website": "https://www.scag.com/",
+    "role": "Historical founder of Scag Power Equipment and later Great Dane Power Equipment; the businesses were distinct ventures.",
+    "founding": "Scag Power Equipment began in 1983 and was purchased by its contract manufacturer in 1986.",
+    "intro": "Dane Scag’s equipment businesses connected engineering with the needs of professional mowing crews. Scag Power Equipment’s own history dates its beginning to 1983 and describes production by Metalcraft of Mayville. Direct interviews with Scag add his account of earlier experience and the separate venture that followed.",
+    "sections": [
+      {
+        "title": "An acquired business introduced him to the market",
+        "text": "In a 2000 interview, Scag described coming from a research and engineering background and buying a snow-thrower business after meeting its owner. He recalled learning that a company needed products beyond a single seasonal category. That is his own retrospective account, but it supplies useful context for the later mowing businesses: the initial commercial challenge involved both machinery and a market that could sustain an operation across the year.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The namesake company began with contract manufacturing",
+        "text": "The company’s history says Metalcraft made Scag products under contract from the beginning. Metalcraft purchased the business in 1986. This is a clear distinction between the commercial enterprise carrying Scag’s name and the organization making its equipment. The subsequent company range expanded from its early mower model into additional formats. Those later products belong to a manufacturer operating after the purchase, rather than automatically to the founder personally.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Great Dane was a later, separate venture",
+        "text": "A later direct interview describes Scag’s work on stand-on equipment and the launch of Great Dane Power Equipment in 1996. The account connects the design work with comments from crews about spending the day walking behind mowers. It was another application of observing users and developing machinery around a task. Keeping the ventures separate makes the biography clearer: an earlier acquisition, the Scag company and a later Great Dane business each had their own chronology.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Scag Power Equipment and Great Dane separate.",
+      "Distinguish contract manufacturing from the 1986 purchase.",
+      "Attribute the early-business recollections to Scag’s interviews."
+    ],
+    "sources": [
+      {
+        "title": "Scag — company history",
+        "url": "https://www.scag.com/company/about-us/"
+      },
+      {
+        "title": "Dane Scag — direct interview in Lawn & Landscape (2000)",
+        "url": "https://archive.lib.msu.edu/tic/alapt/article/2000jul.pdf"
+      },
+      {
+        "title": "Dane Scag — direct interview in Landscape Management (2008)",
+        "url": "https://archive.lib.msu.edu/tic/wetrt/article/2008may.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "irving-franklin",
+    "name": "Irving H. Franklin",
+    "company": "Franklin Sports",
+    "website": "https://franklinsports.com/",
+    "role": "Historical cofounder with his brother Sidney, also rendered Sydney in company material.",
+    "founding": "The brothers established the Brockton sporting-goods business in 1946.",
+    "intro": "Irving H. Franklin founded Franklin Sports with his brother Sidney in Brockton, Massachusetts, in 1946. Company material also renders his brother’s name as Sydney. Their early work used leather associated with the local shoe industry, connecting an available material and manufacturing experience with sporting goods.",
+    "sections": [
+      {
+        "title": "Local leather work supported a new product range",
+        "text": "The company’s account describes the brothers using scrap leather from shoe factories for footballs, gloves and other equipment. A Plymouth County Registry of Deeds history places the business within Brockton’s manufacturing community. The founders’ family background and material supply were part of that setting. The business began with making goods, rather than with a modern sponsorship program or a single nationally distributed branded product.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The assortment and sales relationships expanded",
+        "text": "The registry’s historical account follows the company from a small leather-goods operation into a range of sports equipment. Later relationships with athletes helped connect products to particular sports and audiences. These were subsequent commercial developments, separate from the initial 1946 partnership. They required the company to manage a wider assortment and present it to buyers beyond the original local manufacturing base.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A player collaboration helped develop the batting glove",
+        "text": "Company and registry accounts describe Irving’s work with baseball player Mike Schmidt in the early 1980s. They brought different experience to the product: making sporting goods and using equipment in play. That collaboration belongs to a much later stage of the enterprise, not its original founding. The company’s continuing history then involves succeeding family managers and additional products for different sports and age groups. Irving’s biography connects the early leather business with this later development while retaining his brother’s cofounding role.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Sidney/Sydney as the founding brother.",
+      "Separate the 1946 business from later athlete collaborations.",
+      "Describe the batting-glove development as collaborative work."
+    ],
+    "sources": [
+      {
+        "title": "Franklin Sports — company background",
+        "url": "https://b2b.franklinsports.com/franklin-sports/about-franklin"
+      },
+      {
+        "title": "Plymouth County Registry of Deeds — Franklin brothers history",
+        "url": "https://www.plymouthdeeds.org/sites/g/files/vyhlif4881/f/file/file/franklin-brothers-brockton-notable-land-records.pdf"
+      },
+      {
+        "title": "Franklin Sports — company brand-development account",
+        "url": "https://stories.franklinsports.com/all-hands-ondeck"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "j-b-piotrowski",
+    "name": "J. B. Piotrowski",
+    "company": "Chippewa Boots",
+    "website": "https://www.chippewaboots.com/",
+    "role": "Historical cofounder with John Andrejski; later brand ownership and product ranges are separate.",
+    "founding": "Chippewa Shoe Manufacturing Company began in Chippewa Falls in 1901.",
+    "intro": "J. B. Piotrowski and John Andrejski are named in Chippewa’s company history as its 1901 founders. The business operated in Chippewa Falls, Wisconsin, where footwear manufacturing became part of the local industrial economy. An official historic-building record helps place the factory’s development alongside that brand history.",
+    "sections": [
+      {
+        "title": "A local manufacturer served working customers",
+        "text": "The company’s anniversary account identifies both founders and describes a small initial operation. Its products were associated with the needs of workers, including people in northern timber communities. That setting explains the early business focus without turning a historical description into a present guarantee about a boot. Piotrowski’s role belongs to the formation of the manufacturer with Andrejski, rather than to every product subsequently sold under the name.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A larger factory reflected a developing enterprise",
+        "text": "The National Register record follows the shoe-manufacturing industry in Chippewa Falls and the company’s later factory. It describes a new building undertaken in 1910, with offices, shipping space and work rooms serving different functions. The layout makes the business’s growth concrete: manufacturing required more than a storefront, and the organization had to coordinate production with storing and sending finished goods to customers.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Distribution extended beyond the original community",
+        "text": "The historic record describes a western branch office and salesroom in Spokane, connecting the company with another region. That development placed its footwear closer to customers outside Wisconsin. Later company accounts follow additional markets and the continuing brand. These are stages of a business growing beyond its local beginning. The founding profile retains both Piotrowski and Andrejski, while subsequent factory, distribution and ownership developments remain attached to their own dates.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Preserve John Andrejski alongside Piotrowski.",
+      "Keep the 1901 business distinct from the later factory building.",
+      "Treat historical customer markets separately from current product claims."
+    ],
+    "sources": [
+      {
+        "title": "Chippewa — company anniversary history (2026)",
+        "url": "https://www.chippewaboots.com/en/chippewa-corner/125-years-of-chippewa.html"
+      },
+      {
+        "title": "Chippewa — company background",
+        "url": "https://www.chippewaboots.com/en/about-us.html"
+      },
+      {
+        "title": "National Park Service — Chippewa factory historic record",
+        "url": "https://npgallery.nps.gov/GetAsset/4868abe9-300f-4c83-b306-669b8b643019/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "philip-young",
+    "name": "Philip E. Young",
+    "company": "Titleist / Acushnet",
+    "website": "https://www.titleist.com/",
+    "role": "Historical founder of Acushnet’s golf business; Fred Bommer led important technical development.",
+    "founding": "The rubber-products company began in 1910; the golf business followed in 1932 and its first Titleist ball in 1935.",
+    "intro": "Philip E. “Skipper” Young’s Titleist story began within an existing rubber-products company. Acushnet’s filings distinguish the 1910 enterprise from its 1932 move into golf and the 1935 ball introduction. The brand’s own history also identifies Fred Bommer as a central technical collaborator.",
+    "sections": [
+      {
+        "title": "An existing company supplied a manufacturing background",
+        "text": "Acushnet’s historical filing describes a business making rubber-based products before entering golf. That experience provided a setting for Young’s interest in manufacturing a more consistent ball. The company’s familiar origin account recounts him having a ball examined by X-ray after a missed putt. It is best understood as the company’s story of what prompted a new project, rather than as independent proof of the cause of that particular missed shot.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A separate project required technical leadership",
+        "text": "Young asked Fred Bommer, a fellow MIT graduate with rubber expertise, to lead the golf division. The company describes several years of development before the first Titleist ball reached the market in 1935. This sequence gives Bommer a clear role and separates the decision to enter a market from completion of the product. It also connects Young’s business initiative with manufacturing work carried out by a broader team.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The golf business developed beyond its first ball",
+        "text": "Later company reports describe additional equipment categories and continuing manufacturing development. Those belong to the organization built after Young’s initial project. The useful founder history follows a rubber-products enterprise finding an adjacent market, appointing technical leadership and commercializing a new product. It does not require adopting advertising claims about a ball’s superiority. The 1910, 1932 and 1935 milestones explain different stages of that development, from rubber manufacturing to a separate golf product business.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1910 company from the 1932 golf division.",
+      "Retain Fred Bommer’s technical leadership.",
+      "Describe the X-ray story as the company’s origin account."
+    ],
+    "sources": [
+      {
+        "title": "Titleist — company origin account",
+        "url": "https://www.titleist.com/company/titleist-story"
+      },
+      {
+        "title": "Acushnet — company historical filing (2017)",
+        "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001672013/7997cf59-d4f7-4e10-98d0-6189acc3488e.pdf"
+      },
+      {
+        "title": "Acushnet — annual report (2022)",
+        "url": "https://materials.proxyvote.com/Approved/005098/20230410/AR_535249.PDF"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "s-truett-cathy",
+    "name": "S. Truett Cathy",
+    "company": "Chick-fil-A",
+    "website": "https://www.chick-fil-a.com/",
+    "role": "Historical founder of Chick-fil-A; his brother Ben was a partner in the earlier Dwarf Grill.",
+    "founding": "The Dwarf Grill began in 1946; the first Chick-fil-A restaurant opened in 1967.",
+    "intro": "S. Truett Cathy’s restaurant business began before Chick-fil-A carried its familiar name. The company’s history identifies a 1946 diner opened with his brother Ben, then follows the sandwich and mall restaurant that came later. That sequence distinguishes an earlier family operation from the subsequent chain.",
+    "sections": [
+      {
+        "title": "The Dwarf Grill provided an operating starting point",
+        "text": "The company dates the brothers’ first restaurant to 1946 in Hapeville, near Atlanta. Its small diner format involved serving customers directly, with Cathy developing experience in restaurant operations over the following years. Ben’s involvement belongs in that early chapter. The later Chick-fil-A business did not appear without this prior work, but the two names and dates should not be treated as the same event.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A product and a mall format followed",
+        "text": "The company’s historical materials describe Cathy developing the chicken sandwich during the diner years. The first Chick-fil-A restaurant opened in Greenbriar Mall in 1967. That move placed the product within a different setting from the original diner. A shopping-center restaurant could reach people already visiting other stores, while requiring a format suited to the available space. The company timeline then follows later freestanding locations as another stage.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Later generations led an established organization",
+        "text": "The company records Dan Cathy becoming chief executive in 2013 and describes Andrew Cathy’s subsequent leadership. These are later management chapters, separate from Truett’s founding work. Its historical materials also show the continuation of diner-style restaurants alongside the expanding Chick-fil-A format. The biography therefore follows a founder building on an earlier operation, developing a recognizable product and changing the way customers encountered it, while keeping the succeeding leadership properly dated.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Ben in the 1946 Dwarf Grill beginning.",
+      "Separate sandwich development from the 1967 mall restaurant.",
+      "Keep later family-management roles in their respective periods."
+    ],
+    "sources": [
+      {
+        "title": "Chick-fil-A — company origin account",
+        "url": "https://www.chick-fil-a.com/customer-support/who-we-are/our-culture-and-values/how-did-chick-fil-a-get-its-start"
+      },
+      {
+        "title": "Chick-fil-A — Dwarf Grill history",
+        "url": "https://www.chick-fil-a.com/about/s-truett-cathy-brand-restaurants/dwarf-grill"
+      },
+      {
+        "title": "Chick-fil-A — company historical teaching timeline",
+        "url": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/Chick-fil-A-Backstage-Tour-Elementary-High-School-lesson-plans.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "emanuel-goldberg",
+    "name": "Emanuel Goldberg",
+    "company": "Nalge / Nalgene",
+    "website": "https://nalgene.com/",
+    "role": "Historical founder of Nalge; the later outdoor Nalgene product line developed from a laboratory-equipment business.",
+    "founding": "Sources date Nalge’s establishment to the late 1940s, distinguishing it from the later outdoor-bottle business.",
+    "intro": "Emanuel Goldberg’s Nalge enterprise made plastic equipment for laboratories before its bottles found a second audience outdoors. The Smithsonian’s collection record and Thermo Fisher’s company history place him in Rochester, New York, in the late 1940s. They also connect the business’s name with Natalie Levey Goldberg.",
+    "sections": [
+      {
+        "title": "Laboratory work came before the hiking bottle",
+        "text": "Thermo Fisher describes Goldberg developing a polyethylene pipette jar in 1949 and starting with three employees. The product belonged to laboratory work, where containers and other apparatus served scientific routines. The Smithsonian’s bottle record dates Nalge’s establishment to 1947. These accounts locate the business in the same late-1940s period but give different milestones; this profile retains that distinction rather than assigning a single precise year to every step.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The company name preserved a family connection",
+        "text": "The Smithsonian explains Nalge as a name derived from Goldberg’s wife, Natalie Levey Goldberg. Thermo Fisher similarly relates the Nalgene name to Natalie. That is a naming history, not evidence that every later product was developed by either spouse personally. The company’s laboratory range expanded beyond the initial jar, providing the manufacturing background for the containers that later attracted attention outside the laboratory.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A laboratory container reached an outdoor market",
+        "text": "Nalgene’s own story describes scientists taking laboratory bottles on hikes in the 1960s. The new use connected an existing manufactured object with a different set of customers. Its outdoor history includes later public-facing bottles and sporting associations, while Thermo Fisher documents the continuing laboratory business. The two histories explain why the name appears in both settings. Goldberg’s founding work belongs to the laboratory enterprise; the outdoor range was a subsequent commercial development involving other people and decisions.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the Smithsonian’s 1947 and Thermo Fisher’s 1949 milestones attributed.",
+      "Distinguish laboratory origins from the later outdoor line.",
+      "Treat the name’s family connection separately from technical authorship."
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian — Nalge bottle collection record",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1163907"
+      },
+      {
+        "title": "Thermo Fisher — Nalgene laboratory-name history (2020)",
+        "url": "https://www.thermofisher.com/blog/life-in-the-lab/?p=911"
+      },
+      {
+        "title": "Nalgene — outdoor company history",
+        "url": "https://nalgene.com/our-story/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "eddie-bauer",
+    "name": "Eddie Bauer",
+    "company": "Eddie Bauer",
+    "website": "https://www.eddiebauer.com/",
+    "role": "Historical founder; Christine “Stine” Bauer contributed to the women’s business and product development.",
+    "founding": "Eddie Bauer opened his Seattle shop in 1920; later retail operators and brand owners are distinct from that original business.",
+    "intro": "Eddie Bauer began in Seattle with a shop connected to his sporting interests and practical skills. Company histories describe tennis-racket work, fishing equipment and later insulated clothing. They also identify his wife Christine, known as Stine, as an important participant in the development of the women’s business.",
+    "sections": [
+      {
+        "title": "The first shop combined retailing and repair",
+        "text": "Bauer opened his business in 1920. The company’s feather history describes tennis-racket sales and restringing, followed by work on badminton shuttlecocks. His familiarity with sporting customers and materials provided more than a store name: it connected selling equipment with making and improving particular products. The company’s securities filings similarly describe the early assortment as sporting and recreational goods, before the outerwear identity became dominant.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Insulated garments were a later product chapter",
+        "text": "The company dates the Skyliner’s development to the 1930s and its patent to 1940. Its historical accounts connect that work with Bauer’s outdoor experience, while original corporate timelines distinguish the patent from the earlier shop opening. Stine developed and managed the women’s sportswear department and advocated for down garments for women. Her work belongs within the business history rather than being treated only as background to Eddie’s biography.",
+        "sourceIndexes": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "Mail order and later owners extended the business",
+        "text": "The company’s historical timeline dates its first catalog to 1945 and records the 1971 acquisition by General Mills. These were separate changes in how customers were reached through mailed product descriptions and who controlled the enterprise. Subsequent retail operators and brand arrangements occurred after the founder’s period. The useful history follows a Seattle sporting shop through product development, women’s merchandising and catalog distribution, while preserving those later corporate boundaries.",
+        "sourceIndexes": [
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Stine’s department and product work.",
+      "Separate the 1920 shop, 1930s garment and 1940 patent.",
+      "Distinguish the historical business from later retail and brand operators."
+    ],
+    "sources": [
+      {
+        "title": "Eddie Bauer — company history (2024)",
+        "url": "https://www.eddiebauer.com/en-ca/blogs/blog/100-years-of-eddie-bauer-history"
+      },
+      {
+        "title": "Eddie Bauer — feather-product history",
+        "url": "https://www.eddiebauer.com/blogs/blog/innovating-with-feathers"
+      },
+      {
+        "title": "Eddie Bauer — company annual filing (2009)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1345968/000119312509071536/d10k.htm"
+      },
+      {
+        "title": "Eddie Bauer — corporate historical timeline (2007)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1345968/000095013407022628/v35143exv99w1.htm"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "leon-leonwood-bean",
+    "name": "Leon Leonwood Bean",
+    "company": "L.L.Bean",
+    "website": "https://www.llbean.com/",
+    "role": "Historical founder and president from 1912 to 1967; grandson Leon Gorman led a later expansion.",
+    "founding": "The Maine Hunting Shoe developed in 1911; the company’s mail-order business began in 1912.",
+    "intro": "Leon Leonwood Bean founded a mail-order outdoor business around a boot designed for Maine conditions. The company’s histories distinguish his 1911 product work from the 1912 commercial launch. They also describe the early returns that required him to repair the design and rebuild customer confidence.",
+    "sections": [
+      {
+        "title": "Retail work preceded his own product business",
+        "text": "L.L.Bean’s founder biography describes Bean working in shoe and apparel shops, including a store managed for his brother Otho. This gave him experience with customers and footwear before he offered his own design. The Maine Hunting Shoe combined a leather upper with a rubber bottom. It was a specific product for a setting Bean knew personally, rather than a broad outdoor catalog created at the start.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Mail order exposed a defect and required a response",
+        "text": "The company says Bean promoted the boot to out-of-state sportsmen in 1912. Most of the first hundred pairs came back when the upper and lower portions separated. The account describes refunds, further product work and another mailing. It is a business episode involving both manufacture and the customer relationship: a promise made in a mailer had to be handled even when the original product disappointed buyers.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The assortment grew beyond the first boot",
+        "text": "The company timeline places additional garments and catalog developments in the years that followed. A single-product mail-order operation became a broader outdoor business, with customer correspondence and product selection part of its operating system. Bean remained president until 1967, after which his grandson Leon Gorman led a different expansion period. Keeping those roles separate preserves the founder’s contribution without assigning the modern organization’s entire range to one person.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish the 1911 design from the 1912 commercial beginning.",
+      "Retain the early returns and remedial product work in the history.",
+      "Separate Bean’s presidency from Leon Gorman’s later leadership."
+    ],
+    "sources": [
+      {
+        "title": "L.L.Bean — company chronology",
+        "url": "https://www.llbean.com/llb/shop/516918?page=company-history"
+      },
+      {
+        "title": "L.L.Bean — founder and leadership biography",
+        "url": "https://www.llbean.com/llb/shop/516919?nav=ln-516918"
+      },
+      {
+        "title": "L.L.Bean — company information",
+        "url": "https://www.llbean.com/dept_resources/shared/Company_Information.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
