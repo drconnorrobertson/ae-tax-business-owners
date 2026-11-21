@@ -827,5 +827,855 @@
     ],
     "reviewedAt": "2026-11-20",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "bridget-harris-youcanbookme",
+    "name": "Bridget Harris",
+    "company": "YouCanBookMe",
+    "website": "https://youcanbook.me/",
+    "role": "Co-founder; her current company author biography identifies her as a Strategic Advisor at Capacity.",
+    "founding": "The company history describes early work with Keith Harris beginning in 2007.",
+    "intro": "Bridget Harris co-founded YouCanBookMe, a calendar-based scheduling business. The company’s current author biography also describes her work as a Strategic Advisor at Capacity. Keeping that description separate from older CEO references is important: a founder’s association can remain valid while an operating title changes. This profile records both history and the dated source boundary.",
+    "sections": [
+      {
+        "title": "A scheduling problem before a brand",
+        "text": "YouCanBookMe’s history says Bridget and Keith Harris began working on what became the business in 2007. It describes earlier productivity projects and the development of WhenIsGood to help groups find a common meeting time. The account links subsequent product work to customer feedback. These are stages in the company’s own narrative, not a single independently verified incorporation date.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The role described in current materials",
+        "text": "Harris’s company author page calls her a co-founder of YouCanBookMe and a Strategic Advisor at Capacity. Older company articles call her CEO. This profile does not extend those older titles into the present. The current biography and the earlier history together support a professional connection while making the different time contexts visible.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "What the business context explains",
+        "text": "Scheduling software sits between availability, invitations and the experience of the person making a booking. The founder history is useful because it identifies that coordination problem rather than only announcing a product. It does not prove that a current booking workflow will suit every organization. Requirements involving calendars, approvals and communications need their own evaluation.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Using the sources carefully",
+        "text": "For early product history, use the company’s retrospective and label it as such. For a current title, use the most recent role-specific biography rather than a recycled speaker description. No company revenue, personal holdings or transaction proceeds are evaluated here. The entry establishes a documented founder relationship and points out the distinction between founding history and present responsibilities.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep older CEO descriptions dated.",
+      "Distinguish the early project from incorporation.",
+      "Check current booking requirements independently."
+    ],
+    "sources": [
+      {
+        "title": "YouCanBookMe — company history",
+        "url": "https://youcanbook.me/blog/doing-it-differently-10-years-growing-a-scheduling-tool"
+      },
+      {
+        "title": "YouCanBookMe — Bridget Harris biography",
+        "url": "https://youcanbook.me/blog/author/bridget-harris"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "laura-roeder-paperbell",
+    "name": "Laura Roeder",
+    "company": "Paperbell",
+    "website": "https://paperbell.com/",
+    "role": "Co-founder identified by Paperbell; no current executive title is inferred.",
+    "founding": "Paperbell’s company page dates its founding by Roeder and Chris Williams to 2020.",
+    "intro": "Laura Roeder co-created Paperbell, software for the administrative side of a coaching business. The company’s about page names her and Chris Williams and gives a 2020 founding date. Roeder also describes earlier work in design, consulting, courses and software. This profile uses those professional facts without reproducing private details or promotional financial claims.",
+    "sections": [
+      {
+        "title": "The founder attribution",
+        "text": "Paperbell’s company page says Roeder and Williams created the business together. It describes her earlier work as a web designer, business consultant, course creator and software creator, including a founding connection with MeetEdgar. The page provides a first-party career outline, but it is not a complete record of ownership or current positions across all of those ventures.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A product connected to coaching work",
+        "text": "In a letter on the Paperbell website, Roeder says the product idea came from her own coaching practice. The company describes a platform combining a coaching website, scheduling, payments, contracts and a client portal. Those functions explain the intended business setting. The profile does not certify that every plan or arrangement includes each function on the same terms.",
+        "sourceIndexes": [
+          1,
+          0
+        ]
+      },
+      {
+        "title": "Read the workflow as a whole",
+        "text": "A coach may need several administrative steps to agree on an engagement and deliver it. Paperbell’s public story connects those steps in one product rather than treating scheduling as the entire business process. That is useful context for founder research. Actual suitability still depends on the coach’s service model, payment arrangements, documents and required integrations.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Separate identity from endorsement",
+        "text": "The cited pages support a founder connection and the company’s stated purpose. They do not establish current share percentages or a typical customer result. For a purchase, review current features and terms; for historical research, retain the date and first-party nature of the account. Directory inclusion does not imply that Roeder or Paperbell uses AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Chris Williams’s co-founder attribution.",
+      "Separate the 2020 company date from earlier ventures.",
+      "Check current coaching-workflow requirements."
+    ],
+    "sources": [
+      {
+        "title": "Paperbell — company and team",
+        "url": "https://paperbell.com/about-the-company/"
+      },
+      {
+        "title": "Paperbell — founder’s product letter",
+        "url": "https://paperbell.com/letter/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "brennan-dunn-rightmessage",
+    "name": "Brennan Dunn",
+    "company": "RightMessage",
+    "website": "https://rightmessage.com/",
+    "role": "Founder, identified on RightMessage’s company page.",
+    "founding": "The company says RightMessage publicly launched on January 23, 2018.",
+    "intro": "Brennan Dunn is the founder identified by RightMessage, a software business concerned with audience understanding and more relevant website experiences. Its company history connects the product to his earlier software, agency and teaching work. The source also describes changes in the product’s emphasis, which helps distinguish the initial launch from the current offering.",
+    "sections": [
+      {
+        "title": "From a method to software",
+        "text": "RightMessage’s about page says Dunn had built software, operated a web agency and grown Double Your Freelancing before the product. It describes consulting and educational work around adapting messages to an audience. The company says RightMessage publicly launched on January 23, 2018. That is a stated product-launch milestone, not a finding about legal incorporation.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The direction described today",
+        "text": "The history says the original full-site personalization idea encountered a practical problem: many prospective users lacked sufficient segmentation data. It describes later work on collecting audience information, segmentation, behavior and analysis. A company-hosted founder discussion similarly concerns the move from audience-building into software. This entry presents the account as the business’s own explanation of its evolution.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Why that evolution is relevant",
+        "text": "A software product can change because the work needed before its headline feature becomes clearer. Here the source distinguishes showing different content from first understanding the audience. That provides business context without claiming a measured outcome for customers. A reader comparing current tools should investigate their actual data requirements and workflow rather than rely on the founding concept alone.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Where the record stops",
+        "text": "This profile does not evaluate the software’s effectiveness, financial performance or Dunn’s ownership. The cited company history is appropriate for the stated launch and founder association; current documentation is needed for implementation details. Keep the original product purpose, later changes and present features distinct when describing the business in another publication.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Label the date as a public product launch.",
+      "Distinguish personalization from the data needed before it.",
+      "Use current documentation for implementation."
+    ],
+    "sources": [
+      {
+        "title": "RightMessage — company and founder history",
+        "url": "https://rightmessage.com/about"
+      },
+      {
+        "title": "RightMessage — founder discussion",
+        "url": "https://rightmessage.com/resources/building-with-your-audience"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ben-orenstein-tuple",
+    "name": "Ben Orenstein",
+    "company": "Tuple",
+    "website": "https://tuple.app/",
+    "role": "Co-founder identified by Tuple’s company-hosted podcast biography.",
+    "founding": "A 2020 company retrospective distinguishes founding in 2018 from product launch in January 2019.",
+    "intro": "Ben Orenstein is a co-founder of Tuple, a screen-sharing business aimed at people who build software. The company’s own retrospective and podcast biography establish the connection and provide dated context. This profile treats the founding year, product launch and present product description as separate facts rather than inferring a single uninterrupted role or ownership position.",
+    "sections": [
+      {
+        "title": "The early company account",
+        "text": "In a December 2020 retrospective published by Tuple, Orenstein says the company was founded in 2018 and the remote pair-programming app launched in January 2019. He describes a closed alpha followed by invited groups and a later self-service signup flow. These details document a staged product release rather than a launch that immediately had every later feature.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The professional connection",
+        "text": "Tuple’s podcast page identifies Orenstein as a host and co-founder. Its episode listing connects him with conversations about software development and building products. The page is a direct company source for that professional association. It does not establish a current CEO title, so this profile does not add one.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The product’s work setting",
+        "text": "Tuple’s current website presents screen sharing for software builders, including collaboration and remote control. That setting helps explain why a pair-programming product differs from a general meeting tool. The directory is not testing audio quality, latency or operating-system support. Those questions should be answered from current documentation and an evaluation against the buyer’s workflow.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Research beyond the origin",
+        "text": "Use the retrospective for its 2018 and 2019 history, retaining the 2020 publication date. Use current product information for present capabilities. A past description of a founding team should not become a claim about today’s capitalization or staffing. No company revenue, founder income or typical customer productivity improvement is assessed in this entry.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish founding from product release.",
+      "Do not infer an executive title from podcast hosting.",
+      "Evaluate current collaboration requirements separately."
+    ],
+    "sources": [
+      {
+        "title": "Tuple — 2020 year in review",
+        "url": "https://tuple.app/blog/2020-year-in-review"
+      },
+      {
+        "title": "Tuple podcast — Ben Orenstein",
+        "url": "https://podcast.tuple.app/people/ben-orenstein"
+      },
+      {
+        "title": "Tuple — current product website",
+        "url": "https://tuple.app/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "adam-wathan-tailwind-labs",
+    "name": "Adam Wathan",
+    "company": "Tailwind Labs",
+    "website": "https://tailwindcss.com/",
+    "role": "Creator of Tailwind CSS; a September 2026 company announcement says Tailwind Labs is joining Shopify.",
+    "founding": "His project history distinguishes earlier development work from full-time Tailwind work beginning in 2019.",
+    "intro": "Adam Wathan is the creator associated with Tailwind CSS and the business built around its ecosystem. A September 2026 company announcement describes Tailwind Labs joining Shopify. This profile keeps that reported transition visible and does not assume the earlier independent business arrangement continues unchanged after the announcement.",
+    "sections": [
+      {
+        "title": "A project history with distinct milestones",
+        "text": "Wathan’s project page describes Tailwind CSS as an open-source utility-first framework and says he began working on it full time in 2019. It also connects its origin to work on an earlier checkout project. That personal project history helps explain development context, but it does not itself provide a legal founding date for Tailwind Labs.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The announced business transition",
+        "text": "In a September 9, 2026 post on the Tailwind website, Wathan says Tailwind is joining Shopify. He describes wanting a lasting home for the framework and connects its development with use in a real product. This profile records the announcement as a dated company statement. It does not infer personal proceeds, current equity or terms not disclosed in the source.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Framework and commercial products",
+        "text": "An open-source framework and the products sold around it are different parts of the business. A reader researching Wathan should keep the code project, educational work and commercial organization distinct. Changes to one do not automatically describe every other part. Product licensing and current availability should be checked in the relevant documentation rather than inferred from the creator’s biography.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Using the current record",
+        "text": "Cite the dated announcement for the reported Shopify transition and the personal project page for Wathan’s own development history. Avoid reusing an old independent-founder description without acknowledging the later event. This profile evaluates neither the transaction nor the framework’s suitability for a particular application. It establishes the source-backed professional connection and its chronology.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the framework from commercial products.",
+      "Keep the September 2026 announcement dated.",
+      "Do not infer transaction terms or personal proceeds."
+    ],
+    "sources": [
+      {
+        "title": "Adam Wathan — project history",
+        "url": "https://adamwathan.me/projects/"
+      },
+      {
+        "title": "Tailwind — joining Shopify announcement",
+        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "joel-gascoigne-buffer",
+    "name": "Joel Gascoigne",
+    "company": "Buffer",
+    "website": "https://buffer.com/",
+    "role": "CEO and co-founder, as listed on Buffer’s current team page.",
+    "founding": "Buffer’s about page identifies Gascoigne as a co-founder; no independent incorporation date is assigned here.",
+    "intro": "Joel Gascoigne is identified by Buffer as its CEO and co-founder. Buffer supplies software for planning, publishing and managing social content. Its company page also describes a remote team and a public approach to company information. This profile records those first-party professional details without turning them into a certification of company performance or working conditions.",
+    "sections": [
+      {
+        "title": "The company’s role record",
+        "text": "Buffer’s about page lists Gascoigne with the title CEO and Co-Founder among other team members. That is a direct company-published role statement checked for this profile. It supports the association while leaving legal ownership and board responsibilities unaddressed. A leadership listing is not equivalent to a shareholder register.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The work represented by Buffer",
+        "text": "The company’s current navigation and product pages describe creating ideas, planning and publishing content, reviewing performance and coordinating work. The named users include creators, small businesses and agencies. Those categories explain the product’s business setting. They are not evidence that a specific customer will obtain an audience increase or financial return.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Interpreting an open company story",
+        "text": "Public explanations of values and work practices can give context to a founder’s decisions, but they remain the company’s own account. For research, separate the existence of a published policy from an independent assessment of how it operates. The same care applies to product metrics and customer stories appearing alongside company information.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "What to verify when using this entry",
+        "text": "Revisit the team page before citing a current title in a new publication. For product selection, check supported channels, permissions, service scope and reporting definitions against current documentation. No company revenue threshold, personal income estimate or AE relationship is assigned. The directory entry is a source trail for the founder connection and the type of business.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use a current team source for the executive title.",
+      "Separate published policies from external assessment.",
+      "Check current channel and permission support."
+    ],
+    "sources": [
+      {
+        "title": "Buffer — company and team",
+        "url": "https://buffer.com/about"
+      },
+      {
+        "title": "Buffer — current product website",
+        "url": "https://buffer.com/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "matt-giovanisci-swim-university",
+    "name": "Matt Giovanisci",
+    "company": "Swim University",
+    "website": "https://www.swimuniversity.com/",
+    "role": "Founder, as identified in the business’s current biography.",
+    "founding": "His September 2026 biography says he started Swim University in 2006.",
+    "intro": "Matt Giovanisci is the founder of Swim University, a business publishing pool and hot-tub education and related products. His company-hosted biography connects the work to earlier experience in pool retail and service. This profile focuses on the professional history and publishing model, without repeating personal anecdotes or treating educational content as individualized technical advice.",
+    "sections": [
+      {
+        "title": "The professional history described",
+        "text": "Giovanisci’s biography says his pool-industry work included retail, water testing, repairs, store management and marketing. It dates the start of Swim University to 2006, initially through written articles. The page was updated in September 2026. These are the founder’s own statements about his career and business development, not an independent employment verification.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "From articles to several formats",
+        "text": "The same biography describes later video work, handbooks, courses and an application related to pool care. It also explains a decision to stop selling chemicals. The relevant business distinction is between publishing education and selling the products discussed in that education. This profile does not reproduce sales figures, readership totals or claims about typical savings.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The audience and subject matter",
+        "text": "Swim University’s content concerns maintaining pools and hot tubs, including equipment and water-care topics. A founder profile can identify that niche and the formats the business offers without endorsing a specific treatment instruction. Actual pool conditions, product labels and safety requirements need to govern practical decisions; this directory does not inspect a reader’s equipment or water.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "How to continue research",
+        "text": "Use the dated founder biography for the stated 2006 origin and current professional description. Use the business’s current resources to see how its offering has evolved. Do not infer a current ownership percentage or personal income from the existence of several product formats. The entry evaluates neither financial performance nor professional licensing.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain the biography’s September 2026 update date.",
+      "Distinguish educational publishing from chemical sales.",
+      "Seek situation-specific technical guidance where needed."
+    ],
+    "sources": [
+      {
+        "title": "Swim University — founder biography",
+        "url": "https://www.swimuniversity.com/matt-giovanisci/"
+      },
+      {
+        "title": "Swim University — current website",
+        "url": "https://www.swimuniversity.com/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "pat-flynn-smart-passive-income",
+    "name": "Pat Flynn",
+    "company": "Smart Passive Income",
+    "website": "https://www.smartpassiveincome.com/",
+    "role": "Historical founder; the company reports a 2026 transfer to Liz Wilcox.",
+    "founding": "SPI dates its founding to 2008 and its podcast launch to 2010.",
+    "intro": "Pat Flynn founded Smart Passive Income, an education brand built around online business. The company announced in September 2026 that Liz Wilcox had purchased SPI Media and SPI Labs in a transaction completed earlier that year. This profile therefore treats Flynn as the historical founder rather than implying that he remains the owner or day-to-day operator.",
+    "sections": [
+      {
+        "title": "The original publishing business",
+        "text": "SPI’s company announcement says Flynn founded Smart Passive Income in 2008 and began by documenting his experiences with online business. It dates the podcast launch to 2010 and describes later courses, community, newsletters and other resources. Those milestones explain the evolution of an education brand without adopting claims about typical results for its audience.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later ownership announcement",
+        "text": "The September 2, 2026 announcement says the purchase by Wilcox was completed on April 1, 2026. It states that Flynn would leave day-to-day operations while remaining connected through specified appearances and transition advice. The current about page also presents Wilcox’s purchase. These are company-published statements, and this directory does not infer undisclosed financial terms.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Why the dates matter",
+        "text": "A founder’s name can remain closely associated with a brand after a reported change in ownership or management. Search results and older biographies may therefore be historically correct but incomplete. The announcement date and the reported completion date are different, and both are useful when placing later references to the business in context.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Use the appropriate source",
+        "text": "For the origin, cite the company history. For the reported 2026 transition, use the acquisition announcement and keep its date. For current services and leadership, revisit SPI’s current pages rather than relying on older founder introductions. No personal transaction proceeds, wealth, revenue qualification or customer-outcome promise is included in this profile.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish April completion from September announcement.",
+      "Use historical-founder wording after the reported transition.",
+      "Do not infer undisclosed transaction terms."
+    ],
+    "sources": [
+      {
+        "title": "SPI — Liz Wilcox purchase announcement",
+        "url": "https://www.smartpassiveincome.com/blog/liz-wilcox-purchases-smart-passive-income/"
+      },
+      {
+        "title": "SPI — current about page",
+        "url": "https://www.smartpassiveincome.com/about/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "georgiana-laudi-forget-the-funnel",
+    "name": "Georgiana Laudi",
+    "company": "Forget The Funnel",
+    "website": "https://forgetthefunnel.com/",
+    "role": "Co-creator of the original workshop series; current media materials describe advisory, speaking and authorship work.",
+    "founding": "The company history says Laudi and Claire Suellentrop launched the workshop series in July 2017.",
+    "intro": "Georgiana Laudi, also presented as Gia Laudi, helped launch Forget The Funnel with Claire Suellentrop. The project’s current media materials connect that history with customer-led growth education and advisory work. This profile distinguishes the original workshop series, the later brand and present professional descriptions rather than assuming they are one unchanged role.",
+    "sections": [
+      {
+        "title": "The historical collaboration",
+        "text": "Forget The Funnel’s media kit says Laudi and Suellentrop launched a workshop series in July 2017 to address problems they saw in SaaS marketing. It describes the later business as a consultancy concerned with acquiring and retaining customers. That first-party history establishes the collaboration without supplying a complete incorporation or ownership record.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The professional background described",
+        "text": "The media kit describes Laudi’s earlier marketing leadership at Unbounce and current work as an adviser, speaker and author. It links the brand to a book, podcast and customer-led growth material. These are the organization’s own descriptions. This profile does not reproduce claimed client outcomes or infer a current role for every person involved in the original collaboration.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The work behind the brand",
+        "text": "The current site presents a method built around understanding customer value and using that information in product and marketing decisions. That gives a reader a more concrete category than generic growth advice. A framework, book and consulting engagement are still different offerings; a founder biography does not establish what work any individual agreement includes.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use the history with care",
+        "text": "Retain both names when describing the original workshop launch. Use current program and service pages for current delivery arrangements, and do not assign a financial or ownership conclusion from a co-creator label. This profile evaluates neither the framework’s results nor business revenue. Its purpose is to identify the documented people and milestones behind the brand.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the original workshop collaboration distinct from later offerings.",
+      "Recognize Gia and Georgiana as the same published name.",
+      "Verify present service scope independently."
+    ],
+    "sources": [
+      {
+        "title": "Forget The Funnel — media kit and history",
+        "url": "https://forgetthefunnel.com/media-kit"
+      },
+      {
+        "title": "Forget The Funnel — current website",
+        "url": "https://forgetthefunnel.com/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-lee-dumas-entrepreneurs-on-fire",
+    "name": "John Lee Dumas",
+    "company": "Entrepreneurs On Fire",
+    "website": "https://www.eofire.com/",
+    "role": "Founder and host, as identified by the company’s about page.",
+    "founding": "The company’s press biography dates the podcast launch to September 2012.",
+    "intro": "John Lee Dumas is the founder and host identified by Entrepreneurs On Fire, a podcast and education business centered on interviews with entrepreneurs. Its own about page and an earlier press biography provide a source trail for that connection. This profile focuses on the professional record rather than reproducing personal details or income claims.",
+    "sections": [
+      {
+        "title": "The founder and host connection",
+        "text": "The Entrepreneurs On Fire about page introduces Dumas as founder and host. It describes interviews with entrepreneurs and identifies books and podcast-related educational resources among his work. Those first-party statements establish the business category and the role the organization publicly attributes to him; they do not independently verify audience size or the results of its programs.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A dated launch record",
+        "text": "A company-hosted press biography states that EntrepreneurOnFire launched in September 2012. Its wording and old audience figures show why a historical media biography should be dated rather than treated as a current fact sheet. This profile uses the launch statement while omitting the document’s promotional rankings, download totals and private contact details.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "How the formats fit together",
+        "text": "An interview program can lead to books, courses or tools for its audience, but those formats should not be treated as interchangeable evidence. Hearing a founder’s story is different from reviewing a curriculum or assessing a service. The business context here helps readers understand the source of the material without endorsing an entrepreneurial method or outcome.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Questions for a new citation",
+        "text": "Use the current about page for the published role and the dated press record for the historical launch. If a new article needs present programming frequency or product availability, check the current schedule and offering directly. No company revenue threshold, personal earnings estimate or AE client relationship is established by this entry.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Date the historical press biography.",
+      "Distinguish interviews from paid educational products.",
+      "Check current programming before describing its frequency."
+    ],
+    "sources": [
+      {
+        "title": "Entrepreneurs On Fire — about John Lee Dumas",
+        "url": "https://www.eofire.com/about/"
+      },
+      {
+        "title": "EntrepreneurOnFire — company-hosted press biography",
+        "url": "https://www.eofire.com/wp-content/uploads/2012/05/John-Lee-Dumas.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "amy-hoy-stacking-the-bricks",
+    "name": "Amy Hoy",
+    "company": "Stacking the Bricks",
+    "website": "https://stackingthebricks.com/",
+    "role": "Creator and business partner described in first-party posts; no current executive title is assigned.",
+    "founding": "Hoy’s retrospective traces the course that became 30x500 to a December 2009 teleconference.",
+    "intro": "Amy Hoy is one of the creators behind the business education work associated with Stacking the Bricks and 30x500. Her first-party posts describe the development of that work and her partnership with Alex Hillman. This profile relies on those dated accounts without treating an old course description as a current enrollment offer.",
+    "sections": [
+      {
+        "title": "An educational product’s early history",
+        "text": "In an April 2023 retrospective, Hoy describes a December 2009 teleconference followed by plans for a longer email course with Alex Hillman. She explains the early course name and its relationship to the later 30x500 material. That account supplies product history, not a complete legal chronology for every business or trademark associated with the work.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A partnership made explicit",
+        "text": "A June 2017 post explains Hillman’s role as Hoy’s business partner and describes contributions to live events, podcasting, audiovisual production, exercises and teaching. The distinction is useful: a site strongly associated with one public voice can still reflect substantial collaborative work. This profile retains the named partnership rather than reducing the record to a single creator.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "What the historical posts establish",
+        "text": "The sources show an education business developing courses and related material for people building products. They also provide a view of how the creators explained their work at different times. They do not establish that a historical course format, enrollment schedule or division of duties remains unchanged today. Those questions require current offering-specific information.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Avoid a timeless success narrative",
+        "text": "Retrospectives often mix chronology with interpretation. Here, the dated source trail is more useful than an unsupported summary that a particular method always works. This profile excludes financial claims and personal details and does not evaluate the courses. A reader should preserve dates, distinguish the partnership from corporate ownership and verify current availability directly.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep course-history posts dated.",
+      "Retain Alex Hillman’s described partnership.",
+      "Verify current products rather than assuming old formats continue."
+    ],
+    "sources": [
+      {
+        "title": "Amy Hoy — course-history retrospective",
+        "url": "https://shorts.stackingthebricks.com/on-relaunching-rebranding-our-top-pillar-content/"
+      },
+      {
+        "title": "Amy Hoy — explaining the business partnership",
+        "url": "https://stackingthebricks.com/alex-design-problem/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "alex-hillman-indy-hall",
+    "name": "Alex Hillman",
+    "company": "Indy Hall",
+    "website": "https://indyhall.org/",
+    "role": "Co-founder, as identified on Indy Hall’s team page.",
+    "founding": "His 2026 retrospective distinguishes community activity in 2006 from finding a physical space in 2007.",
+    "intro": "Alex Hillman is identified by Indy Hall as a co-founder. The coworking community’s sources describe a business whose early development involved people and shared activity before a permanent place. This profile keeps that sequence visible and distinguishes Hillman’s account of the origin from claims about current membership, ownership or economic performance.",
+    "sections": [
+      {
+        "title": "The published team role",
+        "text": "Indy Hall’s team page labels Hillman Co-Founder and describes his move from agency work into freelancing in 2006. In that account, missing coworkers helped motivate the community he wanted to build. The page is a first-party explanation of his professional connection, not an independent review of the organization or a record of current share ownership.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Community before premises",
+        "text": "An August 2026 essay by Hillman recalls sharing the idea at a gathering in September 2006 and working with Geoff DiMasi. It describes searching for a space in spring 2007 and obtaining an initial short lease. Those stages should not be collapsed into a single building-opening date when explaining the organization’s history.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The business category in context",
+        "text": "Coworking combines a physical setting with relationships and ways of working. The cited account emphasizes the community that existed before the premises. That is useful founder context, but it does not establish the experience a prospective member will have today. Current access, facilities and membership arrangements require their own examination.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "A precise next research step",
+        "text": "Use the team page for the published co-founder role and the dated essay for the sequence of early events. Preserve the contribution of the named collaborator rather than presenting a solitary-founder story. This entry does not assess lease terms, member outcomes, company revenue or Hillman’s personal finances; it points readers to the origin evidence.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish community formation from securing premises.",
+      "Retain Geoff DiMasi’s role in the historical account.",
+      "Check present membership arrangements directly."
+    ],
+    "sources": [
+      {
+        "title": "Indy Hall — team and Hillman biography",
+        "url": "https://indyhall.org/team/"
+      },
+      {
+        "title": "Indy Hall — August 2026 origin retrospective",
+        "url": "https://new.indyhall.org/2026/08/before-we-had-a-space-we-had-people"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "nathalie-lussier-accessally",
+    "name": "Nathalie Lussier",
+    "company": "AccessAlly",
+    "website": "https://accessally.com/",
+    "role": "Founder, as identified by AccessAlly.",
+    "founding": "A February 2019 company post documents the business-name change from AmbitionAlly to AccessAlly.",
+    "intro": "Nathalie Lussier is identified by AccessAlly as its founder. The business develops WordPress-based tools for courses, memberships and related educational delivery. A company post documents an earlier name, AmbitionAlly, which helps connect historical references with the current brand. This profile does not infer that a branding change altered legal ownership or tax status.",
+    "sections": [
+      {
+        "title": "The direct founder attribution",
+        "text": "AccessAlly’s membership product page names Lussier as the founder. It places the product in the context of managing access to membership and course material on WordPress. That is a primary source for the professional connection and advertised product category, without establishing every implementation capability or customer result.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An earlier business name",
+        "text": "A February 8, 2019 company post announces the change from AmbitionAlly to AccessAlly and is signed by Lussier. It discusses a broader emphasis on access to education and states that existing products would continue. The document supports the relationship between the two names, but it should not be treated as a corporate restructuring record.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Why a name history is useful",
+        "text": "A researcher can encounter older tutorials, event appearances or product references using the previous brand. Linking the dated announcement prevents those records from appearing to concern an unrelated business. It also avoids a different error: assuming every historical offering or product configuration remains available merely because the brand continued.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Separate biography from implementation",
+        "text": "For present requirements, examine the current product documentation, integrations and support scope. A founder’s stated mission is not evidence that a particular course or membership deployment meets all of a customer’s needs. This profile evaluates neither revenue qualification nor personal financial interests and does not imply an AE relationship or recommendation.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Connect the old and current names using the dated announcement.",
+      "Do not infer legal restructuring from a rebrand.",
+      "Check present WordPress integration requirements."
+    ],
+    "sources": [
+      {
+        "title": "AccessAlly — membership product and founder attribution",
+        "url": "https://accessally.com/features/membership-management/"
+      },
+      {
+        "title": "AccessAlly — February 2019 name-change announcement",
+        "url": "https://accessally.com/blog/ambitionally-is-now-accessally/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "laura-elizabeth-client-portal",
+    "name": "Laura Elizabeth",
+    "company": "Client Portal",
+    "website": "https://client-portal.io/",
+    "role": "Founder, as listed on Client Portal’s team and biography pages.",
+    "founding": "The company biography dates the product’s creation to 2016.",
+    "intro": "Laura Elizabeth is the founder of Client Portal, a WordPress-based product for organizing client access to project information and deliverables. The company’s own account connects the product to problems she encountered as a freelance designer. This profile describes that source-backed origin without treating a product biography as a complete employment or ownership history.",
+    "sections": [
+      {
+        "title": "A problem from client work",
+        "text": "Client Portal’s team page describes repeated requests for old project files and the need for a simple place clients could use themselves. It attributes creation of the product to Laura Elizabeth. The account explains a concrete operating problem rather than only presenting a general ambition to start a software business.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The dated product record",
+        "text": "The company’s dedicated founder biography says she created Client Portal in 2016 after work as a freelance designer. It identifies her as the founder and describes the product’s use in accessing project deliverables. This profile retains the date as a company-published statement and omits changing customer totals and promotional performance claims.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Understand the product boundary",
+        "text": "The team page says the product lives on a customer’s WordPress site and is intended to organize access to project material. It distinguishes that purpose from replacing every proposal, document or signing tool. That boundary is useful context for the founder story: a focused tool can emerge from one recurring workflow without attempting to become a full project-management system.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Research the current offering separately",
+        "text": "For a real deployment, confirm present hosting, access, integration and document-handling requirements in the current documentation. A first-party origin story cannot certify that setup. The professional name used in these sources is Laura Elizabeth; this directory does not invent additional identity details or infer current share ownership, income or an AE client relationship.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use the professional name provided by the company.",
+      "Distinguish portal access from a full project-management system.",
+      "Verify present deployment requirements."
+    ],
+    "sources": [
+      {
+        "title": "Client Portal — team and origin story",
+        "url": "https://client-portal.io/team/"
+      },
+      {
+        "title": "Client Portal — Laura Elizabeth biography",
+        "url": "https://client-portal.io/about/laura-elizabeth/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ruben-gamez-signwell",
+    "name": "Ruben Gamez",
+    "company": "SignWell",
+    "website": "https://www.signwell.com/",
+    "role": "Founder, as identified by SignWell.",
+    "founding": "The company’s rebrand announcement connects the earlier Docsketch name with SignWell.",
+    "intro": "Ruben Gamez is the founder identified by SignWell, an electronic-signature software business previously known as Docsketch. The company’s founder biography and name-change announcement provide complementary sources: one describes his professional path, while the other explains continuity between brands. This profile does not assess the legal effectiveness of a signature or certify the software.",
+    "sections": [
+      {
+        "title": "The founder biography",
+        "text": "SignWell’s author biography names Gamez as founder and describes earlier work in technical support and web development. It also identifies Bidsketch as a prior business he founded and connects the later signing product with customer requests. These are first-party professional statements; changing financial metrics and private biographical details are excluded from this entry.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The Docsketch connection",
+        "text": "The company’s announcement says Docsketch became SignWell and is signed by Gamez as founder. It explains changes to the name and domain while describing continuity for existing accounts and documents at that time. This is evidence of the public rebrand, not a determination about corporate ownership or the treatment of every historical contract.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The business problem described",
+        "text": "The sources place SignWell in the document-signing workflow and emphasize usability. A reader can use that context to distinguish it from proposal writing, document storage or legal drafting. Those activities may sit beside signing in a business process, but the founder story does not establish that one tool performs them all.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Keep legal and product questions separate",
+        "text": "Evaluate a current signing use case through the applicable product documentation, agreement and qualified legal guidance where necessary. A company biography or rebrand notice is not a legal opinion. This profile records a founder association and product history without making compliance, revenue, wealth or outcome claims.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Connect Docsketch and SignWell using the rebrand notice.",
+      "Separate document signing from legal drafting.",
+      "Verify current product and legal requirements for the actual use."
+    ],
+    "sources": [
+      {
+        "title": "SignWell — Ruben Gamez founder biography",
+        "url": "https://www.signwell.com/resources/author/ruben/page/2/"
+      },
+      {
+        "title": "SignWell — Docsketch name-change announcement",
+        "url": "https://www.signwell.com/docsketch-now-signwell/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "bryan-harris-growth-tools",
+    "name": "Bryan Harris",
+    "company": "Growth Tools",
+    "website": "https://www.growthtools.com/",
+    "role": "Founder, as identified on Growth Tools’ website and event materials.",
+    "founding": "Company event materials describe Harris working full time in marketing coaching since 2013; this is not presented as an incorporation date.",
+    "intro": "Bryan Harris is identified by Growth Tools as its founder. The company’s website and event materials describe marketing coaching and training for businesses seeking clients. This profile records that public association and the type of work offered without repeating promotional sales results, attributing client outcomes or treating a coaching method as a guarantee.",
+    "sections": [
+      {
+        "title": "The direct founder record",
+        "text": "Growth Tools’ website signs its message with Harris’s name and founder title. A company event page also names him as founder and host, describing full-time marketing coaching work since 2013. The latter is a career statement rather than a legal formation date, so this profile does not relabel it as the company’s incorporation year.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The offering described",
+        "text": "The website discusses reaching prospective clients through other people’s audiences and presents coaching around offers and client acquisition. The event material demonstrates a training format used by the business. These sources establish the advertised subject matter, but their promotional examples do not prove a typical result or the performance of a future engagement.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A business model rather than a universal rule",
+        "text": "Coaching, training and an individual marketing campaign are distinct things. A founder’s explanation can clarify the business’s emphasis without establishing which activity a particular customer should buy. Before evaluating an engagement, a reader needs the actual scope, delivery format, responsibilities and terms rather than a headline from an event page.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "What this entry leaves unassessed",
+        "text": "No financial figures from the marketing examples are used to qualify the company, estimate the founder’s income or predict a customer outcome. The profile also does not establish current participation by any named customer. It gives a source trail for Harris’s founder role and the company’s stated area of work, with the source review date kept visible.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Do not treat a career date as an incorporation date.",
+      "Separate training examples from typical results.",
+      "Review actual coaching scope and terms."
+    ],
+    "sources": [
+      {
+        "title": "Growth Tools — company website and founder identification",
+        "url": "https://www.growthtools.com/"
+      },
+      {
+        "title": "Growth Tools — company event and host biography",
+        "url": "https://www.growthtools.com/events/how-bryan-turned-24-optins-into-30k-gillian"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
   }
 ]
