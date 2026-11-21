@@ -1,0 +1,348 @@
+[
+  {
+    "url": "/founder-profiles/nathan-barry-kit/",
+    "name": "Nathan Barry",
+    "company": "Kit",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Personal website",
+        "url": "https://nathanbarry.com/",
+        "evidence": "https://nathanbarry.com/about/",
+        "kind": "professional"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/user/nathanpatrickbarry",
+        "evidence": "https://nathanbarry.com/about/",
+        "kind": "social"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/justin-jackson-transistor/",
+    "name": "Justin Jackson",
+    "company": "Transistor",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Personal website",
+        "url": "https://justinjackson.ca/",
+        "evidence": "https://justinjackson.ca/",
+        "kind": "professional"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/justinjackson.ca",
+        "evidence": "https://justinjackson.ca/",
+        "kind": "social"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/justinjackson",
+        "evidence": "https://justinjackson.ca/",
+        "kind": "social"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/mijustin",
+        "evidence": "https://justinjackson.ca/",
+        "kind": "social"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/joel-gascoigne-buffer/",
+    "name": "Joel Gascoigne",
+    "company": "Buffer",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Personal website",
+        "url": "https://joel.is/",
+        "evidence": "https://joel.is/about/",
+        "kind": "professional"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/joelgascoigne",
+        "evidence": "https://joel.is/about/",
+        "kind": "social"
+      },
+      {
+        "label": "X / Twitter",
+        "url": "https://twitter.com/joelgascoigne",
+        "evidence": "https://joel.is/about/",
+        "kind": "social"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/joelgascoigne",
+        "evidence": "https://joel.is/about/",
+        "kind": "social"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/jane-portman-userlist/",
+    "name": "Jane Portman",
+    "company": "Userlist",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/uibreakfast/",
+        "evidence": "https://userlist.com/press-kit/",
+        "kind": "social"
+      },
+      {
+        "label": "X / Twitter",
+        "url": "https://twitter.com/uibreakfast",
+        "evidence": "https://userlist.com/press-kit/",
+        "kind": "social"
+      },
+      {
+        "label": "UI Breakfast",
+        "url": "https://uibreakfast.com/",
+        "evidence": "https://userlist.com/about-us/",
+        "kind": "professional"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/adam-wathan-tailwind-labs/",
+    "name": "Adam Wathan",
+    "company": "Tailwind Labs",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Personal website",
+        "url": "https://adamwathan.me/",
+        "evidence": "https://adamwathan.me/",
+        "kind": "professional"
+      },
+      {
+        "label": "X / Twitter",
+        "url": "https://twitter.com/adamwathan",
+        "evidence": "https://adamwathan.me/",
+        "kind": "social"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/derrick-reimer-savvycal/",
+    "name": "Derrick Reimer",
+    "company": "SavvyCal",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Personal biography",
+        "url": "https://www.derrickreimer.com/bio/",
+        "evidence": "https://savvycal.com/company",
+        "kind": "professional"
+      },
+      {
+        "label": "Essays",
+        "url": "https://www.derrickreimer.com/",
+        "evidence": "https://savvycal.com/company",
+        "kind": "professional"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/laura-roeder-paperbell/",
+    "name": "Laura Roeder",
+    "company": "Paperbell",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Medium",
+        "url": "https://medium.com/@lkr",
+        "evidence": "https://paperbell.com/about-the-company/",
+        "kind": "social"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/jack-ellis-fathom-analytics/",
+    "name": "Jack Ellis",
+    "company": "Fathom Analytics",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Founder author archive",
+        "url": "https://usefathom.com/author/jack-ellis",
+        "evidence": "https://usefathom.com/about",
+        "kind": "professional"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/founder-profiles/benjamin-denis-seopress/",
+    "name": "Benjamin Denis",
+    "company": "SEOPress",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Founder biography",
+        "url": "https://www.seopress.org/about/",
+        "evidence": "https://www.seopress.org/about/",
+        "kind": "professional"
+      },
+      {
+        "label": "WordPress.org contributor profile",
+        "url": "https://profiles.wordpress.org/rainbowgeek/",
+        "evidence": "https://profiles.wordpress.org/rainbowgeek/",
+        "kind": "professional"
+      }
+    ],
+    "sections": []
+  },
+  {
+    "url": "/owners/cheryl-sew-hoy/",
+    "name": "Cheryl Sew Hoy",
+    "company": "Tiny Health",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Company biography",
+        "url": "https://www.tinyhealth.com/team-members/cheryl-sew-hoy",
+        "evidence": "https://www.tinyhealth.com/team-members/cheryl-sew-hoy",
+        "kind": "professional"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/cherylyeoh/",
+        "evidence": "https://www.tinyhealth.com/team-members/cheryl-sew-hoy",
+        "kind": "social"
+      }
+    ],
+    "sections": [
+      {
+        "title": "From engineering to a consumer health business",
+        "text": "Tiny Health identifies Cheryl Sew Hoy as its founder and CEO and dates the company’s start to 2020. Its biography connects her interest in the business to researching the gut microbiome after becoming a parent. The same source records engineering degrees from Cornell University and prior experience building consumer brands.",
+        "source": "https://www.tinyhealth.com/team-members/cheryl-sew-hoy"
+      }
+    ]
+  },
+  {
+    "url": "/owners/mike-king/",
+    "name": "Mike King",
+    "company": "iPullRank",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Founder writing and appearances",
+        "url": "https://ipullrank.com/resources/best-of-mike-king",
+        "evidence": "https://ipullrank.com/about-us",
+        "kind": "professional"
+      },
+      {
+        "label": "Company team biography",
+        "url": "https://ipullrank.com/about-us",
+        "evidence": "https://ipullrank.com/about-us",
+        "kind": "professional"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Why Mike King built iPullRank",
+        "text": "iPullRank identifies Michael King, known as Mike King, as Founder and CEO. Its company history describes his aim to build an agency around client outcomes and a multidisciplinary team. The agency’s published work connects technical search, content engineering and AI search strategy. Its founder archive provides dated articles and appearances for readers who want to follow how that work developed.",
+        "source": "https://ipullrank.com/about-us"
+      }
+    ]
+  },
+  {
+    "url": "/owners/sanjit-biswas/",
+    "name": "Sanjit Biswas",
+    "company": "Samsara",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "Company leadership biography",
+        "url": "https://investors.samsara.com/governance/board-of-directors/person-details/default.aspx?ItemId=5081a72f-ee79-47e7-87ab-28d4ce592423",
+        "evidence": "https://www.samsara.com/company/leadership",
+        "kind": "professional"
+      }
+    ],
+    "sections": [
+      {
+        "title": "From Meraki to Samsara",
+        "text": "Samsara’s investor biography identifies Sanjit Biswas as CEO and co-founder. Before Samsara, he was also CEO and co-founder of Meraki. The biography records a Stanford degree in Computer Systems Engineering and an MIT master’s degree in Electrical Engineering and Computer Science.",
+        "source": "https://investors.samsara.com/governance/board-of-directors/person-details/default.aspx?ItemId=5081a72f-ee79-47e7-87ab-28d4ce592423"
+      },
+      {
+        "title": "The operating problem behind the company",
+        "text": "Samsara describes its work as helping organizations use operational data and AI to improve safety, efficiency and sustainability. That positions the business around physical operations rather than consumer social media. Its leadership page separately identifies John Bicket as CTO and co-founder, providing a second source for the founding-team context.",
+        "source": "https://www.samsara.com/company/leadership"
+      }
+    ]
+  },
+  {
+    "url": "/owners/elizabeth-iorns/",
+    "name": "Elizabeth Iorns",
+    "company": "Science Exchange",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "University of Auckland alumni profile",
+        "url": "https://www.auckland.ac.nz/en/alumni/our-alumni/40-under-40/a-z-list-of-profiles/elizabeth-iorns.html",
+        "evidence": "https://www.auckland.ac.nz/en/alumni/our-alumni/40-under-40/a-z-list-of-profiles/elizabeth-iorns.html",
+        "kind": "professional"
+      },
+      {
+        "label": "Science Exchange company information",
+        "url": "https://www.scienceexchange.com/about",
+        "evidence": "https://www.scienceexchange.com/about",
+        "kind": "professional"
+      }
+    ],
+    "sections": [
+      {
+        "title": "A research problem became a business",
+        "text": "The University of Auckland’s alumni profile connects Elizabeth Iorns’s Science Exchange founding story to her experience as a breast cancer researcher. She encountered difficulties finding collaborators and specialist research facilities outside her institution. The profile describes the resulting idea as a central platform through which scientists could find and outsource experimental work.",
+        "source": "https://www.auckland.ac.nz/en/alumni/our-alumni/40-under-40/a-z-list-of-profiles/elizabeth-iorns.html"
+      },
+      {
+        "title": "Education and early company chronology",
+        "text": "The university records biomedical-science study, a PhD in Cancer Biology at the Institute of Cancer Research in London, and an academic appointment at the University of Miami. Its historical account places Science Exchange in Y Combinator’s 2011 program. The article’s leadership and financing details describe that period; they should not be treated as a current executive roster or valuation.",
+        "source": "https://www.auckland.ac.nz/en/alumni/our-alumni/40-under-40/a-z-list-of-profiles/elizabeth-iorns.html"
+      }
+    ]
+  },
+  {
+    "url": "/owners/christina-nortman/",
+    "name": "Christina Nortman",
+    "company": "AE Tax Advisors",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "AE Tax Advisors team biography",
+        "url": "https://www.aetaxadvisors.com/bios/",
+        "evidence": "https://www.aetaxadvisors.com/bios/",
+        "kind": "professional"
+      },
+      {
+        "label": "Professional resource website",
+        "url": "https://www.christinanortmancpa.com/",
+        "evidence": "https://www.christinanortmancpa.com/",
+        "kind": "professional"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Professional background and advisory focus",
+        "text": "AE Tax Advisors’ team page identifies Christina Nortman, CPA, as Managing Partner, Northeast Region. It describes prior experience at PwC and CohnReznick and work with owner-operated businesses and real estate investors. The firm records bachelor’s and master’s study in accounting at the University of Baltimore. Consult the current team page for her published responsibilities and the professionals assigned to an engagement.",
+        "source": "https://www.aetaxadvisors.com/bios/"
+      }
+    ]
+  }
+]

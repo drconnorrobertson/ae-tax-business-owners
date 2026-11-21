@@ -30,3 +30,19 @@
 
 /* Allow the home hero grid to shrink to a narrow viewport. */
 .hero>*{min-width:0}
+/* Profile research and the complete people index. */
+.profile-jump{display:flex;flex-wrap:wrap;gap:.6rem 1rem;padding:1rem 0 1.3rem;margin-bottom:1.5rem;border-bottom:1px solid var(--line,#d5dfd9);font-size:.9rem}
+.profile-jump span{flex-basis:100%;font-weight:700}
+.profile-evidence,.profile-owner-planning{margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid var(--line,#d5dfd9);scroll-margin-top:2rem}
+.profile-company{padding:1rem 0}.profile-company h3{margin-top:0}
+.profile-links li{margin:.8rem 0;overflow-wrap:anywhere}
+.profile-owner-planning{padding:1.5rem;background:#f0f5ef;border-radius:12px}
+.profile-index-back{padding-top:1.5rem;font-size:.9rem}
+.people-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.5rem 0}
+.people-card{min-width:0;padding:1.4rem;border:1px solid #d5dfd9;border-radius:12px;background:#fff;overflow-wrap:anywhere}
+.people-card h2{font-size:1.4rem;margin:.7rem 0}.people-card p{font-size:.95rem;line-height:1.6}
+.people-search{max-width:760px;margin-top:1.5rem}.people-search label{display:block;font-weight:700;margin-bottom:.5rem}
+.people-search input{width:100%;min-height:48px;padding:.8rem 1rem;border:1px solid #758b7e;border-radius:8px;font:inherit;background:#fff;color:#173a30;box-sizing:border-box}
+.people-search input:focus-visible{outline:3px solid #8ebba0;outline-offset:3px}.people-results li{padding:.7rem 0}.people-results span{font-size:.9rem}
+@media(max-width:850px){.people-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.people-grid{grid-template-columns:1fr}.profile-jump{flex-direction:column}.profile-owner-planning{padding:1rem}.people-card{padding:1rem}}

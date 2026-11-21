@@ -14,6 +14,23 @@ Permanent redirects in `vercel.json` retain old person, HTML and Markdown links.
 Company URLs are unchanged. Withdrawn notices retain their noindex status at
 their clean person URLs. Run the full build and checks before publishing.
 
+## Profile research and discovery
+
+`scripts/profile-directory.mjs` joins the existing collections by canonical URL,
+adds documented business connections and related people, and builds the complete
+paginated `/people/` index. Browser search uses `assets/people-index.json`; the
+HTML pagination remains usable without JavaScript. The original directory's
+growth filters and qualifications remain separate from historical references.
+
+`data/profile-enrichment.json` stores manually reviewed professional links and
+additional biography sections. Each link needs a source that ties it to that
+person, and each new factual section needs its source URL. Do not generate social
+handles from names or treat a company's social account as a person's identity.
+Review dates describe evidence checks, not a guarantee of current account activity.
+The source review cohort is listed at `/profile-methodology/`. Build output includes
+an untracked `data/profile-coverage-report.json` so partial research coverage stays
+visible. Run `node scripts/check-profile-directory.mjs` after the normal checks.
+
 ## Build
 
 Node 22 or later, no dependencies.
