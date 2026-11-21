@@ -3,6 +3,17 @@
 Publicly sourced founder and company directory presented by AE Tax Advisors.
 Canonical production domain: https://businessownerindex.com.
 
+## Person URLs
+
+Public person slugs use readable names, without Wikidata Q-number suffixes.
+Keep source entity IDs and citations in the records for identity matching; do not
+append them to new public person URLs. If a name is already taken within its
+collection, use a sourced company or role qualifier and preserve existing URLs.
+`data/person-url-migration.json` records the November 21, 2026 URL moves.
+Permanent redirects in `vercel.json` retain old person, HTML and Markdown links.
+Company URLs are unchanged. Withdrawn notices retain their noindex status at
+their clean person URLs. Run the full build and checks before publishing.
+
 ## Build
 
 Node 22 or later, no dependencies.

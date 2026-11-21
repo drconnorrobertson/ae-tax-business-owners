@@ -63,6 +63,36 @@
       ],
       "destination": "https://businessownerindex.com/:path*",
       "permanent": true
+    },
+    {
+      "source": "/owners/:name([a-z0-9-]+)-q:record([0-9]+)/index.md",
+      "destination": "/owners/:name/index.md",
+      "permanent": true
+    },
+    {
+      "source": "/owners/:name([a-z0-9-]+)-q:record([0-9]+)/index.html",
+      "destination": "/owners/:name/",
+      "permanent": true
+    },
+    {
+      "source": "/owners/:name([a-z0-9-]+)-q:record([0-9]+)/",
+      "destination": "/owners/:name/",
+      "permanent": true
+    },
+    {
+      "source": "/founder-reference/people/:name([a-z0-9-]+)-q:record([0-9]+)/index.md",
+      "destination": "/founder-reference/people/:name/index.md",
+      "permanent": true
+    },
+    {
+      "source": "/founder-reference/people/:name([a-z0-9-]+)-q:record([0-9]+)/index.html",
+      "destination": "/founder-reference/people/:name/",
+      "permanent": true
+    },
+    {
+      "source": "/founder-reference/people/:name([a-z0-9-]+)-q:record([0-9]+)/",
+      "destination": "/founder-reference/people/:name/",
+      "permanent": true
     }
   ]
 }
