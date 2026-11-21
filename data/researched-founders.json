@@ -8684,5 +8684,876 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "william-utz",
+    "name": "William D. Utz",
+    "company": "Utz",
+    "website": "https://www.utzbrands.com/",
+    "role": "Historical cofounder with Salie Utz.",
+    "founding": "William and Salie Utz began producing and selling chips in Hanover in 1921; incorporation followed in 1947.",
+    "intro": "William D. “Bill” Utz and Salie Utz began their chip business in a summer kitchen in Hanover, Pennsylvania. The company traces that beginning to 1921. Its history connects small-scale production with local selling, then describes the facilities and corporate changes that followed as the business developed.",
+    "sections": [
+      {
+        "title": "Production and selling began together",
+        "text": "The company’s account describes Bill and Salie making Hanover Home Brand Potato Chips and selling them through small grocers and markets. This was a shared enterprise, not simply a recipe associated with one founder. The kitchen and early sales routes belonged to the same operating problem: making a product and getting it to customers while it was still fresh. The history does not establish that the later brand portfolio or national distribution was present at the start.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The kitchen gave way to dedicated facilities",
+        "text": "Utz dates the first section of a plant behind the founders’ home to 1930 and another manufacturing facility there to 1938. Its historical timeline then places a larger Carlisle Street facility after the purchase of land in 1949. These changes identify investment in production space as a separate stage from the original kitchen business. They also prevent a building date from replacing the 1921 start simply because that facility became important to the later company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The business name and family roles changed",
+        "text": "The company records incorporation as Utz Potato Chip Company in 1947 and describes F.X. Rice joining after marrying Arlene Utz. That later family involvement should not erase Bill and Salie’s founding partnership, nor should the original partnership be used to describe today’s ownership structure. The current company history acknowledges public trading. Reading the sequence carefully keeps the kitchen enterprise, later incorporation, family succession and modern company in their respective periods.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Salie Utz as cofounder.",
+      "Separate 1921 operations from 1947 incorporation.",
+      "Do not treat historical family management as proof of present ownership."
+    ],
+    "sources": [
+      {
+        "title": "Utz — Company history",
+        "url": "https://www.utzbrands.com/about"
+      },
+      {
+        "title": "Utz — Company code of conduct: historical timeline",
+        "url": "https://s203.q4cdn.com/214926893/files/doc_governance/2025/May/06/2025-02-19-UTZ-BRANDS-CODE-OF-CONDUCT-FINAL-PDF-c8e0ad.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "julius-sturgis-pretzels",
+    "name": "Julius Sturgis",
+    "company": "Julius Sturgis Pretzel Bakery",
+    "website": "https://juliussturgis.com/",
+    "role": "Historical founder of the 1861 bakery; local records also identify Jacob Kramer in the early business.",
+    "founding": "The bakery dates its Lititz beginning to 1861; later Sturgis businesses have separate origins.",
+    "intro": "Julius Sturgis’s bakery history is rooted in an existing Lititz building and the development of a specialized pretzel business in 1861. The current bakery’s history and a township survey offer complementary accounts. They should be read together rather than turning a familiar origin story into an unsupported claim that no earlier pretzel makers existed.",
+    "sections": [
+      {
+        "title": "An existing building housed a new business",
+        "text": "The bakery says Sturgis purchased the East Main Street property in 1861 and added bakery space to the family home. The building itself was older. That separation matters: a historic structure’s construction date is not the founding date of every business later inside it. The account describes a household and a production operation sharing a site, with the bakery developing as a specialized enterprise rather than beginning in a purpose-built modern factory.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The local trade had other participants",
+        "text": "Warwick Township’s historic-resources survey discusses earlier pretzel makers John William Rauch and Henry Rauch and identifies Julius Sturgis and Jacob Kramer as independent manufacturers in 1861. This profile retains that context. The bakery’s own statement about its place in commercial pretzel history is therefore not expanded into a claim that Sturgis invented pretzels or had no predecessors. The legends repeated in some family accounts are not treated as documented recipes or verified business transactions.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The family name continued through distinct operations",
+        "text": "The bakery’s history describes Marriott Sturgis establishing Tom Sturgis Pretzels in Reading in 1946 and a later move to Shillington. Those dates belong to another operation in the family story. They should not be backdated to Julius’s original bakery or used to imply an unchanged legal entity across the whole period. The sources support a history of a trade, a family and several operating settings, with the original Lititz location retaining its own identity.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the older building from the 1861 bakery.",
+      "Retain the survey’s Rauch and Kramer context.",
+      "Distinguish Julius’s operation from the later Tom Sturgis business."
+    ],
+    "sources": [
+      {
+        "title": "Julius Sturgis Pretzel Bakery — Bakery history",
+        "url": "https://juliussturgis.com/sturgis-history/"
+      },
+      {
+        "title": "Julius Sturgis Pretzel Bakery — Family-company history",
+        "url": "https://www.tomsturgispretzels.com/pretzel-history/"
+      },
+      {
+        "title": "Julius Sturgis Pretzel Bakery — Township historic-resources survey",
+        "url": "https://www.warwicktownship.org/1325/Historic-Resources-Survey-Report-Warwick"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mark-dieffenbach",
+    "name": "Mark Dieffenbach",
+    "company": "Dieffenbach’s Potato Chips",
+    "website": "https://www.dieffenbachs.com/",
+    "role": "Historical founder; later family operating roles are identified separately.",
+    "founding": "Mark Dieffenbach began making chips in Berks County in 1964.",
+    "intro": "Mark Dieffenbach began making potato chips on a kitchen stove in Berks County, Pennsylvania, in 1964. The company’s history describes homemade kettle equipment and a move into a garage plant. A later interview with grandson Nevin places that early production story within the company’s continuing development.",
+    "sections": [
+      {
+        "title": "A homemade process became a production operation",
+        "text": "Dieffenbach’s account says family and friends liked Mark’s chips and that he built kettle cookers as the business grew. Moving from the kitchen to a garage created a different working setting while keeping the operation close to its origins. The equipment is a concrete part of the story: the founder’s work involved the means of production as well as the food itself. This profile does not convert a family recipe story into a claim about nutritional superiority.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Later growth required different kinds of capacity",
+        "text": "The company timeline distinguishes expansions in frying capacity, packing space and storage. It records additional products and brands alongside later distribution facilities. Those changes are not interchangeable: a fryer, packaging line and warehouse solve different operating needs. They also belong to later stages of the company, rather than automatically to Mark’s original workshop. Keeping the distinctions visible makes the history more informative than simply describing every development as growth.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later generation described the financing relationship",
+        "text": "Fulton Bank’s 2023 customer story quotes Nevin Dieffenbach discussing the company’s relationship with the bank. It also recalls Mark’s 1964 kettle-building origin. That source is participant testimony published by a commercial partner, not an independent rating of either business. Together with the company history, it connects the founding operation with later family leadership and funding needs. It does not establish that the founder personally negotiated later facilities or that another business would receive comparable financing.",
+        "sourceIndexes": [
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Use Mark Dieffenbach’s documented name.",
+      "Separate production, packaging and distribution changes.",
+      "Read the bank story as a dated customer account."
+    ],
+    "sources": [
+      {
+        "title": "Dieffenbach’s Potato Chips — Company history",
+        "url": "https://www.dieffenbachs.com/history/"
+      },
+      {
+        "title": "Dieffenbach’s Potato Chips — Bank customer interview (October 2023)",
+        "url": "https://www.fultonbank.com/Commercial/Spotlight-On-Industries/Customer-Success-Story/Dieffenbachs"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-wesley-furman",
+    "name": "John Wesley Furman",
+    "company": "Furmano Foods",
+    "website": "https://furmanos.com/",
+    "role": "Historical cofounder with Emma Furman and the family’s participation.",
+    "founding": "The family began canning tomatoes in Pennsylvania in 1921.",
+    "intro": "John Wesley Furman and Emma Furman began a tomato-canning business in Pennsylvania in 1921. The company’s heritage account includes their children in the early production. Its later timeline follows a change from a small family operation to multiple products and packaging formats serving retail and foodservice customers.",
+    "sections": [
+      {
+        "title": "The family’s first product came from the farm",
+        "text": "Furmano’s account describes John, Emma and their six children canning tomatoes in glass jars. The beginning links agricultural produce with processing and selling a preserved product. It was not merely a farm name later placed on packaged goods. Retaining Emma and the children’s participation also makes the working arrangement visible. The later enterprise should not be used to infer the scale, equipment or formal roles of that first family operation.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Customers and packaging changed over time",
+        "text": "The heritage timeline describes additional vegetables, later foodservice-sized cans and eventually alternative packaging. Its current foodservice account distinguishes retail and restaurant customers, branded and private-label products, and several packaging options. Those are different ways of organizing a product offer. They help explain the company’s development without treating a glass jar from 1921 as equivalent to every later channel or format. This profile makes no food-safety, nutrition or processing-performance conclusion.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Brand and corporate names have their own dates",
+        "text": "The company traces the Furmano’s brand to adding an “o” to the family name in 1962. Its timeline separately records later corporate-name changes. Those events should not replace the 1921 start, or be merged into a single date simply because the names resemble one another. The company also identifies later family leadership. That continuity can be described without assigning the founders modern titles or treating a current executive biography as evidence of their original legal arrangements.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Emma and the children’s documented participation.",
+      "Separate brand naming from corporate-name changes.",
+      "Distinguish retail and foodservice developments from the original canning operation."
+    ],
+    "sources": [
+      {
+        "title": "Furmano Foods — Company heritage timeline",
+        "url": "https://furmanos.com/our-heritage/"
+      },
+      {
+        "title": "Furmano Foods — Foodservice company and leadership account",
+        "url": "https://furmanosfs.com/about-us/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "chester-asher-chocolate",
+    "name": "Chester A. Asher",
+    "company": "Asher’s Chocolate",
+    "website": "https://ashers.com/",
+    "role": "Historical founder; later family leadership is treated separately.",
+    "founding": "Chester A. Asher founded the Philadelphia business in 1892 and later moved it to Germantown.",
+    "intro": "Chester A. Asher’s confectionery business began in Philadelphia in 1892. The company’s timeline and a city historical nomination describe its development from a small candy operation into larger facilities and wholesale relationships. They differ on some dates surrounding the earliest moves, so this profile keeps the shared sequence without inventing precision.",
+    "sections": [
+      {
+        "title": "Learning the trade preceded the Philadelphia business",
+        "text": "The company’s account describes Asher learning chocolate-making in Boston before opening in Philadelphia. Its early merchandise included more than the chocolates associated with the later brand. That detail distinguishes a small shop’s initial range from a mature manufacturer’s identity. The sources place the Philadelphia founding in 1892, while their accounts of migration and the move to Germantown use slightly different dates. Those differences do not change the basic order of the business history.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "More buildings supported a different scale of work",
+        "text": "The company timeline describes connected production spaces behind its store and sales in bulk to department stores along the East Coast. Philadelphia’s historical nomination identifies properties involved in the company’s expansion. These accounts make facilities and channels visible parts of the story. A store selling directly to local customers and a manufacturer supplying larger retailers have different operating requirements. The growth involved changes in both production setting and customer relationships, not simply more of an identical transaction.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The next generation carried different responsibilities",
+        "text": "Asher’s history describes his sons becoming involved and later taking greater responsibility for the enterprise. Its recipe retrospective connects the original confectionery work with the company’s continuing product identity. Those sources support continuity of a business tradition without proving that every current recipe or process is unchanged from 1892. They also keep Chester’s historical founding role separate from the management decisions and facilities that belonged to later generations.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Keep 1892 as the documented Philadelphia founding year.",
+      "Qualify conflicting dates around the earliest relocations.",
+      "Separate Chester’s role from later family management."
+    ],
+    "sources": [
+      {
+        "title": "Asher’s Chocolate — Company history",
+        "url": "https://ashers.com/about-ashers/history/"
+      },
+      {
+        "title": "Asher’s Chocolate — Philadelphia historical nomination (2020)",
+        "url": "https://www.phila.gov/media/20200713085219/5603-05-Germantown-Ave-nomination.pdf"
+      },
+      {
+        "title": "Asher’s Chocolate — Company retrospective on recipes",
+        "url": "https://ashers.com/blog/perfecting-classic-candy-recipes/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "david-goldenberg-candy",
+    "name": "David Goldenberg",
+    "company": "Goldenberg Candy Company",
+    "website": "https://www.justborn.com/",
+    "role": "Historical founder of Goldenberg Candy Company; not the later executive David R. Goldenberg.",
+    "founding": "The family business began in Philadelphia in 1890; Peanut Chews followed later.",
+    "intro": "David Goldenberg founded the family confectionery business in Philadelphia in 1890. Later relatives with the same given name also worked in the company, so identifying the generation matters. This profile draws on a 1990 family interview and a subsequent correction by a retired Just Born executive to distinguish the original business from the later candy brand.",
+    "sections": [
+      {
+        "title": "A retail beginning preceded the famous product",
+        "text": "In UPI’s 1990 interview, Goldenberg’s grandsons described their grandfather’s early retail business and wholesale deliveries. Their account places the store before the product specialization associated with the later company. It is direct family testimony recorded decades after the events, rather than a contemporary 1890 document. The distinction should remain visible when using the story. It supports a sequence of activities without requiring every later family recollection to be treated as an independently verified detail.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Peanut Chews and the company have different origins",
+        "text": "A 2022 letter by a retired Just Born CEO corrected an account that credited Just Born’s founder with creating Peanut Chews. The writer distinguished David Goldenberg’s 1890 company from the candy introduced later and the acquisition by Just Born in 2003. This is an important boundary in the history: buying a product business does not make the buyer its original creator. The profile attributes the correction and does not repeat nutritional claims about the candy’s historical uses.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Later relatives and a new owner continued the business",
+        "text": "The 2003 acquisition announcement identifies David R. Goldenberg as a fourth-generation executive. He should not be confused with the nineteenth-century founder simply because the names overlap. Together, the sources document a retail origin, a later focus on branded confections and a subsequent ownership transaction. They do not establish the founder’s personal finances or current family control. The company, product and people each require their own dates within the account.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish founder David from later David R. Goldenberg.",
+      "Attribute retrospective family testimony explicitly.",
+      "Separate the business origin, product introduction and 2003 acquisition."
+    ],
+    "sources": [
+      {
+        "title": "Goldenberg Candy Company — Family interview (June 1990)",
+        "url": "https://www.upi.com/amp/Archives/1990/06/01/Its-a-sweet-industry-Carl-Goldenberg-said-recently-remembering/4747644212800/"
+      },
+      {
+        "title": "Goldenberg Candy Company — Retired Just Born CEO’s correction (2022)",
+        "url": "https://www.heritagefl.com/story/2022/07/08/features/tidbit-about-the-candy-man/16853.html"
+      },
+      {
+        "title": "Goldenberg Candy Company — Acquisition announcement (February 2003)",
+        "url": "https://www.gomc.com/firstpage/200302005.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "christian-frederick-martin",
+    "name": "Christian Frederick Martin",
+    "company": "C. F. Martin & Co.",
+    "website": "https://www.martinguitar.com/",
+    "role": "Historical founder of C. F. Martin & Co.; later family namesakes are separate people.",
+    "founding": "The business began in New York in 1833 and moved to the Nazareth area in 1839.",
+    "intro": "Christian Frederick Martin’s company began in New York before becoming associated with Nazareth, Pennsylvania. An original 1935 company catalog and a recent museum interview with a company representative describe that sequence. They connect instrument-making with retail, distribution and later family participation rather than treating the business as a factory in one place from its beginning.",
+    "sections": [
+      {
+        "title": "Making and selling shared the early business",
+        "text": "The museum interview describes Martin’s training in Europe and his early New York shop, where guitar-making and retail activity existed together. The 1935 catalog likewise places the first Martin guitars in New York in 1833. These accounts identify a business with several tasks: making instruments, dealing with customers and supporting sales. The later manufacturing identity should not erase that mixed beginning or make the Pennsylvania location the original founding site.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The move changed the working setting",
+        "text": "Both sources place the family and business move to the Nazareth area in 1839. The museum interview explains it as allowing greater attention to guitar-building. That is a specific change in how the founder organized his work, not merely a new address. It should not be extended into an unsupported claim that all earlier retail or distribution relationships immediately disappeared. The history publication offered by the company also treats Martin’s early importing and repair activities as part of the account.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Names on instruments can outlast a location",
+        "text": "The 1935 catalog says instruments continued to carry a New York brand after the move. It later records changes associated with the founder’s son becoming a partner and a grandson’s management. This makes a useful distinction between a label, a production site and a legal or family relationship. Christian Frederick Martin’s descendants with similar names should not be credited with the 1833 founding, and the founder should not be credited automatically with models introduced by subsequent generations.",
+        "sourceIndexes": [
+          0
+        ]
+      }
+    ],
+    "checks": [
+      "Use New York for the 1833 beginning and Nazareth for the 1839 move.",
+      "Separate instrument labels from the actual production location.",
+      "Distinguish the founder from later Martin generations."
+    ],
+    "sources": [
+      {
+        "title": "C. F. Martin & Co. — Original company retail catalog (1935)",
+        "url": "https://acousticmusic.org/wp-content/uploads/2016/02/Martin-1935-Catalog.pdf"
+      },
+      {
+        "title": "C. F. Martin & Co. — Museum interview with company representative (2026)",
+        "url": "https://springsteencenter.org/curatorial-corner-more-than-an-instrument-martin-guitar-and-the-sound-of-america/"
+      },
+      {
+        "title": "C. F. Martin & Co. — Company history publication",
+        "url": "https://www.martinguitar.com/gear-accessories/books-reprints/18B0013.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "camille-poirier-duluth-pack",
+    "name": "Camille Poirier",
+    "company": "Duluth Pack",
+    "website": "https://duluthpack.com/",
+    "role": "Historical founder associated with the pack business later sold to Duluth Tent & Awning.",
+    "founding": "Poirier’s pack design dates to 1882; the business changed hands in 1911.",
+    "intro": "Camille Poirier’s pack-making grew from an earlier leather and shoe business in Duluth, Minnesota. The company’s history, a direct interview with later company leadership and a transcription of his autobiography describe that progression. They keep the person’s work distinct from the later brand and ownership history.",
+    "sections": [
+      {
+        "title": "A shoemaker found other uses for his skills",
+        "text": "Duluth Pack’s account describes Poirier operating a shoe shop as local rail, shipping, timber and mining activity increased demand for equipment. The later company interview connects that setting with requests for bags. This is a history of a maker applying existing skills to another product. It does not mean the modern assortment existed at the start, or that a present customer can infer a product’s capabilities solely from the age of the company name.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The pack design had its own milestone",
+        "text": "The company dates the C. Poirier pack-strap patent to 1882. That milestone is separate from the earlier shoe shop. It should not be expanded into a claim that Poirier invented every form of head strap or back-carried bag. The sources describe a particular design associated with his business. Keeping the scope specific makes the history clearer and avoids turning a brand’s origin account into a broad legal conclusion about invention priority.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "A sale created another chapter",
+        "text": "Poirier sold his pack business to Duluth Tent & Awning in 1911, according to the company history. Later catalogs, retail and other developments therefore belong to a business under subsequent management. The university-hosted interview is direct testimony from later company leadership and is identified as such. Read alongside the historical material, it supports continuity of a product business without implying that Poirier retained ownership or directed every later change made under the Duluth Pack name.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the shoe shop from the 1882 design milestone.",
+      "Keep the patent claim specific to the documented design.",
+      "Treat the 1911 sale as a change in the business’s history."
+    ],
+    "sources": [
+      {
+        "title": "Duluth Pack — Company history",
+        "url": "https://duluthpack.com/pages/our-storied-history"
+      },
+      {
+        "title": "Duluth Pack — Direct company interview in university research",
+        "url": "https://repository.lib.ncsu.edu/server/api/core/bitstreams/97bb5ae3-ba8b-4ed3-849e-6a8dbf8dd5ca/content"
+      },
+      {
+        "title": "Duluth Pack — Historical transcription of Poirier’s autobiography",
+        "url": "https://www.garon.us/images2/TourOldDuluth-Aubut-Norton.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "robert-fierek-duluth-trading",
+    "name": "Robert W. Fierek",
+    "company": "Duluth Trading Company",
+    "website": "https://www.duluthtrading.com/",
+    "role": "Historical cofounder with Dave Fierek; Robert died in 2022.",
+    "founding": "The business began in 1989 with a tool-organizing product and later developed its catalog identity.",
+    "intro": "Robert W. “Bob” Fierek’s founding association with Duluth Trading begins with Portable Products and a practical tool organizer. His family obituary identifies that business, while the company’s annual report and a longtime illustrator’s interview describe the product and catalog operation that followed. Dave Fierek’s involvement remains part of the account.",
+    "sections": [
+      {
+        "title": "An organizer for work already being done",
+        "text": "The company’s annual report describes two brothers in construction who were dissatisfied with carrying tools in discarded buckets. Their response was the Bucket Boss organizer. The family obituary names Bob with Portable Products, and illustrator Rick Kollath’s account identifies Bob and Dave together. These sources connect a particular working problem with an early product. They do not show that the modern clothing assortment was the original business or that the founder personally developed each later item.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A catalog made presentation part of the business",
+        "text": "Kollath’s interview describes working on the catalog of the company that preceded Duluth Trading. Its annual report connects the organizer with a broader catalog of tool-storage and transport products. This shift made product selection and explanation part of the offer alongside the original invention. The catalog was therefore an operating channel, not just an advertisement for one object. Later company records describe retail stores as another stage rather than part of the earliest venture.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The familiar name continued after ownership changes",
+        "text": "The annual report records GEMPLER’S acquiring the business in December 2000 and describes subsequent organizational changes. Those dates belong to the later enterprise. Bob’s 2022 obituary identifies him as a founder, not a current manager of the public company. Reading the records together preserves his and Dave’s origin story without assuming uninterrupted family control. It also separates a product invention, a catalog identity and the company structure that eventually followed.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Dave Fierek’s contribution alongside Bob.",
+      "Separate the original organizer from the later clothing and store business.",
+      "Use the filing’s date for the GEMPLER’S transaction."
+    ],
+    "sources": [
+      {
+        "title": "Duluth Trading Company — Family obituary (2022)",
+        "url": "https://www.doughertyfuneralduluth.com/obituaries/robert-fierek"
+      },
+      {
+        "title": "Duluth Trading Company — Company annual report (2025 fiscal year)",
+        "url": "https://ir.duluthtrading.com/static-files/ea12bc55-ca94-4319-ad19-be2699c6d84a"
+      },
+      {
+        "title": "Duluth Trading Company — Direct illustrator interview (2009)",
+        "url": "https://www.wisbusiness.com/2009/kollath-duluth-based-artist-brings-quirky-style-to-state-catalog-company/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "george-kromer",
+    "name": "George Kromer",
+    "company": "Stormy Kromer",
+    "website": "https://www.stormykromer.com/",
+    "role": "Historical founder association shared with Ida Kromer’s design and sewing work.",
+    "founding": "The cap’s origin story dates to 1903; later manufacturing in Michigan belongs to another period.",
+    "intro": "George “Stormy” Kromer’s brand story starts with a problem experienced on the railroad and a solution made by his wife, Ida. The company’s history credits her sewing work. A biography centered on George should preserve that contribution rather than turn the product’s nickname into proof that he designed it alone.",
+    "sections": [
+      {
+        "title": "Ida made the response to George’s problem",
+        "text": "The company recounts George repeatedly losing his cap and asking Ida to alter it. Her earband and sewing work are the practical response in that account. George supplied the experience and the name, but the source does not support erasing Ida’s role in making the design. This is a historical origin story; it does not establish a current cap’s suitability for a particular workplace or weather condition.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A recognizable item became a product identity",
+        "text": "The company’s historical press material presents the cap as the starting point for a broader apparel business. Changes in colors, fabrics and styles are later product decisions, not separate proof that the initial design had every modern feature. The useful business history is the movement from solving one person’s problem toward a recognizable product that could be made repeatedly. It keeps the original users and makers visible without adopting promotional claims about universal performance.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The manufacturing setting changed",
+        "text": "The regional cultural account describes the brand’s Wisconsin origins and its later place within Jacquart Fabric Products in Michigan’s Upper Peninsula. Those are distinct geographic and business stages. The current brand does not make George or Ida current owners or operators, nor does the place of modern production change where their origin story began. Taken together, the sources support a history of design contribution, a durable product identity and later stewardship under a different operating business.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Ida’s design and sewing work explicitly.",
+      "Keep Wisconsin origins separate from later Michigan operations.",
+      "Do not treat the origin story as a current protection guarantee."
+    ],
+    "sources": [
+      {
+        "title": "Stormy Kromer — Brand origin story",
+        "url": "https://www.stormykromer.com/our-story/"
+      },
+      {
+        "title": "Stormy Kromer — Historical company press material",
+        "url": "https://static.goexposoftware.com/orsm16/FORMfields/uploads/pressreleasescurprurl1469711249152620120.pdf"
+      },
+      {
+        "title": "Stormy Kromer — Regional cultural account (2026)",
+        "url": "https://artsmidwest.org/stories/meet-the-stormy-kromer-a-hat-with-midwestern-heart/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ric-cabot-darn-tough",
+    "name": "Ric Cabot",
+    "company": "Darn Tough Vermont",
+    "website": "https://darntough.com/",
+    "role": "Founder of the Darn Tough brand; Marc Cabot founded the earlier hosiery business.",
+    "founding": "Cabot Hosiery Mills began in 1978; Darn Tough launched in 2004.",
+    "intro": "Ric Cabot’s Darn Tough story begins within an existing family manufacturer. The company dates Marc Cabot’s hosiery mill to 1978 and Ric’s own-brand launch to 2004. That distinction explains the central business change: an operation making socks for other labels developed a brand of its own.",
+    "sections": [
+      {
+        "title": "Learning an established production business",
+        "text": "Darn Tough’s history says Ric joined his father at Cabot Hosiery Mills in 1989 after working in publishing. He began on the knitting floor. The company’s mill timeline describes years producing for other labels before the Darn Tough name existed. Those details separate learning manufacturing operations from launching a consumer brand. Ric did not create the earlier mill from nothing, and Marc’s role should not disappear simply because the later name is more familiar.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "An own-brand launch changed the proposition",
+        "text": "The company describes difficult conditions for the family manufacturing business and a decision to keep production in Vermont while introducing a premium sock brand. Its account dates the first Darn Tough socks to 2004 and describes distribution at the Vermont City Marathon. That was a different route to customers from private-label manufacturing. The warranty was part of the company’s commercial promise; this profile reports it as a brand decision, not independent proof that every pair lasts indefinitely.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Later mills belong to the next phase",
+        "text": "The factory tour and mill timeline describe later manufacturing sites in Northfield and Waterbury. Those developments show production continuing after the brand launch, while remaining distinct from the original hosiery mill. The company’s own account is the source for its explanation of the decision to stay in Vermont. It does not support estimating the founders’ personal finances or treating every factory change as an action taken during the 2004 launch.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate Marc’s mill from Ric’s brand launch.",
+      "Distinguish private-label work from the consumer-brand offer.",
+      "Describe the warranty as a company promise, not a tested lifespan."
+    ],
+    "sources": [
+      {
+        "title": "Darn Tough Vermont — Company history",
+        "url": "https://darntough.com/pages/company-history"
+      },
+      {
+        "title": "Darn Tough Vermont — Mill and brand timeline",
+        "url": "https://darntough.com/pages/darn-tough-vermont-community"
+      },
+      {
+        "title": "Darn Tough Vermont — Company factory tour",
+        "url": "https://darntough.com/pages/virtual-tour-darn-tough-mill"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "clinton-clarence-filson",
+    "name": "Clinton Clarence Filson",
+    "company": "Filson",
+    "website": "https://www.filson.com/",
+    "role": "Historical founder of the Seattle outfitting business.",
+    "founding": "Filson opened the outfitting business in Seattle in 1897, after earlier retail ventures.",
+    "intro": "Clinton Clarence Filson’s business history includes retail experience before the store associated with his surname. The company describes his move to Washington with Winnifred Filson in 1890 and earlier general stores. Its 1897 Seattle opening then connected that experience with a specific flow of customers heading north.",
+    "sections": [
+      {
+        "title": "Earlier stores preceded the familiar company",
+        "text": "Filson’s history describes general stores in Kirkland and Sauk City with business partners. It also describes how a railroad route affected the latter location. These details make the 1897 opening a later decision in a retail career, not the founder’s first contact with selling goods. They show how location and access to customers formed part of the business setting. The company’s present identity should not be projected backward onto every earlier store Filson operated.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An outfitter near the waterfront",
+        "text": "The company’s origin retrospective places the Seattle store near the waterfront during the Klondike Gold Rush. Prospective customers were preparing for travel and work in a different environment. The historical account connects the selection of clothing and equipment with those customers’ intended activities. It does not prove that a current garment provides protection in every severe condition. The profile treats the company’s stated product purpose as historical context, rather than repeating its performance claims as independent findings.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The customer base expanded beyond the original moment",
+        "text": "Filson’s account describes later customers including people working or spending time outdoors in several occupations. That broadening is a separate stage from outfitting prospectors during a particular rush. It helps explain how a business initially associated with one market could develop a longer product identity. The sources establish a retail sequence and the founder’s historical association. They do not establish current ownership, personal wealth or that every item now sold is unchanged from the first store.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain earlier retail ventures as separate businesses.",
+      "Keep the 1897 opening tied to Seattle and its customer setting.",
+      "Separate historical product purpose from current protection claims."
+    ],
+    "sources": [
+      {
+        "title": "Filson — Company history",
+        "url": "https://www.filson.com/pages/about-us"
+      },
+      {
+        "title": "Filson — Company origin retrospective (2026)",
+        "url": "https://www.filson.com/blogs/journal/featured-original-alaska-outfitter-since-1897-the-filson-story"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "martin-keen-footwear",
+    "name": "Martin Keen",
+    "company": "KEEN Footwear",
+    "website": "https://www.keenfootwear.com/",
+    "role": "Historical founder and designer; later Focal Upright work is a separate business.",
+    "founding": "KEEN’s origins date to 2003; its later organization and other ventures have distinct histories.",
+    "intro": "Martin Keen’s work on footwear began with designing and testing a different kind of sandal. A university-hosted founder interview and professional design biographies document his founding association with KEEN. Company product material also identifies Rory Fuerst, preserving the commercial partnership alongside the designer’s role.",
+    "sections": [
+      {
+        "title": "A prototype challenged a familiar product category",
+        "text": "The company’s historical product material describes a sandal with a covered toe as the starting offer. Keen’s professional biographies connect his work with observing how people use everyday objects and building physical prototypes. That combination places design work at the beginning of the business story. It does not establish a medical or safety benefit for every wearer. The profile describes the product concept without adopting a claim that one form of footwear is appropriate for all activities.",
+        "sourceIndexes": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "Design and company-building were related roles",
+        "text": "The material dates KEEN’s beginning to 2003 and identifies both Martin Keen and Rory Fuerst. The university interview presents Keen’s account of the brand’s birth, while the design organizations identify him as its founder and designer. These sources have different purposes and should not be used to erase another participant. They establish his contribution without assigning him every later manufacturing, financial or management decision taken by a company that developed beyond the initial idea.",
+        "sourceIndexes": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "Another product problem led to another enterprise",
+        "text": "Ohio State and the Industrial Designers Society of America also identify Keen with Focal Upright furniture. That is a separate venture, not a later name for KEEN Footwear. The two businesses demonstrate a designer applying his approach in different product settings. Older biographies carrying executive titles should remain dated accounts rather than automatic proof of a current role. The profile follows the documented founding associations without merging the companies or inferring current ownership.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Rory Fuerst’s documented involvement.",
+      "Separate the footwear brand from Focal Upright.",
+      "Treat design intentions as intentions, not medical outcomes."
+    ],
+    "sources": [
+      {
+        "title": "KEEN Footwear — Founder interview hosted by Utah State (2023)",
+        "url": "https://caas.usu.edu/news/MartinKeen.pdf"
+      },
+      {
+        "title": "KEEN Footwear — Industrial Designers Society of America biography",
+        "url": "https://www.idsa.org/profile/martin-keen/"
+      },
+      {
+        "title": "KEEN Footwear — Ohio State alumni biography",
+        "url": "https://design.osu.edu/distinguished-alumni"
+      },
+      {
+        "title": "KEEN Footwear — Company product-update material (2014)",
+        "url": "https://www.9mot.com/wp-content/uploads/2014/02/KEEN-PRODUCTS-UPDATE-11-1-14-1.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "randy-merrell",
+    "name": "Randy Merrell",
+    "company": "Merrell",
+    "website": "https://www.merrell.com/",
+    "role": "Historical cofounder with Clark Matis and John Schweizer; no formal relationship with the brand since 1986 according to his own business.",
+    "founding": "The partnership began in 1981; the company records its first products reaching the market in 1983.",
+    "intro": "Randy Merrell’s founding association grew out of custom bootmaking in Utah. The brand’s history describes him joining Clark Matis and John Schweizer in 1981. His own workshop account then distinguishes that period of company-building from a later return to smaller-scale custom work.",
+    "sections": [
+      {
+        "title": "Craft skills met other business experience",
+        "text": "Merrell’s company history assigns different contributions to the three founders. Randy supplied original product designs; Matis brought production and marketing experience; Schweizer contributed business experience and Italian sources. This is a collaboration between craft and other capabilities, not a sole-founder story based on the name on the boot. The company dates first products reaching the market to 1983, keeping their commercial arrival separate from the partnership’s 1981 beginning.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A larger operation was a different kind of work",
+        "text": "The founder’s workshop FAQ describes travel to manufacturers during his time as company president. It then says he left in 1986 and returned to custom bootmaking. That account gives the departure an operating context: leading a company with outside production was different from making individual boots in a workshop. The source is his own business’s explanation of the transition, rather than a statement from the current Merrell brand about today’s leadership.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The name does not prove a current connection",
+        "text": "The FAQ explicitly says Randy has had no formal relationship with Merrell since 1986. His workshop’s longer history describes later custom work and teaching, which should not be confused with responsibility for current mass-produced Merrell products. The profile therefore preserves the founder’s contribution while making the post-sale boundary clear. It does not repeat medical claims from the workshop website, infer professional credentials, or suggest that he supervises the present brand’s products.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Matis and Schweizer alongside Merrell.",
+      "Separate the 1981 partnership from the 1983 product arrival.",
+      "Make the documented 1986 departure explicit."
+    ],
+    "sources": [
+      {
+        "title": "Merrell — Company founding history",
+        "url": "https://www.merrell.com/US/en/content?caid=cat-landing-slotbanner-about-us-20160511"
+      },
+      {
+        "title": "Merrell — Founder’s business FAQ",
+        "url": "https://merrellfootlab.com/faq.html"
+      },
+      {
+        "title": "Merrell — Founder’s workshop history",
+        "url": "https://merrellfootlab.com/themerrellstory.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "peter-duke-point6",
+    "name": "Peter Duke",
+    "company": "Point6",
+    "website": "https://point6.com/",
+    "role": "Cofounder with Patty Duke; executive descriptions are dated to their source.",
+    "founding": "Point6 began in 2008 after the Dukes’ earlier Smartwool work.",
+    "intro": "Peter Duke’s Point6 history follows an earlier business in wool socks and a later return to the category with Patty Duke. The company’s headquarters announcement dates Point6 to 2008. Its founder interviews provide an account of how the pair organized a new enterprise rather than simply continuing the old company under another name.",
+    "sections": [
+      {
+        "title": "Another venture in a familiar product area",
+        "text": "The company’s 2009 announcement identifies Peter and Patty as founders and connects their earlier work with Smartwool to Point6. That is a sequence of distinct businesses. Familiarity with the product area did not make the legal organization, employees or commercial arrangements identical. The profile uses the announcement to establish the new company’s origin and shared founding role, without calculating what the Dukes received from earlier transactions or treating old titles as current.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A headquarters brought functions together",
+        "text": "The same announcement describes a home office in Steamboat Springs supporting sales, marketing and other operating functions. It names a team rather than portraying the business as only the founder designing socks. That is a concrete organizational step after launch: a growing product enterprise needed people to coordinate customers, product work and administration. The stated reasons are the company’s account of that decision, not an independent finding that the headquarters produced a particular commercial result.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The founder described coordination as part of his job",
+        "text": "In Point6’s 2020 interview, Peter describes helping departments become self-reliant and work effectively with one another while reviewing the larger direction. An earlier interview also names Patty as cofounder. These accounts explain an operating role beyond the initial product concept. They remain dated perspectives and do not establish present ownership or an indefinite chief-executive tenure. The history focuses on launching and organizing the business without adopting wool-performance or medical claims.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Patty Duke as cofounder.",
+      "Separate Point6 from the earlier Smartwool business.",
+      "Date descriptions of executive roles and operating priorities."
+    ],
+    "sources": [
+      {
+        "title": "Point6 — Founder interview (2020)",
+        "url": "https://point6.com/blogs/sock-experts/72374467-peter-duke-founder-ceo"
+      },
+      {
+        "title": "Point6 — Company headquarters announcement (2009)",
+        "url": "https://sgbonline.com/point6-opens-headquarters-in-steamboat-springs/"
+      },
+      {
+        "title": "Point6 — Founder interview (2018)",
+        "url": "https://sgbonline.com/point6-conversation-with-peter-duke-founder-ceo/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mark-paigen-chaco-tread-labs",
+    "name": "Mark Paigen",
+    "company": "Chaco and Tread Labs",
+    "website": "https://treadlabs.com/",
+    "role": "Founder of Chaco and Tread Labs; Tread Labs changed ownership in 2025.",
+    "founding": "Paigen founded Chaco in 1989 and Tread Labs in 2015; the later business was sold in 2025.",
+    "intro": "Mark Paigen’s history connects two different footwear businesses and two different exits. A 2017 direct interview describes his earlier Chaco work and the creation of Tread Labs. The current company history and his own transition account then describe Tread Labs changing ownership in 2025.",
+    "sections": [
+      {
+        "title": "A second venture followed the first sale",
+        "text": "In the 2017 interview, Paigen says he began Chaco in 1989 and grew it before selling to Wolverine. The current Tread Labs history dates that separate company to 2015. Together, the accounts establish a founder returning to a product area with a different business. The profile does not adopt the interview’s medical or effectiveness claims. It uses the source for the sequence of ventures and the practical work of building another organization.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The founder described operating challenges directly",
+        "text": "Paigen’s interview discusses selling a product online, managing supply and minimum orders, keeping up with marketing systems and building a team. These are specific business tasks rather than a generic claim that experience made the new venture easy. His answers are first-person evidence of what he considered difficult at that time. They are not an independent evaluation of the company or a prediction that another founder would face the same constraints.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "The later sale has its own documented boundary",
+        "text": "Tread Labs now says Nathan Isaacson and Joe Rusckowski acquired the business in 2025. Paigen’s own post identifies November 1 as the handover and describes a transition period. That source explains his stated priorities around continuity of people and products. It does not establish that he remains the current owner or executive after the transition. Keeping this event separate from the earlier Chaco sale gives the biography a clear sequence without estimating personal proceeds or inferring indefinite control.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Attribute the 2017 operating account to Paigen.",
+      "Separate Chaco, Tread Labs and their sales.",
+      "Use the 2025 handover to qualify old owner and executive descriptions."
+    ],
+    "sources": [
+      {
+        "title": "Chaco and Tread Labs — Current company history",
+        "url": "https://treadlabs.com/pages/about-us"
+      },
+      {
+        "title": "Chaco and Tread Labs — Founder’s transition account (2025)",
+        "url": "https://www.linkedin.com/posts/mpaigen_on-november-1-2025-i-passed-the-tread-labs-activity-7396907936234557441-bq-U"
+      },
+      {
+        "title": "Chaco and Tread Labs — Founder interview (2017)",
+        "url": "https://bostonvoyager.com/interview/meet-mark-paigen-tread-labs-stoneham/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
