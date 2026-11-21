@@ -4316,5 +4316,1205 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "owner-decision-calendar-for-advisers",
+    "title": "Build an owner decision calendar before the next advisory meeting",
+    "description": "Map business decisions, dependencies and genuine deadlines so an adviser can prioritize the work.",
+    "intro": "An adviser can respond more usefully when a business owner explains what is about to change and when a decision is needed. A decision calendar is different from a filing calendar: it starts with transactions, people and operating plans. Use it to organize a conversation without assuming a particular tax outcome or inventing a legal deadline from a preferred business date.",
+    "sections": [
+      {
+        "title": "List decisions in concrete terms",
+        "text": "Describe each proposed action, such as buying equipment, admitting an owner, opening a location or changing a compensation arrangement. Include the business reason and current status. Separate an idea from an approved commitment. An adviser needs to know whether terms remain flexible or whether the owner has already signed an agreement that limits available choices."
+      },
+      {
+        "title": "Identify the real timing constraints",
+        "text": "Record proposed business dates, third-party deadlines and dates verified by the relevant professional. Label each source. A preferred closing date is not necessarily a tax election deadline, and a filing extension does not by itself resolve a transaction decision. Ask the appropriate adviser to identify applicable requirements instead of filling the calendar with unverified dates."
+      },
+      {
+        "title": "Map dependencies and missing facts",
+        "text": "For each decision, list the financial records, valuations, contracts or professional input still needed. Assign an internal owner to obtain them. A fictional acquisition discussion may require purchase terms, financing assumptions and current entity information before alternatives can be compared. Mark what is unknown rather than allowing a blank field to become an assumed fact."
+      },
+      {
+        "title": "Distinguish scenarios from commitments",
+        "text": "Give the adviser a small number of realistic options and the assumptions behind them. Record which variables can still change and who controls them. Avoid asking for a precise outcome from a scenario whose price, timing or ownership split is unresolved. Preserve earlier versions so a later recommendation can be traced to the facts reviewed."
+      },
+      {
+        "title": "Turn the meeting into owned actions",
+        "text": "After discussion, record the next task, responsible person, expected output and review date. Separate advice from implementation and confirm who performs each step. A recommendation is not complete merely because it appears in meeting notes. Follow up on dependencies before the owner relies on a date or proceeds with an irreversible business action."
+      },
+      {
+        "title": "Test the calendar with one decision",
+        "text": "Suppose an owner wants a purchase completed before a supplier quotation expires. The calendar should show that commercial date, the financing decision, the records still needed and the adviser review separately. If financing is delayed, update the dependency rather than quietly moving every date. Ask a colleague to identify the next action from the calendar alone; if they cannot, the entry needs a clearer owner or a more specific task."
+      }
+    ],
+    "checklist": [
+      "Concrete decisions and current status",
+      "Verified timing sources",
+      "Missing facts and responsible owners",
+      "Clearly labeled scenarios",
+      "Advice-to-implementation action list"
+    ],
+    "questions": [
+      "What remains flexible?",
+      "Which dates were professionally verified?",
+      "Who must act before the decision can be made?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "adviser-document-request-tracker",
+    "title": "Manage adviser document requests without losing versions or owners",
+    "description": "Use a request tracker to connect each question with the correct record, period, status and responsible person.",
+    "intro": "Document requests can become difficult to manage when several people send files through different channels. A concise tracker helps the owner provide complete, current information without repeatedly sending the same material. It should show what was requested, what was delivered and what remains unresolved. It is a coordination tool, not evidence that the adviser has accepted a file or finished reviewing it.",
+    "sections": [
+      {
+        "title": "Capture the request precisely",
+        "text": "Record the adviser’s question, requested document, entity and period. Keep a reference to the original request so paraphrasing does not change its meaning. If the wording is unclear, ask before gathering a large file set. A request for a year-end balance is different from one for monthly activity or supporting source documents."
+      },
+      {
+        "title": "Assign an internal owner",
+        "text": "Name the person who can obtain the record and the person who may approve sharing it. State the due date agreed for the handoff. Avoid making the business owner the default bottleneck for every item. If an external bookkeeper or administrator holds the information, record that dependency and the next follow-up rather than marking the request complete."
+      },
+      {
+        "title": "Control the version and period",
+        "text": "Use a stable filename or identifier and a clear as-of date. Distinguish drafts, final reports and later corrections. For a fictional December balance sheet, a January export may contain entries posted after the first version. Tell the adviser which version supersedes the earlier file and retain a short explanation of material changes."
+      },
+      {
+        "title": "Use the approved transfer channel",
+        "text": "Follow the adviser’s designated secure process and the business’s access controls. Do not put passwords, full account numbers or unnecessary personal data in a shared tracker. Record the delivery reference without copying sensitive contents into the status sheet. A file being uploaded does not establish that the intended reviewer could open or use it."
+      },
+      {
+        "title": "Close the loop with evidence",
+        "text": "Separate sent, received, accepted and further-question statuses. Record missing pages, failed exports or questions requiring explanation. At the end of the engagement, preserve the final index of supplied information and unresolved items under the appropriate retention process. The tracker should make the current state understandable to a colleague who did not participate in every email."
+      },
+      {
+        "title": "Check a sample request end to end",
+        "text": "Choose one completed request and trace it from the original question to the file the adviser used. Confirm the entity, period, version, transfer reference and any follow-up. If two employees supplied different exports, document which one was accepted and why. This small test can reveal whether the tracker records actual resolution or merely celebrates that someone sent an attachment. Improve the fields before adding many more requests."
+      }
+    ],
+    "checklist": [
+      "Exact request, entity and period",
+      "Named document owner",
+      "Version and supersession notes",
+      "Approved transfer reference",
+      "Received and unresolved statuses"
+    ],
+    "questions": [
+      "Does the file answer the actual request?",
+      "Which version should the adviser use?",
+      "Has the reviewer accepted it or merely received it?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "tax-payment-confirmation-handoff",
+    "title": "Prepare a tax-payment confirmation file for your preparer",
+    "description": "Separate scheduled payments, settled payments, credits and the tax periods they were intended to cover.",
+    "intro": "A bank withdrawal or calendar reminder may not provide all the information a preparer needs to understand a tax payment. Build a confirmation file that links the payment system, entity, period and settlement evidence. This guide does not calculate estimated payments, determine where a payment should be applied or establish a filing deadline. Ask the responsible tax professional to resolve those questions.",
+    "sections": [
+      {
+        "title": "List the intended payment details",
+        "text": "Record the taxpayer or entity, agency, tax type, intended period, amount and requested payment date. Use the actual confirmation where available rather than relying on memory. Identify who initiated the payment and which adviser supplied instructions. A personal payment and an entity payment should not be combined merely because both came from an account the owner controls."
+      },
+      {
+        "title": "Distinguish scheduled from settled",
+        "text": "Keep a clear status for planned, scheduled, processed, rejected or cancelled payments. Connect the payment-system confirmation with the bank settlement record. A fictional $5,000 payment scheduled for next week is not the same as $5,000 already withdrawn. Tell the preparer if the bank record and confirmation disagree rather than choosing the more convenient status."
+      },
+      {
+        "title": "Identify corrections and other credits",
+        "text": "Record reversals, duplicate payments, refunds and notices that may affect the account. Keep each event tied to the original reference. Do not assume a refund or prior-year overpayment was applied exactly as expected. Supply the available evidence and ask the professional to determine how it should be reflected in the return or account review."
+      },
+      {
+        "title": "Reconcile totals without losing detail",
+        "text": "Summarize payments by taxpayer, agency and period while retaining the transaction-level file. Explain transfers between owner and business accounts separately from payments to an agency. A transfer made to fund a tax payment is not proof that the agency received it. Preserve the references that allow the preparer to investigate an unexplained difference."
+      },
+      {
+        "title": "Use the file for a specific review",
+        "text": "Ask the preparer to confirm which payments and credits have been included and which require follow-up. Record the next action and owner for unresolved items. Keep subsequent confirmations with the same file. Avoid changing a payment’s period in your notes solely to make a return balance agree; the evidence and professional review should drive the conclusion."
+      },
+      {
+        "title": "Investigate a mismatch without rewriting history",
+        "text": "If a confirmation shows a requested payment but the bank account shows no settlement, keep both records and the relevant dates. Ask the payment owner to check the status through the approved channel and give the preparer the result. Do not create a replacement payment solely to make the records match without professional instructions, because the original may still process. Record who decides the next step and preserve the final confirmation."
+      }
+    ],
+    "checklist": [
+      "Taxpayer, agency and intended period",
+      "Payment-system and bank evidence",
+      "Scheduled-versus-settled status",
+      "Corrections, refunds and credit references",
+      "Preparer follow-up list"
+    ],
+    "questions": [
+      "Did the payment actually settle?",
+      "Was it made for the intended taxpayer and period?",
+      "Which credits still need confirmation?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "prior-return-question-log",
+    "title": "Build a prior-return question log before requesting a review",
+    "description": "Record unexplained amounts, missing schedules and factual questions without assuming a filed return is wrong.",
+    "intro": "An owner reviewing a prior return may notice an amount that does not match their recollection or current books. That difference is a question to investigate, not automatic evidence of an error or a refund opportunity. A focused question log gives the reviewing professional the return version, source records and context needed to assess the issue. Keep conclusions and possible next steps separate from observations.",
+    "sections": [
+      {
+        "title": "Identify the exact return version",
+        "text": "Record the taxpayer, tax year, filing status where relevant, and whether the copy is original, amended or an unfiled draft. Locate the complete return and available filing acceptance records. A page copied from an email attachment may not be the final filed version. Ask the preparer for clarification if the status is uncertain."
+      },
+      {
+        "title": "State the observation neutrally",
+        "text": "Refer to the page, form, line or schedule and explain what you do not understand. Avoid labels such as incorrect deduction before the professional has reviewed the facts. A fictional amount that differs from a bookkeeping total may reflect timing, classification or other adjustments. The log should make the question easy to locate without prejudging its answer."
+      },
+      {
+        "title": "Gather supporting facts",
+        "text": "Link the relevant ledger, statement, invoice or contemporaneous explanation. State the period and version of each record. Identify missing material and who may hold it. Do not recreate historical evidence as though it were original. A current explanation can be useful, but it should be dated and clearly distinguished from documents created at the time."
+      },
+      {
+        "title": "Ask for the reconciliation",
+        "text": "Request an explanation of how the return amount connects to the supplied records and any adjustments. If another preparer performed the work, identify available workpapers or correspondence without assuming the new reviewer can obtain everything immediately. Keep separate questions for accounting differences, factual omissions and issues requiring legal or tax interpretation."
+      },
+      {
+        "title": "Record the professional conclusion",
+        "text": "Document what was explained, what remains open and what action the professional recommends. Ask who is responsible for any additional research, correction or communication. Do not treat the existence of a question log as authorization to amend a return or as a promise of savings. Preserve the final explanation with the records so the same uncertainty does not recur each year."
+      },
+      {
+        "title": "Separate a question from a proposed remedy",
+        "text": "An owner might ask why a property cost appears in one schedule but not in the expense total they expected. Record that question, the purchase documents and the exact return reference. Let the reviewer explain classification and timing before discussing a remedy. If the explanation resolves the concern, close the question with that explanation; a useful review does not need to produce an amendment in order to have value."
+      }
+    ],
+    "checklist": [
+      "Complete return and filing status",
+      "Precise page or line references",
+      "Supporting records and gaps",
+      "Requested reconciliations",
+      "Professional conclusions and next actions"
+    ],
+    "questions": [
+      "Is this the filed version?",
+      "Could the difference be explained by an adjustment?",
+      "What evidence is needed before deciding on any correction?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "business-entity-map-for-advisers",
+    "title": "Prepare a business-entity map for an advisory conversation",
+    "description": "Connect entities, owners, activities, accounts and professional contacts in one factual handoff.",
+    "intro": "A business owner may discuss several companies as one operation, while advisers need to understand the separate entities and relationships. An entity map organizes known facts without deciding tax classification, legal ownership or consolidation treatment. Use current documents and label uncertainty. The map should help the right professionals ask better questions, not replace legal records or turn informal assumptions into authoritative facts.",
+    "sections": [
+      {
+        "title": "List each entity separately",
+        "text": "Record the legal name, formation jurisdiction, identifying reference and principal activity. Keep trade names distinct from legal entities. Identify inactive or recently formed entities that may still have accounts or obligations. Do not omit an entity simply because it had little revenue, and avoid assuming that a name used on a website matches the legal contracting party."
+      },
+      {
+        "title": "Connect ownership evidence",
+        "text": "Record the owners and percentages shown in the current documents, with effective dates and source references. Identify pending changes separately. If records disagree, state the conflict and ask the appropriate professional to resolve it. A historical tax schedule or verbal description may be useful evidence but should not silently override more recent governing documents."
+      },
+      {
+        "title": "Map operational relationships",
+        "text": "Describe which entity employs staff, signs customer agreements, holds property, borrows money or pays shared costs, based on actual records. Distinguish intended arrangements from current practice. For a fictional two-company business, an adviser needs to know if one company pays expenses for the other, not merely that the companies share an owner and an office."
+      },
+      {
+        "title": "Identify accounts and advisers",
+        "text": "List relevant accounting systems, bank relationships and professional contacts using safe references rather than credentials. Name the person who can obtain records for each entity. Note which accountant, attorney, payroll provider or administrator handles which scope. A contact list should explain responsibility rather than simply collecting names without a task connection."
+      },
+      {
+        "title": "Review changes before advice is implemented",
+        "text": "Ask the adviser to confirm what additional documents or specialist input are needed. Update the map when ownership, activities or account responsibilities change. Keep version dates and unresolved questions. Do not treat the map itself as approval to move funds, sign for an entity or adopt a particular tax structure; those decisions require the applicable professional process."
+      },
+      {
+        "title": "Walk through a real customer transaction",
+        "text": "Select one recent customer transaction and identify which entity signed, delivered the service, invoiced and received payment. Compare that chain with the entity map. If the parties differ, record the actual evidence and ask the advisers what it means. This practical walk-through often exposes assumptions hidden by a shared brand name. It should clarify facts, not prompt staff to alter historical documents to make the map look simpler."
+      }
+    ],
+    "checklist": [
+      "Legal entities and trade names",
+      "Dated ownership evidence",
+      "Actual operating relationships",
+      "Safe account and adviser references",
+      "Versioned changes and unresolved questions"
+    ],
+    "questions": [
+      "Which entity actually performs each activity?",
+      "What ownership facts remain uncertain?",
+      "Who can supply the supporting documents?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "ownership-change-fact-timeline",
+    "title": "Build an ownership-change fact timeline for professional review",
+    "description": "Organize agreements, approvals, payments and effective dates before asking advisers to analyze an ownership change.",
+    "intro": "An ownership change can involve negotiations, signed documents, payments and operational changes on different dates. A factual timeline helps advisers distinguish what happened from what the parties intended. This guide does not determine the legal or tax effective date, value an interest or recommend transaction terms. Supply the evidence and ask the relevant professionals to evaluate its consequences.",
+    "sections": [
+      {
+        "title": "Identify the proposed or completed change",
+        "text": "Describe the parties, affected entity or asset, interest involved and current transaction status. Separate a proposed transfer from one the parties believe is complete. Record who is authorized to discuss the matter with advisers. Avoid calling every payment a purchase price or distribution before the governing documents and purpose have been reviewed."
+      },
+      {
+        "title": "Put documents on a dated timeline",
+        "text": "List offers, agreements, amendments, approvals and closing records with source references. Keep signing dates, stated effective dates and actual performance dates in separate fields. A fictional agreement signed in March but describing a January date requires professional review; copying one date throughout the file can hide a material question rather than resolve it."
+      },
+      {
+        "title": "Trace payments and other consideration",
+        "text": "Link bank evidence, notes, asset transfers and other items described by the parties. Identify unpaid or contingent amounts and the assumptions behind them. Keep personal and entity cash movements separate. Do not assume that every transfer connected in time belongs to the same transaction without confirming its documented purpose."
+      },
+      {
+        "title": "Record operational changes",
+        "text": "Note when control of accounts, management duties, payroll, customer relationships or distributions changed in practice. Use contemporaneous evidence where available. These facts may matter to the professional analysis, but they do not by themselves settle ownership or tax treatment. Preserve disagreements rather than smoothing them into a single convenient story."
+      },
+      {
+        "title": "Request a coordinated review",
+        "text": "Give the timeline to the relevant legal and tax advisers and identify questions requiring agreement between them. Ask who handles filings, notices, accounting entries and document corrections if needed. Keep advice linked to the version of facts reviewed. A completed timeline is preparation for analysis, not evidence that all required steps have already occurred."
+      },
+      {
+        "title": "Use one event as an evidence test",
+        "text": "Pick a claimed closing or transfer event and locate its source document, approval and related payment. If those records show different dates, preserve each date with its meaning. Ask the professional which dates matter for the requested analysis. A timeline should allow the reviewer to see the disagreement quickly, including who supplied each fact. Replacing all dates with the one management prefers can obscure the issue that needs advice."
+      }
+    ],
+    "checklist": [
+      "Parties and transaction status",
+      "Distinct signing and effective dates",
+      "Payment and consideration evidence",
+      "Actual operational-change dates",
+      "Coordinated adviser action list"
+    ],
+    "questions": [
+      "Which dates differ and why?",
+      "What remains unpaid or contingent?",
+      "Who must coordinate the legal, accounting and tax steps?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "related-business-transaction-explanation-file",
+    "title": "Explain transactions between related businesses before year-end review",
+    "description": "Document the purpose, parties, approvals and settlement of related-business transactions for advisers.",
+    "intro": "A transfer between businesses with common ownership can have several possible purposes. The bank description alone may not explain it. Prepare a transaction file that preserves the business facts and supporting records, then ask advisers to determine appropriate treatment. This guide does not establish a loan, expense allocation, distribution or other classification merely because the parties use that label informally.",
+    "sections": [
+      {
+        "title": "Identify both sides of the transaction",
+        "text": "Record the legal parties, dates, amounts and accounts using safe references. Link the payment evidence and the corresponding records in each business. A trade name is not enough if several entities operate under it. Confirm which entity received a benefit or obligation rather than assuming it was the one that moved the money."
+      },
+      {
+        "title": "Describe the contemporaneous purpose",
+        "text": "Gather agreements, invoices, approval notes or other records explaining why the transaction occurred. Distinguish an explanation written now from evidence created at the time. If the purpose is uncertain, mark it as an open question. Avoid inventing a contract or changing an old description to make current books appear more orderly."
+      },
+      {
+        "title": "Reconcile amounts and timing",
+        "text": "Compare the entries on both sides and explain currency, timing or netting differences. For a fictional $8,000 payment recorded by one company and $7,500 by another, identify the missing $500 with evidence rather than inserting a balancing amount. A clean reconciliation helps advisers see the issue; it does not determine the correct classification."
+      },
+      {
+        "title": "Identify approvals and outstanding terms",
+        "text": "Record who authorized the transaction and any stated repayment, pricing or service terms. Note unpaid balances and unresolved disagreements. Ask the appropriate adviser what documentation or review is needed for the relationship. Do not assume common ownership eliminates the need to understand separate legal parties and their actual obligations."
+      },
+      {
+        "title": "Close the professional review",
+        "text": "Have advisers explain required entries, records or next actions based on the facts. Assign an owner and due date for each item. Preserve both the original evidence and the reviewed outcome. Update the recurring process if the same type of transaction occurs regularly, so next year’s file does not depend on reconstructing the owner’s memory."
+      },
+      {
+        "title": "Trace a shared-cost example",
+        "text": "If one related business paid an outside supplier for work used by two businesses, provide the supplier invoice, payment, description of who benefited and any contemporaneous arrangement. Show what each ledger currently records. Do not manufacture an allocation percentage merely to split the total evenly. Ask the advisers what facts support the appropriate approach, then retain the approved calculation and explanation with both businesses’ records for consistent follow-through."
+      }
+    ],
+    "checklist": [
+      "Legal parties and payment references",
+      "Contemporaneous purpose evidence",
+      "Two-sided reconciliation",
+      "Approvals and unresolved terms",
+      "Reviewed entries and future process"
+    ],
+    "questions": [
+      "Do both businesses record the same event?",
+      "What evidence explains its purpose?",
+      "Which conclusions still require professional review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "owner-funding-and-withdrawal-records",
+    "title": "Organize owner funding and withdrawals for the accountant",
+    "description": "Separate owner-to-business cash movements from business activity and preserve their documented purpose.",
+    "intro": "Owners often move money between personal and business accounts to fund operations or take cash out. Those movements need clear records even when the owner controls both accounts. A funding-and-withdrawal file should show the parties, timing and stated purpose without deciding the legal or tax classification. Ask the accountant and other relevant advisers to review treatment using the applicable entity facts.",
+    "sections": [
+      {
+        "title": "Collect transaction-level evidence",
+        "text": "List each movement with date, amount, sending and receiving party, and safe account references. Include bank confirmations and any associated documentation. Keep cash movements separate from journal entries that do not move cash. A monthly net amount can hide funding and withdrawals that need different explanations, so preserve the detail behind any summary."
+      },
+      {
+        "title": "Record the stated purpose accurately",
+        "text": "Use contemporaneous notes, agreements or approvals where available. Distinguish temporary funding, payment of an expense, a planned withdrawal and other stated purposes without treating the label as a professional conclusion. If the owner is unsure, record the question. Do not prepare backdated evidence to replace missing documentation."
+      },
+      {
+        "title": "Separate direct personal payments",
+        "text": "Identify business-related items paid from a personal account and personal items paid from a business account for professional review. Link the underlying invoice or receipt and explain the context. A fictional owner paying a $600 supplier invoice personally should provide both the supplier evidence and payment proof, not only an unexplained entry titled owner contribution."
+      },
+      {
+        "title": "Reconcile the accountant’s schedules",
+        "text": "Compare the transaction file with the relevant ledger accounts and existing owner schedules. Identify timing differences, duplicates and omissions. If several owners are involved, keep their activity separate. A balance that matches the bank is useful, but it does not prove every movement was classified correctly or that all supporting terms were documented."
+      },
+      {
+        "title": "Request conclusions and a repeatable process",
+        "text": "Ask the accountant what additional facts are needed and how reviewed items should be recorded. Confirm who maintains the schedule and what evidence the owner should supply going forward. Keep professional conclusions linked to the supporting transaction. A consistent monthly process can reduce year-end reconstruction without implying that one treatment applies to every entity or owner."
+      },
+      {
+        "title": "Check one movement across all records",
+        "text": "Select a transfer from the owner and find the sending-account record, receiving-account record and ledger entry. Confirm that the dates and amount represent the same event. If money moved through an intermediate account, show that path without counting it twice. This check can reveal a missing entry or duplicated funding total. It cannot by itself decide whether the transaction is debt, capital or another category requiring professional review."
+      }
+    ],
+    "checklist": [
+      "Dated movements and parties",
+      "Documented purpose and open questions",
+      "Underlying personal-payment evidence",
+      "Ledger reconciliation by owner",
+      "Professional conclusions and ongoing owner"
+    ],
+    "questions": [
+      "Are net totals hiding different transactions?",
+      "Which purposes lack contemporaneous support?",
+      "What should be recorded differently next month?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "balance-sheet-support-package",
+    "title": "Build a balance-sheet support package an adviser can follow",
+    "description": "Connect account balances to reconciliations, schedules and unresolved questions at a clear reporting date.",
+    "intro": "A balance sheet can look complete while its account balances lack usable support. An adviser reviewing the business needs to understand what the numbers represent and which items remain uncertain. Build a support package with a consistent cutoff, clear references and named owners. This preparation does not turn internal records into an audit or establish that every balance is correct.",
+    "sections": [
+      {
+        "title": "Start with a fixed report version",
+        "text": "Save the balance sheet being reviewed with its date, entity, reporting basis and export time. Identify whether later entries can still change that period. A report printed today may differ from the version used last week. Preserve a clear baseline so the adviser’s questions and subsequent corrections refer to the same set of balances."
+      },
+      {
+        "title": "Assign support by account",
+        "text": "Map material accounts to the appropriate reconciliation or schedule and responsible preparer. Cash may connect to bank reconciliations; other balances may require transaction lists, agreements or calculations. Ask the adviser what support is relevant rather than collecting random documents. Keep the index readable enough that a new reviewer can locate the evidence without knowing the file creator."
+      },
+      {
+        "title": "Show how the schedule reaches the balance",
+        "text": "Include an opening amount, movements and closing amount where useful, with source references. A fictional prepaid balance of $12,000 needs more than a list of invoices totaling $20,000; the schedule should explain what was applied and what remains under review. Have the accountant determine the appropriate treatment instead of forcing a schedule to match by an unexplained plug."
+      },
+      {
+        "title": "Keep unresolved items visible",
+        "text": "List differences, old items and missing evidence separately with owners and follow-up dates. Distinguish a known timing issue from an amount whose nature is unknown. Do not remove an awkward balance from the package because it complicates the review. The adviser can prioritize more effectively when the uncertainty is explicit and connected to the account it affects."
+      },
+      {
+        "title": "Preserve the final review trail",
+        "text": "Link approved corrections to revised reports and retain the earlier version. Record who reviewed each schedule and what remains outstanding. Use the package again at the next close, updating evidence rather than rebuilding every file. A repeatable support process improves continuity when staff or advisers change and reduces reliance on verbal explanations."
+      },
+      {
+        "title": "Test a reviewer’s ability to follow the file",
+        "text": "Ask an authorized colleague to choose one balance and locate the report, schedule and underlying evidence without help from the preparer. Record where they became uncertain. A schedule may total correctly but still fail to explain what the balance represents. Improve labels, source references and exception notes rather than adding more unexplained tabs. The test supports usability; it does not replace the accountant’s substantive review of the balance."
+      }
+    ],
+    "checklist": [
+      "Fixed report version and cutoff",
+      "Account-to-support index",
+      "Transparent balance calculations",
+      "Owned unresolved-item log",
+      "Approved changes and review evidence"
+    ],
+    "questions": [
+      "Can a reviewer trace the schedule to the report?",
+      "Which old balances lack an explanation?",
+      "Was the report changed after review began?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "prepaid-cost-handoff-schedule",
+    "title": "Prepare a prepaid-cost schedule for accounting review",
+    "description": "Organize advance payments, coverage periods and changes without assuming when an expense is deductible.",
+    "intro": "Paying for a service in advance creates a recordkeeping question about what the payment covers and what remains at a reporting date. The accounting and tax conclusions depend on facts and applicable rules. Prepare a schedule that explains the commercial arrangement and payment history, then let the responsible professional determine treatment. Do not assume cash leaving the bank settles every reporting question.",
+    "sections": [
+      {
+        "title": "Identify the underlying purchase",
+        "text": "Record the supplier, agreement or invoice, service description and entity receiving the benefit. Link payment evidence separately. A bank memo may name a processor rather than the provider, so preserve the document explaining what was bought. Identify bundled items that may cover different periods or services instead of treating the whole invoice as one uniform cost."
+      },
+      {
+        "title": "Record coverage and delivery dates",
+        "text": "List stated start and end dates, deliverables and any conditions affecting service. Keep the dates from the actual agreement and note uncertainties. A fictional annual service paid in September may relate to a period different from the calendar year. The schedule should reveal that fact without choosing an expense or deduction method itself."
+      },
+      {
+        "title": "Track changes and recoveries",
+        "text": "Record cancellations, extensions, credits, additional purchases and refunds with dates and source references. Ask whether the provider changed the service period or only the payment schedule. A refund requested but not received should not disappear from the file. Preserve the connection between the original purchase and every subsequent adjustment."
+      },
+      {
+        "title": "Reconcile the recorded balance",
+        "text": "Compare the accounting schedule with the ledger and identify how current entries were calculated. Label provisional calculations clearly. Do not insert an unexplained adjustment to make the ending balance agree. Ask the accountant to review the allocation method and any differences between financial reporting and tax treatment before relying on the result."
+      },
+      {
+        "title": "Set a recurring review process",
+        "text": "Assign someone to add new advance payments and update service changes during the year. Review expiring items and old unexplained balances with the appropriate owner. Keep the final professional conclusion and calculation basis with the schedule so next year’s team can understand it. A current file is more useful than an annual list reconstructed solely from bank withdrawals."
+      },
+      {
+        "title": "Show a service change explicitly",
+        "text": "Suppose a provider extends a service period after an interruption and issues no new invoice. Keep the original invoice, the extension communication and the revised service dates together. Explain what the books currently reflect and ask the accountant whether an adjustment is needed. The absence of a new payment does not mean the underlying facts stayed unchanged. A useful schedule shows both the original arrangement and the later evidence."
+      }
+    ],
+    "checklist": [
+      "Supplier and purchase evidence",
+      "Actual service periods",
+      "Credits, changes and refunds",
+      "Ledger reconciliation and calculation basis",
+      "Professional review and update owner"
+    ],
+    "questions": [
+      "What period or deliverable does the payment cover?",
+      "Has the service changed since purchase?",
+      "Which treatment still needs the accountant’s review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "new-asset-document-handoff",
+    "title": "Create a new-asset document bundle before the return is prepared",
+    "description": "Collect purchase, financing, delivery and business-use facts for an accountant’s asset review.",
+    "intro": "A large purchase can arrive with an invoice, financing documents, delivery records and installation costs spread across several people. Bundle the facts before asking an accountant to determine asset classification or tax treatment. This guide does not choose a depreciation method, promise a deduction or determine an in-service date. It helps the professional identify the evidence and questions that matter.",
+    "sections": [
+      {
+        "title": "Identify the asset and acquiring party",
+        "text": "Record the item, model or serial reference, seller, buyer and intended business purpose. Distinguish one asset from a group purchase and identify the entity named on documents. Keep trade-in or replacement details visible. An owner’s description of equipment can be useful, but it should connect to the supplier records and the actual party making the purchase."
+      },
+      {
+        "title": "Gather the complete commercial documents",
+        "text": "Link the purchase agreement, itemized invoice, payment records and any credits or trade-in documents. Include separately billed delivery, installation or related work for review. Do not decide which components belong in a tax basis calculation merely by grouping them in a folder. The bundle should present complete facts so the accountant can apply the appropriate rules."
+      },
+      {
+        "title": "Document timing and readiness facts",
+        "text": "Record order, payment, delivery, installation and actual-use dates separately, with available evidence. A fictional machine delivered in December but installed later raises a question that should remain visible. Do not replace those dates with one convenient acquisition date or assume that paying the invoice establishes the date needed for every reporting purpose."
+      },
+      {
+        "title": "Explain financing and use",
+        "text": "Provide loan or lease documents and identify who is responsible for payments. Describe business and other use with supporting records where relevant. Avoid assuming that a financing label determines ownership or tax treatment. If several businesses use the item, explain the arrangement and ask advisers what additional documentation or allocation analysis is required."
+      },
+      {
+        "title": "Retain the reviewed asset record",
+        "text": "Ask the accountant to identify the final asset reference, approved cost components, treatment and records to maintain going forward. Connect later improvements, disposals or changes in use to that reference. Keep the original evidence rather than relying only on a line in a depreciation schedule. That link supports future questions when the asset is sold, replaced or moved."
+      },
+      {
+        "title": "Link additions discovered after delivery",
+        "text": "If staff later find a separate installation invoice or a supplier credit, connect it to the same asset record and tell the accountant when it was discovered. Do not create a second asset solely because another document arrived. Keep the professional’s resulting adjustment, if any, with the original bundle. This makes the asset history understandable when future questions concern cost, financing, location, improvements or disposal rather than only the initial purchase."
+      }
+    ],
+    "checklist": [
+      "Asset identity and acquiring entity",
+      "Itemized purchase and related costs",
+      "Distinct delivery, readiness and use dates",
+      "Financing and use facts",
+      "Reviewed asset reference and retained evidence"
+    ],
+    "questions": [
+      "Who acquired the asset?",
+      "What evidence explains when it was ready and used?",
+      "Which cost and treatment questions remain for review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "lender-forecast-assumptions-file",
+    "title": "Prepare a forecast assumptions file for a financing discussion",
+    "description": "Explain revenue, costs, working capital and timing assumptions behind a lender-facing forecast.",
+    "intro": "A financing forecast is easier to evaluate when its assumptions can be traced to actual business information. A polished spreadsheet alone does not establish that the business can achieve the projected results or meet financing terms. Prepare an assumptions file for the accountant, finance adviser and lender to review. Keep the distinction between historical fact, management judgment and a conditional scenario visible.",
+    "sections": [
+      {
+        "title": "Fix the purpose and forecast version",
+        "text": "Record the financing discussion, period, entities and version of the model. Identify whether the forecast describes the existing business, a proposed expansion or both. Preserve the date of the underlying actual results. A forecast built before a major customer change should not be presented later without explaining that the facts have moved."
+      },
+      {
+        "title": "Support the sales assumptions",
+        "text": "Connect projected sales to signed work, recurring customers, pipeline or other evidence, with clear status definitions. Separate price, volume and start-date assumptions. A fictional $100,000 proposed contract should not appear as committed revenue merely because management expects to win it. Label the scenario and identify the decision or evidence that would change its status."
+      },
+      {
+        "title": "Explain costs and capacity",
+        "text": "Show the staffing, materials, supplier pricing and operating capacity required by the sales plan. Record where estimates came from and who approved them. A higher sales forecast may require cash for hiring or inventory before the customer pays. Avoid increasing revenue while leaving every supporting cost unchanged without an operational explanation."
+      },
+      {
+        "title": "Connect profit to cash timing",
+        "text": "Document assumptions for customer collections, supplier payments, inventory and other material cash movements. Keep financing proceeds and repayments distinct from operating results. Ask the finance professional to review the model’s treatment of taxes, investments and existing debt. A profitable projection is not automatically a cash plan that supports every payment date."
+      },
+      {
+        "title": "Prepare questions and alternative cases",
+        "text": "Identify the assumptions that would materially change the result and show a small number of transparent scenarios. Do not present a stress case as a prediction. Record the lender’s requests and the person responsible for answering them. Keep the model, assumptions and supplied documents consistent so changes to one are reflected in the others."
+      },
+      {
+        "title": "Explain one forecast movement",
+        "text": "When a forecast month changes materially, identify whether the movement came from volume, price, timing, cost or a revised financing assumption. Preserve the earlier model rather than overwriting it without a note. A reviewer should be able to connect the change to new evidence or a deliberate management decision. This is especially important when a lender has already received a prior version and may reasonably ask why the figures differ."
+      }
+    ],
+    "checklist": [
+      "Purpose, version and actuals cutoff",
+      "Evidence-backed sales assumptions",
+      "Capacity and cost dependencies",
+      "Working-capital and financing timing",
+      "Sensitivity cases and response owners"
+    ],
+    "questions": [
+      "Which revenue is committed versus assumed?",
+      "What cash is needed before growth produces receipts?",
+      "Can a reviewer reproduce the key assumptions?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "loan-covenant-information-pack",
+    "title": "Organize loan-covenant information for qualified review",
+    "description": "Connect the loan documents, reporting periods and calculation inputs without interpreting covenant compliance yourself.",
+    "intro": "Loan agreements may require reports, certifications or calculations using definitions specific to the agreement. A business owner should not assume a familiar accounting ratio uses the same definition in every document. Prepare an information pack for the accountant and legal or finance adviser to review. This guide does not determine compliance, waive a requirement or interpret a lender’s rights.",
+    "sections": [
+      {
+        "title": "Collect the governing documents",
+        "text": "Keep the executed agreement, amendments, waivers and relevant correspondence together. Record the parties and effective dates. A summary from an earlier financing discussion may omit terms in the final document. Ask the qualified reviewer which version governs each reporting period and identify any missing pages or later changes before calculating figures."
+      },
+      {
+        "title": "List reporting items as questions",
+        "text": "Create a schedule of apparent reporting requirements, measurement dates and requested recipients, marking them for confirmation. Quote or reference the relevant section rather than paraphrasing it into a new obligation. Do not assume the due date for a financial statement is also the date for a certification or another required notice."
+      },
+      {
+        "title": "Map definitions to source records",
+        "text": "Ask the reviewer to identify the inputs and adjustments required by the actual definitions. Link them to financial statements and supporting schedules. A fictional debt-service calculation may require amounts that differ from ordinary profit or cash-flow lines. Keep the mapping visible instead of choosing whichever report produces the most favorable result."
+      },
+      {
+        "title": "Record uncertain or changing facts",
+        "text": "Identify proposed transactions, accounting changes or unusual items that may affect the review. Preserve the assumptions and ask whether further information is needed. Do not treat a verbal reassurance as a documented amendment or waiver. Route interpretation and lender communication through the people authorized to handle them."
+      },
+      {
+        "title": "Retain the approved submission trail",
+        "text": "Keep the final reviewed calculation, approval, submission evidence and lender response where appropriate. Assign an owner to monitor the next cycle and unresolved questions. A completed internal spreadsheet does not establish that a requirement was satisfied or accepted. The pack should make the process reviewable without substituting for professional judgment."
+      },
+      {
+        "title": "Keep a clear question for the reviewer",
+        "text": "If an agreement uses a defined earnings measure, identify the exact definition and ask how the financial-statement lines map to it. Do not substitute a similarly named dashboard measure or remove an unusual cost simply because the result looks more favorable. Present proposed adjustments separately with supporting evidence and let the authorized reviewer decide. Keep the final reviewed calculation and any lender response distinct from management’s preliminary analysis."
+      }
+    ],
+    "checklist": [
+      "Executed documents and amendments",
+      "Confirmed reporting schedule",
+      "Definition-to-source mapping",
+      "Uncertain items for review",
+      "Approved submission and response evidence"
+    ],
+    "questions": [
+      "Which agreement version applies?",
+      "Do the calculation definitions match the source reports?",
+      "Who is authorized to confirm and submit the result?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "book-tax-difference-question-register",
+    "title": "Prepare book-to-tax difference questions for your accountant",
+    "description": "Track explained adjustments and unresolved differences without treating book profit as taxable income.",
+    "intro": "Financial statements and tax returns can use different classifications, timing and calculations. An owner comparing them needs an explanation, not an assumption that one number is wrong. A question register connects visible differences to the accountant’s reconciliation and supporting facts. It should preserve professional conclusions while keeping unresolved items clear for the next review.",
+    "sections": [
+      {
+        "title": "Identify the two reports being compared",
+        "text": "Record the financial statement, tax return, entity, period and version. Confirm whether the financial statements were adjusted after the tax work began. Comparing different reporting dates or an unfiled return draft can create an apparent difference that is not the issue the owner intended to investigate. Keep the exact source references with each question."
+      },
+      {
+        "title": "Describe the difference before naming a cause",
+        "text": "State the amounts and where they appear, then explain the owner’s question in neutral language. Avoid labeling an item permanent, temporary, deductible or nondeductible before review. A fictional expense appearing in the ledger but not in the expected tax line may have been grouped elsewhere rather than omitted entirely."
+      },
+      {
+        "title": "Gather the relevant factual support",
+        "text": "Link invoices, agreements, asset schedules or other records that explain the business event. Identify management estimates and missing information. The accountant may need a different fact than the owner expects, so preserve the original documents instead of supplying only a summary designed to support one desired treatment."
+      },
+      {
+        "title": "Record the professional reconciliation",
+        "text": "Ask the accountant to explain the adjustment, its basis and whether any future record or follow-up is needed. Keep the explanation tied to the report version reviewed. Do not turn a conclusion for one entity or year into an automatic rule for every similar-looking item. Applicable facts and rules can differ."
+      },
+      {
+        "title": "Carry forward open matters deliberately",
+        "text": "Assign an owner and review date to unresolved questions. If an item affects a later year’s schedule, preserve the connection rather than rediscovering it during the next filing cycle. Use the register to improve the underlying bookkeeping and document collection process. It should support understanding, not serve as an owner-created replacement for the tax reconciliation."
+      },
+      {
+        "title": "Use the explanation in the next close",
+        "text": "Once the accountant explains a recurring difference, ask what records the bookkeeping team should maintain during the following year. The answer may be a better schedule or a clearer transaction description rather than a change in tax treatment. Record the task owner and retain the explanation. Do not give staff a broad rule that goes beyond the facts reviewed; a useful handoff states both the action and its limits."
+      }
+    ],
+    "checklist": [
+      "Exact financial and tax report versions",
+      "Neutral amount and line references",
+      "Underlying business-event evidence",
+      "Accountant’s explanation and basis",
+      "Owned carryforward questions"
+    ],
+    "questions": [
+      "Are the reports for the same entity and period?",
+      "Could the amount be presented elsewhere?",
+      "What fact is missing before treatment can be explained?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "multi-state-business-activity-fact-pack",
+    "title": "Build a multi-state activity fact pack before asking where to file",
+    "description": "Collect locations, people, property and sales facts for a qualified state-tax review.",
+    "intro": "A business can create activity in several states through employees, inventory, services, sales or other arrangements. Filing and registration conclusions require the relevant facts and current rules. Prepare a factual activity pack before asking a qualified adviser to assess the obligations. This guide does not set a threshold, determine nexus or conclude that a business must or need not file anywhere.",
+    "sections": [
+      {
+        "title": "Map activity by location and date",
+        "text": "List offices, stores, warehouses, inventory locations and other physical activity the business knows about. Record when each activity began or ended and identify the legal entity involved. Keep proposed expansion separate from completed activity. A mailing address or customer address alone may not explain where the underlying business work occurred."
+      },
+      {
+        "title": "Document people and services",
+        "text": "Record employee work locations, travel, contractors and services performed, using appropriate privacy controls. Explain the source of the information and uncertain periods. Do not assume payroll setup, a home address or an occasional trip answers every state-tax question. Give the adviser enough detail to identify which facts need further review."
+      },
+      {
+        "title": "Prepare sales and customer data",
+        "text": "Provide the reports requested by the adviser with clear definitions, periods and entity identifiers. Explain whether addresses represent billing, shipping or another field. A fictional sales report assigning every customer to its headquarters may not show where products went or services were used. Preserve the raw fields needed for the professional’s analysis."
+      },
+      {
+        "title": "Include registrations and prior advice",
+        "text": "Collect existing filings, account notices, registration documents and relevant prior professional conclusions. State the period and facts those conclusions covered. Do not assume an older answer remains applicable after a new warehouse, employee or sales channel is added. Identify changes explicitly so the reviewer does not have to infer them from unrelated records."
+      },
+      {
+        "title": "Request an owned action plan",
+        "text": "Ask the adviser to identify conclusions, remaining questions, needed registrations or filings, and who will complete each step. Record deadlines only after they are verified for the actual situation. Maintain the activity pack as operations change. A current fact file can make later reviews more efficient without promising that the result will stay the same."
+      },
+      {
+        "title": "Test location data before analysis",
+        "text": "Choose a sample transaction or work period and trace the location shown in the report to its underlying source. A shipping address, billing address and employee work location can answer different questions. If the system stores only one of them, disclose that limitation to the adviser instead of relabeling the field. Good analysis begins with data that honestly describes what it measures and where further factual work is still needed."
+      }
+    ],
+    "checklist": [
+      "Dated physical-activity map",
+      "People and service-location facts",
+      "Defined sales data fields",
+      "Existing registrations and prior advice",
+      "Qualified conclusions and action owners"
+    ],
+    "questions": [
+      "Where did activity actually occur?",
+      "Which facts changed since the last review?",
+      "What information does the adviser still need?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "remote-worker-location-records",
+    "title": "Prepare remote-worker location records for professional review",
+    "description": "Organize actual work locations and changes before payroll, tax or legal advisers assess obligations.",
+    "intro": "Remote work can involve a home address, temporary travel and actual work locations that do not match payroll records. Prepare a dated factual history for the appropriate payroll, tax and legal advisers. This guide does not determine withholding, employment rights, tax residence or registration requirements. It helps the business avoid asking professionals to make those decisions from incomplete or contradictory information.",
+    "sections": [
+      {
+        "title": "Define the reporting purpose",
+        "text": "Record which professional requested the information, the employee population and period involved. Ask what location detail is needed for that review. Avoid collecting more personal information than necessary. A payroll correction, a proposed relocation and a broader state-tax review may require different facts, so the file should not assume one format answers every question."
+      },
+      {
+        "title": "Record actual location changes",
+        "text": "Use the business’s approved process to document where work occurred and relevant start and end dates. Distinguish permanent changes, temporary assignments and ordinary travel as facts for review. Keep the source and confirmation date. Do not replace uncertainty with a guessed location based only on an email signature or a current mailing address."
+      },
+      {
+        "title": "Connect employment and payroll records",
+        "text": "Identify the employing entity, payroll provider and the records currently used for the individual. Preserve prior setup and later changes rather than overwriting history. A fictional worker moving midyear may have several relevant periods, and the adviser needs to know when the business learned of the move as well as when it occurred."
+      },
+      {
+        "title": "List unresolved questions explicitly",
+        "text": "Highlight inconsistent dates, missing confirmations and situations involving more than one location. Ask the qualified advisers what additional evidence or correction process is needed. Do not change withholding or filings solely because a manager offers an informal opinion. Keep professional instructions tied to the facts reviewed and the person authorized to implement them."
+      },
+      {
+        "title": "Maintain a controlled handoff",
+        "text": "Share the file through approved channels with access limited to the people who need it. Record completed payroll or administrative actions separately from proposed ones. Set a process for future location changes so records remain current. A careful handoff supports review, but it is not a conclusion that every obligation has been satisfied."
+      },
+      {
+        "title": "Preserve a correction trail",
+        "text": "If an employee later corrects an earlier work-location report, retain the original, the correction date and the confirmed factual change under the appropriate privacy process. Tell the relevant professional which period may be affected. Avoid silently updating the current address and assuming the historical record is repaired. A dated correction trail lets payroll and advisers identify what needs review without making unsupported assumptions about the legal or tax consequence."
+      }
+    ],
+    "checklist": [
+      "Defined review population and period",
+      "Dated actual-location history",
+      "Employing entity and payroll references",
+      "Conflicts and missing facts",
+      "Professional instructions and implementation status"
+    ],
+    "questions": [
+      "Does payroll reflect the actual reviewed facts?",
+      "Which dates are uncertain?",
+      "Who is authorized to implement the adviser’s instructions?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "retirement-plan-contribution-handoff",
+    "title": "Prepare a retirement-plan contribution record for the adviser",
+    "description": "Connect plan records, payroll, payments and administrator confirmations before professional review.",
+    "intro": "Retirement-plan discussions can become confusing when payroll deductions, employer amounts, bank payments and administrator records use different labels or dates. Prepare a contribution handoff file that preserves those distinctions. This guide does not calculate a contribution limit, recommend a plan or determine deductibility. The plan administrator and qualified advisers should confirm the treatment and any required action.",
+    "sections": [
+      {
+        "title": "Identify the plan and parties",
+        "text": "Record the plan name, sponsoring entity, administrator, payroll provider and professionals involved. Link current plan documents and amendments through the approved process. Do not assume a plan nickname describes its legal terms. Identify who can answer questions about eligibility, contribution categories and records without exposing participant information to people who do not need it."
+      },
+      {
+        "title": "Separate contribution categories",
+        "text": "List the categories shown in the actual plan and payroll records, using their original labels. Distinguish employee deductions, employer amounts and other transactions for review. Avoid combining categories merely because they ultimately reach the same account. A summary can help, but the administrator may need the underlying detail to explain an apparent difference."
+      },
+      {
+        "title": "Connect payroll and payment evidence",
+        "text": "Match payroll reports, bank movements and administrator confirmations by date and reference. A payroll deduction recorded in the system does not itself establish when funds reached the plan. Record rejected payments, corrections or pending items separately. For a fictional $2,000 deduction total and a $1,800 confirmed receipt, identify the $200 difference rather than assuming it is an allowed adjustment."
+      },
+      {
+        "title": "Document changes and open questions",
+        "text": "Note new participants, terminations, compensation corrections or plan changes relevant to the requested review. Provide the administrator with the facts and ask what else is needed. Do not infer contribution limits or required deadlines from a previous year’s treatment. Keep professional guidance tied to the current plan, period and participant circumstances."
+      },
+      {
+        "title": "Retain a reviewed reconciliation",
+        "text": "Ask the appropriate parties to confirm the final totals, unresolved items and next actions. Record who will make any correction and how completion will be evidenced. Preserve the detailed reconciliation under the business’s privacy and retention procedures. The objective is a reliable handoff, not an owner-created substitute for plan administration or professional compliance review."
+      },
+      {
+        "title": "Check one period through the full chain",
+        "text": "Select a payroll period and trace the approved deductions and employer amounts through payment records to the administrator’s confirmation. Record date differences rather than treating them as errors automatically. If a contribution was split across payments, link all references without duplicating the total. Ask the responsible professionals to review unresolved timing or allocation questions. The exercise tests whether the handoff is complete; it does not establish compliance from arithmetic alone."
+      }
+    ],
+    "checklist": [
+      "Plan and responsible-party references",
+      "Separate transaction categories",
+      "Payroll-to-payment-to-administrator links",
+      "Changes and unresolved differences",
+      "Reviewed totals and correction owners"
+    ],
+    "questions": [
+      "Do deductions match confirmed plan receipts?",
+      "Which category does each payment represent?",
+      "Who must confirm any required correction?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "business-giving-record-review",
+    "title": "Organize business giving records before asking about tax treatment",
+    "description": "Document recipients, payments, goods, acknowledgements and business context for professional review.",
+    "intro": "A payment described as a donation, sponsorship or community contribution can involve different facts. The label in a bank feed does not determine its tax treatment. Prepare a factual file showing what was given, to whom, why and what was received in return. Ask the tax professional to evaluate the arrangement and any supporting-document requirements rather than assuming every community payment produces a deduction.",
+    "sections": [
+      {
+        "title": "Identify the payer and recipient",
+        "text": "Record the entity making the payment and the recipient’s exact name and contact information. Link the request, agreement or other contemporaneous record. Do not substitute a fundraising event’s marketing name for the legal recipient without checking. If the owner paid personally for a business-related purpose, preserve that fact separately rather than relabeling the payer in the file."
+      },
+      {
+        "title": "Describe the contribution accurately",
+        "text": "List cash, property, services or other support with dates and available evidence. Keep a bank payment, donated inventory and staff time distinct. Avoid assigning a tax value or deduction amount simply because an internal estimate exists. Identify who can supply cost records, condition details or other information the professional requests."
+      },
+      {
+        "title": "Record benefits or obligations",
+        "text": "Document tickets, advertising, goods, services or other benefits connected with the arrangement. Include the relevant agreement or event materials. A fictional $1,000 sponsorship that includes promotional placement should not be presented as an unexplained gift with no other context. The adviser needs the actual exchange, not a label chosen to obtain a preferred result."
+      },
+      {
+        "title": "Collect existing acknowledgements",
+        "text": "Keep receipts, recipient correspondence and other supporting records already supplied. Ask the professional whether additional evidence is needed for the particular facts. Do not manufacture or backdate an acknowledgement to fill a gap. If a document is missing, record the request and the responsible follow-up owner."
+      },
+      {
+        "title": "Reconcile and request a conclusion",
+        "text": "Match the giving file with payments, inventory movements and ledger entries. Ask the tax professional to explain treatment, documentation and any further action. Preserve that conclusion with the records. Improve the approval process for future contributions so the business records the purpose and associated benefits when the decision is made."
+      },
+      {
+        "title": "Clarify a mixed-purpose arrangement",
+        "text": "If a community payment includes event participation and promotional benefits, preserve the package description and any separate values provided by the recipient. Explain which staff attended or what exposure was supplied only where relevant to the professional’s request. Do not divide the amount into tax categories using an unsupported percentage. A clear account of the actual arrangement lets the adviser ask targeted questions instead of trying to infer purpose from a bank description."
+      }
+    ],
+    "checklist": [
+      "Actual payer and recipient",
+      "Dated cash or property evidence",
+      "Benefits and contractual obligations",
+      "Available acknowledgements and gaps",
+      "Ledger reconciliation and professional conclusion"
+    ],
+    "questions": [
+      "What did the business actually provide and receive?",
+      "Who was the legal recipient?",
+      "Which evidence still needs to be obtained?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "professional-service-proposal-scope-grid",
+    "title": "Compare professional-service proposals with a scope grid",
+    "description": "Separate deliverables, assumptions, exclusions, staffing and fees before choosing an adviser.",
+    "intro": "Two proposals can use the same service name while assigning very different work to the client and provider. A scope grid helps a business owner compare the actual engagement rather than the title or headline fee. Use it for accounting, advisory or other professional work, while verifying relevant qualifications directly. The grid does not establish service quality or make one provider universally better.",
+    "sections": [
+      {
+        "title": "Define the requested outcome",
+        "text": "Write a brief describing the decision, reporting need or problem to be addressed. Identify entities, periods, systems and known constraints. Send the same brief to each candidate so differences in the proposal are visible. If one provider received more complete facts, clarify the request before treating its higher price as evidence of a more expensive service."
+      },
+      {
+        "title": "Map tangible deliverables",
+        "text": "List the reports, analyses, meetings, filings or implementation outputs each proposal names. Record frequency and completion conditions. A phrase such as ongoing advice should be translated into what access, response process and work are included. Do not invent a deliverable because it is common elsewhere or because a website advertises the provider’s broader capabilities."
+      },
+      {
+        "title": "Compare client responsibilities",
+        "text": "Identify documents, data cleanup, approvals and internal work expected from the business. For a fictional advisory project, one quote may assume clean books while another includes a historical reconciliation. That difference affects price, timing and staff effort. Keep client tasks in the same grid as provider tasks so the total workload can be understood."
+      },
+      {
+        "title": "Separate fees and change triggers",
+        "text": "Record one-time charges, recurring fees, usage-based items and known exclusions. Ask what changes the price and who must approve additional work. A monthly equivalent does not by itself establish contract length or cancellation terms. Confirm those in the actual agreement and avoid treating an estimate as a fixed commitment."
+      },
+      {
+        "title": "Resolve questions before selection",
+        "text": "Ask each candidate to clarify missing items in writing. Verify qualifications and who will perform or review the work rather than relying only on the firm’s brand. Keep the final agreed scope and unresolved limitations with the decision. A useful comparison produces an informed engagement choice, not a score that hides material differences behind a single number."
+      },
+      {
+        "title": "Use one exception as a comparison test",
+        "text": "Ask each candidate how it would handle the same realistic exception, such as incomplete opening records or an additional entity discovered during onboarding. Record whether the response is included, separately priced or outside scope. This can reveal a meaningful difference that a service checklist misses. Compare the written answers with the proposed agreement before choosing; a helpful sales conversation should not be treated as a contractual promise unless confirmed."
+      }
+    ],
+    "checklist": [
+      "Shared engagement brief",
+      "Specific deliverables and frequency",
+      "Client-versus-provider tasks",
+      "Complete fee structure and changes",
+      "Written clarifications and qualification checks"
+    ],
+    "questions": [
+      "Are the proposals based on the same facts?",
+      "What must the business do itself?",
+      "Which fee differences reflect different work?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "tax-preparation-and-planning-responsibility-map",
+    "title": "Map tax preparation and planning responsibilities before hiring",
+    "description": "Distinguish return work, forward-looking advice, implementation and follow-up in a written engagement.",
+    "intro": "Tax preparation and planning can support the same owner while covering different tasks. A return engagement may focus on reporting completed activity, while a planning engagement may evaluate future choices. Actual services vary, so ask each provider to define its scope. A responsibility map helps the owner understand who supplies records, analyzes options, implements decisions and handles questions after filing.",
+    "sections": [
+      {
+        "title": "Identify the work and period",
+        "text": "List the returns, entities and years involved alongside the prospective decisions the owner wants reviewed. Separate a past-year correction question from a future transaction. Do not assume an engagement described as tax services includes every category. The written scope should make the requested period and purpose clear enough for the provider to confirm or revise it."
+      },
+      {
+        "title": "Assign record preparation and review",
+        "text": "State who reconciles the books, gathers source documents and answers factual questions. Identify what level of checking the preparer or planner performs. A provider receiving a spreadsheet is not necessarily engaged to audit it. Ask what happens when records are incomplete and whether cleanup or additional review changes the fee or schedule."
+      },
+      {
+        "title": "Define the planning output",
+        "text": "Ask what analyses, assumptions, meetings and written recommendations are included. Clarify who evaluates legal, investment or other issues outside the provider’s engagement. For a fictional owner considering a major purchase, a scenario discussion is different from carrying out the purchase, preparing documents or confirming all consequences. Keep those responsibilities distinct."
+      },
+      {
+        "title": "Clarify implementation and filing handoffs",
+        "text": "Record who acts on an approved recommendation and how the preparer receives the resulting facts. A planning report does not itself make a transaction happen or guarantee that a return will reflect it correctly. Identify the evidence the team needs, the professional who reviews completion and the process for changes to the original assumptions."
+      },
+      {
+        "title": "Confirm support and qualifications",
+        "text": "Ask who signs the return, who answers later questions and what representation or notice work is separately scoped. Verify credentials through appropriate sources and compare the actual engagement terms. Keep response expectations and renewal terms in writing. The purpose is a complete responsibility map, not an assumption that one service label promises unlimited ongoing support."
+      },
+      {
+        "title": "Trace a recommendation to the filed result",
+        "text": "For one proposed action, identify the planning analysis, management approval, implementation evidence and information the preparer will need. Ask who confirms that each handoff occurred. If the facts change between planning and filing, the map should show who re-evaluates the conclusion. This prevents the owner from assuming a report automatically changes the books or return, while keeping responsibility for professional judgments with the appropriate adviser."
+      }
+    ],
+    "checklist": [
+      "Returns and prospective decisions separated",
+      "Record-preparation responsibilities",
+      "Defined planning analyses and outputs",
+      "Implementation-to-preparer handoff",
+      "Qualifications, support and separate scopes"
+    ],
+    "questions": [
+      "Who implements an approved recommendation?",
+      "What record review is actually included?",
+      "Who handles questions after filing?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "fractional-cfo-versus-controller-scope",
+    "title": "Compare fractional CFO and controller scopes for the same business",
+    "description": "Define reporting ownership, forecasts, decisions and deliverables before comparing finance-service titles.",
+    "intro": "Fractional CFO and controller are useful labels only when the proposed responsibilities are clear. Providers may use them differently, and a business may need parts of both roles. Start with the work the company lacks: a reliable close, management reporting, forecasting, financing support or decision analysis. Compare the actual scope rather than assuming one title is senior enough to solve every gap.",
+    "sections": [
+      {
+        "title": "Describe the current finance process",
+        "text": "List who maintains records, closes accounts, reviews statements and supports operating decisions today. Identify delays and missing outputs with concrete examples. A business that lacks reconciled balances may need a different first step from one with reliable reports but no forward forecast. Give candidates the same current-state description before they propose a service mix."
+      },
+      {
+        "title": "Assign recurring reporting ownership",
+        "text": "Ask who owns the close calendar, account reconciliations, accounting policies and management reports under the proposal. Record review and approval responsibilities. A named controller service does not automatically include every transaction-processing task, just as a CFO service may rely on another team to produce accurate underlying records."
+      },
+      {
+        "title": "Define forward-looking deliverables",
+        "text": "Specify forecasts, scenarios, board materials, financing analysis or other outputs the business needs. For a fictional expansion, ask who models hiring, capital purchases and cash timing, and how assumptions are approved. A presentation without a maintained model may differ from the continuing decision-support process the owner expects."
+      },
+      {
+        "title": "Clarify decision authority and interfaces",
+        "text": "Record what the provider recommends, what it may execute and what remains with management. Identify handoffs with bookkeepers, tax professionals, banks and internal staff. Avoid assuming an outsourced title transfers management’s approval responsibilities. Ask how urgent decisions and conflicting assumptions are escalated to the business owner."
+      },
+      {
+        "title": "Compare staffing, fees and continuity",
+        "text": "Request named roles, expected time commitment, meeting cadence and coverage during absences. Separate setup, recurring work and special projects. Ask what reports, model files and documentation the business retains on exit. Compare the total responsibility map and cost rather than choosing a title that sounds more comprehensive without defining its work."
+      },
+      {
+        "title": "Compare a concrete management question",
+        "text": "Give candidates a question such as whether the business can support another location under stated assumptions. Ask what records they need, what analysis they would deliver and which underlying accounting work must already be reliable. One candidate may propose stabilizing the close first; another may scope a separate model. Compare the actual path and responsibilities, not just the job title attached to the proposal or the number of meetings offered."
+      }
+    ],
+    "checklist": [
+      "Current process and specific gaps",
+      "Close and reporting ownership",
+      "Forecast and decision outputs",
+      "Authority and professional handoffs",
+      "Staffing, fees and exit deliverables"
+    ],
+    "questions": [
+      "Does the business need better records, better decisions or both?",
+      "Who owns the underlying data quality?",
+      "What concrete output follows each meeting?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "payroll-service-responsibility-comparison",
+    "title": "Compare payroll-service proposals by responsibility and evidence",
+    "description": "Map inputs, approvals, processing, funding and correction handoffs before changing payroll providers.",
+    "intro": "Payroll providers can process information while the business retains important responsibilities for accuracy and approval. A proposal comparison should explain who supplies changes, who reviews the run and who handles errors. This guide does not state employment-tax rules or guarantee that using a provider satisfies obligations. Ask qualified payroll and tax advisers to confirm requirements for the actual business.",
+    "sections": [
+      {
+        "title": "List the payroll population and complexity",
+        "text": "Describe entities, locations, pay schedules, employee groups and known integrations. Identify special pay items and current record problems without exposing unnecessary personal data. Give candidates the same facts. A quote for one straightforward payroll may not cover multiple entities, variable compensation or a historical correction project."
+      },
+      {
+        "title": "Map inputs and approval cutoffs",
+        "text": "Record who enters hours, pay changes, deductions and employee updates. Ask how the provider validates inputs and how the business approves the final run. Distinguish a software reminder from an actual review. A missed internal approval can delay payroll even when the provider processes correctly, so the handoff should include owners and escalation steps."
+      },
+      {
+        "title": "Clarify funding and output evidence",
+        "text": "Ask how the business receives funding requirements, payroll reports and confirmation of completed actions. Identify the records needed for bookkeeping and professional review. A fictional payroll debit should be traceable to the approved run, but the bank withdrawal alone may not explain every related payment or filing. Keep the supporting reports available."
+      },
+      {
+        "title": "Compare correction and support processes",
+        "text": "Ask who investigates errors, communicates with affected parties and coordinates required professional work. Define support hours, response expectations and separately charged services. Do not assume the lowest subscription includes representation, prior-period cleanup or every agency notice. Verify the engagement and appropriate qualifications for work outside routine processing."
+      },
+      {
+        "title": "Plan transition and continuing controls",
+        "text": "Confirm opening data, year-to-date records, access, retention and responsibility for periods before the change. Ask how the first run will be checked and how the old provider is disengaged. Keep the business’s approval controls in place after launch. The right comparison covers the full process and evidence, not just the per-run or per-person charge."
+      },
+      {
+        "title": "Test the correction workflow before switching",
+        "text": "Describe a realistic missed input or incorrect employee detail and ask how each provider would investigate, correct and document it. Clarify what the business must approve and which work costs extra. A provider may offer software support without taking responsibility for all professional filings or advice. Record the answer in the scope comparison and use it to design the first-run review rather than waiting for a live problem to reveal the gap."
+      }
+    ],
+    "checklist": [
+      "Shared population and complexity brief",
+      "Input and approval owners",
+      "Funding and completed-run evidence",
+      "Correction and support scope",
+      "Transition records and continuing controls"
+    ],
+    "questions": [
+      "Who checks the inputs before processing?",
+      "Which prior-period tasks remain outside the new scope?",
+      "What evidence confirms completion?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "monthly-close-service-agreement-questions",
+    "title": "Define monthly-close service expectations before agreeing a fee",
+    "description": "Compare timelines, inputs, review, reports and unresolved-item treatment for outsourced accounting.",
+    "intro": "A promise to close the books monthly leaves important questions unanswered. The business needs to know which records must arrive, what review occurs and what happens when an issue remains open. Define those expectations in a practical service discussion before comparing fees. This guide does not prescribe an accounting standard or certify the quality of a provider’s work.",
+    "sections": [
+      {
+        "title": "Define the reporting package",
+        "text": "List the statements, schedules and management views the business expects. Identify entities, departments and comparative periods. A basic profit-and-loss report differs from a package that includes reconciliations and explanatory notes. Ask the provider to show a sample with client information removed so the owner can evaluate the format before agreeing to the scope."
+      },
+      {
+        "title": "Build a shared close calendar",
+        "text": "Record when the business supplies bank information, invoices, payroll and other inputs, and when the provider performs review. Distinguish the target report date from a guarantee that depends on timely complete records. Name the internal owner of each input. A calendar with only provider deadlines can hide the client dependencies that repeatedly delay the close."
+      },
+      {
+        "title": "Clarify review and adjustment responsibilities",
+        "text": "Ask who prepares entries, checks reconciliations and approves material adjustments. Identify matters requiring management judgment or another professional. A fictional inventory difference should have an investigation and approval path, not simply an unexplained month-end entry. Keep the expected level of review explicit rather than inferring it from the provider’s title."
+      },
+      {
+        "title": "Agree on unresolved-item reporting",
+        "text": "Define how open questions, estimates and missing documents appear in the package. Ask when an issue prevents reporting and when a clearly identified provisional report may be useful. Do not treat a delivered PDF as proof that every account is final. The owner should understand what remains uncertain before using the numbers for a decision."
+      },
+      {
+        "title": "Review service changes and handoffs",
+        "text": "Specify meetings, questions, historical corrections and work outside the monthly scope. Ask how fee changes are approved and how the business receives records if the engagement ends. Review actual performance against the agreed process after a few cycles. The objective is reliable, understandable reporting with clear responsibilities, not merely the fastest possible delivery date."
+      },
+      {
+        "title": "Evaluate an early reporting cycle",
+        "text": "During an initial month, compare the agreed timetable with actual input delivery, review questions and report completion. If the close slipped, identify the specific dependency instead of assigning a general failure label. Ask whether the process needs a different cutoff, clearer ownership or additional scope. A constructive review should preserve the original commitment while using evidence to improve the next cycle, including the work the client must complete."
+      }
+    ],
+    "checklist": [
+      "Named statements and supporting schedules",
+      "Client and provider calendar",
+      "Preparation, review and approval roles",
+      "Open-item and estimate disclosure",
+      "Meetings, change fees and exit records"
+    ],
+    "questions": [
+      "What must the business provide before the close can finish?",
+      "Which balances remain provisional?",
+      "Who approves material adjustments?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "advisory-fee-change-review",
+    "title": "Review an advisory fee change against the agreed scope",
+    "description": "Compare new fees with deliverables, assumptions, complexity and client responsibilities before renewing.",
+    "intro": "An advisory fee can change because the work, complexity, staffing or commercial terms change. Before accepting or rejecting a proposal, compare it with the current agreement and the business’s actual needs. This review should identify what is different, not assume a fee increase is unjustified or that a lower quote buys the same service. Keep the discussion anchored to written scope and evidence.",
+    "sections": [
+      {
+        "title": "Preserve the current baseline",
+        "text": "Collect the existing engagement, amendments, invoices and delivered work. Record the recurring and one-time elements separately. A total paid during an unusual year may include a special project that should not be treated as the normal annual fee. Ask the provider to identify the baseline it used for the proposed change."
+      },
+      {
+        "title": "Identify changed business facts",
+        "text": "List new entities, transactions, locations, systems or reporting requirements that may affect the work. Separate changes already implemented from possibilities. A fictional owner considering an acquisition should not assume the current fee covers the deal, but the provider should also explain whether a proposed recurring increase includes any transaction work."
+      },
+      {
+        "title": "Map deliverables and responsibilities",
+        "text": "Compare the old and new scope line by line, including meetings, analyses, implementation support and filing-related handoffs. Note work moved between provider and client. A higher fee may include additional tasks; a lower fee may require more internal staff time. Make those differences visible before reducing the comparison to one annual number."
+      },
+      {
+        "title": "Clarify terms and alternatives",
+        "text": "Ask about effective dates, billing frequency, service period, renewal, notice and approval of extra work. Consider whether a narrower scope or separate project fits the need, without assuming the provider offers it. A monthly display is not enough to determine the contract term. Confirm the actual agreement and unresolved questions in writing."
+      },
+      {
+        "title": "Record the decision and review point",
+        "text": "Document the accepted scope, fee, business assumptions and responsible contacts. If the engagement continues, agree when results and workload will be reviewed. If it ends, plan the records and professional handoff before access is removed. The decision should leave the owner clear about what is being purchased and what work remains outside the engagement."
+      },
+      {
+        "title": "Compare a representative year",
+        "text": "Build a simple view of the work the business expects during a normal year and list unusual projects separately. Ask the provider to explain which parts the proposed fee covers. If another firm offers a quote, give it the same assumptions before comparing totals. This helps distinguish a recurring service change from a one-time need and avoids presenting a cheaper but narrower proposal as an equivalent replacement without checking the details."
+      }
+    ],
+    "checklist": [
+      "Current engagement and actual invoices",
+      "Changed business facts",
+      "Old-versus-new deliverable map",
+      "Billing, renewal and extra-work terms",
+      "Decision and transition record"
+    ],
+    "questions": [
+      "What work changed with the fee?",
+      "Which tasks would move back to the business?",
+      "Is a special project being confused with recurring service?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official background for the discussion; this preparation workflow is editorial guidance",
+    "category": "Adviser preparation",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]

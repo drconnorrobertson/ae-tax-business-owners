@@ -66,3 +66,17 @@ for(const [id,bad,slug] of [['Q463261','Q11571','cristiano-ronaldo-q11571'],['Q1
 assert(!byPerson.get('Q1380079').description.includes('2783'),'Corrupt Colgate year reintroduced');
 assert(byPerson.get('Q1380079').reviewedSources?.length,'Colgate biography must retain reviewed source');
 console.log('PASS: Grumman, Marmot, Riggs and Colgate source corrections.');
+
+// Every guide stays discoverable while listing pages remain bounded on mobile.
+const resourceListingFiles=html.filter(p=>/\/resources\/(?:page\/\d+\/)?index\.html$/.test(p));
+const listedResourceSlugs=[];
+for(const p of resourceListingFiles){
+ const text=fs.readFileSync(p,'utf8');
+ const cards=[...text.matchAll(/<article class="guide-card">(.*?)<\/article>/gs)];
+ assert(cards.length>0&&cards.length<=24,`Bounded resource page: ${p}`);
+ assert(text.includes('aria-label="Resource pages"'),`Crawlable resource pagination: ${p}`);
+ for(const card of cards){const slug=card[1].match(/href="\/resources\/([^/]+)\/"/)?.[1];assert(slug,`Guide card target: ${p}`);listedResourceSlugs.push(slug);}
+}
+const expectedResourceSlugs=[...JSON.parse(fs.readFileSync(path.join(root,'data/guides.json'),'utf8')),...JSON.parse(fs.readFileSync(path.join(root,'data/editorial-guides.json'),'utf8'))].map(g=>g.slug).sort();
+assert.deepEqual(listedResourceSlugs.sort(),expectedResourceSlugs,'Every guide listed exactly once across resource pages');
+console.log(`PASS: ${resourceListingFiles.length} bounded resource pages discover all ${expectedResourceSlugs.length} guides exactly once.`);

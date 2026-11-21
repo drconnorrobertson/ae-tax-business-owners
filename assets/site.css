@@ -21,3 +21,9 @@
 /* Keep article dates intact when the metadata row wraps on narrow screens. */
 .article-head .article-meta{flex-wrap:wrap;row-gap:6px}
 .article-head .article-meta>span:nth-child(2){white-space:nowrap}
+
+/* Static, bounded pagination for the growing owner resource library. */
+.resource-pager{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center;margin:28px 0}
+.resource-pager a{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;padding:8px 12px;border:1px solid var(--line);border-radius:3px;font-size:14px;background:var(--white)}
+.resource-pager a[aria-current=page]{background:var(--green);color:var(--paper);text-decoration:none}
+.resource-gap{padding:6px;color:var(--muted)}
