@@ -4290,5 +4290,910 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "john-bares-carnegie-robotics",
+    "name": "John Bares",
+    "company": "Carnegie Robotics",
+    "website": "https://www.carnegierobotics.com/",
+    "role": "Founder; President and CEO on the company leadership page reviewed November 21, 2026.",
+    "founding": "Carnegie Mellon announced the company launch on August 30, 2010.",
+    "intro": "John Bares founded Carnegie Robotics after directing Carnegie Mellon University’s National Robotics Engineering Center. The company’s leadership account and the university’s contemporary launch announcement describe a move from applied research into manufactured products. This profile distinguishes that commercial company from the university center and dates Bares’s later departure and return.",
+    "sections": [
+      {
+        "title": "A company alongside an applied research center",
+        "text": "Carnegie Mellon’s August 2010 announcement says Bares took leave from NREC to lead the startup. It describes an arrangement to develop, manufacture and service robotic components using technology licensed from the center. The source matters because it records the proposed relationship at launch, rather than treating a later company biography as the only account of its origin.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The original product ambition",
+        "text": "The launch announcement quotes Bares explaining a focus on components for other manufacturers, with complete systems as a later ambition. That distinction gives readers a concrete way to understand the early business model: a component supplier and manufacturing operation can serve different customers from a research laboratory performing individual development projects.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A departure and a return",
+        "text": "The current leadership page dates Bares’s move to Uber’s Advanced Technologies Group to 2015 and his return to Carnegie Robotics to 2017. It lists him as President and CEO. The same page identifies David LaRose’s contribution to founding the business. A profile centered on Bares should not erase that additional founding contribution.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Read the industrial history at the right level",
+        "text": "This record supports a founder association and a dated leadership chronology. It does not verify the performance of a particular robot, product certification, delivery capacity or current customer result. A buyer should request the current specification, testing documentation and service scope for the actual equipment being considered. The biography provides context for that conversation, not an engineering acceptance decision.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep NREC and Carnegie Robotics distinct.",
+      "Retain the documented departure and return dates.",
+      "Verify equipment requirements separately from founder history."
+    ],
+    "sources": [
+      {
+        "title": "Carnegie Robotics — leadership, reviewed November 21, 2026",
+        "url": "https://www.carnegierobotics.com/leadership"
+      },
+      {
+        "title": "Carnegie Mellon — company launch announcement, August 30, 2010",
+        "url": "https://www.cs.cmu.edu/news/2010/carnegie-robotics-llc-partners-carnegie-mellon-manufacture-robotic-components-and-systems"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "shiv-rao-abridge",
+    "name": "Shiv Rao",
+    "company": "Abridge",
+    "website": "https://www.abridge.com/",
+    "role": "Founder and CEO on Abridge’s biography reviewed November 21, 2026.",
+    "founding": "Abridge’s May 7, 2025 announcement dates its founding to 2018.",
+    "intro": "Shiv Rao is identified as Abridge’s founder and CEO in the company’s biography. Abridge develops technology for documenting healthcare conversations. Its public founding story connects the business to Rao’s clinical and investment work, while Carnegie Mellon’s event biography supplies additional co-founder context. None of those biographies establishes the effectiveness of an individual clinical deployment.",
+    "sections": [
+      {
+        "title": "The professional context in the company account",
+        "text": "Abridge’s biography describes Rao’s work at UPMC and his earlier role managing provider-facing investments. It also describes an association with machine-learning research at Carnegie Mellon. Those details explain the professional setting in which the company presents its origin; they should not be transformed into a claim that every product has been independently validated by those institutions.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A founding date and other contributors",
+        "text": "A May 2025 company announcement states that Rao founded Abridge in 2018. Carnegie Mellon’s event biography describes him co-founding the business with Florian Metze and Sandeep Konam. The sources give useful complementary context: one supplies the company’s date, while the university account identifies additional people involved in the founding story.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A product area is not a clinical conclusion",
+        "text": "The cited materials describe a business concerned with healthcare conversations and documentation. This profile deliberately leaves out promotional claims about accuracy, efficiency and patient outcomes. Such claims require evaluation of the actual system, use setting, study design and evidence. A founder’s background alone cannot answer those questions for a healthcare organization.",
+        "sourceIndexes": []
+      },
+      {
+        "title": "Use the biography as a source map",
+        "text": "For a directory reader, the useful next step is to distinguish three records: the company’s current leadership description, the historical formation account and the documentation for any product under consideration. Keep their dates visible in research notes. This entry does not evaluate clinical suitability, regulatory status, revenue, share ownership or a relationship with AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain the named co-founder context.",
+      "Date the company’s current leadership description.",
+      "Assess clinical and technical claims through appropriate product evidence."
+    ],
+    "sources": [
+      {
+        "title": "Abridge — Shiv Rao biography, reviewed November 21, 2026",
+        "url": "https://www.abridge.com/bio/shiv-rao"
+      },
+      {
+        "title": "Abridge — founder announcement, May 7, 2025",
+        "url": "https://www.abridge.com/blog/time-100-health-shiv-rao"
+      },
+      {
+        "title": "Carnegie Mellon — Shivdev Rao event biography",
+        "url": "https://www.cmu.edu/tepper/faculty-and-research/seminars-and-conferences/assets/docs/intersect-bios/shivdev-rao-bio.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "brian-gaudio-module",
+    "name": "Brian Gaudio",
+    "company": "Module",
+    "website": "https://www.modulehousing.com/",
+    "role": "Co-founder and CEO on Module’s team page reviewed November 21, 2026.",
+    "founding": "Module’s 2020 impact report states that the company was founded in 2016.",
+    "intro": "Brian Gaudio is a co-founder of Module, the Pittsburgh housing business. The company’s team page names him alongside Hallie Dumont and Drew Brisley. Its project and impact accounts describe the work in terms of designed and manufactured homes, giving the founding history more context than a title alone could provide.",
+    "sections": [
+      {
+        "title": "Three named co-founders",
+        "text": "Module’s team page identifies Gaudio as co-founder and CEO, Dumont as co-founder and Vice President of Product, and Brisley as co-founder and Chief Product Officer. The page gives a Pittsburgh business address. Those are the company’s role descriptions on the review date, rather than an independent assessment of each person’s current ownership interest.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A dated account of the early business",
+        "text": "The company’s 2020 impact report dates its founding to 2016 and explains why it began publishing an impact account. It describes goals around housing design and the communities where Module works. Goals and self-reported impact deserve to be labeled as such; they are not a substitute for project-level evidence or a completed building’s specifications.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A concrete Pittsburgh project",
+        "text": "Module’s Black Street account describes purchasing three lots in 2019 and developing homes in Pittsburgh’s Garfield neighborhood. It identifies Gaudio and Brisley in the project photographs and explains the use of one home as a show home and office. This is a company account of a particular development, not a promise that another project will follow the same schedule.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Separate the founder story from a building decision",
+        "text": "Readers considering a housing provider need records tied to the proposed property: drawings, scope, responsibilities, permissions, milestones and acceptance documentation. A completed-project story can help frame questions but cannot establish the condition or suitability of a different building. This biography does not evaluate energy performance, affordability, code compliance, delivery guarantees or the founders’ financial interests.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain all three co-founders.",
+      "Keep project dates separate from the 2016 founding date.",
+      "Request property-specific evidence for a proposed build."
+    ],
+    "sources": [
+      {
+        "title": "Module — team page, reviewed November 21, 2026",
+        "url": "https://www.modulehousing.com/team"
+      },
+      {
+        "title": "Module — Impact Report 2020",
+        "url": "https://www.modulehousing.com/blog/impact-report-2020"
+      },
+      {
+        "title": "Module — Black Street development account",
+        "url": "https://www.modulehousing.com/blog/the-black-street-development-is-officially-wrapped"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "graham-rihn-roadrunner",
+    "name": "Graham Rihn",
+    "company": "RoadRunner",
+    "website": "https://www.roadrunnerwm.com/",
+    "role": "Founder and CEO on RoadRunner’s company page reviewed November 21, 2026.",
+    "founding": "The company history dates its origin to 2014 and identifies New York City as its initial location.",
+    "intro": "Graham Rihn is the founder and CEO named in RoadRunner’s company materials. The business is associated with Pittsburgh today, but its own timeline places the initial operation in New York City. Keeping those locations distinct is important when researching a regional founder: a company’s present identity does not automatically establish where it began.",
+    "sections": [
+      {
+        "title": "The operational problem in the founder’s account",
+        "text": "Rihn’s note on the company page says that he began focusing on commercial waste and recycling in 2014. He describes an interest in combining industry experience with technology and data. This is the company’s explanation of its motivation. This profile does not adopt its environmental, reliability or cost claims as independently measured results.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A timeline with a location distinction",
+        "text": "The company timeline says RoadRunner began in New York City with a recyclable-hauling model called FleetHaul, later named CleanStream. Readers should preserve that early operating description instead of projecting the present service mix backward. A company can change its geographic center and service model without changing the historical facts of its founding account.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An early public founder voice",
+        "text": "RoadRunner’s author archive lists a March 18, 2015 message from Rihn about the company’s mission. A dated early statement is useful alongside a current company history because it provides a record close to the beginning of operations. The archive is a company-controlled source, not an independent endorsement of the business.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use the history to ask better service questions",
+        "text": "A waste-services proposal should identify the actual services, locations, responsibilities and supporting records included in an engagement. Founder history alone cannot show which materials are accepted, how downstream handling is documented or how a particular customer’s results are measured. This entry evaluates none of those outcomes and makes no inference about revenue or Rihn’s current equity ownership.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the New York origin from the Pittsburgh association.",
+      "Keep early and current service descriptions dated.",
+      "Request engagement-specific service and reporting evidence."
+    ],
+    "sources": [
+      {
+        "title": "RoadRunner — company history and founder note, reviewed November 21, 2026",
+        "url": "https://www.roadrunnerwm.com/company"
+      },
+      {
+        "title": "RoadRunner — Graham Rihn author archive, including March 18, 2015 message",
+        "url": "https://www.roadrunnerwm.com/blog/author/graham-rihn"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "george-cook-honeycomb-credit",
+    "name": "George Cook",
+    "company": "Honeycomb Credit",
+    "website": "https://www.honeycombcredit.com/",
+    "role": "Co-founder and CEO in Honeycomb Credit’s company announcement reviewed November 21, 2026.",
+    "founding": "The selected sources document the co-founder relationship; no separate legal formation date is asserted here.",
+    "intro": "George Cook co-founded Honeycomb Credit with Ken Martin, according to the company’s published interview account. The Pittsburgh-associated business connects small businesses with funding opportunities. Its founding story and later acquisition announcement show how a narrow biography can distinguish the people behind a platform from the terms of any financial product offered through it.",
+    "sections": [
+      {
+        "title": "The problem Cook describes",
+        "text": "In a company-posted interview from March 2019, Cook describes concerns about access to capital for Main Street businesses and his experience with community banking. He says that he met Martin in graduate school and that they developed the platform together. The account is attributed to Cook; its broader banking claims are not independently assessed in this profile.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Retain the co-founder’s different experience",
+        "text": "The same interview describes Martin’s investment-banking and small-business operating experience. That provides context for the partnership without implying that either founder alone represents every business participating on the platform. A directory biography should retain the named co-founder and avoid turning one person’s public visibility into a single-founder narrative.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later expansion of the company’s offering",
+        "text": "Honeycomb’s IFundWomen acquisition page identifies Cook as co-founder and CEO and describes an expanded set of business resources. This supplies a later company role statement and evidence of a change in offering. It does not establish that any funding path is available, appropriate or successful for a particular business.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Keep biography and financing review separate",
+        "text": "For a financing decision, readers need the current offering documents, relevant terms and facts about the specific business and transaction. An account of the founder’s motivation cannot answer repayment, eligibility, cost or investment-risk questions. This profile makes no financial recommendation, verifies no licensing claim, and draws no conclusion about Cook’s wealth, ownership percentage or any AE relationship.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Credit Ken Martin’s co-founding role.",
+      "Label the interview as a first-person company-published account.",
+      "Evaluate any funding offer using its current transaction documents."
+    ],
+    "sources": [
+      {
+        "title": "Honeycomb Credit — George Cook interview account, March 27, 2019",
+        "url": "https://www.honeycombcredit.com/post/crowdfund-insider-honeycomb-credit-ceo-co-founder-george-cook-discusses-rust-belt-crowdfinancing-buz"
+      },
+      {
+        "title": "Honeycomb Credit — IFundWomen acquisition page, reviewed November 21, 2026",
+        "url": "https://www.honeycombcredit.com/ifundwomen"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "avi-geller-maven-machines",
+    "name": "Avi Geller",
+    "company": "Maven Machines",
+    "website": "https://mavenmachines.com/",
+    "role": "Founder and CEO on Maven’s company page reviewed November 21, 2026.",
+    "founding": "Maven’s company history dates its start in Pittsburgh to 2014.",
+    "intro": "Avi Geller founded Maven Machines in Pittsburgh, according to the company’s own history. Maven describes its work as software for trucking and transportation operations. The current company page and its earlier account of product development help distinguish the founder’s original purpose from the broader set of workflows the business subsequently addressed.",
+    "sections": [
+      {
+        "title": "Choosing Pittsburgh for the company",
+        "text": "The current About page identifies Geller as founder and CEO and dates Maven’s work to 2014. It describes Pittsburgh as the company’s starting location and continuing headquarters. This is an explicit company account of the regional connection, rather than an inference based on the founder’s education or an event appearance.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "From an initial focus to broader workflows",
+        "text": "Maven’s introductory blog post says its early work emphasized safety and compliance before it expanded into operational and workflow software. That change is useful historical context. It does not mean that a current customer automatically receives every past or present capability, or that a software purchase determines a fleet’s compliance.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The founder’s explanation of the location choice",
+        "text": "A later company article reproduces Geller’s explanation that Pittsburgh offered a setting in which to start the business. It discusses the city’s technical community and transportation connections. The source records his stated reasoning; it is not a comparative study proving that one city is a superior place to build every software company.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Follow the software requirements beyond the biography",
+        "text": "A transport operator evaluating a system should document the workflows, data sources, integrations, support responsibilities and acceptance checks that apply to the proposed deployment. A founder profile is background for that inquiry. It cannot validate routing results, worker safety, regulatory compliance or customer productivity. This entry makes none of those judgments and does not assess Maven’s revenue or Geller’s personal finances.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use the company’s explicit Pittsburgh founding account.",
+      "Keep early product focus separate from current contracted scope.",
+      "Verify operational claims through deployment-specific evidence."
+    ],
+    "sources": [
+      {
+        "title": "Maven — About page, reviewed November 21, 2026",
+        "url": "https://mavenmachines.com/about/"
+      },
+      {
+        "title": "Maven — introductory company blog account",
+        "url": "https://mavenmachines.com/welcome-to-the-maven-blog/"
+      },
+      {
+        "title": "Maven — Pittsburgh location account",
+        "url": "https://mavenmachines.com/embracing-pittsburghs-history-moving-into-the-future/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "hans-moravec-seegrid",
+    "name": "Hans Moravec",
+    "company": "Seegrid",
+    "website": "https://seegrid.com/",
+    "role": "Historical founder, as identified by Seegrid; no current executive title is asserted here.",
+    "founding": "Seegrid’s current company timeline dates its founding to 2003.",
+    "intro": "Hans Moravec is the founder identified in Seegrid’s company history. The Pittsburgh company connects his robotics work with the development of autonomous material-handling products. Its timeline and a later technical leadership interview provide context for that connection without establishing that an older title or product description remains current indefinitely.",
+    "sections": [
+      {
+        "title": "The company’s account of its origin",
+        "text": "Seegrid’s timeline places its founding in 2003 and associates Moravec with bringing vision-guided autonomy into warehouses and manufacturing facilities. It then dates the commercialization of its Grid Engine to 2005. Those are separate milestones: founding a company and making a particular technology commercially available need not happen in the same year.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A technical description from a later company interview",
+        "text": "In a company-published interview, Tom Panzarella describes Seegrid as originating around Moravec’s work in localization using stereo vision and probabilistic mapping. This helps explain the intellectual connection between the founder and the company’s product area. The explanation is a company technical account, not an independent performance evaluation.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Treat a historical title as historical",
+        "text": "A 2022 company announcement described Moravec as founder and Chief Roboticist. This profile does not automatically carry that older title forward to the present. When a current operating role matters, readers should obtain a dated company confirmation rather than assuming that an association visible in archived announcements remains unchanged.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "A warehouse decision needs more than an origin story",
+        "text": "A buyer considering autonomous handling equipment needs evidence for the actual environment, load, interactions and proposed operating process. The founding history cannot validate a safety case, integration plan or productivity estimate. This entry offers a traceable account of Moravec’s association with Seegrid and leaves technical acceptance, financial performance and current ownership questions outside its scope.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep 2003 founding and 2005 commercialization distinct.",
+      "Do not present the archived Chief Roboticist title as verified current.",
+      "Evaluate equipment with application-specific evidence."
+    ],
+    "sources": [
+      {
+        "title": "Seegrid — company timeline, reviewed November 21, 2026",
+        "url": "https://seegrid.com/company/"
+      },
+      {
+        "title": "Seegrid — Tom Panzarella technical leadership interview",
+        "url": "https://seegrid.com/news/tom-panzarella-appointed-chief-technology-officer-at-seegrid/"
+      },
+      {
+        "title": "Seegrid — founder and Chief Roboticist reference, 2022",
+        "url": "https://seegrid.com/news/seegrid-named-number-4-most-innovative-robotics-company-in-the-world-by-fast-company/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mont-handley-pittmoss",
+    "name": "Mont Handley",
+    "company": "PittMoss",
+    "website": "https://pittmoss.com/",
+    "role": "Founder; the company’s 2024 annual report identifies him as a director, a dated historical role statement.",
+    "founding": "The company story dates the original experiment to 1994; its annual report dates Handley’s company role from July 2011.",
+    "intro": "Mont Handley is the founder associated with PittMoss, the growing-media business in Ambridge, Pennsylvania. The company’s history describes a long period between an initial kitchen experiment and later commercial development. A company annual report also distinguishes Handley’s founder and director role from the executive management role held by another person.",
+    "sections": [
+      {
+        "title": "An experiment is not the same as company formation",
+        "text": "PittMoss’s story places Handley’s initial experiment in 1994 and describes a later progression through testing and product development. Its 2024 annual report dates his company role from July 2011. Those records answer different questions, so this profile does not compress them into a single unsupported founding date.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The product-development account",
+        "text": "The company story describes work on a paper-based growing medium and a proof-of-concept period between 2012 and 2015. It also identifies a consumer-product launch in 2017. These are company-reported milestones, not independent conclusions about plant performance, environmental effects or whether a formulation is appropriate for a particular grower.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A dated management distinction",
+        "text": "The 2024 annual report lists Handley as Director and Founder and Brian Scott as CEO and President. A separate company article describes Handley’s later activity outside daily PittMoss operations. The report is a dated document: its use of “present” belongs to that reporting period and should not be read as a fresh confirmation of every role in November 2026.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Trace the business record before the marketing claim",
+        "text": "Readers can use this biography to separate invention history, company involvement and operating management. A purchasing decision still needs product specifications, relevant testing and the requirements of the intended application. No current ownership percentage, personal proceeds, revenue figure or product-efficacy conclusion is inferred from the founder’s public story.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the 1994 experiment from later company activity.",
+      "Date the annual-report role statements.",
+      "Review growing-medium evidence for the intended application."
+    ],
+    "sources": [
+      {
+        "title": "PittMoss — company story, reviewed November 21, 2026",
+        "url": "https://pittmoss.com/story/"
+      },
+      {
+        "title": "PittMoss — signed 2024 annual report, published May 2025",
+        "url": "https://pittmoss.com/wp-content/uploads/2025/05/PittMoss-LLC-Form-C-AR-2024-Signed.pdf"
+      },
+      {
+        "title": "PittMoss — Life After the Shark Tank",
+        "url": "https://pittmoss.com/life-after-the-shark-tank/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "bob-sheetz-sheetz",
+    "name": "Bob Sheetz",
+    "company": "Sheetz",
+    "website": "https://www.sheetz.com/",
+    "role": "Historical founder, as identified in Sheetz’s company history.",
+    "founding": "Sheetz’s history dates the first store in Altoona, Pennsylvania, to 1952.",
+    "intro": "Bob Sheetz opened the first Sheetz store in Altoona in 1952, according to the company’s history. The business later expanded beyond that single shop, with his brother Steve contributing to its growth. This profile treats Bob’s founding role as a historical association and does not infer a present executive position or ownership interest.",
+    "sections": [
+      {
+        "title": "A first store serving a hometown",
+        "text": "Sheetz’s history describes the original business as a modest store on Fifth Avenue in Altoona. The narrative presents it as a response to everyday convenience needs in the surrounding community. It establishes a specific Pennsylvania starting point, rather than merely identifying a state where the chain later opened locations.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Expansion came after the initial opening",
+        "text": "The same history introduces Steve Sheetz in the expansion story in 1969 and describes the addition of self-service gasoline by 1972. Keeping those later milestones separate from 1952 prevents a modern convenience-store format from being projected onto the first shop. The current network and the original operation should not be described as identical businesses in scale or service.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later company statement confirms the founder relationship",
+        "text": "A March 23, 2020 company message refers to Bob as the writer’s uncle and says he founded the company in 1952. The message was written for a particular operating situation during the pandemic. Its value here is the dated confirmation of the founder relationship; temporary service policies in that message are not treated as current policies.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use historical identity without assuming present control",
+        "text": "For a directory reader, a founder name provides context for the origin of the brand. Current leadership, contracting authority and ownership require their own records. This entry does not evaluate the company’s revenue, a family member’s personal wealth, product quality or current customer terms. Its purpose is to preserve the distinction between the first store, later expansion and the business encountered today.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use 1952 for the documented first store.",
+      "Credit the later expansion role of Steve Sheetz.",
+      "Check current corporate contacts independently of the founding story."
+    ],
+    "sources": [
+      {
+        "title": "Sheetz — company history, reviewed November 21, 2026",
+        "url": "https://sheetz.com/sheetz"
+      },
+      {
+        "title": "Sheetz — company customer message, March 23, 2020",
+        "url": "https://www.sheetz.com/newsroom/article/an-update-to-our-sheetz-customers-regarding-covid-19"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "richard-dick-stack-dicks",
+    "name": "Richard “Dick” Stack",
+    "company": "DICK’S Sporting Goods",
+    "website": "https://www.dickssportinggoods.com/",
+    "role": "Historical founder; the company history distinguishes his role from later leadership.",
+    "founding": "The original store opened in Binghamton, New York, in 1948; the company moved its headquarters to Pittsburgh in 1994.",
+    "intro": "Richard “Dick” Stack founded the retail business that became DICK’S Sporting Goods. The company is strongly associated with Pittsburgh, but its own history places the original store in Binghamton, New York. Preserving both facts makes the profile useful for regional research without rewriting the company’s geographic origin.",
+    "sections": [
+      {
+        "title": "A bait-and-tackle beginning",
+        "text": "The company’s investor history describes Stack opening a bait-and-tackle store in 1948. Its careers site repeats the small-shop origin. The early business was a focused retail operation, not the modern collection of sporting-goods formats. Readers should keep the original assortment separate from the broader business described in present corporate materials.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The assortment and store network changed",
+        "text": "The investor timeline describes additional clothing and outdoor goods in 1952 and a second store in Vestal in 1971. Those milestones show successive changes in the operating business. They are more useful historical markers than assuming that every category sold today was part of the original founder’s initial plan.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A leadership and location transition",
+        "text": "The same timeline says that Ed Stack and his siblings purchased the company from Dick in 1984 and identifies the headquarters move to Pittsburgh in 1994. Those are separate transitions. The Pennsylvania connection is therefore real, but it should be presented as later company history rather than a claim that the business was founded in Pittsburgh.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Keep the founder profile distinct from the retailer today",
+        "text": "A reader researching the current company should consult its current leadership, corporate and product information directly. This biography is not a statement about present share ownership, executive authority or retail availability. It records a historical founder relationship and provides a chronology for understanding why an older New York origin and a Pittsburgh corporate identity can both be accurate.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Separate the 1948 New York opening from the 1994 Pittsburgh move.",
+      "Keep the 1984 transition to later leadership dated.",
+      "Do not infer current control from the founder’s name in the brand."
+    ],
+    "sources": [
+      {
+        "title": "DICK’S Sporting Goods — investor company history, reviewed November 21, 2026",
+        "url": "https://investors.dicks.com/why-invest/default.aspx"
+      },
+      {
+        "title": "DICK’S Sporting Goods — careers company background",
+        "url": "https://www.dickssportinggoods.jobs/about-us/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "james-herr-herr-foods",
+    "name": "James S. Herr",
+    "company": "Herr Foods",
+    "website": "https://www.herrs.com/",
+    "role": "Historical founder; the company identifies his lifetime as 1924–2012.",
+    "founding": "Herr Foods’ history begins with the purchase of an existing Lancaster potato-chip company in 1946.",
+    "intro": "James S. Herr, also known as Jim Herr, is the founder identified in Herr Foods’ history. That history begins with a business purchase in Lancaster rather than the invention of potato chips or the creation of a factory from nothing. Later manufacturing, packaging and leadership changes give the company’s Pennsylvania story its distinct chronology.",
+    "sections": [
+      {
+        "title": "Start with the transaction the company describes",
+        "text": "Herr Foods says Herr bought a small potato-chip business in 1946 and moved production to a former tobacco shed in 1947. Those details make the origin specific. They also distinguish acquiring an operating activity from creating a new product category, a difference that matters when describing how a business began.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Production and packaging changed over time",
+        "text": "The company timeline describes a factory fire in 1951, a new Nottingham plant in 1952 and later experimentation with packaging. These events provide context for a manufacturing business that developed through operating changes. The profile does not use a company retrospective to certify present manufacturing capacity, food safety or product performance.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The founder and the continuing company",
+        "text": "The history records Herr handing over the chairmanship in 2005 and remaining on the board until his death in 2012. The company’s values page also identifies a foundation named for its founder. Those are historical and institutional associations; they do not imply that the original founder remains an operating executive.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep family history relevant to the business record",
+        "text": "A useful founder biography can identify a succession without listing unnecessary personal details about relatives. Current management and current corporate obligations should be verified separately. This entry omits personal wealth, family income, historical sales figures and unsupported conclusions about ownership shares. It preserves the origin transaction, production chronology and distinction between a deceased founder and the organization that continues his name.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Describe the 1946 event as a business purchase.",
+      "Keep later manufacturing milestones dated.",
+      "Separate the historical founder from current leadership."
+    ],
+    "sources": [
+      {
+        "title": "Herr Foods — company history and founder biography, reviewed November 21, 2026",
+        "url": "https://www.herrs.com/about-herrs/our-history/"
+      },
+      {
+        "title": "Herr Foods — values and founder foundation context",
+        "url": "https://www.herrs.com/about-herrs/our-values/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "sam-born-just-born",
+    "name": "Sam Born",
+    "company": "Just Born",
+    "website": "https://www.justborn.com/",
+    "role": "Historical founder, as identified by the company’s history and FAQ.",
+    "founding": "Just Born began in New York in 1923 and relocated to Bethlehem, Pennsylvania, in 1932.",
+    "intro": "Sam Born founded the confectionery business known as Just Born. The company’s own account connects its name to fresh candy displayed in his original shop. Its later Bethlehem location is central to the brand’s Pennsylvania identity, but the founding shop was in New York. This profile keeps that relocation visible.",
+    "sections": [
+      {
+        "title": "The shop and its name",
+        "text": "Just Born’s history describes Born opening a small Brooklyn retail store and factory in 1923. Its FAQ explains the brand name through a sign used to describe freshly made candy. Together, those sources supply both a business origin and a naming account, without requiring an unsupported inference from the modern brand alone.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Other early contributors belong in the history",
+        "text": "The company narrative says Irv and Jack Shaffer joined shortly after the original store opened. That detail helps distinguish a profile of Born from an assertion that he alone performed every part of building the business. A founder-focused entry can preserve the wider early team without becoming a family biography.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Bethlehem followed the New York opening",
+        "text": "The company FAQ dates the move to its Bethlehem location to 1932. It states the 1923 New York founding separately. Regional directories should retain that sequence: a company may become closely associated with Pennsylvania after it begins elsewhere. The later location does not change the place or date of the original opening.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Historical origins and present products require different evidence",
+        "text": "A brand’s current products, facilities and operating arrangements can differ substantially from those of its founder’s shop. The sources here support historical context, not a food-safety assessment or a claim about present product availability. This profile does not estimate company revenue, personal wealth or current equity ownership, and it does not imply a commercial relationship between Just Born and AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep Brooklyn founding and Bethlehem relocation separate.",
+      "Retain the named early contributors.",
+      "Use current product information for present purchasing questions."
+    ],
+    "sources": [
+      {
+        "title": "Just Born — company story, reviewed November 21, 2026",
+        "url": "https://www.justborn.com/who-we-are/our-story"
+      },
+      {
+        "title": "Just Born — company FAQ, reviewed November 21, 2026",
+        "url": "https://www.justborn.com/faqs"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "anne-beiler-auntie-annes",
+    "name": "Anne Beiler",
+    "company": "Auntie Anne’s",
+    "website": "https://www.auntieannes.com/",
+    "role": "Historical founder; the company FAQ says she sold the business in 2005.",
+    "founding": "The brand dates its beginning to a Pennsylvania farmers-market stand in 1988.",
+    "intro": "Anne Beiler founded Auntie Anne’s through a Pennsylvania farmers-market stand in 1988. The company’s story emphasizes experimentation with a pretzel recipe and a community purpose. Its FAQ also records a later sale of the business. The founder’s name in the brand therefore should not be read as evidence of current ownership.",
+    "sections": [
+      {
+        "title": "A market stand before a franchise brand",
+        "text": "The company’s origin page says Beiler bought a farmers-market stand in 1988 and experimented with pretzels. Its FAQ describes the stand as originally offering several snacks, including pretzels and lemonade. That account is more specific than treating the original operation as a fully formed version of the later franchise system.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The motivation in the company’s account",
+        "text": "A 2018 company announcement connects the early stand with Beiler’s goal of supporting free counseling in her community. The origin page makes the same connection. This profile reports that as the company’s explanation of its history; it does not infer the present finances or activities of any separate counseling organization.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A documented end to founder ownership",
+        "text": "The company FAQ states that Beiler sold Auntie Anne’s in 2005. That information is important when interpreting the continuing brand name. A historical founder can remain closely associated with a business in public memory without continuing to own or manage it. This entry does not assign her a current corporate title.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Separate the brand story from a franchise decision",
+        "text": "A prospective operator or supplier needs current contracting documents, responsibilities and business-specific information. The story of the first stand cannot answer those questions. This profile does not assess franchise economics, product demand, earnings, personal wealth or ownership percentages. It documents a historical founder relationship, the Pennsylvania starting point and the later transition described by the company.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use the documented 1988 market-stand origin.",
+      "Keep the 2005 sale distinct from the continuing brand name.",
+      "Evaluate a current franchise opportunity through current documents."
+    ],
+    "sources": [
+      {
+        "title": "Auntie Anne’s — company story, reviewed November 21, 2026",
+        "url": "https://www.auntieannes.com/our-story"
+      },
+      {
+        "title": "Auntie Anne’s — company announcement, May 24, 2018",
+        "url": "https://www.auntieannes.com/newsroom/icsc-foundation-award"
+      },
+      {
+        "title": "Auntie Anne’s — company FAQ, reviewed November 21, 2026",
+        "url": "https://beta.auntieannes.com/contact-us/common-questions"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "bob-tumolo-ritas",
+    "name": "Bob Tumolo",
+    "company": "Rita’s Italian Ice",
+    "website": "https://www.ritasice.com/",
+    "role": "Historical founder, as identified in company and acquisition announcements.",
+    "founding": "Rita’s company anniversary release dates the first shop in Bensalem, Pennsylvania, to May 1984.",
+    "intro": "Bob Tumolo founded Rita’s Italian Ice in Bensalem, Pennsylvania, in 1984, according to the brand’s anniversary announcement. A separate acquisition announcement describes the early business and later corporate transition. These sources connect a small local operation with the present brand without implying that the founder remains its current owner.",
+    "sections": [
+      {
+        "title": "The origin described by the brand",
+        "text": "Rita’s 2024 anniversary release identifies Tumolo as a former Philadelphia firefighter who opened the first shop in May 1984. It describes his work on an Italian-ice recipe. This is a company-published retrospective carried by a press-release service, and it is used as an attributed account of the brand’s beginning.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The early operation involved other people",
+        "text": "The 2011 acquisition announcement describes Tumolo working alongside his mother Elizabeth and brother John, making and selling Italian ice through a small porch window. Keeping those contributors in the history avoids suggesting that a founder-focused profile is a complete account of everyone involved in the initial operation.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A later transaction belongs on a separate timeline",
+        "text": "The acquisition announcement records Falconhead Capital’s acquisition of Rita’s Franchise Company in 2011. That is a corporate event long after the original Bensalem shop. It should not be confused with the 1984 founding or used to infer the terms of Tumolo’s own holdings at any later date.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Read a historical founder record for what it establishes",
+        "text": "The two announcements support the origin story and a dated corporate transition. They are not an audit of current ownership, franchise performance or the quality of individual shops. Readers evaluating an operating location or business opportunity need current, transaction-specific information. This entry makes no earnings projection, assigns no present executive role to Tumolo and omits unnecessary personal and financial details.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain the Bensalem opening date and early contributors.",
+      "Separate brand history from later corporate acquisitions.",
+      "Use current documents for a present franchise or supplier decision."
+    ],
+    "sources": [
+      {
+        "title": "Rita’s — company anniversary release, May 2024",
+        "url": "https://www.prnewswire.com/news-releases/ritas-launches-40th-birthday-celebration-sweepstakes-including-a-trip-to-italy-or-iceland-or-ritas-for-a-year-302129464.html"
+      },
+      {
+        "title": "Falconhead Capital — Rita’s acquisition announcement, 2011",
+        "url": "https://www.prnewswire.com/news-releases/falconhead-capital-acquires-ritas-franchise-company-nations-largest-italian-ice-concept-134836243.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "christopher-aker-linode",
+    "name": "Christopher Aker",
+    "company": "Linode",
+    "website": "https://www.akamai.com/",
+    "role": "Historical founder and CEO of Linode in the February 2022 acquisition announcement; no current executive title is asserted.",
+    "founding": "Aker’s February 2022 statement says Linode began 19 years earlier; Akamai announced completion of the acquisition on March 21, 2022.",
+    "intro": "Christopher Aker founded Linode, the cloud-computing business later acquired by Akamai. The acquisition announcement includes Aker’s own description of its early purpose. Akamai’s affiliate information supplies a Philadelphia company connection, while the transaction announcements make clear that the historical founder role should not be confused with a current ownership claim.",
+    "sections": [
+      {
+        "title": "The founder’s description of the original purpose",
+        "text": "In Akamai’s February 2022 announcement, Aker is identified as Linode’s founder and CEO. He says the business began 19 years earlier to make cloud computing easier to access. That statement supplies a dated first-person account. It is not treated as independent proof of comparative affordability, reliability or technical superiority.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Announcement and completion are different events",
+        "text": "Akamai announced its agreement to acquire Linode in February and issued a separate completion announcement on March 21, 2022. Keeping those dates separate avoids presenting a proposed transaction as though it had already closed. This profile reports the documented completion without estimating proceeds received by Aker or any other individual.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The Philadelphia connection has its own source",
+        "text": "Akamai’s affiliate listing identifies Linode Limited Liability Company with a Philadelphia registered corporate address. That supports a Pennsylvania business connection, but a registered address alone does not establish the founder’s residence, the location of every employee or the original place of formation. Those different questions should not be collapsed into one geographic label.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Use current service documents for a cloud decision",
+        "text": "The historical record explains why Linode and Akamai appear together in current research. Choosing a service still requires current technical specifications, terms, support scope and workload requirements. This biography does not evaluate those matters or claim that the founder continues in a particular role. Revenue, personal wealth and present equity holdings are outside the evidence assessed here.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the agreement and completion dates separate.",
+      "Treat the Philadelphia address as company context only.",
+      "Do not carry the 2022 CEO title forward without fresh evidence."
+    ],
+    "sources": [
+      {
+        "title": "Akamai — Linode acquisition agreement announcement, February 15, 2022",
+        "url": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-acquire-linode-provide-businesses-developer-friendly-and"
+      },
+      {
+        "title": "Akamai — completion announcement, March 21, 2022",
+        "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode"
+      },
+      {
+        "title": "Akamai — affiliate listing, reviewed November 21, 2026",
+        "url": "https://www.akamai.com/company/akamai-affiliates"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "arkadiy-dobkin-epam",
+    "name": "Arkadiy Dobkin",
+    "company": "EPAM",
+    "website": "https://www.epam.com/",
+    "role": "Principal Founder and Executive Chairman on EPAM’s biography reviewed November 21, 2026.",
+    "founding": "EPAM’s biography dates its inception to 1993 and describes a New Jersey origin; current investor materials identify its Newtown, Pennsylvania headquarters.",
+    "intro": "Arkadiy Dobkin is EPAM’s principal founder and Executive Chairman. The company’s current biography distinguishes that role from his long tenure as CEO, which ended in September 2025. Its Pennsylvania headquarters and New Jersey origin also belong to different points in the company’s history and should be described separately.",
+    "sections": [
+      {
+        "title": "A founder associated with product engineering",
+        "text": "EPAM’s biography dates the business to 1993 and describes its development from a New Jersey startup with Eastern European roots. It connects Dobkin’s work with software product engineering and broader technology services. The profile uses that history to identify the company’s field, without adopting promotional rankings or financial measures.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A transition with a specified effective date",
+        "text": "EPAM’s May 8, 2025 announcement stated that Dobkin would become Executive Chairman on September 1, 2025, with Balazs Fejes becoming CEO and President. The current biography uses the Executive Chairman title. Together, the announcement and present page support a completed leadership transition rather than a continuing claim that Dobkin is CEO.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "What the Pennsylvania connection establishes",
+        "text": "The investor overview identifies EPAM’s headquarters in Newtown, Pennsylvania. That is distinct from the New Jersey origin described in the founder biography. Neither fact establishes Dobkin’s personal residence or the location where every part of the company operates. The entry treats geography as dated corporate context, not as personal information.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Read a current title alongside its historical source",
+        "text": "Older articles may continue to describe Dobkin as founder and CEO. A directory reader should retain their publication dates and use the later transition record when a current role matters. This biography makes no assertion about personal wealth, equity percentage or customer outcomes. It offers a source trail for distinguishing a founding association, an executive succession and a present corporate location.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use Executive Chairman for the reviewed current role.",
+      "Date older CEO references as historical.",
+      "Distinguish New Jersey inception from Newtown headquarters."
+    ],
+    "sources": [
+      {
+        "title": "EPAM — Arkadiy Dobkin biography, reviewed November 21, 2026",
+        "url": "https://www.epam.com/about/who-we-are/leadership/board-of-directors/arkadiy-dobkin"
+      },
+      {
+        "title": "EPAM — planned leadership succession, May 8, 2025",
+        "url": "https://www.epam.com/about/newsroom/press-releases/2025/epam-announces-planned-leadership-succession"
+      },
+      {
+        "title": "EPAM — investor overview, reviewed November 21, 2026",
+        "url": "https://investors.epam.com/overview/default.aspx"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
