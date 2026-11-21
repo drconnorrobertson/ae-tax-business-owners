@@ -3,11 +3,23 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 const root=path.resolve(import.meta.dirname,'..'), dist=path.join(root,'dist');
 const owners=JSON.parse(fs.readFileSync(path.join(root,'data/owners.json'),'utf8'));
+// Old links must retain a unique destination while the public index uses clean names.
+const personMoves=JSON.parse(fs.readFileSync(path.join(root,'data/person-url-migration.json'),'utf8'));
+assert.equal(new Set(personMoves.map(x=>x.source)).size,personMoves.length,'Unique legacy person URLs');
+assert.equal(new Set(personMoves.map(x=>x.destination)).size,personMoves.length,'No name collisions');
+for(const move of personMoves){
+ assert(/-q\d+\/$/.test(move.source),'Migration records the old dataset URL');
+ assert(!/-q\d+\/$/.test(move.destination),'Person destination has no dataset suffix');
+ assert(!fs.existsSync(path.join(dist,move.source,'index.html')),'Old URL must redirect, not duplicate the profile');
+ const page=fs.readFileSync(path.join(dist,move.destination,'index.html'),'utf8');
+ assert(page.includes('rel="canonical" href="https://businessownerindex.com'+move.destination+'"'),'Canonical follows the moved person');
+}
 const walk=p=>fs.readdirSync(p,{withFileTypes:true}).flatMap(f=>f.isDirectory()?walk(path.join(p,f.name)):[path.join(p,f.name)]);
 const files=walk(dist), html=files.filter(p=>p.endsWith('.html'));
 const titles=new Set(),canonical=new Set(),indexable=new Set();
 for(const p of html){
  const text=fs.readFileSync(p,'utf8');
+ assert(!/(?:\/owners\/|\/founder-reference\/people\/)[a-z0-9-]+-q\d+\//.test(text),`No legacy person URLs in rendered links/schema: ${p}`);
  assert.equal((text.match(/<h1[ >]/g)||[]).length,1,`One h1: ${p}`);
  if(p.endsWith('/404.html'))continue;
  const title=text.match(/<title>(.*?)<\/title>/)?.[1],url=text.match(/rel="canonical" href="([^"]+)"/)?.[1];
@@ -41,12 +53,12 @@ assert.deepEqual(seaWorld.verifiedFounders,['George Millay','Milt Shedd','Ken No
 assert.equal(seaWorld.founderSource,'https://unitedparks.com/about-us/history/');
 assert(!seaWorld.founders.includes('Q191530'),'Rejected founder relationship reintroduced');
 assert(!byPerson.has('Q191530'),'Withdrawn founder remains in active library');
-const notice=fs.readFileSync(path.join(dist,'founder-reference/people/abdullah-calan-q191530/index.html'),'utf8');
+const notice=fs.readFileSync(path.join(dist,'founder-reference/people/abdullah-calan/index.html'),'utf8');
 assert(notice.includes('noindex,follow')&&!notice.includes('founder of SeaWorld'),'Invalid association remains indexable');
-assert(!fs.readFileSync(path.join(dist,'assets/reference-index.json'),'utf8').includes('abdullah-calan-q191530'),'Withdrawn founder remains in search');
+assert(!fs.readFileSync(path.join(dist,'assets/reference-index.json'),'utf8').includes('abdullah-calan'),'Withdrawn founder remains in search');
 console.log('PASS: primary-source SeaWorld founders, withdrawn noindex notice, and search exclusion.');
 
-for(const [companyId,personId,slug] of [['Q7692139','Q11887','william-rowan-hamilton-q11887'],['Q122166924','Q154145','gabriel-marcel-q154145']]){
+for(const [companyId,personId,slug] of [['Q7692139','Q11887','william-rowan-hamilton'],['Q122166924','Q154145','gabriel-marcel']]){
  const company=byCompany.get(companyId);
  assert(company.verifiedHistory?.source.startsWith('https://'),'Correction must retain primary source');
  assert(!company.founders.includes(personId)&&!byPerson.has(personId),'Unrelated historical person reintroduced');
@@ -58,7 +70,7 @@ assert.deepEqual(byCompany.get('Q7692139').verifiedFounders,['Bill Hamilton']);
 assert.equal(byCompany.get('Q122166924').verifiedFounders.length,0,'Division executives must not be relabeled founders');
 console.log('PASS: TechSmith and Hasbro identity corrections, sources, notices and search exclusion.');
 
-for(const [id,bad,slug] of [['Q463261','Q11571','cristiano-ronaldo-q11571'],['Q1902277','Q16189311','david-huntley-q16189311'],['Q106170','Q126945434','thomas-riggs-sr-q126945434']]){
+for(const [id,bad,slug] of [['Q463261','Q11571','cristiano-ronaldo'],['Q1902277','Q16189311','david-huntley'],['Q106170','Q126945434','thomas-riggs-sr']]){
  const company=byCompany.get(id);assert(company.verifiedHistory?.source.startsWith('https://'));assert(!company.founders.includes(bad)&&!byPerson.has(bad),'Mistaken founder identity reintroduced');
  const notice=fs.readFileSync(path.join(dist,'founder-reference/people',slug,'index.html'),'utf8');assert(notice.includes('noindex,follow'));
  assert(!fs.readFileSync(path.join(dist,'assets/reference-index.json'),'utf8').includes(slug),'Withdrawn identity in search');
