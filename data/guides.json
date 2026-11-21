@@ -3116,5 +3116,1205 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 4
+  },
+  {
+    "slug": "critical-supplier-dependency-map",
+    "title": "Map critical supplier dependencies before a disruption",
+    "description": "Connect important suppliers to products, systems, replacement options and the cash consequences of an interruption.",
+    "intro": "A list of the largest vendors does not necessarily identify the suppliers whose interruption would stop the business. A low-cost component, a specialist service or a single software connection can be essential. Build a dependency map around the work the business must continue doing. The map should identify evidence, owners and practical alternatives rather than assigning a reassuring score with no operational explanation.",
+    "sections": [
+      {
+        "title": "Start with essential outputs",
+        "text": "List the products, services and internal processes that must continue during an interruption. Ask the people doing the work which outside inputs they need and when. Connect suppliers to those outputs rather than starting only with the accounts-payable ranking. Record the minimum viable service level; maintaining every normal feature may require a different plan from keeping essential customer work moving."
+      },
+      {
+        "title": "Identify the actual dependency",
+        "text": "For each supplier, describe the specific material, system access, knowledge or approval it provides. Identify any subcontractor or platform dependency that is visible in the arrangement. Do not assume two vendors are independent if both rely on the same upstream source. Where that information is unavailable, record the uncertainty and who will ask rather than treating an empty field as low risk."
+      },
+      {
+        "title": "Estimate the interruption window",
+        "text": "Record how long existing inventory, manual procedures or available staff could sustain operations. Use current quantities and tested procedures where possible. Separate a confirmed buffer from an estimate. In a fictional assembly business, a three-week stock cover is not a three-week recovery guarantee if the stock is already committed to customer orders or cannot replace every required variant."
+      },
+      {
+        "title": "Evaluate realistic alternatives",
+        "text": "Identify substitute suppliers, different specifications and temporary workarounds. Ask operations to confirm suitability and purchasing to confirm current availability. Include qualification, setup, transport and minimum-order requirements. A vendor appearing in an online search is a candidate, not an immediately usable backup. Preserve the date of each check because an alternative available last year may no longer have capacity."
+      },
+      {
+        "title": "Connect the response to cash",
+        "text": "Estimate the timing of emergency purchases, expedited delivery, customer delays and other relevant outflows. Keep scenario assumptions separate from known commitments. Compare that timing with available cash and agreed funding arrangements. Avoid claiming the map measures every financial consequence; it should reveal the first decisions and information needed when an interruption occurs."
+      },
+      {
+        "title": "Assign maintenance and testing",
+        "text": "Name the owner of each dependency and the person authorized to activate a response. Review changes in supplier ownership, contracts, systems and order volumes. Test one practical workaround where appropriate and record what failed. A concise map that staff can use is more valuable than a long document whose contacts and assumptions are never refreshed."
+      }
+    ],
+    "checklist": [
+      "Essential outputs and supplier links",
+      "Documented buffers and uncertainties",
+      "Qualified alternatives and lead times",
+      "Scenario cash needs",
+      "Named response owner and review date"
+    ],
+    "questions": [
+      "Which inexpensive input could stop delivery?",
+      "Are backup suppliers genuinely independent?",
+      "When was the proposed workaround last checked?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "supplier-lead-time-variability-review",
+    "title": "Review supplier lead-time variability before resetting reorder points",
+    "description": "Measure promised and actual delivery timing, partial receipts and planning assumptions for purchased items.",
+    "intro": "A supplier’s typical lead time can hide the late orders that cause missed production or emergency freight. Review the distribution of actual delivery experiences before changing purchasing assumptions. This guide organizes operational evidence; it does not prescribe a universal inventory formula. The right buffer depends on demand, service commitments, cash, storage and the consequences of being short of a particular item.",
+    "sections": [
+      {
+        "title": "Use consistent start and finish events",
+        "text": "Define when the lead-time clock starts and stops. Order approval, supplier acknowledgement, shipment and usable receipt are different events. Choose definitions appropriate to the planning decision and retain the original timestamps. If an order sat internally for a week before release, identify that delay separately instead of attributing the entire elapsed period to the supplier."
+      },
+      {
+        "title": "Separate order types and exceptions",
+        "text": "Group comparable products, transport methods and order sizes. Record partial deliveries, quality holds and requested changes. A rush order purchased at extra cost should not silently define normal lead time. Equally, removing every late delivery as an exception can make the historical record falsely optimistic. Explain exclusions and keep a view of the full experience."
+      },
+      {
+        "title": "Compare promises with actual receipts",
+        "text": "Match each acknowledgement to the quantity and date actually available for use. Distinguish a revised promise from the original one. For a fictional set of ten orders, nine arriving in two weeks and one arriving in six weeks tells a different planning story from an unsupported statement that delivery takes about two weeks. Preserve the late-order reason where verified."
+      },
+      {
+        "title": "Connect delays to operating impact",
+        "text": "Record whether a late receipt caused rescheduling, substitution, overtime, freight or a missed customer commitment. Some items can arrive late without affecting output; others have no practical substitute. Review the impact with operations before prioritizing changes. A supplier score based only on percentage on time may understate the importance of one critical missed delivery."
+      },
+      {
+        "title": "Test the purchasing assumption",
+        "text": "Compare the observed range with the lead time used by the purchasing system. Ask what would happen under a plausible delay and demand scenario. Include cash tied up in additional stock and any storage limits. Have the responsible planner decide how to adjust parameters rather than treating a spreadsheet average as an automatically approved reorder rule."
+      },
+      {
+        "title": "Agree on supplier follow-up",
+        "text": "Share specific discrepancies with the supplier and ask how future commitments will be communicated. Record agreed actions, owners and dates. Review the next comparable orders to see whether the process improved. Keep internal approval and receiving delays visible too, so the business does not purchase extra stock to compensate for an avoidable handoff problem."
+      }
+    ],
+    "checklist": [
+      "Defined timing events",
+      "Comparable orders and exception notes",
+      "Original promises and usable receipts",
+      "Verified operational consequences",
+      "Approved parameter changes and follow-up"
+    ],
+    "questions": [
+      "Which event starts the measured lead time?",
+      "Are late deliveries removed without explanation?",
+      "Would more stock solve the actual source of delay?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "minimum-order-quantity-cash-review",
+    "title": "Compare minimum-order quantities with usage and cash needs",
+    "description": "Evaluate supplier minimums using consumption, storage, purchase timing and the cost of unused stock.",
+    "intro": "A lower unit price can require an order much larger than the business expects to use soon. Before accepting a supplier minimum or volume break, compare the complete purchase with the operating forecast and cash calendar. This is a purchasing review, not a rule that the smallest order is always best. Availability, freight, reliability and the consequences of a shortage also matter.",
+    "sections": [
+      {
+        "title": "Clarify what the minimum applies to",
+        "text": "Record whether the requirement covers a product, size, color, shipment or total order value. Confirm pack sizes and permitted combinations. A catalog quantity can differ from the supplier’s current quote, so keep the written terms and date. Identify special items that cannot be returned or transferred to another customer if plans change."
+      },
+      {
+        "title": "Estimate usable demand",
+        "text": "Review current commitments, expected consumption and existing available stock. Separate confirmed orders from sales assumptions. Check shelf life, product revisions and customer-specific specifications where relevant. An annual demand estimate does not show when stock is needed; a large delivery today may create several months of storage before it supports any customer invoice."
+      },
+      {
+        "title": "Compare complete landed costs",
+        "text": "Include quoted product cost, freight, handling and other relevant charges, using the business’s approved costing approach. In a fictional choice, 100 units at $12 cost $1,200 before extras, while 300 at $10 cost $3,000. The second option lowers unit price but requires $1,800 more cash immediately. It is not automatically the less expensive operating choice."
+      },
+      {
+        "title": "Consider residual-stock scenarios",
+        "text": "Estimate what remains if usage is slower than expected or the specification changes. Identify return rights, resale possibilities and disposal arrangements directly from the relevant parties. Do not assume surplus stock can be sold at its original price. Keep these scenarios visible so a purchasing saving is not reported without considering plausible unused quantities."
+      },
+      {
+        "title": "Ask about alternative arrangements",
+        "text": "Discuss scheduled releases, shared orders, different packaging, deposits or a revised price with the supplier. Confirm whether any arrangement changes the commitment, payment date or responsibility for stored goods. A promise to hold stock is not the same as an uncommitted option to buy later. Route unclear terms to the appropriate commercial adviser."
+      },
+      {
+        "title": "Record the approval and outcome",
+        "text": "Document the selected quantity, assumptions, cash timing and approving person. Compare actual consumption and residual stock with the original review. Use the result to improve later buying decisions rather than judging the purchase only by the negotiated unit price. Keep the supplier quote with the order so future reviewers can understand what was agreed."
+      }
+    ],
+    "checklist": [
+      "Written minimum and pack rules",
+      "Available stock and dated usage forecast",
+      "Complete purchase and cash comparison",
+      "Residual-stock scenarios",
+      "Approval and actual-consumption review"
+    ],
+    "questions": [
+      "How much extra cash buys the unit-price saving?",
+      "When will the additional units be used?",
+      "What happens if demand or specifications change?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "slow-moving-stock-action-register",
+    "title": "Turn slow-moving stock reports into an action register",
+    "description": "Separate low movement, committed inventory, data issues and approved stock decisions.",
+    "intro": "A stock-aging report can identify items worth reviewing, but it cannot explain every reason for low movement. Some goods support a seasonal sale or a contractual service obligation; others are obsolete, miscounted or stored under the wrong code. Turn the report into an action register that links evidence to a decision. Have finance determine any accounting adjustment under the business’s policy.",
+    "sections": [
+      {
+        "title": "Define how movement is measured",
+        "text": "Record the report date, period and events counted as movement. A transfer between warehouses may reset a system field without representing customer demand. Decide whether the review uses sales, consumption or another meaningful event. Retain the original extract and document filters so later reports can be compared using the same basis."
+      },
+      {
+        "title": "Check the physical and system record",
+        "text": "Confirm item identity, quantity, location and condition for material exceptions. Investigate duplicate codes and unposted transactions. A product can appear inactive because sales are recorded under a newer identifier. Ask the inventory owner to resolve these issues before the business discounts usable goods or purchases replacements for stock it already has."
+      },
+      {
+        "title": "Identify committed and strategic quantities",
+        "text": "Connect stock to customer orders, expected service requirements and approved seasonal plans. Record the evidence date and the person responsible for the forecast. Do not label every slow item strategic after the report appears. A documented need should explain the quantity and timing, not merely state that somebody may want it eventually."
+      },
+      {
+        "title": "Develop item-specific options",
+        "text": "Consider using stock in another product, returning it, adjusting purchases or offering a documented commercial promotion. Check technical suitability and any customer restrictions before proposing substitutions. For a fictional item with 200 units on hand and expected usage of ten per month, a simple twenty-month cover calculation is only a starting point; demand and condition may change."
+      },
+      {
+        "title": "Separate operations and valuation decisions",
+        "text": "Record proposed actions with expected costs, recovery assumptions and approvals. Ask finance to decide whether a valuation adjustment is required and how it should be recorded. An operational decision to retain stock does not by itself establish its accounting value. Preserve the link between the item review and any approved entry."
+      },
+      {
+        "title": "Follow the action through completion",
+        "text": "Assign an owner, due date and status to each decision. Record actual returns, sales, consumption or disposal evidence rather than closing a row when a proposal is discussed. Review recurring causes such as oversized minimum orders or forecast changes. Use that learning in purchasing so the same items do not reappear without a different plan."
+      }
+    ],
+    "checklist": [
+      "Consistent movement definition",
+      "Verified item quantity and condition",
+      "Documented future need",
+      "Approved action and valuation handoff",
+      "Completion evidence and root-cause review"
+    ],
+    "questions": [
+      "Does system movement represent actual demand?",
+      "Who supports the future-use assumption?",
+      "Has the action happened or only been proposed?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "warehouse-transfer-reconciliation",
+    "title": "Reconcile warehouse transfers from dispatch to receipt",
+    "description": "Track in-transit stock, quantity differences and location records without treating internal moves as sales.",
+    "intro": "Moving stock between locations can create mismatches when dispatch and receipt are recorded at different times or in different units. A transfer reconciliation links the two events and shows what remains in transit. It helps operations investigate differences while finance reviews any required entries. This guide concerns movements within a business; transfers between legal entities may require additional professional review.",
+    "sections": [
+      {
+        "title": "Create one transfer reference",
+        "text": "Assign an identifier that appears on the request, dispatch record, shipment and receiving record. List item codes, units, quantities and locations. Avoid relying on matching dates alone when several movements occur together. Identify whether the transfer is a planned replenishment, customer-driven move, return or correction because that context helps investigate exceptions."
+      },
+      {
+        "title": "Record dispatch evidence",
+        "text": "Capture the quantity actually sent, dispatch time, carrier or vehicle reference and responsible person. Keep packing records and any condition notes. Do not use the requested quantity as proof of dispatch. A warehouse may fulfill only part of the request or use an approved substitute, and those differences should be visible before receipt is posted."
+      },
+      {
+        "title": "Confirm receipt independently",
+        "text": "Have the receiving location record what arrived, when and in what condition. Compare units and packaging carefully. For a fictional transfer of five cartons containing twelve units each, a receipt of five units instead of sixty can create a false shortage. Resolve the unit mapping with evidence rather than forcing one system balance to match another."
+      },
+      {
+        "title": "Review stock still in transit",
+        "text": "List transfers dispatched but not fully received at the reporting cutoff. Distinguish genuinely moving goods from missing paperwork or delayed system updates. Record the next action and owner for older items. A long-outstanding transfer should not remain a permanent balancing line without an investigation or an approved resolution."
+      },
+      {
+        "title": "Resolve differences and costs",
+        "text": "Document shortages, damage, over-receipts and authorized substitutions. Connect any transport or handling costs using the business’s approved approach. Ask finance how location and control-account records should reflect the movement. Do not record a sale merely to clear an internal transfer or assume a loss before the receiving evidence has been checked."
+      },
+      {
+        "title": "Close both sides together",
+        "text": "Confirm that dispatch, receipt and any approved correction share the same final quantities. Retain the evidence and identify recurring problems in picking, packaging or data entry. Review the process after system changes or new locations are added. Clear ownership at both ends reduces the need for repeated manual adjustments at month-end."
+      }
+    ],
+    "checklist": [
+      "Shared transfer reference",
+      "Actual dispatch quantities",
+      "Independent receiving record",
+      "Aged in-transit exception list",
+      "Approved corrections on both locations"
+    ],
+    "questions": [
+      "Are dispatch and receipt using the same units?",
+      "Which old transfers lack receiving evidence?",
+      "Have both sides posted the approved correction?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "consignment-stock-custody-register",
+    "title": "Track consignment stock with a custody and movement register",
+    "description": "Separate physical location, reported sales, returns and settlement evidence for consigned goods.",
+    "intro": "Goods held at a customer, dealer or third-party location can be difficult to reconcile when physical custody and financial records live in different systems. A consignment register should link the agreement, movements, counts and settlements without assuming that location alone determines ownership or revenue. Ask the appropriate advisers to interpret the arrangement and decide the accounting treatment.",
+    "sections": [
+      {
+        "title": "Document the applicable arrangement",
+        "text": "Record the parties, agreement version, covered products and locations. Identify who reports movement, who authorizes returns and how statements are supplied. Keep uncertain terms as questions for qualified review. Do not import assumptions from another customer’s arrangement simply because both use the word consignment."
+      },
+      {
+        "title": "Establish the opening position",
+        "text": "Agree on a dated opening quantity by item and location using delivery records, prior statements and available counts. Identify disputed balances separately. A historical spreadsheet total should not become the starting point merely because it is convenient. Preserve the reconciliation that explains how the opening position was established."
+      },
+      {
+        "title": "Track every movement category",
+        "text": "Record deliveries, reported customer sales or usage, returns, transfers and approved adjustments against the same item identifiers. Keep physical quantities separate from monetary settlements. For a fictional location starting with 40 units, receiving 20 and reporting 15 sold leaves an expected 45 before other movements. That calculation is a reconciliation target, not proof of an actual count."
+      },
+      {
+        "title": "Compare statements with physical evidence",
+        "text": "Review periodic third-party statements and count confirmations where available under the arrangement. Investigate differences in reporting periods, units and product codes. Record whether a statement reflects activity date or posting date. Avoid resolving a discrepancy by changing quantities without explaining the source and obtaining the required approval."
+      },
+      {
+        "title": "Link settlement to the agreed activity",
+        "text": "Match invoices, payments, deductions and credits to the activity they settle. Confirm what remains unpaid or unreported. Have finance review the timing and classification of entries. A payment may cover an earlier period, so it should not be used as the sole measure of current stock movement or current-period revenue."
+      },
+      {
+        "title": "Review aging and exit plans",
+        "text": "Identify locations with old stock, missing reports or unresolved balances. Assign follow-up and consider the practical steps for returning or counting goods when an arrangement ends. Document condition and transport responsibilities directly with the parties. Keep the final custody and financial reconciliation so the business does not lose visibility during a change of dealer or provider. If a statement reports only value, request the quantity detail needed to investigate product-level differences."
+      }
+    ],
+    "checklist": [
+      "Agreement and location register",
+      "Supported opening quantities",
+      "Dated movement categories",
+      "Statements and count exceptions",
+      "Settlement links and exit responsibilities"
+    ],
+    "questions": [
+      "What does the actual agreement require?",
+      "Does the movement rollforward match the latest evidence?",
+      "Which old balances remain unconfirmed?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "equipment-lease-end-readiness",
+    "title": "Prepare an equipment lease-end review before the final invoice",
+    "description": "Organize notice dates, return conditions, location, condition and transition costs for leased equipment.",
+    "intro": "The end of a lease can require decisions well before the last scheduled payment. Returning, renewing, replacing or discussing a purchase can affect operations and cash differently. Build a readiness file from the actual agreement and equipment records. This guide does not interpret lease rights, determine accounting classification or recommend a particular financing option.",
+    "sections": [
+      {
+        "title": "Identify the equipment and agreement",
+        "text": "Record each asset identifier, location, user, agreement version and supplier contact. Link amendments and any changes in equipment. Confirm that the schedule covers everything still held by the business. A payment description may refer to a group of assets rather than the item staff can see at one location."
+      },
+      {
+        "title": "Extract dates and unresolved terms",
+        "text": "List end dates, stated notice provisions and any decision deadlines for review by the responsible person. Distinguish a payment date from a notice or return date. If language is unclear, obtain clarification or qualified advice promptly. Do not assume that silence ends the arrangement or that another lease uses the same conditions."
+      },
+      {
+        "title": "Assess the operational replacement need",
+        "text": "Ask users what work the equipment supports and what would happen if it were unavailable. Identify data, connections, training and accessories needed for a replacement. For a fictional leased copier, removing the device may also require transferring stored settings and arranging print access for staff. The equipment return and operating transition should be planned together."
+      },
+      {
+        "title": "Inspect condition and return logistics",
+        "text": "Review documented return requirements with the provider, then arrange an appropriate inspection. Record missing accessories, transport needs, packaging and site access. Do not estimate a damage charge as certain before the provider assesses it. Keep condition evidence and written instructions so a later invoice can be checked against the agreed process."
+      },
+      {
+        "title": "Compare cash scenarios",
+        "text": "List remaining payments and quoted costs for the realistic options. Separate confirmed charges from assumptions about renewal, transport or replacement. Include the timing of deposits and installation, not just a monthly equivalent. Have finance and the appropriate adviser review the complete arrangement before presenting one option as cheaper."
+      },
+      {
+        "title": "Close accounts and access",
+        "text": "After the chosen action, retain collection or delivery evidence, the final statement and any confirmation that obligations have been settled. Remove device access through the approved technical process where relevant. Check that recurring payments or service charges match the outcome. An empty office space is not evidence that every associated account has been closed."
+      }
+    ],
+    "checklist": [
+      "Asset and agreement schedule",
+      "Reviewed notice and return dates",
+      "Operational transition plan",
+      "Condition and logistics evidence",
+      "Final statement and account closure"
+    ],
+    "questions": [
+      "What decision is required before the end date?",
+      "Which replacement tasks affect operations?",
+      "What evidence closes the equipment and payment records?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "service-vendor-performance-review",
+    "title": "Review a service vendor using evidence and agreed responsibilities",
+    "description": "Connect service commitments, incidents, invoices and improvement actions before renewing a vendor relationship.",
+    "intro": "A vendor review can become a collection of recent frustrations unless it starts with the work actually agreed. Use a repeatable evidence file to discuss performance, cost and future needs. The aim is a clear decision about the relationship, not an unsupported quality ranking. Contract interpretation and disputes should be handled through the appropriate business and professional channels.",
+    "sections": [
+      {
+        "title": "Define the reviewed service period",
+        "text": "Record the agreement, scope changes, reporting period and internal service owner. List the commitments that can be assessed from available evidence. Separate vendor responsibilities from tasks retained by staff. A missed outcome may involve a dependency the business owns, and the review should identify that rather than attributing every issue to the supplier."
+      },
+      {
+        "title": "Collect comparable operational evidence",
+        "text": "Use service logs, deliveries, response records and agreed reports. State how each measure is calculated and what data is missing. Do not compare a busy seasonal month with a quiet month without context. A small number of incidents may still be significant if they affected an essential process, so include consequence as well as frequency."
+      },
+      {
+        "title": "Review issues and their resolution",
+        "text": "Record the issue, impact, notification date, response and final outcome. Distinguish acknowledgement from resolution. For a fictional provider promising a same-day response, an email receipt may satisfy neither the business’s expectation nor a separate repair timeline. Have the review explain the distinction without inventing a commitment absent from the agreement."
+      },
+      {
+        "title": "Connect the service to total cost",
+        "text": "Reconcile recurring fees, extras, credits and internal time spent managing exceptions. Keep estimated staff costs labeled as estimates with stated assumptions. A lower invoice can coexist with more coordination work, while a higher fee may include tasks previously performed in-house. Compare the complete work before describing the relationship as cheaper or more expensive."
+      },
+      {
+        "title": "Agree on a practical improvement plan",
+        "text": "Select a few specific actions with owners, dates and evidence of completion. Include changes the business itself must make. Avoid a vague promise to communicate better. If the relationship is being renewed, record the scope and assumptions that should carry into the new proposal rather than relying on meeting notes alone."
+      },
+      {
+        "title": "Make the decision reviewable",
+        "text": "Summarize what is working, unresolved risks, alternatives and transition needs. Confirm notice and exit questions with the appropriate reviewer. Preserve the evidence behind the decision so a later manager can understand it. Review the agreed improvements before the next renewal cycle, while there is still time to act on the result."
+      }
+    ],
+    "checklist": [
+      "Defined scope and review period",
+      "Consistent measures and incident evidence",
+      "Fee and internal-work comparison",
+      "Owned improvement actions",
+      "Documented renewal or transition decision"
+    ],
+    "questions": [
+      "Which responsibilities belong to the business?",
+      "Are responses being confused with resolutions?",
+      "What evidence would show that the improvement worked?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "customer-onboarding-to-billing-handoff",
+    "title": "Connect customer onboarding to a reliable first invoice",
+    "description": "Hand off signed scope, customer details, purchase orders and billing conditions before delivery begins.",
+    "intro": "A new customer can be ready to receive work while finance still lacks the information needed to invoice. That gap can delay cash and create avoidable disputes. Use an onboarding-to-billing handoff that connects the commercial promise with the actual billing process. The goal is not more paperwork for its own sake; it is to make the first invoice understandable, authorized and deliverable.",
+    "sections": [
+      {
+        "title": "Start with the agreed commercial record",
+        "text": "Link the signed agreement, approved quote and relevant change documents to a stable customer identifier. Record the legal billing name separately from the everyday contact name. Identify what has been agreed and what is still a proposal. Do not let a sales-system stage substitute for evidence that the customer accepted the scope or payment arrangement."
+      },
+      {
+        "title": "Capture the customer’s invoice route",
+        "text": "Confirm the billing contact, required portal, purchase-order reference, invoice format and supporting documents. Ask who can resolve rejections. A familiar project contact may not be the person able to approve payment. Record the source and date of the instructions, and verify sensitive changes through the business’s established independent process."
+      },
+      {
+        "title": "Translate scope into billable events",
+        "text": "List the service periods, milestones, units or other events that trigger billing under the actual arrangement. Assign an owner to confirm each event. For a fictional project with a deposit and a completion balance, two invoices may require different evidence. Do not assume that starting work automatically permits the full amount to be billed."
+      },
+      {
+        "title": "Check operational and finance readiness together",
+        "text": "Before the first delivery, review the customer setup with the people responsible for sales, operations and finance. Identify missing addresses, tax-related inputs requiring professional review, credit approvals and unresolved terms. Keep questions with a named owner. A checklist should reveal a gap early rather than create a false impression that a customer is ready because every box was ticked."
+      },
+      {
+        "title": "Track the first invoice through acceptance",
+        "text": "Record invoice creation, submission, customer acknowledgement and any rejection. Resolve missing references or supporting documents promptly. An invoice marked sent in accounting software may not have reached the customer’s required channel. Preserve corrections and credit references rather than issuing duplicate invoices without an explanation."
+      },
+      {
+        "title": "Review the initial collection",
+        "text": "Compare the first expected collection date with actual receipt and explain material differences. Update the customer record when a repeatable requirement is learned. Use the experience to improve onboarding for the next customer. Do not assume later invoices will follow the same route if the customer changes its purchasing system, entity or approving team."
+      }
+    ],
+    "checklist": [
+      "Agreed scope and customer identity",
+      "Verified invoice-routing instructions",
+      "Billable events and responsible owners",
+      "First-invoice acceptance evidence",
+      "Collection outcome and setup corrections"
+    ],
+    "questions": [
+      "Can finance explain what triggers the first invoice?",
+      "Who handles a customer rejection?",
+      "Did the invoice reach the required channel?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "sales-commission-reconciliation-file",
+    "title": "Reconcile sales commissions to the approved plan and source records",
+    "description": "Build a review file for eligible sales, adjustments, calculated commissions and approved payments.",
+    "intro": "Commission disputes often arise because different teams use different versions of the plan or different sales populations. A reconciliation file should show the applicable rules, transaction evidence, calculation and approval. This guide does not interpret employment law or decide an entitlement. Have the appropriate professional review legal questions and keep the operational calculation traceable to the approved arrangement.",
+    "sections": [
+      {
+        "title": "Identify the applicable plan version",
+        "text": "Record the person or team, effective period, approved plan and amendments. Clarify which document governs the calculation before using a spreadsheet inherited from a prior year. Identify unresolved terms and route them for review. Do not replace ambiguity with an assumption simply because a payroll deadline is approaching."
+      },
+      {
+        "title": "Build the eligible transaction population",
+        "text": "Link sales, invoices, collections or other events according to the actual plan’s definition. Record source-system identifiers and cutoff dates. A sales booking may differ from an invoiced or collected amount. Keep excluded transactions with a reason so the total can be reconciled without hiding items that another team expected to see."
+      },
+      {
+        "title": "Document the calculation",
+        "text": "Show the relevant base, rate or tier, period and rounding method. For a fictional arrangement explicitly paying three percent of $20,000 in eligible collections, the calculation is $600 before other approved adjustments. The example does not establish a standard rate. Keep the formula visible and protect approved inputs from accidental replacement."
+      },
+      {
+        "title": "Review adjustments separately",
+        "text": "List returns, credits, cancellations, split sales and prior-period corrections with supporting references. Confirm their treatment under the governing plan rather than applying a generic clawback rule. A correction to the original sale should not silently change a paid commission without an explanation and appropriate approval. Preserve the original calculation for comparison."
+      },
+      {
+        "title": "Reconcile approval and payment",
+        "text": "Have an authorized reviewer sign off on the period total and unresolved items. Match the approved amount to payroll or the relevant payment process. Record timing differences and avoid counting a later payment as a second earning event. Retain a clear connection between the calculation version, approval and payment reference."
+      },
+      {
+        "title": "Use disputes to improve the process",
+        "text": "Track questions by cause, such as missing data, unclear definitions or late credits. Resolve them through the appropriate channel and document the outcome. Update future instructions only with authorization. A transparent file supports consistent communication; it should not expose one employee’s confidential compensation details to people who do not need them."
+      }
+    ],
+    "checklist": [
+      "Approved plan and effective dates",
+      "Eligible transaction extract",
+      "Visible calculations and adjustment reasons",
+      "Authorized period approval",
+      "Payment and dispute references"
+    ],
+    "questions": [
+      "Which event makes a transaction eligible?",
+      "Are corrections being applied under the actual plan?",
+      "Can the paid amount be traced to one approved calculation?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "business-card-expense-exception-review",
+    "title": "Review business card expense exceptions without losing the evidence",
+    "description": "Connect card charges, receipts, business explanations and approved corrections in a consistent exception process.",
+    "intro": "Card transactions can arrive before a receipt, job code or useful business explanation. An exception process should help staff resolve those gaps while keeping the original charge visible. It should not turn a missing document into an invented one or substitute for the business’s expense policy. The finance reviewer should determine any accounting or tax treatment that remains uncertain.",
+    "sections": [
+      {
+        "title": "Define the exception categories",
+        "text": "Use clear categories for missing receipt, unclear purpose, duplicate charge, disputed amount or incorrect coding. Record the transaction identifier, cardholder and date. Keep the categories operational rather than accusatory. A charge appearing unusual is a reason to investigate, not proof of misconduct or evidence that it is automatically a business deduction."
+      },
+      {
+        "title": "Preserve the original transaction",
+        "text": "Retain the statement or processor record and connect later evidence to it. Do not edit the amount or merchant description to make a charge easier to explain. A pending authorization may differ from the settled charge, so identify which record is being reviewed. Reconcile the final transaction before closing the exception."
+      },
+      {
+        "title": "Request a specific explanation",
+        "text": "Ask for the business purpose, relevant project or department, attendees where appropriate, and available supporting material. Give the cardholder a practical deadline and a secure submission route. A vague request to fix expenses may produce incomplete answers. Avoid collecting personal information beyond what the review actually requires."
+      },
+      {
+        "title": "Separate coding from eligibility decisions",
+        "text": "A department or project code can be corrected without resolving whether the charge is allowable under policy. Record those decisions separately. For a fictional $240 hotel charge split between two approved projects, the coding allocation still needs a basis and does not by itself establish the expense’s tax treatment or approval status."
+      },
+      {
+        "title": "Track disputes and recoveries",
+        "text": "Record merchant disputes, refunds, duplicate reversals and any repayment process through the proper channel. Match the actual credit to the original charge. A promise of a refund is not a settled recovery, and closing the card does not necessarily resolve an existing dispute. Keep the open amount and next action visible."
+      },
+      {
+        "title": "Close with a review trail",
+        "text": "Name the reviewer, resolution date and supporting references. Reconcile the exception register with the card account and accounting entries. Examine recurring causes such as poor receipt capture or confusing policy instructions. Improve the process without weakening the requirement to preserve evidence and make authorized decisions. Assign repeated missing-information issues to a policy owner instead of leaving them permanently unresolved in the ledger."
+      }
+    ],
+    "checklist": [
+      "Defined exception reason",
+      "Original settled charge",
+      "Specific business explanation",
+      "Separate coding and approval decisions",
+      "Matched credits and reviewer sign-off"
+    ],
+    "questions": [
+      "What evidence is missing rather than assumed?",
+      "Has the charge settled at the reviewed amount?",
+      "Is a promised refund actually received?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "corporate-card-offboarding-checklist",
+    "title": "Close corporate-card access without missing recurring charges",
+    "description": "Map cardholders, stored payments, pending transactions and account closure evidence during offboarding.",
+    "intro": "Removing a cardholder can affect subscriptions, travel bookings, refunds and expense records long after a physical card is returned. An offboarding checklist should coordinate access, payment continuity and reconciliation. Follow the card issuer’s process and the business’s authorized personnel procedures. The checklist organizes the handoff; it does not establish a universal rule about an employee’s liability or final pay.",
+    "sections": [
+      {
+        "title": "Inventory the card relationship",
+        "text": "Record the issuer, account reference, cardholder, administrator and authorized users without placing full card details in an unsecured document. Distinguish a physical card from virtual cards and stored payment tokens. Confirm who is authorized to request changes. A returned piece of plastic does not prove every route to spending has been removed."
+      },
+      {
+        "title": "Find dependent recurring payments",
+        "text": "Review recent charges and business records for subscriptions, supplier accounts and recurring services. Assign a service owner to decide whether each payment should continue, move or end. Do not cancel a critical service simply because its cardholder is leaving. Verify the replacement payment method and keep the service transition separate from the personnel decision."
+      },
+      {
+        "title": "Review open bookings and authorizations",
+        "text": "Identify travel, deposits, pending authorizations and transactions not yet settled. Record who will handle later changes or credits. A fictional refundable booking may produce a credit after access is removed, so finance still needs the reference and follow-up owner. Do not assume every pending item will settle at the amount first displayed."
+      },
+      {
+        "title": "Use the issuer’s authorized controls",
+        "text": "Have the responsible administrator apply the appropriate suspension, limit change or closure process. Keep confirmation and effective dates. Review associated virtual cards and account access rather than relying on one user record. Where instructions are unclear, contact the issuer through an established channel and avoid sending sensitive account information through an informal request."
+      },
+      {
+        "title": "Complete the expense and balance handoff",
+        "text": "Collect outstanding business explanations and available receipts using the approved process. Reconcile final charges, credits and any amounts requiring review. Preserve records even if the user profile is disabled. Card access changes should not erase the trail needed to understand historical transactions or respond to an issuer question."
+      },
+      {
+        "title": "Verify the outcome after closure",
+        "text": "Check the next statement for unexpected recurring charges, refunds and residual balances. Confirm that required services continued under the correct owner. Document remaining exceptions and their deadlines. A completed offboarding form should identify actual confirmations, not merely record that someone asked for the account to be closed."
+      }
+    ],
+    "checklist": [
+      "Card and virtual-access inventory",
+      "Recurring-service owners",
+      "Pending booking and refund references",
+      "Issuer confirmation and effective date",
+      "Final statement and exception follow-up"
+    ],
+    "questions": [
+      "Which essential services depend on this payment method?",
+      "Could credits arrive after closure?",
+      "What confirmation proves access was removed?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "contractor-system-access-handoff",
+    "title": "Review contractor system access when a project ends",
+    "description": "Connect approved accounts, data handoffs and access removal to the actual end of outsourced work.",
+    "intro": "A contractor may have access to cloud files, software, shared credentials and client systems that outlast a project. An access handoff should preserve business records while removing permissions that are no longer needed. NIST’s small-business guidance provides background on assigning cybersecurity responsibilities. The workflow here is an operational checklist, not a security assessment or a guarantee that access has been eliminated.",
+    "sections": [
+      {
+        "title": "Build an access inventory early",
+        "text": "Record approved systems, account owners, access levels and the business purpose of each permission. Include shared folders, support portals, service accounts and customer-provided access that the business knows about. Do not store passwords in the inventory. Waiting until the final day makes it harder to discover access that was granted informally during the project."
+      },
+      {
+        "title": "Define the authorized end state",
+        "text": "Ask the project owner what work remains and which access, if any, is still required. Set an explicit end date or review date for temporary extensions. Keep the decision with someone authorized to approve it. An unpaid invoice, a friendly relationship or a possibility of future work should not silently become an indefinite permission."
+      },
+      {
+        "title": "Preserve deliverables and business records",
+        "text": "Confirm that code, design files, documentation, account configurations and agreed working files have reached business-controlled storage. Verify that an authorized person can open and use them. A link in the contractor’s personal account may not be a durable handoff. Record unresolved deliverables separately from access-removal tasks so neither disappears from view."
+      },
+      {
+        "title": "Apply removal through system owners",
+        "text": "Have the responsible administrators remove or adjust accounts, group memberships and permissions through the normal process. Review shared secrets and third-party integrations where relevant to the arrangement. Do not assume disabling one email account automatically revokes every external permission. Keep confirmations and escalation notes without exposing credentials in the review record."
+      },
+      {
+        "title": "Check dependencies and continuing operations",
+        "text": "Identify scheduled jobs, support notifications and processes tied to the contractor’s account. For a fictional website project, an automated renewal or deployment may fail if it depends on an account nobody else controls. Transfer legitimate business dependencies through an approved process before removing access, while avoiding unnecessary continued permissions."
+      },
+      {
+        "title": "Confirm the final handoff",
+        "text": "Record who verified deliverable access, who completed each system change and what remains unresolved. Follow the organization’s data-return or deletion requirements with qualified advice as needed. Review lessons for the next engagement so access is purpose-limited and inventoried from the start rather than reconstructed after the contractor leaves."
+      }
+    ],
+    "checklist": [
+      "Approved account and permission inventory",
+      "Authorized end date and exceptions",
+      "Business-controlled deliverables",
+      "System-owner removal confirmations",
+      "Dependency and final handoff review"
+    ],
+    "questions": [
+      "Can the business use the deliverables without the contractor’s account?",
+      "Which permissions exist outside the main email system?",
+      "Who approved any temporary extension?"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "purchase-order-cancellation-register",
+    "title": "Track purchase-order cancellations through supplier confirmation",
+    "description": "Separate internal cancellation requests, accepted changes, receipts and remaining payment commitments.",
+    "intro": "Deleting a purchase order from an internal list does not establish that the supplier has cancelled the work or that no charge remains. A cancellation register should connect the request with the supplier’s response, physical goods and financial outcome. Use the actual agreement and obtain appropriate advice for disputed terms. This guide is a process for keeping the evidence together.",
+    "sections": [
+      {
+        "title": "Record the original commitment",
+        "text": "Link the purchase order, accepted quote, amendments and current delivery status. Identify the item, quantity, price and requesting department. Keep the original record rather than overwriting it with zero quantities. A future reviewer should be able to see what was ordered before the cancellation or reduction was proposed."
+      },
+      {
+        "title": "Define the requested change",
+        "text": "State whether the business wants a full cancellation, quantity reduction, delay or specification change. Record the reason, request date and approving person. A supplier may agree to one option but not another. Clear instructions reduce the risk that purchasing assumes a cancellation while the supplier treats the message as a request to reschedule delivery."
+      },
+      {
+        "title": "Obtain a documented supplier response",
+        "text": "Track acknowledgement and acceptance separately. Ask about work already performed, shipped goods and any quoted charges. Do not treat an automated email receipt as agreement to cancel. Record unresolved questions and route contract interpretation or disputes to the appropriate commercial or legal reviewer rather than inventing a cancellation entitlement."
+      },
+      {
+        "title": "Reconcile goods and logistics",
+        "text": "Check for shipments already in transit, partial receipts and items held by a subcontractor or warehouse. Arrange returns only under an agreed process. For a fictional order reduced from 100 units to 60, confirm whether the remaining 40 were never produced, will be returned or remain a separate commitment. Those outcomes have different operating consequences."
+      },
+      {
+        "title": "Resolve invoices, deposits and credits",
+        "text": "Match outstanding invoices, prepaid amounts and any agreed credit or refund to the final supplier response. A cancelled order may still have a balance requiring review. Keep expected recoveries separate from amounts received. Ask finance to confirm the entries and ensure that a later invoice does not restart payment without the cancellation context."
+      },
+      {
+        "title": "Close the planning loop",
+        "text": "Update purchasing, inventory and cash forecasts after the outcome is confirmed. Preserve the original commitment and final resolution together. Review why the cancellation arose, especially repeated changes caused by weak demand planning or approval gaps. A complete record ends with the supplier and financial position reconciled, not merely with an internal status marked cancelled."
+      }
+    ],
+    "checklist": [
+      "Original order and amendments",
+      "Authorized change request",
+      "Supplier acceptance and conditions",
+      "Goods or shipment reconciliation",
+      "Final invoices, refunds and planning updates"
+    ],
+    "questions": [
+      "Has the supplier accepted the requested change?",
+      "Could goods already be in transit?",
+      "Which financial commitments remain unresolved?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "fixed-fee-project-scope-change-log",
+    "title": "Protect a fixed-fee project with a clear scope-change log",
+    "description": "Record requested work, delivery effects, approvals and budget changes before the team absorbs extra scope.",
+    "intro": "A fixed fee does not remove the need to understand how project work changes. Small requests can accumulate until the delivery team and customer have different expectations. A scope-change log makes the conversation visible without assuming that every request creates an extra charge. The agreement and authorized commercial decisions determine the outcome; the log preserves the operational evidence.",
+    "sections": [
+      {
+        "title": "Establish a usable baseline",
+        "text": "Record the approved deliverables, assumptions, exclusions, schedule and acceptance process. Link the actual agreement and project plan. Avoid relying on a broad project title to describe what is included. The baseline should be detailed enough that a later request can be compared with it without reconstructing the original sales conversation."
+      },
+      {
+        "title": "Describe the requested change neutrally",
+        "text": "Give each request a stable identifier, date, requester and clear description. Separate the customer’s desired outcome from the team’s proposed implementation. An instruction that sounds minor may require testing, redesign or coordination. Capture enough detail to estimate the effect while avoiding an early promise about price or timing."
+      },
+      {
+        "title": "Assess work and dependencies",
+        "text": "Ask the delivery owner to estimate effort, required skills, rework and schedule effects. Identify what existing work would move or stop. Keep uncertainty visible. For a fictional fixed-fee project with ten planned review sessions, adding four more sessions affects preparation and follow-up as well as meeting time; counting only the extra hours in the room understates the change."
+      },
+      {
+        "title": "Record the authorized decision",
+        "text": "Document whether the request is included, deferred, exchanged for another item or handled through a separate commercial change. Identify the approving parties and revised scope. Do not let a team member’s informal acknowledgement stand in for required approval. Route unresolved contract questions appropriately and avoid presenting an estimate as an accepted commitment."
+      },
+      {
+        "title": "Update the operating forecast",
+        "text": "Connect approved changes to staffing, milestones, costs and expected billing. Preserve the prior baseline so management can see why the forecast moved. A change may alter timing without increasing revenue, or increase revenue while requiring cash before collection. Review those effects separately rather than treating every approved request as immediate additional margin."
+      },
+      {
+        "title": "Use the log at closeout",
+        "text": "Reconcile completed deliverables with approved changes and outstanding decisions. Review recurring sources of scope ambiguity with sales and delivery teams. Improve future briefs, estimates and approval processes. The log should help the customer and business agree on the work performed, not become a retrospective list of surprise charges."
+      }
+    ],
+    "checklist": [
+      "Approved scope baseline",
+      "Clearly described requests",
+      "Effort and dependency assessment",
+      "Authorized decision and revised scope",
+      "Forecast updates and closeout reconciliation"
+    ],
+    "questions": [
+      "Which baseline item does this request change?",
+      "Who can approve the commercial outcome?",
+      "Does the forecast include preparation and rework?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "warranty-service-workload-forecast",
+    "title": "Forecast warranty-service workload using cases and assumptions",
+    "description": "Connect open service cases, repair patterns, parts needs and estimated cash timing without promising a fixed reserve.",
+    "intro": "Warranty-related work can consume technician time, parts and cash even when it does not create a new customer invoice. A workload forecast should distinguish confirmed cases from estimates about future service. The arrangement’s terms and applicable requirements need qualified review. This guide organizes operational planning and does not determine legal coverage or the accounting value of a warranty obligation.",
+    "sections": [
+      {
+        "title": "Define the case population",
+        "text": "List open requests, affected products, dates and current service status. Separate confirmed covered work from requests awaiting an eligibility decision. Keep the source of that decision and the responsible reviewer. A customer complaint, a service appointment and an approved warranty repair are related events, but they are not interchangeable records."
+      },
+      {
+        "title": "Describe remaining work",
+        "text": "For each open case, record diagnosis, parts, labor, travel and outside service still expected. Identify estimates and the person supplying them. Do not count work already completed again in the remaining forecast. If diagnosis is incomplete, use a stated scenario or range rather than a precise amount with no technical basis."
+      },
+      {
+        "title": "Review historical patterns carefully",
+        "text": "Compare similar products, age groups and service conditions where the data permits. Record the period and known changes in design, suppliers or usage. A small sample can be informative without supporting a universal failure rate. Avoid applying one recent problem to every unit sold or assuming earlier experience continues unchanged after a material product change."
+      },
+      {
+        "title": "Calculate a transparent planning example",
+        "text": "For a fictional set of five confirmed cases needing an estimated $200 of parts each, the parts plan is $1,000 before labor, travel and uncertainty. Keep a separate scenario for potential additional cases. That arithmetic supports a cash and workload conversation; it does not establish a required accounting reserve or guarantee the actual repair cost."
+      },
+      {
+        "title": "Connect capacity and payment dates",
+        "text": "Map expected service dates to technician availability and parts purchases. Identify customer downtime and escalation needs through the appropriate operational process. A sufficient annual budget does not solve a short-term shortage of a critical part. Show when cash is expected to leave and which commitments can change as case information improves."
+      },
+      {
+        "title": "Reconcile outcomes and improve estimates",
+        "text": "Compare completed cases with prior assumptions, then record the cause of material differences. Have finance review any reporting entries and the qualified service team review technical conclusions. Preserve original estimates so the business can learn whether forecasts were consistently incomplete. Update the next cycle without rewriting the history of what was known at the time."
+      }
+    ],
+    "checklist": [
+      "Case status and coverage decision references",
+      "Remaining-work estimates",
+      "Comparable historical patterns",
+      "Separated confirmed and potential cases",
+      "Capacity, cash timing and actual outcomes"
+    ],
+    "questions": [
+      "Which cases are approved versus still under review?",
+      "Are completed costs counted again?",
+      "What changed since the prior estimate?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "appointment-capacity-and-no-show-review",
+    "title": "Review appointment capacity and missed visits before changing prices",
+    "description": "Separate booked, available, completed and missed appointments when evaluating a service schedule.",
+    "intro": "A full-looking calendar does not always produce a full day of completed work. Cancellations, no-shows, unsuitable appointment lengths and unused gaps can affect capacity differently. Review the schedule with clear definitions before deciding to add staff, extend hours or change pricing. This guide supports operating analysis; it does not recommend penalties or determine the terms that apply to a particular customer relationship.",
+    "sections": [
+      {
+        "title": "Define the available appointment time",
+        "text": "Record the period, staff, rooms or equipment involved and time genuinely available for the service. Separate breaks, training, maintenance and planned closures. A calendar containing every business hour is not necessarily a realistic capacity denominator. Keep the definition consistent when comparing locations or staff with different schedules."
+      },
+      {
+        "title": "Distinguish booking outcomes",
+        "text": "Use separate statuses for completed, rescheduled, cancelled with notice, late cancellation and no-show. Record who updates each status and when. A rescheduled appointment may appear twice in a system but represent one customer request. Link the records where possible so demand and lost capacity are not overstated."
+      },
+      {
+        "title": "Look at usable gaps rather than totals alone",
+        "text": "Review the timing and length of unused intervals. Three short gaps may not support the same appointment as one continuous block. Identify setup and cleanup requirements that constrain scheduling. For a fictional two-hour service, six unused twenty-minute gaps do not automatically create capacity for another booking, even though the minutes add to two hours."
+      },
+      {
+        "title": "Connect attendance to revenue and cost",
+        "text": "Compare completed services with billings and receipts, keeping timing differences visible. Estimate staffing or facility costs using a stated basis rather than equating every empty minute with a lost sale. Some unused capacity may be necessary for service flexibility. Distinguish known missed bookings from hypothetical demand the business has not demonstrated."
+      },
+      {
+        "title": "Test a specific operational change",
+        "text": "Consider reminder timing, booking intervals, wait-list handling or clearer intake instructions. Follow applicable customer and professional requirements when designing a change. Compare similar periods and record what else changed. A decline in no-shows during a quieter season does not prove that a reminder alone caused the improvement."
+      },
+      {
+        "title": "Review outcomes with staff",
+        "text": "Share clear definitions and practical findings with the people managing the schedule. Ask whether the data reflects actual workflow and identify recurring recording errors. Preserve the baseline and evaluate both service quality and utilization. Avoid using a single attendance metric to make unsupported judgments about staff performance or customer behavior. Check whether customers were offered workable appointment times before attributing every empty slot to weak demand."
+      }
+    ],
+    "checklist": [
+      "Available-time definition",
+      "Consistent booking outcomes",
+      "Usable-gap analysis",
+      "Billing and cost assumptions",
+      "Test plan and comparable follow-up"
+    ],
+    "questions": [
+      "Can the unused time actually fit another service?",
+      "Are reschedules counted twice?",
+      "What evidence would show the change improved operations?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "customer-credit-limit-review-file",
+    "title": "Prepare a customer credit-limit review with current evidence",
+    "description": "Connect balances, payment patterns, open orders and authorized decisions before extending more trade credit.",
+    "intro": "A credit limit affects both sales opportunity and the amount of cash exposed before collection. Review it using current customer records and an authorized decision process. A long relationship or a large order is not enough by itself to explain a limit change. This guide organizes business information; it does not provide a credit rating, legal collection advice or a guarantee of payment.",
+    "sections": [
+      {
+        "title": "Assemble the current exposure",
+        "text": "Record unpaid invoices, credits awaiting application, unbilled delivered work and relevant open orders. State which amounts are included and why. Avoid adding a fully invoiced order again as backlog. A limit review should explain the business’s actual exposure rather than combining reports with overlapping balances."
+      },
+      {
+        "title": "Review payment behavior in context",
+        "text": "Compare agreed due dates with actual receipts over a defined period. Separate disputes, invoicing errors and agreed extensions from unexplained delays. A customer can pay one large overdue invoice and still have a pattern worth reviewing. Keep the data and explanation together instead of reducing the assessment to an unsupported label such as good payer."
+      },
+      {
+        "title": "Assess the proposed change",
+        "text": "Describe the requested limit, additional order or payment arrangement and its commercial purpose. For a fictional account with $40,000 outstanding and a proposed $25,000 shipment, the review should address $65,000 of exposure under the chosen definition, not just the new order. The arithmetic does not determine whether the request should be approved."
+      },
+      {
+        "title": "Identify information gaps and options",
+        "text": "Ask the authorized credit reviewer what current information is needed. Consider operational alternatives such as staged delivery, smaller order releases or revised payment timing where appropriate. Obtain customer agreement and qualified advice for contractual changes. Do not assume a security or payment arrangement is effective simply because it appears in an old template."
+      },
+      {
+        "title": "Record the authorized decision",
+        "text": "Document the limit, conditions, expiration or review date and approving person. Tell sales, operations and finance how it will be applied. Keep temporary exceptions distinct from a permanent account change. A verbal approval that never reaches the order-release process can leave staff following inconsistent instructions."
+      },
+      {
+        "title": "Monitor against the same definition",
+        "text": "Compare later exposure and payments with the assumptions used in the decision. Escalate breaches or material changes through the agreed process. Preserve the original review so management can learn from the outcome. The objective is consistent, informed decisions rather than automatic credit expansion whenever a customer requests more volume. Record who will contact the customer if agreed conditions are not met."
+      }
+    ],
+    "checklist": [
+      "Nonduplicated exposure schedule",
+      "Payment history and explanations",
+      "Proposed additional exposure",
+      "Authorized conditions and review date",
+      "Monitoring and exception owner"
+    ],
+    "questions": [
+      "Are open orders and invoices overlapping?",
+      "What changed since the last decision?",
+      "Who may approve a temporary exception?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "software-license-true-up-review",
+    "title": "Prepare a software license true-up using actual usage and terms",
+    "description": "Reconcile contracted capacity, active users, assignments and renewal assumptions before a vendor review.",
+    "intro": "A software true-up can involve more than counting employee names. The agreement may measure users, devices, locations, transactions or another unit, and system assignments may not match actual use. Prepare a consistent review file before discussing charges or renewal capacity. This guide does not interpret a license agreement or establish which use is permitted; confirm those questions with the appropriate reviewer.",
+    "sections": [
+      {
+        "title": "Identify the measurement and period",
+        "text": "Record the agreement version, product, metric, reporting period and vendor instructions. Distinguish named users from concurrent access or another defined measure. Keep unclear terms as explicit questions. A count built for internal budgeting may not meet the vendor’s reporting definition, so avoid sending it as a formal certification without review."
+      },
+      {
+        "title": "Build the current assignment list",
+        "text": "Collect approved account or asset records with unique identifiers. Identify inactive accounts, duplicate assignments and temporary users. Limit access to personal information and avoid circulating credentials. A department’s spreadsheet can be a useful input but should be reconciled to the relevant system before it becomes the basis for a purchase or declaration."
+      },
+      {
+        "title": "Compare assignments with operational need",
+        "text": "Ask service owners which access remains necessary and what work would be affected by removal. A user who has not logged in recently may still need seasonal or emergency access. Conversely, a departed contractor may remain assigned. Record the decision and owner rather than deleting access solely to reach a lower headline count."
+      },
+      {
+        "title": "Reconcile capacity and expected charges",
+        "text": "Compare the reviewed measure with contracted quantities and quoted rules. For a fictional agreement clearly measured by named users, 120 approved assignments against 100 purchased seats creates a twenty-seat difference for discussion. It does not by itself establish the price or legal consequence. Obtain the vendor’s calculation and have the responsible reviewer confirm it."
+      },
+      {
+        "title": "Plan changes before renewal",
+        "text": "Separate current corrections from future demand. Include hiring plans, product changes and service retirement with evidence dates and uncertainty. Ask about options, notice requirements and billing effects directly. Do not treat a temporary discount or monthly equivalent as proof that capacity can be reduced at any time."
+      },
+      {
+        "title": "Keep an approved record",
+        "text": "Document the final reviewed count, exclusions, vendor response and authorized purchase decision. Retain the source extract securely and record changes made after the cutoff. Use the review to improve account ownership and offboarding so the next true-up is based on maintained records rather than a last-minute reconstruction."
+      }
+    ],
+    "checklist": [
+      "Agreement metric and period",
+      "Deduplicated assignment list",
+      "Service-owner need review",
+      "Vendor calculation and quote",
+      "Approved renewal and access changes"
+    ],
+    "questions": [
+      "Does the count match the contractual metric?",
+      "Which assignments have no accountable owner?",
+      "What evidence supports future capacity needs?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "bank-account-authority-register",
+    "title": "Maintain a bank-account authority and purpose register",
+    "description": "Document business accounts, authorized roles, payment routes and review ownership without storing secrets.",
+    "intro": "Growing businesses can accumulate bank accounts whose purpose, users and connected services are poorly understood. A concise authority register makes review easier while keeping sensitive credentials out of ordinary documents. It should support the bank’s official processes and the business’s governance requirements. The register is not proof that an authority change has been accepted or that an account can be closed.",
+    "sections": [
+      {
+        "title": "List accounts and business purposes",
+        "text": "Record the institution, a safe account reference, legal entity, currency and intended use. Identify accounts used for collections, payroll, reserves or a specific location. Do not include full account details where they are unnecessary. A descriptive purpose helps reviewers distinguish a genuinely needed account from one retained only because nobody remembers its history."
+      },
+      {
+        "title": "Map authorized roles",
+        "text": "Identify approved signers, administrators, viewers and payment approvers using the bank’s current records. Separate an internal job title from authority the bank actually recognizes. Record how the information was verified and when. Avoid assuming that changing a person’s employment status automatically changes permissions at an external financial institution."
+      },
+      {
+        "title": "Connect payment and collection routes",
+        "text": "List known recurring debits, merchant settlements, payroll links and customer payment instructions associated with each account. Assign an owner to verify the connections. For a fictional dormant-looking account, a quarterly tax payment or annual subscription may still be linked. Review an appropriate history before assuming a month with no activity means the account is unused."
+      },
+      {
+        "title": "Review changes through official channels",
+        "text": "Use the bank’s authorized procedures to request access or authority changes. Keep confirmation, effective dates and outstanding requirements. Verify unexpected instructions through an established independent contact route. Do not circulate login credentials or treat an email requesting a change as evidence that the bank completed it."
+      },
+      {
+        "title": "Evaluate consolidation carefully",
+        "text": "If an account may be closed or combined, map pending payments, incoming receipts, checks, statements and required records first. Ask finance and appropriate advisers what must be retained and what obligations remain. A simpler account structure can help operations, but closing an account before moving legitimate flows can interrupt collections or payroll."
+      },
+      {
+        "title": "Schedule ownership review",
+        "text": "Review the register when people, entities, banks or payment systems change and on a defined periodic schedule. Assign a person responsible for maintaining it. Reconcile the list with bank confirmations and accounting records. Keep evidence of completed actions separate from planned ones so management can see the actual current state."
+      }
+    ],
+    "checklist": [
+      "Safe account identifiers and purposes",
+      "Verified authority roles",
+      "Connected payment and collection routes",
+      "Official change confirmations",
+      "Named review owner and date"
+    ],
+    "questions": [
+      "Does the bank recognize the authority shown?",
+      "Which payments still use an apparently inactive account?",
+      "What remains open before consolidation or closure?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "operating-kpi-definition-register",
+    "title": "Define operating KPIs before comparing teams or periods",
+    "description": "Create a shared record of metric formulas, source data, timing and exclusions for management reporting.",
+    "intro": "A dashboard can show a precise number while leaving its meaning unclear. Teams may calculate the same metric using different populations, dates or exclusions. A KPI definition register makes those choices visible before management compares performance. The objective is a useful decision measure, not a larger dashboard or a promise that one number explains the whole business.",
+    "sections": [
+      {
+        "title": "Start with the decision",
+        "text": "Write down what action the metric should inform and who uses it. A measure of delivery capacity serves a different decision from a measure of customer profitability. If no decision or responsible user can be identified, ask why the metric is being collected. Keep that purpose alongside the formula so later changes can be evaluated sensibly."
+      },
+      {
+        "title": "Specify the numerator and denominator",
+        "text": "Define each input, unit and population. State whether cancelled orders, internal work, taxes or credits are included where relevant. For a fictional conversion measure, ten sales from 100 qualified enquiries is ten percent, but ten sales from 200 website visits is five percent. Neither number is meaningful if the denominator changes without notice."
+      },
+      {
+        "title": "Fix the timing convention",
+        "text": "Document whether data follows activity date, invoice date, receipt date or a reporting snapshot. Identify cutoffs, time zones and the handling of late entries. A monthly trend can move because records arrived late rather than because operations changed. Explain restatements and retain prior versions when they are used in management decisions."
+      },
+      {
+        "title": "Connect the source and owner",
+        "text": "Name the source system, extract or calculation file and the person accountable for accuracy. Include reconciliation or reasonableness checks. Avoid building a critical metric from an undocumented manual copy that only one employee understands. The register should allow an authorized colleague to reproduce the number using the stated inputs."
+      },
+      {
+        "title": "State limitations and companion measures",
+        "text": "Record known exclusions, data quality issues and situations where the KPI can mislead. Pair a speed metric with an appropriate quality or rework view when useful. Do not assume improvement in one number proves overall improvement. A team can shorten response time while leaving more customer problems unresolved."
+      },
+      {
+        "title": "Control changes and review usefulness",
+        "text": "Approve definition changes, record the effective date and explain whether prior periods were recalculated. Review whether managers still use the measure and whether collection effort remains justified. A stable definition supports learning; it should not prevent a necessary correction, but the correction must be visible to people comparing results."
+      }
+    ],
+    "checklist": [
+      "Decision and accountable user",
+      "Formula, units and exclusions",
+      "Timing and restatement rules",
+      "Reproducible data source",
+      "Limitations and change history"
+    ],
+    "questions": [
+      "Could another team reproduce this number?",
+      "Did the definition change between periods?",
+      "What companion evidence prevents a misleading conclusion?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "outsourced-accounting-transition-acceptance",
+    "title": "Accept an outsourced accounting handoff with evidence",
+    "description": "Check balances, schedules, access and unresolved items before declaring an accounting-provider transition complete.",
+    "intro": "A transition is not complete merely because the new provider has logged into the accounting system. The business needs usable records, clear ownership and an understood list of unresolved items. An acceptance file can coordinate the old provider, new provider and internal team. It does not replace professional judgment about the accounts or imply that every historical record has been audited.",
+    "sections": [
+      {
+        "title": "Define the transition boundary",
+        "text": "Record the entities, systems, reporting periods and services moving to the new provider. Identify work remaining with the old provider or internal staff. A bookkeeping transfer may not include payroll, tax preparation or historical corrections. Clear boundaries help avoid two parties doing the same task while another task is left without an owner."
+      },
+      {
+        "title": "Inventory the required records",
+        "text": "List ledgers, reconciliations, schedules, prior reports, source documents and known adjustments relevant to the agreed scope. Note the period covered and file location. Confirm that an authorized person can open the records. A folder full of unnamed exports is not a usable handoff if nobody can identify which version supports the current balances."
+      },
+      {
+        "title": "Reconcile the opening position",
+        "text": "Have the appropriate accounting professionals review starting balances and supporting schedules. Record differences and their owners rather than hiding them in a general opening adjustment. For a fictional transfer dated June 30, identify which party completes June reconciliations and which begins July activity. A clear cutoff prevents duplicate entries and missing work."
+      },
+      {
+        "title": "Confirm access and responsibility",
+        "text": "Check business control of systems, administrator roles and approved provider access. Remove unnecessary permissions through the authorized process after records are secured. List who handles banking feeds, payroll questions, tax-preparer requests and supplier inquiries. An operational contact list should reflect accepted responsibilities, not assumptions made by one side."
+      },
+      {
+        "title": "Test the first reporting cycle",
+        "text": "Agree on the first close timetable, inputs and outputs. Review whether the reports and schedules can be produced using the transferred records. Keep exceptions visible with due dates. Passing a login test does not prove that the team can complete the month-end process or explain a material difference in a balance."
+      },
+      {
+        "title": "Sign off with qualified exceptions",
+        "text": "Document what is accepted, what remains open and who may approve final completion. Retain the transition record with the engagement documents. Avoid an unconditional sign-off if essential records or responsibilities are unresolved. Review lessons from the transfer so future provider changes require less reconstruction and cause fewer interruptions."
+      }
+    ],
+    "checklist": [
+      "Entity, service and period boundary",
+      "Usable record inventory",
+      "Reviewed starting balances",
+      "Confirmed access and task owners",
+      "First-cycle results and exception sign-off"
+    ],
+    "questions": [
+      "Who owns the cutoff month?",
+      "Can the new team reproduce supporting schedules?",
+      "Which exceptions prevent final acceptance?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "business-insurance-renewal-exposure-file",
+    "title": "Prepare an insurance renewal exposure file before requesting quotes",
+    "description": "Organize current locations, assets, operations and changes for an informed discussion with an insurance professional.",
+    "intro": "An insurance renewal is easier to discuss when the business can explain what changed since the last application. Prepare a current exposure file for the licensed insurance professional rather than copying old answers without review. This guide does not recommend coverage, limits or deductibles, and it cannot determine whether a loss is insured. The policy, professional advice and actual business facts matter.",
+    "sections": [
+      {
+        "title": "List current entities and operations",
+        "text": "Record the legal entities, locations and business activities included in the review. Identify new products, services, territories or operating arrangements. Ask the broker or adviser which details are needed for the relevant policies. A familiar business name can hide a significant change in what the company actually does."
+      },
+      {
+        "title": "Update asset and location information",
+        "text": "Prepare current property and equipment schedules using the basis requested by the insurance professional. Record purchases, disposals, leased items and property held elsewhere. Do not assume accounting book value is the correct insurance value. Keep the source and date of estimates visible so a reviewer can identify where professional valuation or clarification is needed."
+      },
+      {
+        "title": "Review people and third-party arrangements",
+        "text": "Describe staffing, contractors, vehicles, outsourced work and customer obligations relevant to the professional’s questions. Provide the requested information accurately without making your own coverage conclusion. An agreement requiring insurance should be reviewed by qualified people; having a certificate on file does not answer every question about the policy behind it."
+      },
+      {
+        "title": "Document claims and operational changes",
+        "text": "Gather the claims or incident history requested for the renewal and distinguish open matters from resolved ones. Note changes in safety, security or continuity processes with evidence. Avoid describing a planned control as already implemented. If a question is unclear, ask how to answer it rather than repeating a prior response that may no longer be accurate."
+      },
+      {
+        "title": "Compare proposals on matched information",
+        "text": "Give candidates the same current facts and ask the professional to explain material differences in coverage terms, limits, deductibles, exclusions and service. A lower premium alone does not establish a better fit. For a fictional business adding a warehouse, compare proposals using that new location rather than one quote based on last year’s smaller footprint."
+      },
+      {
+        "title": "Retain the final review record",
+        "text": "Keep the approved application information, questions, professional responses and final policy documents together. Assign an owner to report material changes between renewals using the appropriate process. Record payment and renewal dates in the business calendar. A completed quote request is not proof that coverage is in force; obtain the relevant confirmation through the insurance professional."
+      }
+    ],
+    "checklist": [
+      "Current entities and operations",
+      "Asset and location schedules",
+      "Requested staffing and contract information",
+      "Claims and implemented-control evidence",
+      "Matched proposals and final professional confirmations"
+    ],
+    "questions": [
+      "Which facts changed since the prior renewal?",
+      "Are values based on the requested method?",
+      "What confirmation establishes the actual policy status?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "key-person-process-handoff-map",
+    "title": "Map key-person processes before an absence interrupts work",
+    "description": "Identify essential tasks, business-controlled records, backup owners and tested handoffs for critical roles.",
+    "intro": "A business can depend on one person without realizing it until that person is unavailable. The dependency may be a relationship, an undocumented decision, a spreadsheet or access to a system. Build a process handoff map around essential work rather than asking one employee to document everything at once. The aim is practical continuity that respects confidentiality and authorized access.",
+    "sections": [
+      {
+        "title": "Identify time-sensitive tasks",
+        "text": "List the work that must happen daily, weekly, monthly or at a specific event. Record deadlines, consequences of delay and the role that normally performs it. Separate essential tasks from work that can wait. A long job description may omit the small action, such as approving a bank file, that actually stops operations when nobody else can perform it."
+      },
+      {
+        "title": "Locate inputs and decisions",
+        "text": "For each task, identify source records, systems, contacts and decisions required. Keep credentials in the approved secure system rather than in the handoff map. Record business-controlled locations for working files. A process is not transferable if its only current instructions or customer history sit in a personal account that the business cannot appropriately access."
+      },
+      {
+        "title": "Assign an authorized backup",
+        "text": "Choose a backup who has the skills, capacity and permitted access to perform the work. Confirm the assignment rather than listing a name without agreement. Some tasks require approval separation or professional qualifications, so do not assume any available employee can take them over. Resolve authority questions before an absence creates pressure to improvise."
+      },
+      {
+        "title": "Test one complete cycle",
+        "text": "Have the backup perform a representative task using the documented instructions and normal controls. For a fictional monthly supplier-payment process, the test should cover obtaining invoices, approvals, file preparation and confirmation, not merely opening a spreadsheet. Record questions and missing steps. A successful demonstration with constant coaching may still reveal documentation that needs improvement."
+      },
+      {
+        "title": "Plan exceptions and communication",
+        "text": "List common problems, escalation contacts and decisions that require senior approval. Identify who informs customers or suppliers if timing changes. Keep communication templates where authorized staff can find them. Avoid a plan that depends on contacting the absent person for every exception; that simply moves the original dependency into a phone call."
+      },
+      {
+        "title": "Maintain the map as work changes",
+        "text": "Review the handoff when systems, people or responsibilities change and after actual use. Remove obsolete instructions and preserve version dates. Thank staff for identifying gaps rather than treating the exercise as evidence of poor performance. The strongest result is a business-controlled, tested process with appropriate backup ownership, not a document nobody can follow."
+      }
+    ],
+    "checklist": [
+      "Essential task calendar",
+      "Business-controlled inputs and instructions",
+      "Accepted backup and authority",
+      "Observed test results",
+      "Exception contacts and version review"
+    ],
+    "questions": [
+      "Which small task could stop a larger process?",
+      "Can the backup complete a cycle without informal access?",
+      "When was the handoff last tested?"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "Official business-management background; the workflow is original editorial guidance",
+    "category": "Operating decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]
