@@ -80,3 +80,5 @@ for(const p of resourceListingFiles){
 const expectedResourceSlugs=[...JSON.parse(fs.readFileSync(path.join(root,'data/guides.json'),'utf8')),...JSON.parse(fs.readFileSync(path.join(root,'data/editorial-guides.json'),'utf8'))].map(g=>g.slug).sort();
 assert.deepEqual(listedResourceSlugs.sort(),expectedResourceSlugs,'Every guide listed exactly once across resource pages');
 console.log(`PASS: ${resourceListingFiles.length} bounded resource pages discover all ${expectedResourceSlugs.length} guides exactly once.`);
+
+await import("./check-provider-calculators.mjs");

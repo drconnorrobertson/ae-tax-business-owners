@@ -1,0 +1,642 @@
+[
+  {
+    "id": "payroll",
+    "slug": "payroll-provider-cost-comparison",
+    "title": "Payroll provider base and employee cost calculator",
+    "intro": "Compare two payroll quotes that use a monthly base charge plus a charge for each employee. Enter prices from comparable written scopes and a shared employee count. The calculator shows monthly and annual totals for each option, with the annual difference. Its starting values are fictional illustrations, not market rates or a quote from any provider.",
+    "sections": [
+      {
+        "title": "Normalize the quote first",
+        "text": "This model assumes one base payment each month and the same per-employee charge for every employee entered. A quote priced per payroll run does not fit without conversion to a documented monthly assumption. Confirm whether inactive workers, additional payrolls or another entity trigger charges. Different processing schedules can change the comparison even when the displayed base fees look similar."
+      },
+      {
+        "title": "Use a defined employee count",
+        "text": "Enter a whole, nonnegative employee count for the modeled month. Zero employees is allowed so you can see the effect of base charges alone. For a seasonal business, save a separate calculation for each relevant staffing level. Multiplying one month by twelve assumes that count and both pricing structures remain unchanged throughout the year."
+      },
+      {
+        "title": "Interpret the difference",
+        "text": "The annual A-minus-B line is positive when option A costs more under the entered assumptions and negative when it costs less. It does not rank service quality or coverage. Review the included approval process, correction support, reporting and responsibility for historical issues separately. A lower arithmetic total may reflect a narrower engagement rather than an equivalent service at a better price."
+      },
+      {
+        "title": "Keep the result auditable",
+        "text": "Retain the quote date, employee definition and billing frequency beside the saved figures. The calculator does not contact payroll providers or verify their prices. Recalculate when a quote changes instead of treating the original result as a standing estimate. Additional services, taxes, setup charges and any rate changes are excluded unless you deliberately include them in the comparable monthly base assumption and document that choice."
+      }
+    ],
+    "checklist": [
+      "Confirm monthly rather than per-run pricing.",
+      "Use the same employee definition for both options.",
+      "List included correction and support services.",
+      "Record charges excluded from the model.",
+      "Save separate seasonal headcount scenarios."
+    ],
+    "fields": [
+      {
+        "name": "employees",
+        "label": "Employees in the modeled month",
+        "value": 20,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "baseA",
+        "label": "Option A monthly base charge (USD)",
+        "value": 50,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "personA",
+        "label": "Option A monthly charge per employee (USD)",
+        "value": 6,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "baseB",
+        "label": "Option B monthly base charge (USD)",
+        "value": 80,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "personB",
+        "label": "Option B monthly charge per employee (USD)",
+        "value": 4,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Monthly cost = monthly base + employee count \u00d7 monthly employee charge. Annual cost = monthly cost \u00d7 12.",
+    "example": "At 20 employees, option A is $50 + 20 \u00d7 $6 = $170 per month. Option B is $80 + 20 \u00d7 $4 = $160. Annual A minus B is $120.",
+    "exclusions": "Setup, per-run variations, filings outside the quoted scope, additional entities, taxes and changing headcount are not separately modeled."
+  },
+  {
+    "id": "processing",
+    "slug": "card-processing-fee-comparison",
+    "title": "Card processing percentage and fixed fee calculator",
+    "intro": "Compare two card-processing fee structures using the same monthly payment volume and transaction count. Each option combines a percentage of volume, a fixed amount per transaction and a monthly fee. The starting figures are fictional. The result is arithmetic for the defined activity, not a statement of current processor prices or a forecast of the business\u2019s sales.",
+    "sections": [
+      {
+        "title": "Use the relevant volume",
+        "text": "Enter the dollar volume to which the percentage applies and the corresponding whole transaction count. Confirm the basis in the actual agreement. For example, returned payments or a different mix of payment types may affect actual charges. This simplified tool applies one percentage and one fixed transaction fee to all entered activity rather than modeling a schedule of payment categories."
+      },
+      {
+        "title": "Compare transaction mix",
+        "text": "The same sales volume can produce different fixed fees when the number of transactions changes. A business with many small purchases can therefore obtain a different result from one with fewer large purchases. Run separate scenarios when that mix is uncertain, keeping both options on the same inputs. Do not change the volume for one option while leaving the other on a different month."
+      },
+      {
+        "title": "Read a signed difference",
+        "text": "Monthly A minus B reports the direction and size of the modeled difference. A positive result means A is higher, while a negative result means A is lower. Zero volume and zero transactions still leave any monthly fee in the total. Percentage inputs must be between zero and 100, and all entered charges must be nonnegative."
+      },
+      {
+        "title": "Review omitted charges",
+        "text": "Actual processing arrangements may include chargebacks, cross-border charges, equipment, minimums, reserves or other terms outside this simple formula. Document those separately and compare service, funding timing and contract terms as well as modeled fees. An apparent price advantage does not establish equivalent coverage. Keep the source quote with the result so someone else can reproduce the comparison and see what has been omitted."
+      }
+    ],
+    "checklist": [
+      "Match volume and count to one period.",
+      "Confirm the percentage base in each agreement.",
+      "Separate special payment categories where needed.",
+      "List monthly minimums and other excluded fees.",
+      "Keep funding and service differences visible."
+    ],
+    "fields": [
+      {
+        "name": "volume",
+        "label": "Monthly card volume (USD)",
+        "value": 20000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "transactions",
+        "label": "Monthly transaction count",
+        "value": 400,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "rateA",
+        "label": "Option A percentage fee",
+        "value": 2.5,
+        "min": 0,
+        "step": "any",
+        "max": 100
+      },
+      {
+        "name": "fixedA",
+        "label": "Option A fee per transaction (USD)",
+        "value": 0.1,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "monthlyA",
+        "label": "Option A monthly fee (USD)",
+        "value": 20,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "rateB",
+        "label": "Option B percentage fee",
+        "value": 2.7,
+        "min": 0,
+        "step": "any",
+        "max": 100
+      },
+      {
+        "name": "fixedB",
+        "label": "Option B fee per transaction (USD)",
+        "value": 0.05,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "monthlyB",
+        "label": "Option B monthly fee (USD)",
+        "value": 0,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Monthly cost = volume \u00d7 percentage \u00f7 100 + transaction count \u00d7 fixed fee + monthly fee.",
+    "example": "At $20,000 and 400 transactions, A is $500 + $40 + $20 = $560. B is $540 + $20 = $560. The modeled difference is zero.",
+    "exclusions": "Payment-category differences, chargebacks, cross-border costs, equipment, minimums, taxes and funding terms are excluded."
+  },
+  {
+    "id": "retainer",
+    "slug": "retainer-versus-hourly-cost",
+    "title": "Retainer versus hourly service cost calculator",
+    "intro": "Compare a monthly service retainer with paying for the same number of hours at an hourly rate. The model adds an excess-hour charge when usage goes beyond the retainer\u2019s included hours. It does not assume a retainer includes unlimited work. The starting prices and hours are fictional examples, and the tool does not evaluate professional suitability or service quality.",
+    "sections": [
+      {
+        "title": "Translate the engagement into hours",
+        "text": "Use this calculation only when the proposed retainer actually defines included hours and an excess-hour rate. Some retainers purchase access or specific deliverables instead; forcing those into an hourly model can misrepresent the agreement. Confirm which tasks count, who approves additional work and whether meetings, preparation and travel consume the stated allowance."
+      },
+      {
+        "title": "Model usage consistently",
+        "text": "Enter the same expected monthly usage for both arrangements. Fractional hours are allowed, and unused included hours do not create a refund in this model. At zero usage, the hourly cost is zero and the full retainer remains payable. If hours roll forward or expire under different rules, calculate those contract effects separately rather than assuming the tool accounts for them."
+      },
+      {
+        "title": "Understand the excess calculation",
+        "text": "The retainer total is the base retainer plus only the hours above the allowance multiplied by the excess rate. Usage at or below the allowance adds no excess fee. The signed difference shows retainer minus hourly cost; a positive amount means the retainer arrangement is higher under these inputs. It says nothing about guaranteed availability or the value of a faster response."
+      },
+      {
+        "title": "Preserve the scope comparison",
+        "text": "Keep a written list of deliverables and exclusions beside the calculation. A specialist hour and an administrative hour may not represent equivalent work. Setup charges, minimum billing increments, cancellation provisions, reimbursed costs and taxes are not included automatically. Save low, typical and high usage scenarios if demand is uncertain, and label them as assumptions rather than promised usage or savings."
+      }
+    ],
+    "checklist": [
+      "Confirm that the retainer is defined in hours.",
+      "Use a shared monthly workload assumption.",
+      "Check excess-work approval and rates.",
+      "List rollover and minimum-increment rules separately.",
+      "Compare deliverables as well as totals."
+    ],
+    "fields": [
+      {
+        "name": "hours",
+        "label": "Expected service hours this month",
+        "value": 12,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "hourly",
+        "label": "Hourly-only rate (USD)",
+        "value": 150,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "retainer",
+        "label": "Monthly retainer (USD)",
+        "value": 1200,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "included",
+        "label": "Hours included in the retainer",
+        "value": 8,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "extra",
+        "label": "Rate for hours above the allowance (USD)",
+        "value": 125,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Hourly cost = hours \u00d7 hourly rate. Retainer cost = retainer + max(0, hours \u2212 included hours) \u00d7 excess rate.",
+    "example": "For 12 hours, hourly-only cost at $150 is $1,800. A $1,200 retainer with 8 included hours and $125 excess hours costs $1,700.",
+    "exclusions": "Availability, deliverable differences, rollover hours, minimum increments, reimbursed expenses, setup and taxes are excluded."
+  },
+  {
+    "id": "bookkeeping",
+    "slug": "bookkeeping-tier-cost-comparison",
+    "title": "Bookkeeping transaction tier cost calculator",
+    "intro": "Compare two bookkeeping quotes with a monthly base price, an included transaction allowance and a price per additional transaction. Use each provider\u2019s actual definition of a transaction. The calculator makes a tier\u2019s arithmetic visible, but it cannot make different definitions or deliverables equivalent. Every starting amount is fictional and is not a claim about prevailing bookkeeping prices.",
+    "sections": [
+      {
+        "title": "Agree what is counted",
+        "text": "One provider might count imported bank lines while another counts invoices or a combination of record types. Ask for a written definition before entering the same transaction volume for both. Transfers, duplicates, payroll journals and bulk settlements may be treated differently in the agreements. This tool assumes a single shared count that is genuinely comparable across the two quotes."
+      },
+      {
+        "title": "Read the allowance correctly",
+        "text": "Each base charge includes the specified whole-number allowance. Overage is charged only on the number of transactions above that allowance. A month exactly at the allowance has no overage fee. Zero transactions still incurs the base charge. The model assumes the listed marginal rate continues for all excess transactions; stepped tiers or hard capacity limits require a different calculation."
+      },
+      {
+        "title": "Keep the service boundary visible",
+        "text": "Monthly close, reconciliation, cleanup, inventory work and adviser communication may differ even when the transaction price is similar. Compare those tasks separately. An inexpensive base with substantial exclusions is not necessarily a lower price for the same work. Historical cleanup and onboarding can also create one-time costs that this monthly tool does not include."
+      },
+      {
+        "title": "Use volume scenarios",
+        "text": "Try a quieter month and a busier month with the same quote terms to understand the effect of overage. These are scenarios, not predictions that transaction volume will occur. Save the inputs and quote date with the output. A positive A-minus-B result means tier A is more expensive for the entered count; it does not identify which provider is more accurate, responsive or suitable for the business."
+      }
+    ],
+    "checklist": [
+      "Confirm a shared transaction definition.",
+      "Record each included allowance.",
+      "Check whether overage is truly one fixed rate.",
+      "Compare close and reconciliation deliverables.",
+      "Separate cleanup and setup charges."
+    ],
+    "fields": [
+      {
+        "name": "transactions",
+        "label": "Comparable monthly transaction count",
+        "value": 300,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "baseA",
+        "label": "Tier A monthly base price (USD)",
+        "value": 250,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "includedA",
+        "label": "Transactions included in tier A",
+        "value": 200,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "extraA",
+        "label": "Tier A price per excess transaction (USD)",
+        "value": 1.5,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "baseB",
+        "label": "Tier B monthly base price (USD)",
+        "value": 375,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "includedB",
+        "label": "Transactions included in tier B",
+        "value": 400,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "extraB",
+        "label": "Tier B price per excess transaction (USD)",
+        "value": 1,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Tier cost = monthly base + max(0, transaction count \u2212 included allowance) \u00d7 excess transaction price.",
+    "example": "At 300 transactions, tier A costs $250 + 100 \u00d7 $1.50 = $400. Tier B costs $375. A minus B is $25.",
+    "exclusions": "Differently defined transaction counts, stepped overage bands, setup, cleanup, extra entities, specialist work and taxes are excluded."
+  },
+  {
+    "id": "seats",
+    "slug": "software-seat-plan-comparison",
+    "title": "Software base and seat cost calculator",
+    "intro": "Compare two software plans that charge a monthly base fee plus a charge for every paid seat. Enter the same number of paid seats for both options and prices from comparable billing terms. The displayed defaults are fictional. The calculation describes cash charges in this simplified model; it does not score features, security, integration quality or the time needed to use the software.",
+    "sections": [
+      {
+        "title": "Identify the paid-seat basis",
+        "text": "Confirm whether the agreement charges for active users, invited users, named accounts or a minimum commitment. This tool assumes every seat entered attracts the stated per-seat rate. If a base fee includes free seats, adjust the comparison outside this model or use a quote that expresses the charge on a comparable basis. Do not count a minimum twice."
+      },
+      {
+        "title": "Match the billing period",
+        "text": "Enter monthly prices for both plans. An annual prepaid subscription divided by twelve may have the same average monthly amount but a different cash schedule and cancellation commitment. The annual difference here simply multiplies the modeled monthly difference by twelve. It assumes seat count, base fees and per-seat prices stay constant throughout those twelve months."
+      },
+      {
+        "title": "Explore a staffing change",
+        "text": "Run the current seat count and a separate possible future count. Adding seats affects a plan with a larger per-seat charge more quickly, but the calculation does not predict hiring or usage. Zero seats is permitted to expose the base charge alone. Seat counts must be whole nonnegative numbers, and prices must be nonnegative finite amounts."
+      },
+      {
+        "title": "Compare the complete purchase",
+        "text": "List storage limits, add-ons, support, migration, export access and other relevant requirements alongside the result. A cheaper plan can omit a feature the business needs. Setup, consumption charges, taxes and discounts are not automatically modeled. Keep each quote\u2019s date and seat definition with the saved calculation so later reviewers can distinguish a changed price from a changed headcount assumption."
+      }
+    ],
+    "checklist": [
+      "Confirm which accounts count as paid seats.",
+      "Normalize prices to a monthly period.",
+      "List minimum commitments and included seats separately.",
+      "Check features and export access independently.",
+      "Save present and future seat scenarios."
+    ],
+    "fields": [
+      {
+        "name": "seats",
+        "label": "Paid seats used by both plans",
+        "value": 12,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "baseA",
+        "label": "Plan A monthly base fee (USD)",
+        "value": 25,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "seatA",
+        "label": "Plan A monthly charge per paid seat (USD)",
+        "value": 15,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "baseB",
+        "label": "Plan B monthly base fee (USD)",
+        "value": 100,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "seatB",
+        "label": "Plan B monthly charge per paid seat (USD)",
+        "value": 8,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Monthly plan cost = monthly base + paid seats \u00d7 monthly per-seat charge. Annual difference = (A \u2212 B) \u00d7 12.",
+    "example": "At 12 seats, plan A costs $25 + 12 \u00d7 $15 = $205 per month. Plan B costs $100 + 12 \u00d7 $8 = $196. Annual A minus B is $108.",
+    "exclusions": "Included-seat allowances, minimum commitments, annual prepayment timing, usage charges, migration, discounts and taxes are excluded."
+  },
+  {
+    "id": "recruiting",
+    "slug": "recruiting-percentage-versus-flat-fee",
+    "title": "Recruiting percentage versus flat fee calculator",
+    "intro": "Compare a recruiting fee stated as a percentage of an agreed compensation base with a flat fee for one hire. The calculation applies the percentage to the amount you enter and shows the difference from the flat amount. Starting values are fictional. They do not describe current recruiting rates, candidate compensation or a recommendation to use a particular engagement model.",
+    "sections": [
+      {
+        "title": "Confirm the compensation base",
+        "text": "The quote may define the percentage base differently from the annual salary used in an internal budget. Obtain that definition before entering a figure. If it includes another component, enter the agreed total deliberately and note what it contains. This calculator does not interpret the recruitment agreement or decide which compensation components should count."
+      },
+      {
+        "title": "Use one comparable hire",
+        "text": "The model compares one completed hire under each entered fee structure. It does not apply volume discounts, staged searches or several hires from one shortlist. Confirm whether either proposal charges regardless of the hiring outcome or splits payments across milestones. Those cash-timing differences are material even when the final modeled totals are equal."
+      },
+      {
+        "title": "Read the arithmetic without ranking quality",
+        "text": "The percentage-fee result is the base multiplied by the rate divided by 100. The signed difference is percentage fee minus flat fee. Positive means the percentage arrangement is higher under these inputs. Zero compensation gives a zero percentage fee, but it does not establish that an actual contract has no minimum charge. Compare any minimum separately."
+      },
+      {
+        "title": "Review engagement conditions",
+        "text": "Replacement provisions, exclusivity, reimbursed expenses, candidate ownership terms, taxes and cancellation rules are outside the formula. A lower fee does not demonstrate a better candidate pool or a faster search. Keep the written scope, compensation-base definition and quote date with the result. If the contemplated compensation changes, save a new scenario so the original assumption remains understandable."
+      }
+    ],
+    "checklist": [
+      "Get the percentage-base definition in writing.",
+      "Compare the same one-hire outcome.",
+      "List staged or nonrefundable charges.",
+      "Review minimums and replacement terms separately.",
+      "Keep compensation assumptions with the result."
+    ],
+    "fields": [
+      {
+        "name": "salary",
+        "label": "Agreed compensation base for the fee (USD)",
+        "value": 80000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "rate",
+        "label": "Recruiting fee percentage",
+        "value": 18,
+        "min": 0,
+        "step": "any",
+        "max": 100
+      },
+      {
+        "name": "flat",
+        "label": "Alternative flat fee for one hire (USD)",
+        "value": 15000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Percentage fee = agreed compensation base \u00d7 percentage \u00f7 100. Difference = percentage fee \u2212 flat fee.",
+    "example": "An $80,000 base at 18% gives $14,400. Against a $15,000 flat fee, the percentage fee is $600 lower in this model.",
+    "exclusions": "Minimum fees, staged payments, multiple hires, replacement terms, expenses, taxes and compensation-base interpretation are excluded."
+  },
+  {
+    "id": "staffing",
+    "slug": "in-house-versus-outsourced-cash-cost",
+    "title": "In-house versus outsourced annual cash cost calculator",
+    "intro": "Compare stated first-year cash costs for an in-house role and an outsourced service. The model adds annual pay, entered employer costs and tools for the internal option. For the external option, it adds twelve monthly provider charges, setup and a monthly cash amount for retained internal work. All starting values are fictional planning inputs rather than labor-market or service-price claims.",
+    "sections": [
+      {
+        "title": "Separate cash from time value",
+        "text": "Enter actual or explicitly assumed cash outlays. The retained internal work field is a monthly cash cost, not an assigned value for the owner\u2019s unpaid time. If no additional cash is spent, enter zero and discuss the time commitment separately. Avoid counting the same existing salary in several alternatives unless the comparison is intentionally measuring a defined allocation rather than incremental cash."
+      },
+      {
+        "title": "Build the in-house amount",
+        "text": "Annual pay is entered directly. Employer costs and tools are separate annual inputs supplied by the user; the calculator does not estimate payroll taxes, benefits, insurance or legal obligations. Document what the employer-cost amount contains and obtain appropriate advice about applicable requirements. Recruitment, training and equipment can be added only if deliberately included in one of the stated inputs without duplication."
+      },
+      {
+        "title": "Build the outsourced amount",
+        "text": "The provider fee is multiplied by twelve, setup is charged once and retained internal cash work is multiplied by twelve. This assumes the scope and price do not change during the year. Additional projects and temporary overlap during a transition are not automatically included. The arithmetic cannot determine whether the external provider replaces the same responsibilities as the proposed employee."
+      },
+      {
+        "title": "Keep capacity and scope beside the total",
+        "text": "Compare coverage hours, response expectations, review responsibility and continuity separately. A positive in-house-minus-outsourced result means the internal option has higher entered cash cost, not that outsourcing creates that amount of savings. Existing commitments, different workloads and excluded costs can change the economic conclusion. Save the input definitions and the same first-year horizon with each result."
+      }
+    ],
+    "checklist": [
+      "Use a shared first-year scope and workload.",
+      "Document employer costs rather than assuming a rate.",
+      "Avoid counting existing salary twice.",
+      "Keep retained cash work separate from unpaid time.",
+      "List transition and extra-project costs."
+    ],
+    "fields": [
+      {
+        "name": "salary",
+        "label": "Annual in-house pay (USD)",
+        "value": 60000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "employer",
+        "label": "Other annual employer cash costs (USD)",
+        "value": 12000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "tools",
+        "label": "Annual tools and equipment cash cost (USD)",
+        "value": 2000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "provider",
+        "label": "Monthly outsourced service fee (USD)",
+        "value": 4000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "setup",
+        "label": "One-time outsourced setup cost (USD)",
+        "value": 3000,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "retained",
+        "label": "Monthly retained internal cash work (USD)",
+        "value": 500,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "In-house = annual pay + other employer costs + annual tools. Outsourced = 12 \u00d7 monthly provider fee + setup + 12 \u00d7 retained monthly cash work.",
+    "example": "The example gives $74,000 in-house and $57,000 outsourced for the first year. The $17,000 difference describes only the entered cash costs.",
+    "exclusions": "Automatic employer-cost estimates, unpaid time value, differences in capacity, severance, transition overlap and unspecified extra work are excluded."
+  },
+  {
+    "id": "setup",
+    "slug": "provider-setup-and-recurring-cost",
+    "title": "Provider setup and recurring cost calculator",
+    "intro": "Compare two provider quotes with different one-time setup charges and ongoing monthly fees over a chosen period. This calculator shows total cost and the average monthly amount including setup. It is useful when a low recurring fee comes with a larger initial commitment. The defaults are fictional and do not represent any actual provider or offer.",
+    "sections": [
+      {
+        "title": "Use a shared comparison horizon",
+        "text": "Enter a positive whole number of months for both options. The model charges setup once at the beginning and the recurring fee once per month throughout the horizon. It does not change prices mid-period or discount future payments. A one-month view can therefore look different from a twelve-month view without either being an error."
+      },
+      {
+        "title": "Keep timing distinct from averaging",
+        "text": "Average monthly cost is total modeled cost divided by the entered months. It does not change the invoice schedule. A large setup amount may be due before the first service month even when its averaged amount looks manageable. Keep the actual payment dates in a separate cash plan if timing matters to the business."
+      },
+      {
+        "title": "Compare what setup buys",
+        "text": "Confirm whether setup includes migration, historical cleanup, training, configuration or merely account activation. If one quote contains work the other excludes, clarify that difference before treating the totals as directly equivalent. This calculator applies the numbers supplied; it cannot verify that the deliverables, service coverage or acceptance conditions match."
+      },
+      {
+        "title": "Read the result over several periods",
+        "text": "Total A minus B is positive when A is more expensive over the selected months and negative when A is lower. Try separately labeled horizons if the expected engagement length is uncertain. Early cancellation, minimum terms, refunds, discounts, future increases and extra work are not included. Save the horizon, quote date and exclusions with each comparison rather than presenting one total as a universal ranking."
+      }
+    ],
+    "checklist": [
+      "Use the same positive whole-month horizon.",
+      "Confirm setup deliverables and acceptance.",
+      "Retain actual payment dates separately.",
+      "List cancellation and minimum-term effects.",
+      "Save alternative horizons with clear labels."
+    ],
+    "fields": [
+      {
+        "name": "months",
+        "label": "Months in the comparison period",
+        "value": 12,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "setupA",
+        "label": "Option A one-time setup charge (USD)",
+        "value": 2400,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "monthlyA",
+        "label": "Option A monthly recurring fee (USD)",
+        "value": 300,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "setupB",
+        "label": "Option B one-time setup charge (USD)",
+        "value": 600,
+        "min": 0,
+        "step": "any",
+        "max": null
+      },
+      {
+        "name": "monthlyB",
+        "label": "Option B monthly recurring fee (USD)",
+        "value": 450,
+        "min": 0,
+        "step": "any",
+        "max": null
+      }
+    ],
+    "formula": "Total = one-time setup + months \u00d7 recurring monthly fee. Average per month = total \u00f7 months.",
+    "example": "Over 12 months, option A is $2,400 + 12 \u00d7 $300 = $6,000. Option B is $600 + 12 \u00d7 $450 = $6,000. Both average $500 per month including setup.",
+    "exclusions": "Payment timing, discounting, cancellation charges, minimum terms, refunds, price changes and extra work are excluded."
+  }
+]
