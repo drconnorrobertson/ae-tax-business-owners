@@ -3410,5 +3410,885 @@
     ],
     "reviewedAt": "2026-11-20",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "andrew-gazdecki-acquire",
+    "name": "Andrew Gazdecki",
+    "company": "Acquire.com",
+    "website": "https://acquire.com/",
+    "role": "Founder, as identified by Acquire.com; a company event biography also identifies him as CEO.",
+    "founding": "The selected sources establish the founder relationship; this profile does not independently verify a legal formation date.",
+    "intro": "Andrew Gazdecki is identified by Acquire.com as its founder. The business presents a marketplace and supporting workflow for buying and selling online companies. Its company page and a company-hosted webinar biography provide the primary evidence used here. This profile explains the operating context without adopting promises about acquisition timing, valuation or successful sales.",
+    "sections": [
+      {
+        "title": "A marketplace organized around a transaction process",
+        "text": "Acquire.com describes the acquisition market as involving several separate tasks, from finding a buyer to diligence and closing. Its stated approach combines a marketplace with people and software that support those tasks. Gazdecki’s founder identification appears in that company account. The page is evidence of how the business presents its purpose, not proof that every listed company can be sold on the same terms.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A company-hosted founder discussion",
+        "text": "The webinar recap identifies Gazdecki as founder and CEO while discussing entrepreneurship through acquisition. That is a role statement within the company’s own publication. It also shows that education for buyers and sellers forms part of the business’s public activity. The event material should not be read as individualized acquisition advice for a reader’s circumstances.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The business question behind the profile",
+        "text": "A transaction marketplace differs from a company that directly acquires every business it lists. Understanding that distinction helps a directory reader ask who supplies diligence, who makes the purchase decision and which services are included. Those responsibilities belong in the current transaction documents rather than being inferred from a founder’s biography.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep the evidence bounded",
+        "text": "Use the company materials to establish the founder association and the business model they describe. Verify current service scope, fees and transaction responsibilities separately. This entry does not assess deal totals, company revenue, current equity or Gazdecki’s personal finances. A founder label is a historical and professional association, not a statement of an ownership percentage.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish a marketplace from the actual buyer.",
+      "Check current transaction responsibilities directly.",
+      "Do not infer valuation or ownership from the founder title."
+    ],
+    "sources": [
+      {
+        "title": "Acquire.com — company purpose and founder identification, reviewed November 21, 2026",
+        "url": "https://acquire.com/about/"
+      },
+      {
+        "title": "Acquire.com — entrepreneurship-through-acquisition webinar recap, reviewed November 21, 2026",
+        "url": "https://blog.acquire.com/entrepreneurship-through-acquisition-webinar/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "arvid-kahl-feedbackpanda",
+    "name": "Arvid Kahl",
+    "company": "FeedbackPanda",
+    "website": "https://thebootstrappedfounder.com/from-founding-to-exit-in-two-years-the-feedbackpanda-story/",
+    "role": "Historical co-founder; Kahl’s own account says FeedbackPanda was sold.",
+    "founding": "The November 9, 2019 founder account dates the original problem and prototype to 2017.",
+    "intro": "Arvid Kahl co-founded FeedbackPanda, a software product for online teachers, according to his own account. His current writing site describes both creating and selling the company. Because the old product domain now presents unrelated content, this profile links to Kahl’s historical account rather than treating that domain as a current business website.",
+    "sections": [
+      {
+        "title": "A specific administrative task",
+        "text": "Kahl’s November 2019 essay says Danielle was teaching online and spending additional time preparing student feedback. He describes building a prototype to reduce repetitive work across documents and spreadsheets. The account presents FeedbackPanda as a narrowly focused tool arising from a recurring task, not as a general education platform created before a customer problem was identified.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Two founders and a later sale",
+        "text": "The same essay describes Danielle’s role in communicating with the teacher community and says the company was sold to SureSwift Capital two years after the prototype began. Kahl’s current site repeats that FeedbackPanda was co-founded and sold. These are first-person historical statements. They do not establish any current role or ownership interest in the former product.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "From operating a product to documenting the experience",
+        "text": "The Bootstrapped Founder now presents Kahl’s writing, audio work and books about building businesses. It also describes another software venture, Podscan, as having been sold. That context explains why a founder associated with one historical product can now be encountered through a publishing business. Each project’s chronology should remain separate.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Follow the historical source rather than a recycled domain",
+        "text": "A domain name can outlive the business originally associated with it. The linked founder essay is the evidence trail used for FeedbackPanda here. No link in this profile endorses the current content of the former product domain. Revenue, sale proceeds, retained ownership and personal wealth are not evaluated.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Danielle’s co-founder contribution.",
+      "Treat FeedbackPanda as a historical founding association.",
+      "Use the documented founder account instead of the repurposed domain."
+    ],
+    "sources": [
+      {
+        "title": "Arvid Kahl — current publishing and venture account, reviewed November 21, 2026",
+        "url": "https://thebootstrappedfounder.com/"
+      },
+      {
+        "title": "Arvid Kahl — FeedbackPanda founding-to-exit essay, November 9, 2019",
+        "url": "https://thebootstrappedfounder.com/from-founding-to-exit-in-two-years-the-feedbackpanda-story/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false,
+    "websiteLabel": "Historical founder account"
+  },
+  {
+    "slug": "rob-walling-tinyseed",
+    "name": "Rob Walling",
+    "company": "TinySeed",
+    "website": "https://tinyseed.com/",
+    "role": "Co-founder of TinySeed, with Einar Vollset, as described by TinySeed.",
+    "founding": "TinySeed’s company account dates its announcement to 2018.",
+    "intro": "Rob Walling is a co-founder of TinySeed, the startup accelerator described in its own materials as an alternative path for software founders. His personal biography provides a second account of his work across businesses and founder communities. The profile distinguishes that professional history from any assessment of investment performance or current ownership.",
+    "sections": [
+      {
+        "title": "The gap TinySeed says it addressed",
+        "text": "TinySeed’s About page says Walling and Einar Vollset saw founders in the MicroConf community choosing between self-funding and conventional venture capital. The company account places its announcement in 2018 and describes a remote accelerator format. That explains the stated origin and intended audience without proving the suitability of its terms for any particular founder.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A broader founder-support career",
+        "text": "Walling’s personal biography describes building companies and helping other founders over a lengthy career. It presents educational and community activity alongside the accelerator. This is useful context for why his name appears in several businesses and publications. It should not collapse those organizations into one legal entity or imply identical roles in all of them.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "An accelerator is a distinct operating business",
+        "text": "An accelerator brings together selection, support, community and a financial arrangement. Those components deserve separate review by a prospective participant. A biography may explain who helped create the program, but it cannot substitute for current documents describing commitments, decision rights or the support actually provided.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Preserve the co-founder and date context",
+        "text": "Keep Vollset’s role in the founding account and use the announcement date for the historical milestone. Current terms and participation criteria can change. This entry does not estimate portfolio value, founder proceeds, investor returns, revenue eligibility or Walling’s equity. It records a public professional association in the separate research collection.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Include Einar Vollset in the origin account.",
+      "Separate the accelerator from other founder communities.",
+      "Review current program terms independently."
+    ],
+    "sources": [
+      {
+        "title": "TinySeed — company origin and program description, reviewed November 21, 2026",
+        "url": "https://tinyseed.com/about"
+      },
+      {
+        "title": "Rob Walling — personal business biography, reviewed November 21, 2026",
+        "url": "https://robwalling.com/about/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "amir-salihefendic-doist",
+    "name": "Amir Salihefendić",
+    "company": "Doist / Todoist",
+    "website": "https://www.todoist.com/",
+    "role": "Founder; the current company team lists Amir S. as founder and CEO, and the named interview identifies Amir Salihefendić.",
+    "founding": "The direct interview dates the start of Todoist to 2007 and a renewed focus on it to 2011.",
+    "intro": "Amir Salihefendić is the founder associated with Doist and Todoist in a direct interview and company materials. The current company website uses Todoist branding and describes a product that began with a student’s need to organize work. A website redirect is not treated here as evidence of a legal-entity transaction or change in ownership.",
+    "sections": [
+      {
+        "title": "An application before a larger company",
+        "text": "In the Founder Coffee interview, Salihefendić says he began Todoist while studying computer science and initially wanted a tool for himself. The interviewer’s chronology places that work in 2007 and describes his return to focusing on the product in 2011. These are distinct milestones: an early application and a later commitment to building around it.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The company’s version of the story",
+        "text": "The current About page likewise describes a student building a task-management tool before a team and wider company emerged. Its team list identifies Amir S. as founder and CEO. Read together with the named interview, the sources connect the person to the product history without relying only on a third-party directory entry.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Work organization as product and operating context",
+        "text": "The interview discusses task management and asynchronous communication, while the company page describes a distributed team. That combination shows how the business connects its product category with the way it presents its own work. It does not establish that one workflow is suitable for every organization or that a particular subscription will produce a promised productivity result.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Separate branding and corporate facts",
+        "text": "Doist and Todoist appear in different parts of the source history. Preserve those names with their context instead of inferring that a redirect alone proves a merger or restructuring. This entry does not evaluate subscriber counts, revenue, ownership or personal wealth. Current product and company questions should be checked against the relevant current documentation.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the 2007 product start from the later operating focus.",
+      "Keep Doist and Todoist names tied to their sources.",
+      "Do not infer legal or ownership changes from a redirect."
+    ],
+    "sources": [
+      {
+        "title": "Todoist — current company history and team, reviewed November 21, 2026",
+        "url": "https://www.todoist.com/about-us"
+      },
+      {
+        "title": "Salesflare Founder Coffee — direct interview with Amir Salihefendić, reviewed November 21, 2026",
+        "url": "https://blog.salesflare.com/interview-amir-salihefendic-doist"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "des-traynor-intercom-fin",
+    "name": "Des Traynor",
+    "company": "Intercom / Fin",
+    "website": "https://fin.ai/",
+    "role": "Co-founder and Chief Strategy Officer, as listed on Fin’s company page reviewed November 21, 2026.",
+    "founding": "The company history dates the four-founder start as Intercom to 2011 and its Fin naming change to 2026.",
+    "intro": "Des Traynor is a co-founder of the business now presented by Fin, previously known as Intercom. Its current company history and an older Intercom event report identify his role. This profile keeps the product and company naming chronology explicit while avoiding conclusions about legal ownership or a transaction based only on rebranding material.",
+    "sections": [
+      {
+        "title": "Four people in the founding account",
+        "text": "Fin’s company history names Eoghan McCabe, Traynor, Ciaran Lee and David Barrett in its 2011 origin. It describes a customer-communication product and later changes in the company’s focus. Keeping all four names matters when researching one co-founder: the present visibility of an executive does not make the business a one-person founding story.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A role documented across periods",
+        "text": "The March 29, 2022 Intercom event report identifies Traynor as co-founder and Chief Strategy Officer. The current Fin About page uses the same role and describes responsibilities across product-related teams. These sources establish what the company said at those points. They do not establish personal ownership percentages or every intermediate change in responsibility.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A changed emphasis in customer software",
+        "text": "The current history describes a move toward AI-based customer agents and a 2026 company-name change. The older event account describes customer engagement and communications. A directory reader can use that chronology to understand why current materials differ from an older profile, without assuming that every earlier product or service is still offered unchanged.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep rebranding distinct from a legal conclusion",
+        "text": "The company’s naming history is reported as its own account. It is not used to infer acquisition terms, a new legal entity or the disposition of any founder’s interest. This profile omits revenue and performance figures. For procurement, verify the current contracting entity, service scope and technical documentation directly.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain the four-founder history.",
+      "Date the Intercom and Fin brand references.",
+      "Verify legal and service details separately from the biography."
+    ],
+    "sources": [
+      {
+        "title": "Fin — current company history and leadership, reviewed November 21, 2026",
+        "url": "https://fin.ai/about"
+      },
+      {
+        "title": "Intercom — company event report, March 29, 2022",
+        "url": "https://www.intercom.com/blog/videos/new-at-intercom-event"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "syed-balkhi-awesome-motive",
+    "name": "Syed Balkhi",
+    "company": "Awesome Motive",
+    "website": "https://awesomemotive.com/",
+    "role": "Founder and CEO, as stated in his first-person account and WPBeginner author biography.",
+    "founding": "Balkhi’s October 4, 2025 origin account dates Awesome Motive’s founding to 2011.",
+    "intro": "Syed Balkhi is the founder of Awesome Motive, according to his own business account and the WPBeginner publication’s author biography. The sources connect software products with an earlier educational publishing effort. This profile records that relationship without treating claimed audience size, product reach or business results as independently verified measures.",
+    "sections": [
+      {
+        "title": "Publishing before the wider software account",
+        "text": "WPBeginner’s author page says Balkhi created WPBeginner in 2009 as a resource for people learning WordPress. The biography also identifies his role at Awesome Motive. Those names should remain distinct: an educational publication and the wider company described by its founder are related parts of a business story, not interchangeable labels for every product.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A first-person origin and operating account",
+        "text": "In an October 2025 essay, Balkhi says he founded Awesome Motive in 2011 and explains that readers had asked how its businesses were organized. The essay is explicitly his own account of the company. It supplies a dated founding statement and operating perspective, rather than independent proof of all scale or performance claims included in the narrative.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Products and educational content in one ecosystem",
+        "text": "The selected sources present a connection between explaining website tools and developing or managing software used by website operators. That helps readers understand why the founder appears both as an author and an executive. Evaluating a particular product still requires its current documentation, terms and fit with the buyer’s system.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The profile is not a product recommendation",
+        "text": "Current roles are attributed to the reviewed sources, and historical milestones retain their dates. This entry does not estimate revenue, holdings, product market share or personal wealth. Nor does the existence of an educational article establish that a linked software product is appropriate for every business or endorsed by AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish WPBeginner’s 2009 origin from Awesome Motive’s stated 2011 founding.",
+      "Keep founder claims attributed to their sources.",
+      "Evaluate individual products separately from the founder biography."
+    ],
+    "sources": [
+      {
+        "title": "Syed Balkhi — first-person Awesome Motive account, October 4, 2025",
+        "url": "https://syedbalkhi.com/awesome-motive-behind-the-scenes-origin-story-and-operating-manual/"
+      },
+      {
+        "title": "WPBeginner — Syed Balkhi author biography, reviewed November 21, 2026",
+        "url": "https://www.wpbeginner.com/author/syedb/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "dmitry-dragilev-justreachout",
+    "name": "Dmitry Dragilev",
+    "company": "JustReachOut",
+    "website": "https://justreachout.io/",
+    "role": "Founder, as identified by the company’s author archive and a direct interview.",
+    "founding": "The selected sources establish the founder association without a verified legal formation date.",
+    "intro": "Dmitry Dragilev is identified as the founder of JustReachOut in a company author archive and a direct Mixergy interview. The business is presented as software supporting public-relations outreach. The profile uses the sources to describe his role and operating focus, without endorsing publicity tactics, contact-data claims or promised marketing outcomes.",
+    "sections": [
+      {
+        "title": "A software product for a communication task",
+        "text": "The interview describes JustReachOut as helping users identify and approach relevant journalists through a software workflow. It also discusses Dragilev’s related work around public relations and marketing. Those descriptions explain the type of customer problem behind the business; they do not establish that a pitch will be welcomed or result in coverage.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A continuing founder byline",
+        "text": "The company’s author archive includes recent first-person product updates that identify Dragilev as founder. That supports an ongoing public association with the business. A byline alone does not disclose whether he owns shares, holds a particular legal office or personally performs every service. The role here is deliberately limited to the founder identification in the sources.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A direct interview with interested participants",
+        "text": "Mixergy’s conversation gives the founder space to explain his business decisions and outreach approach. The host and guest also discuss promotional activity. It is useful first-person evidence, but neither praise nor reported outcomes in an interview become an independent performance assessment merely because the conversation is published.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use current product details for a new decision",
+        "text": "A buyer should review the current product, permitted use of data, service boundaries and communication requirements for the intended campaign. This biography does not estimate revenues, conversion rates, personal income or current ownership. It records the founder association and helps separate an older interview’s context from more recent product material.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use the founder byline without inferring ownership.",
+      "Date historical outreach discussions.",
+      "Review current data and communication requirements separately."
+    ],
+    "sources": [
+      {
+        "title": "JustReachOut — Dmitry author archive, reviewed November 21, 2026",
+        "url": "https://blog.justreachout.io/author/dmitry/"
+      },
+      {
+        "title": "Mixergy — direct interview with Dmitry Dragilev, reviewed November 21, 2026",
+        "url": "https://mixergy.com/interviews/justreachout-io-with-dmitry-dragilev-2/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "michele-hansen-geocodio",
+    "name": "Michele Hansen",
+    "company": "Geocodio",
+    "website": "https://www.geocod.io/",
+    "role": "CEO and co-founder, as listed by Geocodio in the company team and 2026 retrospective.",
+    "founding": "The company’s retrospective gives January 21, 2014 as the product launch date.",
+    "intro": "Michele Hansen is a co-founder of Geocodio, a service for working with address and location data. The company identifies her as CEO and Mathias Hansen as co-founder and CTO. Its team page and February 2026 retrospective explain the business’s origin and development without establishing independently verified usage, accuracy or revenue.",
+    "sections": [
+      {
+        "title": "The launch and the original data problem",
+        "text": "The company retrospective dates Geocodio’s public launch to January 21, 2014. It describes users who needed to turn addresses into usable location information and retain results for analysis. The account places the product around a practical data-processing task, rather than only displaying points on a map. The exact launch date is the company’s stated chronology.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The founding team in current company material",
+        "text": "Geocodio’s About page names Michele as CEO and co-founder and Mathias as CTO and co-founder. This records their publicly described roles while preserving the collaborative founding account. It does not disclose a division of equity or establish that every technical or commercial decision belongs to one person.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A broader workflow than an API alone",
+        "text": "The retrospective describes adding spreadsheet uploads and appended geographic information in response to how people wanted to use the service. That history helps explain why a location-data business may serve both developers and other analysts. Current data coverage, acceptable uses and technical limitations still need to be verified for a specific project.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Keep company claims in context",
+        "text": "The sources contain usage and performance statements, which this profile does not treat as audited facts. The purpose here is the founder association and product history. No revenue qualification, ownership estimate or personal-finance conclusion is made, and inclusion does not imply an AE client or endorsement relationship.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Mathias Hansen’s co-founder role.",
+      "Attribute the January 2014 launch to the company account.",
+      "Check data coverage and permissions for the intended project."
+    ],
+    "sources": [
+      {
+        "title": "Geocodio — team and company background, reviewed November 21, 2026",
+        "url": "https://www.geocod.io/about"
+      },
+      {
+        "title": "Geocodio — twelfth-anniversary retrospective, February 3, 2026",
+        "url": "https://www.geocod.io/updates/2026-02-03-geocodio-turns-12"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "nick-francis-help-scout",
+    "name": "Nick Francis",
+    "company": "Help Scout",
+    "website": "https://www.helpscout.com/",
+    "role": "Founder and chairman, as listed on Help Scout’s company page reviewed November 21, 2026.",
+    "founding": "Help Scout’s company history dates its founding team’s work to 2011.",
+    "intro": "Nick Francis is a co-founder of Help Scout, the customer-support software business. The company’s current About page identifies him as founder and chairman, and his own transition statement explains that he stepped aside from the CEO position. This profile gives those later sources priority over older biographies that still call him chief executive.",
+    "sections": [
+      {
+        "title": "A service problem encountered by the founders",
+        "text": "Help Scout’s company history describes Nick, Jared and Denny building websites and applications for clients in 2011. When one application attracted more support requests, they looked for a way to manage those conversations. The source connects the product idea to that operating experience, rather than presenting the software as unrelated to their earlier work.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A documented leadership transition",
+        "text": "In his public statement, Francis says he is moving to chairman after serving as CEO and identifies an interim leadership arrangement. The current company page uses the founder-and-chairman title. These sources support that distinction without requiring an inference from his continued visibility in company content. An older CEO biography should remain a historical reference.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The other founders remain part of the story",
+        "text": "The transition statement names Denny Swindle and Jared McDaniel as his co-founders. Retaining them avoids confusing a profile of Francis with a claim that he created Help Scout alone. The source also discusses the team’s work, but this biography does not adopt reported support or AI outcomes as independently measured results.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use the current role with its review date",
+        "text": "The founder association and the chairman title answer different questions. Recheck the company page when a present executive role matters, and use the original statement for the transition history. This entry does not assess Help Scout’s revenue, shareholding, personal wealth or an AE relationship. It provides a dated public account of the founder’s role.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Do not repeat older CEO biographies as current.",
+      "Retain the named co-founders.",
+      "Keep leadership history separate from product-performance claims."
+    ],
+    "sources": [
+      {
+        "title": "Help Scout — company history and current role, reviewed November 21, 2026",
+        "url": "https://www.helpscout.com/about/"
+      },
+      {
+        "title": "Nick Francis — signed CEO-to-chairman transition statement, reviewed November 21, 2026",
+        "url": "https://www.linkedin.com/posts/nickfrancis1_after-15-years-serving-as-help-scouts-ceo-activity-7384322124813012992-hhJV"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "alex-turnbull-groove-helply",
+    "name": "Alex Turnbull",
+    "company": "Groove / Helply",
+    "website": "https://helply.com/",
+    "role": "Founder and CEO, as identified by Helply’s company materials reviewed November 21, 2026.",
+    "founding": "Helply’s company history dates Groove’s founding to 2011 and explains the later Helply name.",
+    "intro": "Alex Turnbull is identified by Helply as its founder and CEO. The company connects the current name to Groove, a customer-support product it says he founded in 2011. This profile follows the documented naming and product history without treating a relaunch as evidence of a sale, a new legal entity or a change in his ownership.",
+    "sections": [
+      {
+        "title": "The earlier Groove business",
+        "text": "Helply’s About page describes Groove as a simpler customer-support alternative created in 2011. It identifies Turnbull as founder and explains that the same team developed the later offering. The page gives readers a source for connecting the two names, which is more useful than assuming that an old Groove reference and a current Helply page describe unrelated founders.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "What the rebrand announcement says",
+        "text": "The company’s Groove-to-Helply announcement identifies Turnbull and says the website name changed while existing customer accounts continued. It describes a rebuild around a different product approach. Those are company statements about continuity and scope; they should not be expanded into unreported conclusions about contracts, ownership or the legal history of the business.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A product transition in an established category",
+        "text": "Both accounts concern customer-support work, but the current company emphasizes agents and shared operating context. That contrast helps explain why older product descriptions may no longer match the current website. Buyers should check actual features, access, implementation and service terms rather than assume that the familiar earlier name guarantees continuity in every detail.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The boundaries of this research",
+        "text": "The sources support a founder association and a stated brand transition. They do not establish independent accuracy for claimed customer outcomes, revenue or efficiency measures. This profile does not infer a current ownership percentage or personal wealth. Its role wording is dated to the reviewed company material and can be rechecked as the business changes.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Connect the Groove and Helply names using the official announcement.",
+      "Do not infer a legal transaction from the rebrand.",
+      "Review current product and contract details separately."
+    ],
+    "sources": [
+      {
+        "title": "Helply — company history and team, reviewed November 21, 2026",
+        "url": "https://helply.com/about"
+      },
+      {
+        "title": "Helply — official Groove naming-transition announcement, reviewed November 21, 2026",
+        "url": "https://helply.com/groove-is-now-helply"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "jack-butcher-visualize-value",
+    "name": "Jack Butcher",
+    "company": "Visualize Value",
+    "website": "https://www.visualizevalue.com/",
+    "role": "Founder of Visualize Value, as described in his professional biography.",
+    "founding": "Butcher’s professional biography dates Visualize Value’s founding to January 2019.",
+    "intro": "Jack Butcher founded Visualize Value, according to the professional biography linked from the business’s website. His work connects visual communication, publishing and conceptual art. This profile uses those first-party sources for the founding record and practice description, without evaluating collectible prices, investment performance or personal wealth.",
+    "sections": [
+      {
+        "title": "From advertising to Visualize Value",
+        "text": "The professional biography says Butcher spent a decade in advertising before founding Visualize Value in January 2019. It describes an interest in how people assign trust and value. These are the artist’s public account of his experience and working themes; they do not independently establish the results of past client work or a particular commercial scale.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The current business presentation",
+        "text": "Visualize Value’s website presents visual work alongside educational and other digital offerings and directly links to Butcher’s professional site. That connection helps establish that the two first-party sources belong to the same public practice. The menu and project presentation can change, so a historical profile should not imply that every listed offering remains available indefinitely.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Artwork and a commercial organization are different evidence",
+        "text": "Butcher’s biography discusses images, prints, installations and rule-based projects. Those descriptions explain the range of his practice. They do not provide a company financial statement, and the existence of a collectible or edition does not reveal what its creator currently owns or earned. This profile therefore leaves prices and collection-value claims outside its conclusions.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "How to continue the research",
+        "text": "Use the business site for current offerings and the professional biography for the dated founder account. For a commission, purchase or license, review the specific terms and the identity of the contracting party. This entry records a professional founding association and source trail, with no revenue qualification or implied relationship to AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the January 2019 date attributed to the biography.",
+      "Distinguish artwork descriptions from company financial evidence.",
+      "Check rights and purchase terms for a specific transaction."
+    ],
+    "sources": [
+      {
+        "title": "Visualize Value — current business website and professional-site link, reviewed November 21, 2026",
+        "url": "https://www.visualizevalue.com/"
+      },
+      {
+        "title": "Jack Butcher — professional biography and practice, reviewed November 21, 2026",
+        "url": "https://jack.art/about"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "spencer-haws-niche-pursuits",
+    "name": "Spencer Haws",
+    "company": "Niche Pursuits",
+    "website": "https://www.nichepursuits.com/",
+    "role": "Founder of Niche Pursuits, as identified in his current business biography.",
+    "founding": "Haws’s biography places NichePursuits.com in 2011 and separates earlier and later software ventures.",
+    "intro": "Spencer Haws is the founder of Niche Pursuits, according to the site’s own biography. His public account describes a mix of publishing and software projects, including the earlier Long Tail Pro business. This profile keeps those ventures distinct and does not use their reported earnings or sales to estimate present company revenue or personal wealth.",
+    "sections": [
+      {
+        "title": "A publication built around business experiments",
+        "text": "Haws says he created the blog to discuss the business ideas he was trying. His biography identifies 2011 as the start of NichePursuits.com and describes an ongoing publishing business. This is a first-person history of the publication. It is not an assurance that a reader can reproduce the outcomes claimed in individual stories or use the same methods successfully.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The separate Long Tail Pro history",
+        "text": "The biography identifies Long Tail Pro as an earlier software venture and says he sold that business in early 2016. In a separate first-person essay, he explains selling a majority interest. The essay displays a later update date, so that page’s update should not be mistaken for the transaction date. The source wording does not establish his present stake.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Publishing and software are different activities",
+        "text": "The two sources show how a founder’s own research workflow can lead to a software idea while the publication continues alongside it. That context helps readers distinguish a current author role from ownership of every tool discussed on the site. Product recommendations and affiliate relationships require their own review, separate from the founder biography.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep the research trail current",
+        "text": "Use the current biography for the ventures Haws publicly identifies and the transaction essay for his explanation of the historical sale. This entry does not audit claimed traffic, income or software performance. It records the Niche Pursuits founding association and preserves the limits of the primary account.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Do not confuse an article update with a transaction date.",
+      "Separate the publication from earlier software ventures.",
+      "Do not infer current ownership from historical creation."
+    ],
+    "sources": [
+      {
+        "title": "Niche Pursuits — Spencer Haws business biography, reviewed November 21, 2026",
+        "url": "https://www.nichepursuits.com/about-me/"
+      },
+      {
+        "title": "Spencer Haws — first-person Long Tail Pro sale account; page updated December 17, 2020",
+        "url": "https://www.nichepursuits.com/how-i-sold-my-software-company/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "tiago-forte-forte-labs",
+    "name": "Tiago Forte",
+    "company": "Forte Labs",
+    "website": "https://fortelabs.com/",
+    "role": "Founder of Forte Labs, as listed on the company’s team page.",
+    "founding": "Forte’s August 2022 retrospective dates the first era of the business to 2013–2015.",
+    "intro": "Tiago Forte is the founder of Forte Labs, the education and training business associated with Building a Second Brain. Its team page and a first-person retrospective describe an organization that developed through several kinds of teaching and publishing. This profile follows that business chronology without assuming that an educational program produces a particular result for every participant.",
+    "sections": [
+      {
+        "title": "An exploratory beginning",
+        "text": "In his August 2022 essay, Forte calls 2013–2015 the first era of the business. He describes experimenting with courses, corporate training, consulting and live workshops. That account is more specific than treating the company as a single course that appeared fully formed. It also places the milestone in his own retrospective rather than a verified incorporation record.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A later focus on courses and communication",
+        "text": "The same essay describes a subsequent emphasis on productivity and digital note-taking education. Forte Labs’ current team page identifies him as founder and creator of Building a Second Brain. These sources connect the author and teaching work with the operating business, while leaving program availability and delivery arrangements to current product information.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The wider team matters",
+        "text": "The company page also identifies Lauren Valdez as co-founder and describes her involvement in training, coaching and consulting. Including that context avoids presenting the founder’s public visibility as proof that he performs every part of the service. An educational business can involve curriculum, facilitation, support and operations supplied by different people.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Use the sources for history, not guarantees",
+        "text": "The retrospective and team page are first-party descriptions, not independent assessments of learning effectiveness or financial performance. Confirm the specific course, instructor and terms before purchasing. This entry does not evaluate audience counts, company revenue, equity interests or personal wealth, and it does not imply an AE client relationship.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the early experiments from later program formats.",
+      "Retain Lauren Valdez’s co-founder role.",
+      "Review present course details without assuming a learning outcome."
+    ],
+    "sources": [
+      {
+        "title": "Forte Labs — company team and business description, reviewed November 21, 2026",
+        "url": "https://fortelabs.com/about-forte-labs/"
+      },
+      {
+        "title": "Tiago Forte — business retrospective, August 1, 2022; updated August 2, 2022",
+        "url": "https://fortelabs.com/blog/why-im-becoming-a-youtuber/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "david-perell-write-of-passage",
+    "name": "David Perell",
+    "company": "Write of Passage",
+    "website": "https://writeofpassage.com/",
+    "role": "Founder of Write of Passage, as identified by the school’s own page.",
+    "founding": "The selected first-person and school sources establish the founder association without a verified legal formation date.",
+    "intro": "David Perell is the founder associated with Write of Passage in its own materials. His personal site describes writing, podcasts and an online writing school, while the school page identifies him as founder and instructor. This profile records that relationship without treating student testimonials or promotional promises as verified educational or business outcomes.",
+    "sections": [
+      {
+        "title": "Writing as the basis for the school",
+        "text": "Perell’s personal account describes publishing essays and newsletters and teaching people to write online. It presents the school as an extension of that practice. The source explains the subject of the business and the professional activity behind it, but does not by itself verify the effectiveness or suitability of a course for a particular student.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The organization’s founder identification",
+        "text": "Write of Passage’s page identifies Perell as its founder and instructor and describes a structured writing program. That is primary evidence connecting the person and the school. The page also contains promotional outcomes and testimonials, which this profile does not use to infer a typical result or promise a reader professional advancement.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A creator and an education service",
+        "text": "The personal publishing work and the school are related but different activities. A reader can follow an author’s public essays without buying instruction, and a school may depend on facilitation, curriculum and other operating work beyond the founder’s writing. That distinction helps a directory user ask about the actual program and current delivery team.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Check current offerings separately",
+        "text": "An accessible historical program page does not guarantee a particular cohort or enrollment window is open now. Review current schedules and terms directly. This entry does not assign a founding year where the selected evidence is insufficient, estimate revenue or ownership, or imply that Perell has a relationship with AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish public writing from paid instruction.",
+      "Verify current cohort and instructor details directly.",
+      "Do not treat testimonials as a typical promised outcome."
+    ],
+    "sources": [
+      {
+        "title": "David Perell — first-person professional biography, reviewed November 21, 2026",
+        "url": "https://perell.com/about/"
+      },
+      {
+        "title": "Write of Passage — school founder and instructor page, reviewed November 21, 2026",
+        "url": "https://writeofpassage.com/friend"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "april-dunford-ambient-strategy",
+    "name": "April Dunford",
+    "company": "Ambient Strategy",
+    "website": "https://www.aprildunford.com/",
+    "role": "Founder of Ambient Strategy, as identified in Oxx’s affiliated expert biography.",
+    "founding": "Oxx’s biography dates Ambient Strategy’s founding to 2015; the personal site describes her consulting practice.",
+    "intro": "April Dunford is identified as the founder of Ambient Strategy by Oxx, where she appears as an affiliated expert. Her personal site describes a consulting and writing practice focused on positioning. Together the sources establish the professional association and business subject without adopting promotional claims about clients’ growth or her personal finances.",
+    "sections": [
+      {
+        "title": "An executive background described firsthand",
+        "text": "Dunford’s personal biography says she worked across marketing, product and sales teams in business-to-business technology companies before consulting. She describes positioning and product communication as the focus that emerged from that experience. This provides a first-person professional narrative; it is not an independent verification of every result attributed to those prior organizations.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The Ambient Strategy connection",
+        "text": "Oxx’s expert page explicitly identifies her as founder of Ambient Strategy and dates that business to 2015. The page describes her work with technology companies. Because Oxx presents her within its own expert network, it is a directly affiliated source rather than an unrelated scraped directory. Its praise and financial figures are not used as evidence in this profile.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Books and consulting have different purposes",
+        "text": "The personal biography connects her consulting work with books about positioning and sales pitches. A published method can explain the ideas a consultant brings to an engagement without specifying the deliverables or suitability of a particular project. Buyers should establish those details through current scope and proposal discussions.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Keep professional evidence separate from outcomes",
+        "text": "The selected sources support a founder association and a stated chronology. They do not establish that a new engagement will create a certain amount of growth or that a founder currently owns the entire practice. This entry does not estimate revenues, investment returns or personal wealth and does not imply endorsement by AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Attribute the 2015 founding date to Oxx’s biography.",
+      "Separate books from the scope of a consulting engagement.",
+      "Do not import client-growth claims into the founder record."
+    ],
+    "sources": [
+      {
+        "title": "April Dunford — first-person professional biography, reviewed November 21, 2026",
+        "url": "https://www.aprildunford.com/about"
+      },
+      {
+        "title": "Oxx — affiliated expert biography, reviewed November 21, 2026",
+        "url": "https://www.oxx.vc/team/oxxperts/april-dunford/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "louis-grenier-stfo",
+    "name": "Louis Grenier",
+    "company": "STFO / Everyone Hates Marketers",
+    "website": "https://www.stfo.io/",
+    "role": "Founder, as identified on STFO’s company page reviewed November 21, 2026.",
+    "founding": "The company sources connect the STFO consultancy with the Everyone Hates Marketers publication; no formation date is inferred.",
+    "intro": "Louis Grenier is identified as the founder of STFO, a positioning and marketing consultancy. The current company page and its Everyone Hates Marketers podcast archive connect the consulting practice with a longer publishing activity. This profile follows that source trail without assuming a legal restructuring from changes in website branding.",
+    "sections": [
+      {
+        "title": "The current consulting presentation",
+        "text": "STFO’s About page names Grenier as founder and describes work on positioning, brand and go-to-market projects. It also identifies Diana De Jesus as a client partner. The page supports a description of the people and services the company presents, not an independent assessment of client outcomes or proof that the same scope suits every business.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The related publishing archive",
+        "text": "The company’s podcast page presents the Everyone Hates Marketers archive and says the show is on pause. The page contains episode listings with their own dates, so the archive should not be described as an ongoing release schedule without checking. Its connection to the consultancy explains why older references may use the publication name rather than STFO.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Brand continuity is not an ownership report",
+        "text": "The current sources link the consultancy and publication in one public presence. That is enough to preserve the relationship for directory readers, but it does not establish when a legal entity was formed, whether ownership changed or what contracts existed at an earlier point. Those are different questions requiring different evidence.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Read the practice description with its limits",
+        "text": "A buyer should review current deliverables, responsibilities and terms directly rather than treating a podcast discussion or founder biography as a proposal. This entry omits client endorsements, ratings, audience totals and revenue estimates. It records Grenier’s stated founder role and the relationship between the professional and publishing names.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the podcast archive separate from a current release schedule.",
+      "Do not infer a legal transaction from website-brand changes.",
+      "Review a specific consulting scope directly."
+    ],
+    "sources": [
+      {
+        "title": "STFO — company and founder description, reviewed November 21, 2026",
+        "url": "https://www.stfo.io/about/"
+      },
+      {
+        "title": "STFO — Everyone Hates Marketers podcast archive, reviewed November 21, 2026",
+        "url": "https://www.stfo.io/podcast/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
