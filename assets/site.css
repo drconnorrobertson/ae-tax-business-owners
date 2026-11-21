@@ -11,3 +11,6 @@
 
 /* Keep CTA typography and colors independent of prose links. */
 .button{font-family:var(--sans);font-style:normal;letter-spacing:normal;text-align:center;white-space:normal;overflow-wrap:normal;max-width:100%}.button.light:hover{background:#e7e1d5;color:var(--green)}.button.orange:hover{background:#e3a47d;color:#18372f}
+
+/* Owner guide comparison tables */
+.has-comparison{min-width:0}.table-wrap{max-width:100%;overflow-x:auto;margin:1.5rem 0}.table-wrap table{width:100%;border-collapse:collapse}.table-wrap th,.table-wrap td{text-align:left;vertical-align:top;padding:.8rem;border-bottom:1px solid #d9dedb}.table-wrap caption{text-align:left;font-weight:700;padding:.5rem 0}.table-wrap th[scope="row"]{min-width:8rem}

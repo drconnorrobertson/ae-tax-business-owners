@@ -1,14 +1,700 @@
 [
- {"slug":"tax-planning-for-million-dollar-business-owners","title":"Tax planning after your business crosses $1 million","category":"Owner planning","description":"A practical agenda for coordinating the business, the owner's income, and the next stage of growth.","intro":"A million dollars in annual sales is a business milestone. It is not a million dollars of taxable profit, and it does not identify the right entity or tax strategy by itself. Start a planning conversation with the economics of the business: operating margin, cash available to the owner, payroll, capital spending, and the owner's other income.","sections":[{"title":"Start with the whole picture","text":"Create a single view of each entity, its owners, the latest financial statements, and the tax returns already filed. Add an estimate of the current year's results and a cash forecast. A useful plan should explain how a proposed decision affects both the company and the owner, and distinguish a timing benefit from a permanent change in tax cost."},{"title":"Ask for an implementation calendar","text":"A recommendation only becomes useful when someone owns the next step. Ask which decisions need a payroll change, which require documentation, which belong in the books, and which require an election or another filing. Set a review date and identify the professional responsible for confirming each requirement."}],"checklist":["Current profit and loss statements and balance sheets for every entity","Prior business and personal returns, with depreciation schedules","Payroll totals, owner payments, loans, and distributions","Planned hiring, purchases, acquisitions, or a possible sale"],"questions":["Which decisions materially change my after-tax cash position?","What assumptions would cause the recommendation to change?","Who will implement and monitor the plan?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/business-structures"},
- {"slug":"revenue-profit-and-owner-cash","title":"Revenue, profit, and owner cash are three different numbers","category":"Financial clarity","description":"Why a seven-figure company can still need a better cash and tax forecast.","intro":"Revenue measures sales. Profit reflects the earnings after the expenses included in the relevant financial statement. Cash available to an owner also depends on collections, debt payments, purchases, working capital, and the timing of tax payments. These numbers can move in different directions in the same month.","sections":[{"title":"Build a bridge from profit to cash","text":"Review receivables, payables, debt principal, capital purchases, inventory, and changes in customer deposits alongside the profit and loss statement. Identify cash committed to payroll and other operating needs before considering an owner withdrawal. A growing business can require more working capital even while reported profit improves."},{"title":"Keep the tax forecast separate","text":"Book profit and taxable income can differ. Ask your adviser to identify the adjustments rather than assuming the amount in the accounting software is the amount on the return. A useful dashboard shows operating profit, expected taxable income, and cash available after reserves as separate lines."}],"checklist":["Monthly profit and loss statement and balance sheet","Receivables and payables aging reports","Debt repayment and capital purchase schedule","Rolling cash forecast with an explicit tax reserve"],"questions":["How much of this month's profit has actually been collected?","Which cash payments are not expenses on the income statement?","What amount is available to distribute after operating reserves?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"},
- {"slug":"entity-structure-review","title":"When an established owner should review entity structure","category":"Entity decisions","description":"Bring ownership, operating plans, and owner cash needs into the same conversation.","intro":"The entity decision should follow the business, its owners, and its plans. An LLC label alone does not tell you how the business is taxed. A review should consider the legal structure, the federal and state tax treatment, administrative costs, eligibility requirements, and how the owner expects to use the cash.","sections":[{"title":"Define the decision before comparing entities","text":"Write down whether the business expects to reinvest earnings, distribute cash, bring in investors, add partners, or prepare for an exit. Include the states where the company operates and the owner's expected income from other sources. Ask for a comparison that uses the same operating assumptions for each alternative."},{"title":"Include the cost of changing","text":"A proposed entity change can affect payroll, books, contracts, ownership rights, and filings. Ask tax and legal advisers to coordinate the effective date, required steps, and potential consequences. The lowest headline rate is not a complete measure of the owner's result."}],"checklist":["Formation documents and existing tax elections","Ownership percentages and agreements","Projected profit, reinvestment, and distribution needs","Expected investors, acquisitions, or an exit"],"questions":["What is the total company-and-owner result under each option?","Which restrictions apply to the proposed tax treatment?","What does the transition require?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/business-structures"},
- {"slug":"owner-compensation-review","title":"An owner compensation review that starts with the work","category":"Owner compensation","description":"Separate wages, distributions, reimbursements, and loans before making changes.","intro":"Owner payments need a clear purpose and consistent records. A salary, a distribution, a reimbursement, and a loan are not interchangeable labels. For an S corporation, the IRS requires reasonable compensation for shareholder services before non-wage distributions are used as a substitute for that compensation.","sections":[{"title":"Document responsibilities","text":"Describe the owner's duties, time spent, experience, management responsibilities, and the work performed by other employees. Bring payroll records and relevant compensation information to the review. A percentage-of-profit shortcut should not replace an analysis of the services actually provided."},{"title":"Reconcile what the books show","text":"Review the payroll ledger, owner distributions, expense reimbursements, and shareholder loan accounts together. Ask the adviser to identify amounts needing correction and explain how those corrections flow into the books and returns. Schedule another review when the owner's role changes materially."}],"checklist":["Owner job description and time commitments","Payroll records and existing wage calculation","Distribution and loan-account activity","Comparable compensation information"],"questions":["What evidence supports the compensation amount?","Do the books distinguish each type of owner payment?","When should we reassess the owner's role?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/s-corporation-compensation-and-medical-insurance-issues"},
- {"slug":"quarterly-tax-planning-agenda","title":"A quarterly tax-planning agenda for growing owners","category":"Planning rhythm","description":"Make the conversation about current results and upcoming decisions.","intro":"A quarterly review works best when it starts with updated numbers and ends with decisions, owners, and dates. Bring the year-to-date financial statements, a full-year forecast, payroll information, and a list of decisions likely to happen before the next meeting.","sections":[{"title":"Use a current forecast","text":"Compare actual results with the assumptions used at the previous meeting. Flag unusual receipts, a major contract, a planned asset purchase, a new location, or an acquisition. Ask the adviser to show how the changed forecast affects the tax-payment plan and the owner's cash needs."},{"title":"Record the decisions","text":"Keep a short action register identifying the task, the person responsible, the required documentation, and the target completion date. At the next review, check whether the work happened and whether the facts still support the decision. Separate recommendations from items already implemented."}],"checklist":["Year-to-date financials and updated full-year forecast","Tax payments made and available confirmations","Planned transactions and capital spending","Open implementation items from the previous review"],"questions":["What has changed since the last forecast?","Which decision needs attention before the next meeting?","What documents or approvals are still missing?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"},
- {"slug":"estimated-tax-cash-reserve","title":"Build a tax reserve around a forecast, not a guess","category":"Cash planning","description":"Coordinate owner income, payment timing, and business cash needs.","intro":"A flat percentage of revenue rarely captures an owner's full tax picture. Start with projected taxable income, withholding, payments already made, the entity's tax treatment, and the owner's other income. Ask the adviser to distinguish the estimated final liability from the payments needed during the year.","sections":[{"title":"Create a payment map","text":"List each payment obligation, the taxpayer making the payment, and the relevant payment channel. Keep evidence of payments where the tax team can find it. The business's payment obligations and the owner's personal obligations should be identified separately."},{"title":"Refresh the forecast when results change","text":"A large new contract, weaker margins, an owner distribution, or a major transaction can change the assumptions. Agree on a trigger for revisiting the reserve, rather than waiting until filing time. Keep the operating cash forecast visible so tax payments do not collide with payroll or other commitments."}],"checklist":["Expected business and personal income","Withholding and prior estimated payments","Current cash and working-capital needs","A calendar identifying taxpayer, amount, and review date"],"questions":["Does the reserve reflect profit rather than sales?","Which payment rules apply to each taxpayer?","What event should trigger a new forecast?"],"source":"https://www.irs.gov/faqs/estimated-tax"},
- {"slug":"books-ready-for-tax-planning","title":"Make your books useful before asking for a tax strategy","category":"Books & records","description":"A clean handoff reduces avoidable back-and-forth.","intro":"Tax planning depends on numbers that the owner and adviser can understand. A reconciled balance sheet is as important as an income statement. Organize transactions so the team can tell what happened, who was paid, what the business acquired, and whether an amount belongs to an owner account.","sections":[{"title":"Close the month consistently","text":"Reconcile bank and credit-card accounts, review receivables and payables, and identify unresolved transactions. Add schedules for loans, fixed assets, payroll, and owner activity. Record questions as they arise rather than allowing them to accumulate until a filing deadline."},{"title":"Create a repeatable handoff","text":"Use the same folder structure and naming convention for each reporting period. Include a short explanation of unusual activity and a list of missing documents. Ask the tax team what additional schedules are needed for the specific business rather than assuming every company needs the same packet."}],"checklist":["Reconciled bank and credit-card accounts","Profit and loss statement and balance sheet","Loan, fixed-asset, payroll, and owner schedules","Supporting invoices and a list of unresolved items"],"questions":["Which balance-sheet accounts are not reconciled?","Who owns the remaining cleanup?","What information is missing from the tax handoff?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"},
- {"slug":"business-expense-reimbursement-process","title":"Build an expense reimbursement process owners can follow","category":"Documentation","description":"Give business expenses a consistent path from receipt to books.","intro":"A reimbursement process should tell the person submitting an expense what to provide, where to submit it, and who reviews it. Ask your tax adviser which reimbursement rules apply to the business and the person receiving the payment before adopting a policy.","sections":[{"title":"Make the business purpose visible","text":"Retain the receipt, identify the business purpose, and record the relevant date and participants when appropriate. Keep business and personal amounts separate. A bank or card statement may show a payment without explaining its purpose or providing all the supporting detail."},{"title":"Connect the policy to the books","text":"Assign responsibility for reviewing claims and recording approved payments. Reconcile advances and reimbursements so amounts are not duplicated or left in an unexplained account. Ask the adviser to confirm the policy's substantiation and timing requirements for the actual arrangement."}],"checklist":["Written submission and review process","Receipts and documented business purpose","Clear treatment of advances and personal portions","A reconciliation between claims, payments, and the ledger"],"questions":["Which reimbursement arrangement applies here?","What evidence and timing are required?","Who checks that the expense is recorded only once?"],"source":"https://www.irs.gov/forms-pubs/about-publication-463"},
- {"slug":"equipment-purchase-planning","title":"Plan the equipment purchase before choosing its tax treatment","category":"Capital decisions","description":"Keep operational need, financing, and tax timing in one model.","intro":"An equipment purchase is first an operating and cash decision. List the asset's purpose, expected use, financing terms, delivery schedule, and the date it will be ready for business use. Ask the adviser to evaluate the applicable tax treatment with those facts rather than assuming a purchase automatically creates a particular deduction.","sections":[{"title":"Compare the full cash cost","text":"Include down payments, debt service, maintenance, training, installation, and any working-capital effect. Separate the cash forecast from the expense recognized in the books and the deduction expected on the return. The three schedules may have different timing."},{"title":"Maintain the asset record","text":"Keep purchase agreements, invoices, financing documents, and information about business use. Ask which elections, classifications, and placed-in-service records the tax team needs. Discuss the potential effect of later sale or disposal before treating the initial deduction as the whole outcome."}],"checklist":["Asset description, invoice, and financing terms","Delivery, installation, and business-use records","Expected operating benefit and total cash cost","Existing fixed-asset and depreciation schedules"],"questions":["When will the asset be placed in service?","Which treatments are available under the actual facts?","What happens if the asset is sold later?"],"source":"https://www.irs.gov/publications/p946"},
- {"slug":"retirement-plan-design-conversation","title":"Prepare for a retirement-plan design conversation","category":"Owner benefits","description":"Start with the owner, the workforce, and the company's cash commitments.","intro":"Retirement-plan design is a company decision that includes employees as well as owners. Prepare workforce information, compensation records, existing plan documents, and a realistic view of the business's ability to fund contributions. A contribution goal by itself is not a plan design.","sections":[{"title":"Bring the workforce facts","text":"Ask the plan professional which employee information is required for eligibility and design analysis. Include expected hiring, compensation changes, and any related businesses. Coordinate the discussion among the tax adviser, plan administrator, and investment professional so assumptions are shared."},{"title":"Ask about ongoing obligations","text":"Understand administration, testing, funding, reporting, and employee communication before choosing a plan. Ask for an annual calendar and a named person responsible for each task. Model a weaker-profit year as well as the current year so recurring commitments are visible."}],"checklist":["Employee census prepared for the plan professional","Owner and employee compensation information","Existing plans and related-business information","Contribution budget and an ongoing administration calendar"],"questions":["How does the design affect eligible employees?","What costs and annual obligations accompany it?","Can the business support the commitments in a lower-profit year?"],"source":"https://www.irs.gov/retirement-plans/irc-401k-plans-establishing-a-401k-plan"},
- {"slug":"acquisition-tax-diligence-questions","title":"Tax questions to ask before buying another business","category":"Acquisitions","description":"Organize the diligence conversation before signing the transaction documents.","intro":"Before buying a business, define what is being purchased and which advisers are responsible for the tax, legal, and financial review. The headline purchase price does not explain the treatment of assets, liabilities, owner interests, or future payments.","sections":[{"title":"Reconcile the operating story","text":"Compare financial statements, tax returns, bank activity, payroll, and the seller's supporting schedules. Identify adjustments that are proposed rather than proven. Ask who will investigate discrepancies and what information must be resolved before a decision."},{"title":"Model the transaction structure","text":"Ask the transaction team to compare the proposed structure, allocation, financing, contingent payments, and expected post-closing cash flow. Include integration costs and the buyer's ability to operate the business after closing. Keep the purchase documents and the tax model consistent."}],"checklist":["Proposed transaction structure and purchase agreement","Financial statements, returns, and supporting schedules","Asset, debt, payroll, and ownership records","Financing terms and post-closing cash forecast"],"questions":["What exactly are we buying?","Which tax assumptions depend on the final agreement?","What obligations might remain after closing?"],"source":"https://www.irs.gov/publications/p544"},
- {"slug":"year-end-owner-planning-checklist","title":"A year-end planning checklist for established owners","category":"Planning rhythm","description":"Bring the decisions forward while there is still time to act.","intro":"A useful year-end review distinguishes decisions still available from work that is already complete. Start with an updated forecast and a list of changes in the business, the owner's circumstances, and planned transactions. Ask the adviser to identify the actual deadlines that apply to each item.","sections":[{"title":"Focus on decisions, not a generic deduction list","text":"Review owner compensation, capital spending, expense documentation, tax payments, benefits, and pending transactions. Ask why each recommendation fits the specific business and what records are required. Avoid purchasing something solely because it appears on a year-end checklist."},{"title":"Prepare the filing handoff","text":"Assign responsibility for final financial statements, payroll reporting, asset schedules, and missing documents. Keep a record of elections and decisions so the filing team can connect the plan to the return. Schedule an early follow-up for unresolved items."}],"checklist":["Updated forecast and payment history","Planned purchases, transactions, and owner payments","Benefits and payroll items needing review","A document and implementation list with named owners"],"questions":["Which decisions have a deadline before year-end?","What has actually been implemented?","What does the filing team still need?"],"source":"https://www.irs.gov/businesses/small-businesses-self-employed/filing-and-paying-your-business-taxes"}
+  {
+    "slug": "tax-planning-for-million-dollar-business-owners",
+    "title": "Tax planning after your business crosses $1 million",
+    "category": "Owner planning",
+    "description": "A practical agenda for coordinating the business, the owner's income, and the next stage of growth.",
+    "intro": "A million dollars in annual sales is a business milestone. It is not a million dollars of taxable profit, and it does not identify the right entity or tax strategy by itself. Start a planning conversation with the economics of the business: operating margin, cash available to the owner, payroll, capital spending, and the owner's other income.",
+    "sections": [
+      {
+        "title": "Start with the whole picture",
+        "text": "Create a single view of each entity, its owners, the latest financial statements, and the tax returns already filed. Add an estimate of the current year's results and a cash forecast. A useful plan should explain how a proposed decision affects both the company and the owner, and distinguish a timing benefit from a permanent change in tax cost."
+      },
+      {
+        "title": "Ask for an implementation calendar",
+        "text": "A recommendation only becomes useful when someone owns the next step. Ask which decisions need a payroll change, which require documentation, which belong in the books, and which require an election or another filing. Set a review date and identify the professional responsible for confirming each requirement."
+      }
+    ],
+    "checklist": [
+      "Current profit and loss statements and balance sheets for every entity",
+      "Prior business and personal returns, with depreciation schedules",
+      "Payroll totals, owner payments, loans, and distributions",
+      "Planned hiring, purchases, acquisitions, or a possible sale"
+    ],
+    "questions": [
+      "Which decisions materially change my after-tax cash position?",
+      "What assumptions would cause the recommendation to change?",
+      "Who will implement and monitor the plan?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/business-structures"
+  },
+  {
+    "slug": "revenue-profit-and-owner-cash",
+    "title": "Revenue, profit, and owner cash are three different numbers",
+    "category": "Financial clarity",
+    "description": "Why a seven-figure company can still need a better cash and tax forecast.",
+    "intro": "Revenue measures sales. Profit reflects the earnings after the expenses included in the relevant financial statement. Cash available to an owner also depends on collections, debt payments, purchases, working capital, and the timing of tax payments. These numbers can move in different directions in the same month.",
+    "sections": [
+      {
+        "title": "Build a bridge from profit to cash",
+        "text": "Review receivables, payables, debt principal, capital purchases, inventory, and changes in customer deposits alongside the profit and loss statement. Identify cash committed to payroll and other operating needs before considering an owner withdrawal. A growing business can require more working capital even while reported profit improves."
+      },
+      {
+        "title": "Keep the tax forecast separate",
+        "text": "Book profit and taxable income can differ. Ask your adviser to identify the adjustments rather than assuming the amount in the accounting software is the amount on the return. A useful dashboard shows operating profit, expected taxable income, and cash available after reserves as separate lines."
+      }
+    ],
+    "checklist": [
+      "Monthly profit and loss statement and balance sheet",
+      "Receivables and payables aging reports",
+      "Debt repayment and capital purchase schedule",
+      "Rolling cash forecast with an explicit tax reserve"
+    ],
+    "questions": [
+      "How much of this month's profit has actually been collected?",
+      "Which cash payments are not expenses on the income statement?",
+      "What amount is available to distribute after operating reserves?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
+  },
+  {
+    "slug": "entity-structure-review",
+    "title": "When an established owner should review entity structure",
+    "category": "Entity decisions",
+    "description": "Bring ownership, operating plans, and owner cash needs into the same conversation.",
+    "intro": "The entity decision should follow the business, its owners, and its plans. An LLC label alone does not tell you how the business is taxed. A review should consider the legal structure, the federal and state tax treatment, administrative costs, eligibility requirements, and how the owner expects to use the cash.",
+    "sections": [
+      {
+        "title": "Define the decision before comparing entities",
+        "text": "Write down whether the business expects to reinvest earnings, distribute cash, bring in investors, add partners, or prepare for an exit. Include the states where the company operates and the owner's expected income from other sources. Ask for a comparison that uses the same operating assumptions for each alternative."
+      },
+      {
+        "title": "Include the cost of changing",
+        "text": "A proposed entity change can affect payroll, books, contracts, ownership rights, and filings. Ask tax and legal advisers to coordinate the effective date, required steps, and potential consequences. The lowest headline rate is not a complete measure of the owner's result."
+      }
+    ],
+    "checklist": [
+      "Formation documents and existing tax elections",
+      "Ownership percentages and agreements",
+      "Projected profit, reinvestment, and distribution needs",
+      "Expected investors, acquisitions, or an exit"
+    ],
+    "questions": [
+      "What is the total company-and-owner result under each option?",
+      "Which restrictions apply to the proposed tax treatment?",
+      "What does the transition require?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/business-structures"
+  },
+  {
+    "slug": "owner-compensation-review",
+    "title": "An owner compensation review that starts with the work",
+    "category": "Owner compensation",
+    "description": "Separate wages, distributions, reimbursements, and loans before making changes.",
+    "intro": "Owner payments need a clear purpose and consistent records. A salary, a distribution, a reimbursement, and a loan are not interchangeable labels. For an S corporation, the IRS requires reasonable compensation for shareholder services before non-wage distributions are used as a substitute for that compensation.",
+    "sections": [
+      {
+        "title": "Document responsibilities",
+        "text": "Describe the owner's duties, time spent, experience, management responsibilities, and the work performed by other employees. Bring payroll records and relevant compensation information to the review. A percentage-of-profit shortcut should not replace an analysis of the services actually provided."
+      },
+      {
+        "title": "Reconcile what the books show",
+        "text": "Review the payroll ledger, owner distributions, expense reimbursements, and shareholder loan accounts together. Ask the adviser to identify amounts needing correction and explain how those corrections flow into the books and returns. Schedule another review when the owner's role changes materially."
+      }
+    ],
+    "checklist": [
+      "Owner job description and time commitments",
+      "Payroll records and existing wage calculation",
+      "Distribution and loan-account activity",
+      "Comparable compensation information"
+    ],
+    "questions": [
+      "What evidence supports the compensation amount?",
+      "Do the books distinguish each type of owner payment?",
+      "When should we reassess the owner's role?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/s-corporation-compensation-and-medical-insurance-issues"
+  },
+  {
+    "slug": "quarterly-tax-planning-agenda",
+    "title": "A quarterly tax-planning agenda for growing owners",
+    "category": "Planning rhythm",
+    "description": "Make the conversation about current results and upcoming decisions.",
+    "intro": "A quarterly review works best when it starts with updated numbers and ends with decisions, owners, and dates. Bring the year-to-date financial statements, a full-year forecast, payroll information, and a list of decisions likely to happen before the next meeting.",
+    "sections": [
+      {
+        "title": "Use a current forecast",
+        "text": "Compare actual results with the assumptions used at the previous meeting. Flag unusual receipts, a major contract, a planned asset purchase, a new location, or an acquisition. Ask the adviser to show how the changed forecast affects the tax-payment plan and the owner's cash needs."
+      },
+      {
+        "title": "Record the decisions",
+        "text": "Keep a short action register identifying the task, the person responsible, the required documentation, and the target completion date. At the next review, check whether the work happened and whether the facts still support the decision. Separate recommendations from items already implemented."
+      }
+    ],
+    "checklist": [
+      "Year-to-date financials and updated full-year forecast",
+      "Tax payments made and available confirmations",
+      "Planned transactions and capital spending",
+      "Open implementation items from the previous review"
+    ],
+    "questions": [
+      "What has changed since the last forecast?",
+      "Which decision needs attention before the next meeting?",
+      "What documents or approvals are still missing?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+  },
+  {
+    "slug": "estimated-tax-cash-reserve",
+    "title": "Build a tax reserve around a forecast, not a guess",
+    "category": "Cash planning",
+    "description": "Coordinate owner income, payment timing, and business cash needs.",
+    "intro": "A flat percentage of revenue rarely captures an owner's full tax picture. Start with projected taxable income, withholding, payments already made, the entity's tax treatment, and the owner's other income. Ask the adviser to distinguish the estimated final liability from the payments needed during the year.",
+    "sections": [
+      {
+        "title": "Create a payment map",
+        "text": "List each payment obligation, the taxpayer making the payment, and the relevant payment channel. Keep evidence of payments where the tax team can find it. The business's payment obligations and the owner's personal obligations should be identified separately."
+      },
+      {
+        "title": "Refresh the forecast when results change",
+        "text": "A large new contract, weaker margins, an owner distribution, or a major transaction can change the assumptions. Agree on a trigger for revisiting the reserve, rather than waiting until filing time. Keep the operating cash forecast visible so tax payments do not collide with payroll or other commitments."
+      }
+    ],
+    "checklist": [
+      "Expected business and personal income",
+      "Withholding and prior estimated payments",
+      "Current cash and working-capital needs",
+      "A calendar identifying taxpayer, amount, and review date"
+    ],
+    "questions": [
+      "Does the reserve reflect profit rather than sales?",
+      "Which payment rules apply to each taxpayer?",
+      "What event should trigger a new forecast?"
+    ],
+    "source": "https://www.irs.gov/faqs/estimated-tax"
+  },
+  {
+    "slug": "books-ready-for-tax-planning",
+    "title": "Make your books useful before asking for a tax strategy",
+    "category": "Books & records",
+    "description": "A clean handoff reduces avoidable back-and-forth.",
+    "intro": "Tax planning depends on numbers that the owner and adviser can understand. A reconciled balance sheet is as important as an income statement. Organize transactions so the team can tell what happened, who was paid, what the business acquired, and whether an amount belongs to an owner account.",
+    "sections": [
+      {
+        "title": "Close the month consistently",
+        "text": "Reconcile bank and credit-card accounts, review receivables and payables, and identify unresolved transactions. Add schedules for loans, fixed assets, payroll, and owner activity. Record questions as they arise rather than allowing them to accumulate until a filing deadline."
+      },
+      {
+        "title": "Create a repeatable handoff",
+        "text": "Use the same folder structure and naming convention for each reporting period. Include a short explanation of unusual activity and a list of missing documents. Ask the tax team what additional schedules are needed for the specific business rather than assuming every company needs the same packet."
+      }
+    ],
+    "checklist": [
+      "Reconciled bank and credit-card accounts",
+      "Profit and loss statement and balance sheet",
+      "Loan, fixed-asset, payroll, and owner schedules",
+      "Supporting invoices and a list of unresolved items"
+    ],
+    "questions": [
+      "Which balance-sheet accounts are not reconciled?",
+      "Who owns the remaining cleanup?",
+      "What information is missing from the tax handoff?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
+  },
+  {
+    "slug": "business-expense-reimbursement-process",
+    "title": "Build an expense reimbursement process owners can follow",
+    "category": "Documentation",
+    "description": "Give business expenses a consistent path from receipt to books.",
+    "intro": "A reimbursement process should tell the person submitting an expense what to provide, where to submit it, and who reviews it. Ask your tax adviser which reimbursement rules apply to the business and the person receiving the payment before adopting a policy.",
+    "sections": [
+      {
+        "title": "Make the business purpose visible",
+        "text": "Retain the receipt, identify the business purpose, and record the relevant date and participants when appropriate. Keep business and personal amounts separate. A bank or card statement may show a payment without explaining its purpose or providing all the supporting detail."
+      },
+      {
+        "title": "Connect the policy to the books",
+        "text": "Assign responsibility for reviewing claims and recording approved payments. Reconcile advances and reimbursements so amounts are not duplicated or left in an unexplained account. Ask the adviser to confirm the policy's substantiation and timing requirements for the actual arrangement."
+      }
+    ],
+    "checklist": [
+      "Written submission and review process",
+      "Receipts and documented business purpose",
+      "Clear treatment of advances and personal portions",
+      "A reconciliation between claims, payments, and the ledger"
+    ],
+    "questions": [
+      "Which reimbursement arrangement applies here?",
+      "What evidence and timing are required?",
+      "Who checks that the expense is recorded only once?"
+    ],
+    "source": "https://www.irs.gov/forms-pubs/about-publication-463"
+  },
+  {
+    "slug": "equipment-purchase-planning",
+    "title": "Plan the equipment purchase before choosing its tax treatment",
+    "category": "Capital decisions",
+    "description": "Keep operational need, financing, and tax timing in one model.",
+    "intro": "An equipment purchase is first an operating and cash decision. List the asset's purpose, expected use, financing terms, delivery schedule, and the date it will be ready for business use. Ask the adviser to evaluate the applicable tax treatment with those facts rather than assuming a purchase automatically creates a particular deduction.",
+    "sections": [
+      {
+        "title": "Compare the full cash cost",
+        "text": "Include down payments, debt service, maintenance, training, installation, and any working-capital effect. Separate the cash forecast from the expense recognized in the books and the deduction expected on the return. The three schedules may have different timing."
+      },
+      {
+        "title": "Maintain the asset record",
+        "text": "Keep purchase agreements, invoices, financing documents, and information about business use. Ask which elections, classifications, and placed-in-service records the tax team needs. Discuss the potential effect of later sale or disposal before treating the initial deduction as the whole outcome."
+      }
+    ],
+    "checklist": [
+      "Asset description, invoice, and financing terms",
+      "Delivery, installation, and business-use records",
+      "Expected operating benefit and total cash cost",
+      "Existing fixed-asset and depreciation schedules"
+    ],
+    "questions": [
+      "When will the asset be placed in service?",
+      "Which treatments are available under the actual facts?",
+      "What happens if the asset is sold later?"
+    ],
+    "source": "https://www.irs.gov/publications/p946"
+  },
+  {
+    "slug": "retirement-plan-design-conversation",
+    "title": "Prepare for a retirement-plan design conversation",
+    "category": "Owner benefits",
+    "description": "Start with the owner, the workforce, and the company's cash commitments.",
+    "intro": "Retirement-plan design is a company decision that includes employees as well as owners. Prepare workforce information, compensation records, existing plan documents, and a realistic view of the business's ability to fund contributions. A contribution goal by itself is not a plan design.",
+    "sections": [
+      {
+        "title": "Bring the workforce facts",
+        "text": "Ask the plan professional which employee information is required for eligibility and design analysis. Include expected hiring, compensation changes, and any related businesses. Coordinate the discussion among the tax adviser, plan administrator, and investment professional so assumptions are shared."
+      },
+      {
+        "title": "Ask about ongoing obligations",
+        "text": "Understand administration, testing, funding, reporting, and employee communication before choosing a plan. Ask for an annual calendar and a named person responsible for each task. Model a weaker-profit year as well as the current year so recurring commitments are visible."
+      }
+    ],
+    "checklist": [
+      "Employee census prepared for the plan professional",
+      "Owner and employee compensation information",
+      "Existing plans and related-business information",
+      "Contribution budget and an ongoing administration calendar"
+    ],
+    "questions": [
+      "How does the design affect eligible employees?",
+      "What costs and annual obligations accompany it?",
+      "Can the business support the commitments in a lower-profit year?"
+    ],
+    "source": "https://www.irs.gov/retirement-plans/irc-401k-plans-establishing-a-401k-plan"
+  },
+  {
+    "slug": "acquisition-tax-diligence-questions",
+    "title": "Tax questions to ask before buying another business",
+    "category": "Acquisitions",
+    "description": "Organize the diligence conversation before signing the transaction documents.",
+    "intro": "Before buying a business, define what is being purchased and which advisers are responsible for the tax, legal, and financial review. The headline purchase price does not explain the treatment of assets, liabilities, owner interests, or future payments.",
+    "sections": [
+      {
+        "title": "Reconcile the operating story",
+        "text": "Compare financial statements, tax returns, bank activity, payroll, and the seller's supporting schedules. Identify adjustments that are proposed rather than proven. Ask who will investigate discrepancies and what information must be resolved before a decision."
+      },
+      {
+        "title": "Model the transaction structure",
+        "text": "Ask the transaction team to compare the proposed structure, allocation, financing, contingent payments, and expected post-closing cash flow. Include integration costs and the buyer's ability to operate the business after closing. Keep the purchase documents and the tax model consistent."
+      }
+    ],
+    "checklist": [
+      "Proposed transaction structure and purchase agreement",
+      "Financial statements, returns, and supporting schedules",
+      "Asset, debt, payroll, and ownership records",
+      "Financing terms and post-closing cash forecast"
+    ],
+    "questions": [
+      "What exactly are we buying?",
+      "Which tax assumptions depend on the final agreement?",
+      "What obligations might remain after closing?"
+    ],
+    "source": "https://www.irs.gov/publications/p544"
+  },
+  {
+    "slug": "year-end-owner-planning-checklist",
+    "title": "A year-end planning checklist for established owners",
+    "category": "Planning rhythm",
+    "description": "Bring the decisions forward while there is still time to act.",
+    "intro": "A useful year-end review distinguishes decisions still available from work that is already complete. Start with an updated forecast and a list of changes in the business, the owner's circumstances, and planned transactions. Ask the adviser to identify the actual deadlines that apply to each item.",
+    "sections": [
+      {
+        "title": "Focus on decisions, not a generic deduction list",
+        "text": "Review owner compensation, capital spending, expense documentation, tax payments, benefits, and pending transactions. Ask why each recommendation fits the specific business and what records are required. Avoid purchasing something solely because it appears on a year-end checklist."
+      },
+      {
+        "title": "Prepare the filing handoff",
+        "text": "Assign responsibility for final financial statements, payroll reporting, asset schedules, and missing documents. Keep a record of elections and decisions so the filing team can connect the plan to the return. Schedule an early follow-up for unresolved items."
+      }
+    ],
+    "checklist": [
+      "Updated forecast and payment history",
+      "Planned purchases, transactions, and owner payments",
+      "Benefits and payroll items needing review",
+      "A document and implementation list with named owners"
+    ],
+    "questions": [
+      "Which decisions have a deadline before year-end?",
+      "What has actually been implemented?",
+      "What does the filing team still need?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/filing-and-paying-your-business-taxes"
+  },
+  {
+    "slug": "one-time-tax-planning-vs-annual-retainer",
+    "title": "One-time tax planning or an annual retainer?",
+    "category": "Choosing advisors",
+    "description": "Compare a defined planning project with an ongoing advisory relationship using deliverables, decision frequency, implementation and total cost.",
+    "intro": "Start with the decisions your business must make, then choose the service period. A one-time engagement and an annual retainer can both be useful. Neither label tells you how many entities are covered, who prepares returns, or whether anyone implements the recommendations. Ask each firm to price the same work before comparing the fee.",
+    "sections": [
+      {
+        "title": "When a defined project is a reasonable starting point",
+        "text": "A discrete decision can have a clear endpoint: reviewing an upcoming acquisition, organizing the tax implications of a new property, or mapping an entity change for further professional review. Define the question, the inputs, the written output and the deadline. The proposal should state what happens if the facts change before implementation and whether follow-up questions are included. A written plan alone does not establish that an election was filed or a payroll change was completed."
+      },
+      {
+        "title": "When an ongoing relationship can help",
+        "text": "Recurring decisions create a different workload. A growing employer may need regular coordination among its bookkeeper, payroll provider and preparer. Ask for the actual meeting cadence, forecast updates and response process rather than assuming unlimited access. Confirm whether the retainer includes bookkeeping or preparation, or only advice based on records supplied by others. Identify the person who will notice when the forecast becomes stale."
+      },
+      {
+        "title": "Build a comparable first-year and next-year total",
+        "text": "Put setup, historical cleanup, planning, implementation, returns and recurring support on separate lines. For an annual service, obtain the minimum commitment and renewal terms. For a project, identify extra charges for additional entities, changed transactions or another tax year. A smaller first invoice may leave major work outside scope. Compare the complete assignment, then consider the time you will spend coordinating it."
+      },
+      {
+        "title": "A fictional decision to test the proposals",
+        "text": "A business owner has reliable bookkeeping and preparation but plans to buy a second operation in six months. One proposal offers a transaction review with a written deliverable; another offers quarterly planning and the review. Ask whether the quarterly work answers additional decisions the owner actually expects. If both proposals require separate legal and valuation work, include those dependencies in the calendar. This example illustrates a procurement choice, not a tax recommendation or a reported client result."
+      }
+    ],
+    "comparison": {
+      "caption": "One-time tax planning or an annual retainer?",
+      "headers": [
+        "Decision",
+        "Defined project",
+        "Annual retainer"
+      ],
+      "rows": [
+        [
+          "Service endpoint",
+          "A named deliverable and defined support period",
+          "A recurring schedule and renewal boundary"
+        ],
+        [
+          "Changing facts",
+          "Price the rework or new assignment",
+          "Define which forecast updates are included"
+        ],
+        [
+          "Implementation",
+          "Name each separately included action",
+          "Do not assume ongoing advice includes filing"
+        ],
+        [
+          "Cost comparison",
+          "Full project plus required additional work",
+          "Full committed period plus excluded work"
+        ]
+      ]
+    },
+    "checklist": [
+      "A list of decisions and their expected dates",
+      "Current providers and the work they already perform",
+      "A line-item scope for each entity and tax year",
+      "Renewal, cancellation and additional-work terms"
+    ],
+    "questions": [
+      "What tangible work will I have at the end of the paid period?",
+      "Who implements each recommendation and how is completion confirmed?",
+      "What changes would require another fee or engagement?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/choosing-a-tax-professional",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "bookkeeper-vs-tax-advisor",
+    "title": "Bookkeeper or tax advisor: define the missing work",
+    "category": "Choosing advisors",
+    "description": "Separate recordkeeping, tax preparation and planning before hiring. Compare the outputs and handoffs your business actually needs.",
+    "intro": "If the books are late, a planning meeting may not solve the immediate problem. If the books are accurate but a major decision is approaching, another set of monthly reports may not answer it. Describe the missing output before choosing a job title. Firms can provide several services, so compare the written scope rather than assuming every bookkeeper or advisor works the same way.",
+    "sections": [
+      {
+        "title": "Start with the condition of the records",
+        "text": "Ask when the last month was closed and whether bank, credit-card, loan and payroll balances were reconciled. Recordkeeping work can include categorization, reconciliation and financial reports, but the exact responsibilities vary. Specify who gathers receipts, reviews uncertain transactions and approves changes. A tax advisor using the books still needs to know which balances are reliable and which are provisional."
+      },
+      {
+        "title": "Separate preparation from decisions made before filing",
+        "text": "Preparation turns records into a return for a particular tax year. Planning considers decisions and their possible consequences before or alongside that process. The same professional may do both under one agreement, or each may be separately priced. Do not interpret a return-preparation fee as an unlimited commitment to model acquisitions, compensation or ownership changes."
+      },
+      {
+        "title": "Use one handoff instead of competing versions of the books",
+        "text": "Agree on the accounting system, the date through which records are complete and who can post adjustments. The preparer should receive the final trial balance and relevant supporting schedules. If an advisor proposes a change, the bookkeeper needs a documented instruction that the responsible professional has approved. Keep a record of which version informed the advice."
+      },
+      {
+        "title": "Choose the first hire from the bottleneck",
+        "text": "For a fictional owner with three unreconciled months and an unanswered acquisition question, two tasks exist. The records must become usable, and the acquisition needs timely specialist review. Ask whether cleanup can finish before the decision deadline and which assumptions the advisor can work with meanwhile. Do not replace missing facts with an advertised savings percentage. This is a workflow example, not evidence that a particular provider is suitable."
+      }
+    ],
+    "comparison": {
+      "caption": "Bookkeeper or tax advisor: define the missing work",
+      "headers": [
+        "Decision",
+        "Bookkeeping scope",
+        "Advisory scope"
+      ],
+      "rows": [
+        [
+          "Immediate output",
+          "Reconciled books and supporting records",
+          "A written decision analysis and action list"
+        ],
+        [
+          "Recurring rhythm",
+          "Agreed close and reporting schedule",
+          "Review dates tied to decisions and new facts"
+        ],
+        [
+          "Return preparation",
+          "Only if expressly included",
+          "Only if expressly included"
+        ],
+        [
+          "Shared dependency",
+          "Approved adjustments and evidence",
+          "Reliable financial inputs and clear assumptions"
+        ]
+      ]
+    },
+    "checklist": [
+      "Date of the latest completed close",
+      "Unresolved reconciliation and classification questions",
+      "Upcoming decisions with firm deadlines",
+      "A list of software access and approval owners"
+    ],
+    "questions": [
+      "Which missing output will your service deliver?",
+      "Who approves and posts tax-related accounting adjustments?",
+      "What work stays with my current preparer or another specialist?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/choosing-a-tax-professional",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "switching-tax-advisors-handoff-checklist",
+    "title": "Switching tax advisors without losing the filing handoff",
+    "category": "Choosing advisors",
+    "description": "Plan a provider transition around open returns, records, payroll and access. Use a written handoff before ending the old engagement.",
+    "intro": "A provider change creates two separate jobs: choosing the next firm and closing the old assignment. Before moving records or cancelling access, identify every open return, notice and promised deliverable. A new proposal does not automatically transfer responsibility for unfinished work. Confirm the transition dates directly with both teams.",
+    "sections": [
+      {
+        "title": "Make an open-work register",
+        "text": "List each entity and tax year, the filing or deliverable, current status, responsible professional and next agreed action. Distinguish a draft from a filed return and ask what evidence confirms filing. Record any extensions or payment tasks the providers say remain outstanding. A transition checklist is not a substitute for verifying a particular legal deadline."
+      },
+      {
+        "title": "Request usable records rather than a single document dump",
+        "text": "Ask what the incoming firm needs: final returns, depreciation schedules, relevant elections, work supporting carryforwards, and current financial reports may serve different purposes. Obtain software exports in formats the receiving team can use. Do not assume a PDF of the return includes all underlying records. The availability and release of records depend on the engagement and applicable requirements; settle that directly rather than guessing."
+      },
+      {
+        "title": "Control access deliberately",
+        "text": "Use the agreed secure intake channel for returns and identity information. Keep an inventory of delegated access to bookkeeping, payroll and tax portals. Grant only the access needed for the new assignment and agree when the outgoing team can finish its work. Avoid cancelling a system merely because a new advisor has been hired; ask who needs the records and for how long."
+      },
+      {
+        "title": "Finish with a written responsibility confirmation",
+        "text": "Send both teams the proposed division of work and ask them to confirm or correct it. For a fictional business moving firms in the middle of a payroll quarter, the key question is who owns each remaining payroll and annual reporting task. A completed handoff names the responsible provider, the period covered and how the owner will receive confirmation. It does not simply say that the new firm has everything."
+      }
+    ],
+    "comparison": {
+      "caption": "Switching tax advisors without losing the filing handoff",
+      "headers": [
+        "Decision",
+        "Required handoff",
+        "Completion check"
+      ],
+      "rows": [
+        [
+          "Provider selection",
+          "Fit, credentials and proposed work",
+          "Do not confuse this with acceptance of old unfinished work"
+        ],
+        [
+          "Records transfer",
+          "Usable exports with a recipient confirmation",
+          "A download link alone does not confirm completeness"
+        ],
+        [
+          "Access change",
+          "Planned permissions and end dates",
+          "Keep necessary access until assigned tasks are finished"
+        ],
+        [
+          "Completion",
+          "Named owner for every open item",
+          "Document unresolved items rather than assuming transfer"
+        ]
+      ]
+    },
+    "checklist": [
+      "Open-item register by entity and tax year",
+      "Requested-record list from the incoming firm",
+      "Provider-confirmed transition dates",
+      "Secure delivery and access inventory"
+    ],
+    "questions": [
+      "Which open filings or notices have you explicitly accepted?",
+      "Which records are still missing or unusable?",
+      "Who confirms completion of each task after the handoff?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/choosing-a-tax-professional",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "local-vs-online-tax-advisor",
+    "title": "Local or online tax advisor: compare how the work gets done",
+    "category": "Choosing advisors",
+    "description": "Evaluate in-person and remote advisory options by relevant experience, state coverage, secure workflow and implementation responsibility.",
+    "intro": "A nearby office can make meetings convenient. A remote team can make it easier to consider specialists outside your immediate area. Neither location nor delivery format establishes the quality of a tax analysis. Compare the professional assigned to your facts, the service boundaries and the way work moves from records to decisions.",
+    "sections": [
+      {
+        "title": "Match experience to the assignment",
+        "text": "Describe your actual entities, industry, states and upcoming transactions. Ask for the kinds of work the proposed team regularly handles without requesting confidential client details. The IRS explains that preparers have different skills and qualifications and provides tools for checking credentials. Verify the assigned person rather than relying only on a firm name or a directory label."
+      },
+      {
+        "title": "Check state and specialist coverage",
+        "text": "An office in your city does not automatically cover every state where your business operates. A national website does not prove that a team handles your specific state issues either. List the relevant jurisdictions and ask who will address each one. If legal, valuation, benefits or other specialist work is needed, identify the referral or coordination arrangement and any separate fee."
+      },
+      {
+        "title": "Walk through a real handoff",
+        "text": "Ask each candidate how you would submit a financial statement, resolve a question, review a recommendation and confirm an agreed action. Remote delivery needs clear secure upload and communication practices. In-person delivery still needs document tracking and written outcomes. Clarify response expectations and what happens when your usual contact is absent."
+      },
+      {
+        "title": "Use the same example for both candidates",
+        "text": "For a fictional owner operating in two states and evaluating a property purchase, ask both firms to describe the inputs, decision meeting and implementation handoff. One may propose office visits and another video meetings. Compare who reviews the work, which deadlines are accepted and which outputs you receive. Choose the working arrangement you can maintain, not a presumed advantage from the meeting format alone."
+      }
+    ],
+    "comparison": {
+      "caption": "Local or online tax advisor: compare how the work gets done",
+      "headers": [
+        "Decision",
+        "In-person arrangement",
+        "Remote arrangement"
+      ],
+      "rows": [
+        [
+          "Meetings",
+          "Confirm office availability and travel expectations",
+          "Confirm video, telephone and written follow-up practices"
+        ],
+        [
+          "Records",
+          "Agree on scanning and secure delivery",
+          "Agree on portal access and accepted file formats"
+        ],
+        [
+          "Expertise",
+          "Verify the assigned professional and jurisdictions",
+          "Verify the assigned professional and jurisdictions"
+        ],
+        [
+          "Continuity",
+          "Identify backup coverage",
+          "Identify backup coverage and response expectations"
+        ]
+      ]
+    },
+    "checklist": [
+      "Entities and jurisdictions involved",
+      "Upcoming decisions and meeting preferences",
+      "Assigned-professional names and qualification checks",
+      "Secure communication and turnaround expectations"
+    ],
+    "questions": [
+      "Who handles the issues in each state relevant to my business?",
+      "How do I review and retain the written recommendations?",
+      "What is the escalation process when a deadline is approaching?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/choosing-a-tax-professional",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "tax-advisor-directory-vs-verified-credentials",
+    "title": "A directory profile is a starting point, not a credential check",
+    "category": "Choosing advisors",
+    "description": "Use business and tax directories to discover candidates, then check the assigned professional, credentials, service scope and source dates.",
+    "intro": "A profile can help you find a person or firm, but it may combine historical records, public descriptions and promotional information. Read what the listing actually establishes before relying on it. A founding relationship does not establish current ownership; a tax-services description does not verify a professional license or prove suitability for your assignment.",
+    "sections": [
+      {
+        "title": "Identify the claim and its source",
+        "text": "Record the exact claim you want to verify: business founder, current executive, credential holder or provider of a particular service. These are different questions. Follow the source linked for that claim and note its date. A company history may support a founding relationship without confirming the person’s current role. If a page provides no source for a material claim, treat it as unresolved."
+      },
+      {
+        "title": "Check the person who will do the work",
+        "text": "The IRS points taxpayers to its directory of preparers with credentials and selected qualifications. Use it as one verification resource and understand what the result represents. Ask the firm which professional will prepare, review or advise on your assignment. Check the applicable professional regulator when license status matters. Do not assume every employee shares the credentials shown beside the founder’s name."
+      },
+      {
+        "title": "Separate commercial relationships from evidence",
+        "text": "Business Owner Index is owned and published by AE Tax Advisors. A directory listing does not establish that a founder is an AE client or endorses AE. The publisher’s commercial relationship should be visible when evaluating recommendations. Use the directory to discover sources and questions, then obtain current service information directly from the provider."
+      },
+      {
+        "title": "Keep a short verification record",
+        "text": "For a fictional candidate, write down the firm name, assigned individual, source URL, observation date, credential result and unresolved questions. Ask for a written proposal addressing your actual entities and decisions. If two sources disagree about a current role, do not silently choose the more favorable version; request clarification. The goal is a usable shortlist with known limits, not a badge that implies a full professional investigation."
+      }
+    ],
+    "comparison": {
+      "caption": "A directory profile is a starting point, not a credential check",
+      "headers": [
+        "Decision",
+        "Evidence to read",
+        "Limit to keep in mind"
+      ],
+      "rows": [
+        [
+          "Public profile",
+          "What the cited record says",
+          "What it does not independently confirm"
+        ],
+        [
+          "Credential search",
+          "The person and qualification actually returned",
+          "Current suitability for your particular assignment"
+        ],
+        [
+          "Provider proposal",
+          "Accepted work, fees and responsibilities",
+          "Outcomes not guaranteed by the agreement"
+        ],
+        [
+          "Directory inclusion",
+          "Discovery and a source trail",
+          "Client relationship, endorsement or verified results"
+        ]
+      ]
+    },
+    "checklist": [
+      "Exact name of the assigned professional",
+      "Source URLs and dates for material claims",
+      "Credential or regulator lookup appropriate to the claim",
+      "Written service proposal and unresolved questions"
+    ],
+    "questions": [
+      "Who will actually prepare, review and advise on my work?",
+      "Which claims in the listing have current supporting sources?",
+      "What information should be corrected before I rely on this profile?"
+    ],
+    "source": "https://www.irs.gov/tax-professionals/choosing-a-tax-professional",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  }
 ]
