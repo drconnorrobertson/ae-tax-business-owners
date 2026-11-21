@@ -9555,5 +9555,889 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "emmett-culligan",
+    "name": "Emmett J. Culligan",
+    "company": "Culligan",
+    "website": "https://www.culligan.com/",
+    "role": "Historical founder; the present dealer network includes independently operated and company-owned businesses.",
+    "founding": "Culligan traces its beginning to 1936 in Northbrook, Illinois; its first franchised dealership followed in 1938.",
+    "intro": "Emmett J. Culligan’s business history connects an early interest in water softening with a company established in Northbrook, Illinois, in 1936. The company’s historical account and its current corporate facts describe different stages: creating an enterprise, extending it through dealers, and operating a wider service network.",
+    "sections": [
+      {
+        "title": "An experiment became a commercial enterprise",
+        "text": "Culligan’s sustainability history places Emmett’s early work with water softening before the 1936 business launch. Its later company history identifies a residential softener as the initial product. These accounts support the progression from a technical interest to an organized business, without requiring a claim that he invented every water-treatment process. The product history is also distinct from any present assessment of whether a particular installation meets a household’s needs.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Dealers added a local operating model",
+        "text": "The company’s corporate facts date the first franchised dealership to 1938 in Wheaton, Illinois. That event is separate from the Northbrook founding. A manufacturer’s product could reach customers through another locally operated business, combining equipment with installation and continuing service. The later network includes both franchised dealers and company-owned operations; describing every location as independently owned would therefore be inaccurate. A particular dealer’s ownership must be checked separately.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Equipment and continuing service belong to the same history",
+        "text": "The current business describes installation, maintenance, repairs and delivery alongside equipment sales. Those functions help explain why the dealer model matters to the company’s development: the customer relationship may continue after an initial purchase. They do not show that Emmett personally directed today’s services or that every dealer offers identical terms. This profile records a founding association and the evolution of the operating model, rather than treating the founder’s name as proof of present ownership or product suitability.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1936 founding from the 1938 dealership.",
+      "Check the individual dealer’s identity and service scope.",
+      "Do not infer water safety or present ownership from the founder’s history."
+    ],
+    "sources": [
+      {
+        "title": "Culligan — Corporate facts (reviewed 2026)",
+        "url": "https://www.culligan.com/facts-culligan-dealer-north-america"
+      },
+      {
+        "title": "Culligan — Company history (2025)",
+        "url": "https://www.culligan.com/blog/featured-article/the-history-of-culligan-10"
+      },
+      {
+        "title": "Culligan — Company sustainability report (2023)",
+        "url": "https://wp.culliganinternational.com/wp-content/uploads/2024/06/Culligan-Internatonal-2023-ESG-Report.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "alfred-moen",
+    "name": "Alfred M. Moen",
+    "company": "Moen",
+    "website": "https://www.moen.com/",
+    "role": "Historical inventor associated with the Moen brand; manufacturing involved Ravenna Metal Products and later rights holders.",
+    "founding": "The company dates Moen’s initial idea to 1937 and commercial faucet production to 1947.",
+    "intro": "Alfred M. “Al” Moen’s association with the faucet brand began with a product problem, but the business developed through years of design work and manufacturing partnerships. The company’s own timeline separates the 1937 idea from production in 1947. That distinction is more informative than assigning every event to one founding date.",
+    "sections": [
+      {
+        "title": "The idea preceded commercial production",
+        "text": "Moen’s current history recounts an unexpected burst of hot water from a two-handle faucet in Seattle in 1937. Its longer historical timeline dates completion of a design to 1939. The incident is the company’s account of what prompted the inventor; it is not evidence that a factory or incorporated business began that evening. Several years of development stand between the familiar origin story and faucets being manufactured for sale.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "A production partner turned a design into goods",
+        "text": "The brand’s historical standards publication says Al joined Kemp Hiatt’s Ravenna Metal Products in 1947 to begin making the single-handle faucet. It identifies Palmer Supply as an early buyer. The same timeline later describes supplying faucets for Hotpoint’s prefabricated kitchens. These details show distinct commercial relationships: an inventor and manufacturer developing production, a distributor buying goods, and another manufacturer incorporating the product into a wider offering. None should disappear behind a simplified lone-inventor story.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Manufacturing rights and the brand continued changing",
+        "text": "In 1956, according to the company timeline, Standard Screw Company’s Webster Corlett purchased manufacturing rights and production moved. The current Moen site identifies the brand as part of Fortune Brands Innovations. These are later stages, not proof that Al retained control of each organization. His historical contribution can be recognized while separating the original design, the companies that manufactured it, and the present brand. The chronology makes no guarantee about the performance of any current faucet.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the 1937 idea and 1947 production separate.",
+      "Retain Kemp Hiatt and Ravenna’s manufacturing role.",
+      "Distinguish invention, manufacturing rights and present brand ownership."
+    ],
+    "sources": [
+      {
+        "title": "Moen — Company story",
+        "url": "https://www.moen.com/pages/about-moen"
+      },
+      {
+        "title": "Moen — Brand standards and historical timeline (2015)",
+        "url": "https://assets.moen.com/shared/docs/pressroom/moen-brand-standards.pdf"
+      },
+      {
+        "title": "Moen — Company historical timeline",
+        "url": "https://www.moen.com.mx/about-moen/the-moen-story"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "harvey-hubbell-ii",
+    "name": "Harvey Hubbell II",
+    "company": "Hubbell",
+    "website": "https://www.hubbell.com/",
+    "role": "Historical founder and inventor; the original proprietorship preceded the incorporated business.",
+    "founding": "Harvey Hubbell II began the business in Bridgeport in 1888; incorporation followed in Connecticut in 1905.",
+    "intro": "Harvey Hubbell II’s company began during the expansion of electrical use, but its history also includes tooling and manufacturing machinery. The business started as a proprietorship in 1888. A company submission to the federal government distinguishes that beginning from incorporation in 1905, giving the founder’s story a useful organizational chronology.",
+    "sections": [
+      {
+        "title": "A manufacturing shop encountered a changing market",
+        "text": "Hubbell’s account describes its founder developing tooling and equipment as manufacturers sought new ways to make and assemble products. The growing availability of electric power created another market for a shop with those capabilities. This was not simply a modern electrical-products company appearing fully formed in 1888. The manufacturing setting helps connect the founder’s technical work with customers who needed components and equipment for a changing economy.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Specific devices became part of the business",
+        "text": "The company identifies the pull-chain lamp socket and separable plug and receptacle among Hubbell’s early inventions. Its historical catalog dates a pull-socket patent to 1896. These are identifiable product contributions, more precise than claiming he invented household electricity or every modern connector. The catalog is a company account of its own history; its praise for product quality is not adopted here as an independent test or present-day safety assessment.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The enterprise outlasted its original legal form",
+        "text": "In its 2018 USTR submission, Hubbell describes the 1888 proprietorship, 1905 incorporation and later range of electrical and electronic products. Those dates distinguish the start of trading from a corporate reorganization. The current company describes serving utility and electrical markets through channel partners and distributors. That wider operating structure belongs to a later organization, not automatically to the founder’s original shop. The profile preserves the historical association without suggesting that his personal ownership continues or that the history certifies a product for a particular installation.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the proprietorship from incorporation.",
+      "Use specific documented devices rather than sweeping invention claims.",
+      "Keep historical manufacturing accounts apart from product-safety decisions."
+    ],
+    "sources": [
+      {
+        "title": "Hubbell — Company history",
+        "url": "https://www.hubbell.com/hubbell/en/about-hubbell"
+      },
+      {
+        "title": "Hubbell — Company submission to USTR (2018)",
+        "url": "https://downloads.regulations.gov/USTR-2018-0032-3140/attachment_1.pdf"
+      },
+      {
+        "title": "Hubbell — Company historical catalog",
+        "url": "https://hubbellcdn.com/catalogfull/CA08032E.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "alex-manoogian-masco",
+    "name": "Alex Manoogian",
+    "company": "Masco",
+    "website": "https://masco.com/",
+    "role": "Historical cofounder with two partners; later company leadership is identified separately.",
+    "founding": "Masco Screw Products Company began in Detroit in 1929; faucet production followed decades later.",
+    "intro": "Alex Manoogian’s Masco history starts with metalworking and automotive parts, not faucets. The company’s timeline describes him learning the screw-machine trade after moving to Detroit, then starting a business with two partners in 1929. Its later entry into plumbing products was a separate manufacturing and commercial decision.",
+    "sections": [
+      {
+        "title": "Used machinery supported the initial business",
+        "text": "According to Masco’s historical account, Manoogian and his partners bought used machines, repaired them and produced machined parts for the automotive industry. Their first plant occupied an upper floor of a Detroit building. The story connects existing shop skills with the practical need to acquire and operate production equipment. It does not establish that Manoogian worked alone. Because company pages differ in how they relate the launch to the stock-market crash, this profile retains the supported year without that precise comparison.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An acquired design led to a different product market",
+        "text": "The historical timeline preserved in a public filing records Masco acquiring rights to a single-handle washerless faucet in 1952 and Manoogian working on its design. The company dates Delta production and marketing to 1954. Its account says established plumbing manufacturers declined the product before Masco manufactured it itself. This sequence distinguishes acquiring and adapting a design from claiming original invention of the entire concept. It also explains why a parts manufacturer developed its own product and route to customers.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The next generation had a specific operating assignment",
+        "text": "Masco records Richard Manoogian joining in 1958 and overseeing the new faucet operation while an Indiana plant was being built. The company changed its name to Masco Corporation in 1961. A 2007 leadership announcement describes Richard succeeding Alex, then preparing for another transition. Those developments belong to different periods. The biography connects the original shop with the later portfolio without presenting Alex as the current executive or treating historical family leadership as proof of present personal ownership.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain the two-partner founding context.",
+      "Distinguish acquired faucet rights from original invention.",
+      "Date Richard’s operating role and later leadership transitions."
+    ],
+    "sources": [
+      {
+        "title": "Masco — Company historical timeline",
+        "url": "https://masco.com/about-us/historical-timeline/"
+      },
+      {
+        "title": "Masco — Company leadership announcement (2007)",
+        "url": "https://www.sec.gov/Archives/edgar/data/62996/000095012407002071/k13990exv99.htm"
+      },
+      {
+        "title": "Masco — Company timeline preserved in public filing (2006)",
+        "url": "https://www.waterboards.ca.gov/public_notices/petitions/water_quality/docs/petitions/a2272cpetitionpart2.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mathias-klein-tools",
+    "name": "Mathias Klein",
+    "company": "Klein Tools",
+    "website": "https://www.kleintools.com/",
+    "role": "Historical founder; later family and distributor roles belong to subsequent generations.",
+    "founding": "Klein Tools traces its Chicago beginning to Mathias Klein’s forge shop in 1857.",
+    "intro": "Mathias Klein’s business history begins with a repair in a Chicago forge shop. The company recounts a telegraph lineman bringing in broken pliers in 1857, then returning when the remaining original half failed. The story explains a connection between a skilled metalworker and a specialized trade customer.",
+    "sections": [
+      {
+        "title": "A repair relationship produced a complete tool",
+        "text": "In the company’s account, Klein first forged and fitted one replacement half of the lineman’s pliers. When the other half broke, he replaced that piece too. The resulting tool developed from work on a customer’s existing equipment rather than an entirely separate product launch. This is a company-preserved founding narrative, not a claim that Klein invented pliers. Its useful detail is the repeated interaction between a craft business and someone who depended on a tool at work.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Communications work provided a changing customer base",
+        "text": "The history places the shop in the period of expanding telegraph lines, then describes later demand associated with telephones, electric lighting and broader industry. A repair skill could become a product business as more workers needed similar equipment. The company’s later catalog contains a much wider range of hand tools and related products. That expansion should not be compressed into the original 1857 shop or attributed entirely to decisions made by Mathias himself.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Distribution and succession extended the enterprise",
+        "text": "Klein’s catalog describes products reaching professional users through agents and stocking distributors. Its historical account also identifies later generations of the Klein family in the business. These details distinguish three kinds of contribution: the founder’s shop work, the organization of continuing manufacturing, and the channel through which goods reach tradespeople. A founding association does not establish current equity percentages, nor does a family history independently verify product quality. Buyers still need the specifications and appropriate information for the particular tool they are considering.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Attribute the repair narrative to the company.",
+      "Separate the original forge shop from later product categories.",
+      "Do not substitute a founder story for current specifications."
+    ],
+    "sources": [
+      {
+        "title": "Klein Tools — Company history",
+        "url": "https://www.kleintools.com/history"
+      },
+      {
+        "title": "Klein Tools — Company catalog: founding account",
+        "url": "https://data.kleintools.com/sites/kleintools/files/tool-catalog/00-TableContent-CompanyHistory-Catalog.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "edwin-hunter-industries",
+    "name": "Edwin Hunter",
+    "company": "Hunter Industries",
+    "website": "https://www.hunterindustries.com/",
+    "role": "Historical founder supported by Paul, Richard and Ann Hunter; retired in 1994 according to company history.",
+    "founding": "Hunter Industries began in 1981 and introduced the PGP rotor in 1983.",
+    "intro": "Edwin “Ed” Hunter’s later manufacturing business was a family undertaking. Hunter Industries identifies sons Paul and Richard and daughter Ann as participants alongside its founder. The company began in 1981; the PGP rotor followed in 1983. Its history separates creating the organization from introducing the product that helped establish it.",
+    "sections": [
+      {
+        "title": "The founding team had several family participants",
+        "text": "The company’s founding account names Ed’s children rather than presenting the enterprise as the work of one person. A product business needs more than an initial mechanism: manufacturing, sales and administration have to develop around it. The source does not assign every one of those functions to an individual, so this profile does not invent a division of labor. It records the named participants and the supported timing of the early business.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "A product launch preceded wider distribution",
+        "text": "Hunter dates the PGP introduction to 1983 and the opening of distribution channels in Australia and Europe to 1985. Its history then describes a broader catalog of rotors, sprays, valves and controllers by 1994. These events distinguish product development, geographic distribution and range expansion. They provide a more concrete business history than simply saying the company became successful, without adopting the source’s promotional claims about efficiency or market leadership.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Dated leadership resolves an older page’s wording",
+        "text": "The historical page says Ed retired in 1994 and Richard became the next leader. That same older account still describes Richard as leading the company, while the current leadership page identifies Greg Hunter as CEO and dates his promotion to February 2013. The two pages describe different periods. The later leadership account governs the current title; the older page remains useful for the founding and product chronology. Ed’s historical role should not be converted into current management or personal ownership.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Paul, Richard and Ann in the founding account.",
+      "Separate the 1981 company from the 1983 product launch.",
+      "Use the current leadership page for the current CEO."
+    ],
+    "sources": [
+      {
+        "title": "Hunter Industries — Company founding account",
+        "url": "https://www.hunterirrigation.com/en-metric/corporate/who-we-are/our-story"
+      },
+      {
+        "title": "Hunter Industries — Current company leadership",
+        "url": "https://www.corporate.hunterindustries.com/leadership"
+      },
+      {
+        "title": "Hunter Industries — Company overview",
+        "url": "https://www.corporate.hunterindustries.com/company-overview"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "russell-gray-graco",
+    "name": "Russell Gray",
+    "company": "Graco",
+    "website": "https://www.graco.com/",
+    "role": "Historical cofounder with Leil Gray; the company also records early investors Harry Murphy Sr. and Greer Wheaton.",
+    "founding": "The Gray brothers incorporated Gray Company in Minneapolis in April 1926; the Graco name followed in 1969.",
+    "intro": "Russell Gray’s founding story starts with a practical difficulty handling grease in cold Minneapolis weather. The company describes him developing an air-powered portable lubricator while working around parked vehicles. Turning that device into a manufacturer involved his brother Leil and additional investors, not just the inventor working alone.",
+    "sections": [
+      {
+        "title": "An invention required a commercial organization",
+        "text": "Graco’s detailed history identifies Russell and Leil as the founders of Gray Company in April 1926, with Harry Murphy Sr. and Greer Wheaton as investors. It places initial manufacturing and sales at South Tenth Street in Minneapolis. The sources credit Russell with the lubricator design, while preserving Leil’s role in the partnership. The initial product and the organization established to produce it are related facts, but they are not the same event.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Demonstrating equipment helped reach customers",
+        "text": "The company’s historical publication describes expanding its lubrication equipment and using a traveling display and demonstration trailer. That is a specific route to market: customers could see machinery operate rather than relying only on a description. Later accounts trace the range beyond the first portable device. These developments show manufacturing and selling evolving together, without implying that every later product was invented by Russell or launched in the first year.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The product range and company name changed later",
+        "text": "The history records wartime lubrication equipment, a later move into paint-handling products and the creation of an international sales organization. In 1969, Gray Company became publicly held and took the Graco name. These events belong to a continuing enterprise with later managers and employees. They explain why the current name differs from the founding business. This profile does not confuse the industrial manufacturer with an unrelated consumer-products brand, or infer present ownership from Russell’s historical surname.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Leil and the documented early investors.",
+      "Separate the original lubricator from later product development.",
+      "Distinguish Gray Company’s 1926 start from the 1969 Graco name."
+    ],
+    "sources": [
+      {
+        "title": "Graco — Company historical timeline",
+        "url": "https://www.graco.com/us/en/about-graco/history.html"
+      },
+      {
+        "title": "Graco — The Graco Story: company historical publication",
+        "url": "https://www.graco.com/content/dam/graco/corporate/literature/brochures/history/314944EN-C.pdf"
+      },
+      {
+        "title": "Graco — Company account of the founding brothers (2026)",
+        "url": "https://www.graco.com/us/en/about-graco/news/articles/2026/q1/founding-brothers-of-graco-leil-russell.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "stephen-briggs",
+    "name": "Stephen Foster Briggs",
+    "company": "Briggs & Stratton",
+    "website": "https://www.briggsandstratton.com/",
+    "role": "Historical cofounder with Harold M. Stratton; later companies and managers are separate.",
+    "founding": "Briggs and Stratton began their manufacturing partnership in Milwaukee in 1908.",
+    "intro": "Stephen Foster Briggs brought an engineering design to a partnership with businessman Harold M. Stratton. The company’s retrospective dates their start to 1908. South Dakota State University’s museum account supplies another part of the history: Briggs’s student work and the introduction that brought the future partners together.",
+    "sections": [
+      {
+        "title": "A student design preceded the partnership",
+        "text": "The university records Briggs graduating in 1907 and developing a six-cylinder, two-cycle engine during his studies. It identifies coach Bill Juneau as the person who introduced him to Stratton. That account describes an existing design meeting a prospective business partner, rather than a complete manufacturing company appearing at graduation. Briggs’s technical contribution and Stratton’s commercial participation should both remain visible in the founding story.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The initial market was broader than lawn equipment",
+        "text": "The company’s historical retrospective says the partners pursued the automobile market and made locks, ignition switches and other specialty electrical parts. Its later timeline traces development into small gasoline engines. This prevents the current association with outdoor power equipment from being projected backward onto every early product. The business’s range changed as manufacturing opportunities changed; the first partnership was not simply a modern lawn-equipment brand under another date.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Later products belong to a longer corporate history",
+        "text": "The university museum uses a preserved 1929 engine to explain the company’s connection with lawn mowers and other applications. The current company retrospective also discusses much later energy-storage activity. Those later products provide context for the enterprise’s evolution, but they are not automatically Briggs’s personal inventions or management decisions. This profile keeps the historical partnership separate from successor organizations and current offerings. It does not use an anniversary account as a safety certification or make a claim about present ownership by the founding family.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Stratton and Juneau’s documented roles.",
+      "Distinguish student design, partnership and later product markets.",
+      "Do not attribute current products to the founder personally."
+    ],
+    "sources": [
+      {
+        "title": "Briggs & Stratton — Company historical retrospective (2024)",
+        "url": "https://energy.briggsandstratton.com/en-us/resources/article-categories/resource-articles/powering-progress-the-enduring-legacy-of-briggs-and-stratton-energy-solutions"
+      },
+      {
+        "title": "Briggs & Stratton — University museum: Briggs history (2024)",
+        "url": "https://www.sdstate.edu/south-dakota-agricultural-heritage-museum/south-dakota-agricultural-heritage-museumblog/engines"
+      },
+      {
+        "title": "Briggs & Stratton — Company historical post (2023)",
+        "url": "https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7108115270790955008/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "louis-berger-engineering",
+    "name": "Louis Berger",
+    "company": "Louis Berger",
+    "website": "https://www.louisbergerinternational.com/",
+    "role": "Historical founder; Fred Berger’s later contribution and the 2018 WSP acquisition are separate events.",
+    "founding": "Louis Berger established an engineering practice in Pennsylvania in 1953.",
+    "intro": "Louis Berger began an engineering practice in Pennsylvania in 1953. An industry association’s family history describes its early concentration on soil mechanics and foundations, then a broader range of engineering work. The current successor company places the business within WSP following an acquisition in 2018.",
+    "sections": [
+      {
+        "title": "A specialist practice expanded its scope",
+        "text": "The association account describes a small Pennsylvania office and a beginning focused on soil and foundation engineering. It also identifies Berger’s ambition to develop a full-service firm. Those details distinguish an initial technical specialty from the multidisciplinary organization that came later. They do not imply that every modern service was offered in 1953 or that one founder personally performed the firm’s later work around the world.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The family account includes another generation",
+        "text": "The same history names Fred Berger as a contributor to the firm’s later development and industry-policy work. Tufts University’s account of the family foundation connects Louis and Fred to engineering education and community projects. The sources should be read as records of specific contributions, not as a reason to merge father and son into one biography. Louis’s founding role and Fred’s later leadership belong to different periods, even where the family and company histories overlap.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A later acquisition changed the organizational setting",
+        "text": "Louis Berger International says WSP acquired Louis Berger in December 2018 and identifies the company as a subsidiary. This is a dated corporate transition, not proof that the original founder still controlled the business. The current account describes infrastructure, water, environmental and related advisory work, which gives context to the change from the early specialist practice. This profile records historical development and named participants; it is not a review of engineering competence, a statement of current ownership by the Berger family, or an endorsement of the successor company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the initial specialty from later multidisciplinary services.",
+      "Credit Fred Berger without replacing Louis’s founding role.",
+      "Keep the 2018 WSP transition explicit."
+    ],
+    "sources": [
+      {
+        "title": "Louis Berger — Successor company history",
+        "url": "https://www.louisbergerinternational.com/who-we-are/"
+      },
+      {
+        "title": "Louis Berger — Industry association: Berger family history",
+        "url": "https://artbatdf.org/hall_of_fame/the-berger-family/"
+      },
+      {
+        "title": "Louis Berger — University account of the Berger family (2021)",
+        "url": "https://engineering.tufts.edu/news-events/news/serving-needs-others"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "walter-parker-moore-sr",
+    "name": "Walter Parker Moore Sr.",
+    "company": "Walter P Moore",
+    "website": "https://www.walterpmoore.com/",
+    "role": "Historical founder, distinct from his son Walter Parker Moore Jr.; died in 1983.",
+    "founding": "Walter P. Moore Sr. began a Houston practice in 1931; the business incorporated in 1967.",
+    "intro": "Walter Parker Moore Sr. established an engineering practice in Houston in 1931. The firm’s history says he financed it by selling a Stutz Bearcat received from a former employer in place of wages. A separate company biography distinguishes this sole practice from the incorporated organization formed in 1967.",
+    "sections": [
+      {
+        "title": "A personal asset supported the first practice",
+        "text": "The vehicle-sale account gives a concrete beginning to a professional-services business: Moore converted an asset into the means to start working independently. The company timeline describes much early work in residential design during the 1930s and 1940s. The founding story should therefore not begin with the firm’s later large stadium and commercial projects. A one-person practice and a substantial multidisciplinary organization represent different operating stages.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Different project types followed over time",
+        "text": "The firm records work on a library, an airport terminal, a hospital and Rice University’s football stadium before later commercial and sports facilities. Those dated examples show a widening range of assignments rather than one instant transformation. The current company’s descriptions of project numbers and accolades are not used here as independent measures of quality. The relevant history is the sequence of work and the organization developing beyond its original residential practice.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Two engineers shared the name",
+        "text": "Moore’s company biography identifies Sr. as the owner of the practice from 1931 until incorporation in 1967 and separates his leadership from that of Walter Parker Moore Jr. The National Academy of Engineering’s memorial concerns the son, not the founder, and recalls his early experience in his father’s office. Company pages summarize later presidency dates differently, so this profile avoids assigning an unsupported precise succession date. It preserves the father-son distinction, the documented incorporation and the founder’s historical role without implying present personal ownership.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish Walter P. Moore Sr. from Walter P. Moore Jr.",
+      "Separate the 1931 practice from 1967 incorporation.",
+      "Use dated projects without converting company accolades into an independent rating."
+    ],
+    "sources": [
+      {
+        "title": "Walter P Moore — Company historical timeline",
+        "url": "https://www.walterpmoore.com/about/history"
+      },
+      {
+        "title": "Walter P Moore — Company account of the founder and son (2016)",
+        "url": "https://www.walterpmoore.com/news/funfact-the-p-in-walter-p-moore"
+      },
+      {
+        "title": "Walter P Moore — National Academy of Engineering memorial (2013)",
+        "url": "https://www.nationalacademies.org/read/18477/chapter/37"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-fluke-sr",
+    "name": "John Fluke Sr.",
+    "company": "Fluke",
+    "website": "https://www.fluke.com/",
+    "role": "Historical founder of the test-and-measurement company; later products belong to subsequent development.",
+    "founding": "John Fluke began the business in a Connecticut basement workshop in 1948.",
+    "intro": "John Fluke Sr.’s business began with a measurement instrument and a basement workshop in Connecticut in 1948. The company’s anniversary account describes a benchtop power meter sold to General Electric. Its technical history then follows a widening range of instruments rather than treating every modern Fluke product as part of that original design.",
+    "sections": [
+      {
+        "title": "A specific instrument anchored the beginning",
+        "text": "Fluke’s application note identifies the original device as a volt-amp-watt meter using vacuum-tube technology. It says a version remained available as the model 102 into the early 1970s. This gives the founding story a product and a period, not just a general claim about innovation. The anniversary announcement supplies the early customer relationship. Neither source establishes that the founder created all of the electrical measurement methods later used in the company’s equipment.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The range broadened beyond the first meter",
+        "text": "The technical account describes differential and digital voltmeters, power supplies and calibration equipment before a handheld digital multimeter arrived in 1977. Those categories represent different measurement and working needs. They show the enterprise developing through successive products rather than merely renaming its initial meter. The application note is a company account written to explain a product lineage; its technical history is not a recommendation that any instrument is appropriate for a particular electrical task.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Conflicting location shorthand should stay qualified",
+        "text": "One company account calls the Connecticut origin Springdale, while the anniversary announcement says Springfield. This profile retains the supported state and basement-workshop setting without choosing an uncorroborated town label. That narrower wording preserves the useful facts: the 1948 start, an identifiable first instrument and subsequent product expansion. It also keeps John’s historical role separate from present management, ownership and later technology. A buyer needs current specifications and instructions, not merely the founder’s biography, to evaluate a measurement tool.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Use Connecticut where company town labels conflict.",
+      "Separate the first meter from later instrument categories.",
+      "Do not turn a product history into electrical-safety advice."
+    ],
+    "sources": [
+      {
+        "title": "Fluke — Company anniversary announcement (2023)",
+        "url": "https://www.fluke.com/en-us/support/press-releases/fluke-celebrates-75-years-of-continuous-innovation-putting-its-customers-first-and-supporting-its-communities"
+      },
+      {
+        "title": "Fluke — Company application note: original meter",
+        "url": "https://media.fluke.com/f3a58936-553c-4731-b2aa-b1060067ef02_original%20file.pdf"
+      },
+      {
+        "title": "Fluke — Company founding account",
+        "url": "https://content.fluke.com/platforms/wpcf/m3en.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "charles-beckman-red-wing",
+    "name": "Charles H. Beckman",
+    "company": "Red Wing Shoe Company",
+    "website": "https://www.redwingshoeco.com/",
+    "role": "Historical organizer and founder with fourteen other local investors.",
+    "founding": "Charles Beckman and other Red Wing investors organized the shoe company in February 1905.",
+    "intro": "Charles H. Beckman’s role in Red Wing began with experience selling shoes and a plan to manufacture footwear for working customers. The company’s timeline records him organizing the business with fourteen other local investors in February 1905. The shared beginning is important even though his name often leads the brand’s history.",
+    "sections": [
+      {
+        "title": "Retail experience informed a manufacturing business",
+        "text": "Red Wing describes Beckman as recognizing demand among people working in farming, mining and logging. Its account places his original shoe store near the company’s later headquarters. These details connect a merchant’s view of customers with the decision to organize production. They do not prove that Beckman invented work boots or that the other investors lacked a role. The profile preserves a founder’s contribution without turning a collective undertaking into a sole-owner narrative.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Production methods changed after the start",
+        "text": "The company timeline describes early pegged-and-nailed construction and later adoption of stitched-sole, welt construction in 1909. Those are different manufacturing stages, not a single unchanging process present from the first day. The history also records new product lines and distribution developments over subsequent decades. They belong to a continuing business with later employees and managers, rather than being assigned automatically to Beckman’s own decisions.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A supplier relationship became part of the wider story",
+        "text": "Red Wing’s tannery history describes a connection with S.B. Foot, including Beckman learning shoemaking from Silas Buck Foot and the shoe company becoming a customer of the tannery. The account links related local businesses without treating them as the same founding enterprise. Its later discussion of family leadership belongs to another period. This biography records those manufacturing and supply relationships; it does not certify current footwear for a hazard, adopt performance claims, or infer that Beckman’s descendants own the present company.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain the fourteen other investors.",
+      "Separate 1905 organization from later construction methods.",
+      "Treat tannery and shoe-company histories as related but distinct."
+    ],
+    "sources": [
+      {
+        "title": "Red Wing Shoe Company — Company historical timeline",
+        "url": "https://www.redwingshoeco.com/history"
+      },
+      {
+        "title": "Red Wing Shoe Company — Company background",
+        "url": "https://www.redwingshoeco.com/about"
+      },
+      {
+        "title": "Red Wing Shoe Company — Company tannery history (2022)",
+        "url": "https://www.redwingshoeco.com/blog-entries/150-years-of-sb-foot-tanning-a-legacy-of-family-and-community"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "elbert-allen-edmonds",
+    "name": "Elbert W. Allen",
+    "company": "Allen Edmonds",
+    "website": "https://www.allenedmonds.com/",
+    "role": "Historical founder associated with the 1922 business; subsequent owners and executives are separate.",
+    "founding": "Elbert W. Allen began the Wisconsin footwear business in 1922.",
+    "intro": "Elbert W. Allen’s company began in Belgium, Wisconsin, in 1922. The brand’s founding account emphasizes a particular construction approach and Allen’s ability to sell the resulting shoes. Later manufacturing descriptions and a dated acquisition filing show how the enterprise continued beyond the founder’s original work.",
+    "sections": [
+      {
+        "title": "Construction and selling developed together",
+        "text": "Allen Edmonds describes its early shoes as using cork insoles without the metal nails and shanks common in other construction. That is the company’s explanation of its product approach, not an independent medical or comfort finding. The same account credits Allen as a salesman. Both activities matter to the history: making a distinctive product and finding customers for it are different tasks. The source supports his founding association without establishing that he worked entirely alone.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A continuing production process outlasted the launch",
+        "text": "The company’s current manufacturing page discusses multiple operations involved in making shoes, including work on the upper and sole. These descriptions give context to an enterprise that depends on coordinated craft and production, rather than a single founder performing every operation. The early Belgium location should not be confused with later Port Washington manufacturing simply because both places appear in the brand’s history. A modern process page describes current practices, not necessarily the exact workshop arrangement of 1922.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The later transaction has an identifiable record",
+        "text": "Caleres’s December 2016 filing reports its acquisition of Allen Edmonds through the purchase of a holding company’s stock. That record provides a clear corporate event distinct from the founding story. It does not measure what Elbert personally earned, and this biography does not infer a continuing family stake or repeat a transaction amount as personal wealth. The profile connects the original business, later production and a documented ownership transition while leaving current product suitability to specifications and individual assessment.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the founding location from later manufacturing locations.",
+      "Attribute construction claims to the company.",
+      "Do not confuse a corporate acquisition with founder proceeds or current family ownership."
+    ],
+    "sources": [
+      {
+        "title": "Allen Edmonds — Company founding account",
+        "url": "https://www.allenedmonds.com/the-journal/made-here/our-legacy"
+      },
+      {
+        "title": "Allen Edmonds — Caleres acquisition filing (2016)",
+        "url": "https://www.sec.gov/Archives/edgar/data/14707/000001470716000119/a1213168-kform.htm"
+      },
+      {
+        "title": "Allen Edmonds — Company manufacturing process",
+        "url": "https://www.allenedmonds.com/the-journal/made-here/process"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "edwin-malzahn-ditch-witch",
+    "name": "Edwin Malzahn",
+    "company": "Ditch Witch",
+    "website": "https://www.ditchwitch.com/",
+    "role": "Historical founder and equipment developer working with his father Charles; died in 2015.",
+    "founding": "Malzahn developed a compact trencher in the late 1940s; the company dates the DWP launch to 1949.",
+    "intro": "Edwin “Ed” Malzahn’s Ditch Witch history grew from work in a family machine shop in Perry, Oklahoma. His oral history and a university interview describe noticing the labor involved in small service-line trenches. The company’s obituary identifies the 1949 DWP as the product launch associated with its founder.",
+    "sections": [
+      {
+        "title": "The existing shop supplied a starting point",
+        "text": "Oklahoma State’s 1996 account places Malzahn back in the shop operated with his father Charles after engineering study. It describes the two working on a compact trencher after Ed watched a worker digging a service trench by hand in 1948. That sequence matters: a family workshop and mechanical experience preceded the new product. Ed’s founding association should not erase Charles’s participation or imply that the underlying shop first appeared when the machine reached customers.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A smaller job suggested a different machine",
+        "text": "In his oral history, Malzahn explains the gap between equipment for large utility lines and the smaller trenches needed for residential connections. The company dates the DWP introduction to 1949. The university account places subsequent commercial development around the same period. Those sources support development followed by launch, while avoiding an unsupported claim that all trenching machinery began with this one design. The relevant distinction is the specific service-line application and the equipment organized around it.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The product name became associated with a larger organization",
+        "text": "The company obituary calls Ditch Witch a Charles Machine Works company and credits Malzahn with decades of involvement. His oral history supplies his own account of how the enterprise developed, which is first-person evidence rather than an independent review of every product. The biography keeps the workshop, the Ditch Witch product identity and the later corporate organization connected but distinct. It makes no claim about current equity, equipment suitability or safe excavation procedures based on the founder’s experience.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Charles Malzahn’s workshop contribution.",
+      "Distinguish 1948 development from the 1949 product launch.",
+      "Separate historical equipment development from current operating-safety requirements."
+    ],
+    "sources": [
+      {
+        "title": "Ditch Witch — Company obituary (2015)",
+        "url": "https://www.ditchwitch.com/press-release/ed-malzahn-ditch-witch-founder-and-industry-icon-dies-at-94/"
+      },
+      {
+        "title": "Ditch Witch — Founder oral history (2011)",
+        "url": "https://voicesofoklahoma.com/interviews/malzahn-ed/"
+      },
+      {
+        "title": "Ditch Witch — University magazine: founder interview (1996)",
+        "url": "https://ceat.okstate.edu/site-files/docs/impact1996.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "albert-dremel",
+    "name": "Albert J. Dremel",
+    "company": "Dremel",
+    "website": "https://www.dremel.com/",
+    "role": "Historical founder and inventor; died in 1968 according to company history.",
+    "founding": "Albert J. Dremel founded Dremel Manufacturing Company in Racine in 1932; the company dates its rotary-tool introduction to 1935.",
+    "intro": "Albert J. Dremel brought a career in engineering design to a manufacturing company established in Racine, Wisconsin, in 1932. The brand’s accounts describe him returning to invention after a short retirement. Its historical timeline separates that company launch from introduction of the rotary tool in 1935.",
+    "sections": [
+      {
+        "title": "An engineering career preceded the enterprise",
+        "text": "Dremel’s company biography describes an Austrian immigrant who worked as an engineering designer before founding the business. Regional versions of the history give different immigration years, so this profile does not select one. The supported business sequence remains clear: design experience came first, followed by the Racine company. It is more useful to preserve that relationship than to introduce false precision into an otherwise well-supported founding account.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "The tool developed into a product line",
+        "text": "The company’s retrospective identifies the Moto-Tool among the early products and dates the handheld high-speed rotary-tool introduction to 1935. It describes the line expanding over later decades. This establishes a difference between organizing a manufacturer and developing the product family for which the brand became known. The founder’s invention history is not used to claim that every current attachment or tool was his design, nor to repeat promotional assertions of universal suitability.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Different accounts serve different historical purposes",
+        "text": "The founder biography emphasizes Dremel’s personal persistence and design work, while the anniversary page follows the product’s development. Read together, they connect an individual inventor with manufacturing and a continuing brand. They do not independently establish a present ownership stake for descendants or a current management role for the historical founder. This profile records the named person, company and product chronology, while omitting conflicting migration dates and avoiding unsupported performance or safety conclusions about the equipment now sold under the name.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1932 company from the 1935 product introduction.",
+      "Leave the disputed immigration year unspecified.",
+      "Distinguish the founder’s designs from later product development."
+    ],
+    "sources": [
+      {
+        "title": "Dremel — Company historical retrospective",
+        "url": "https://www.dremel.com/gb/en/about-us/a-90-year-tradition-of-excellence"
+      },
+      {
+        "title": "Dremel — Company founder biography",
+        "url": "https://www.dremel.com/gn/en/about-us/about-us"
+      },
+      {
+        "title": "Dremel — Company anniversary account",
+        "url": "https://www.dremel.com/au/en/about-us/the-trusted-name-in-multi-purpose-tools-for-90-years"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "raymond-dewalt",
+    "name": "Raymond DeWalt",
+    "company": "DEWALT",
+    "website": "https://www.dewalt.com/",
+    "role": "Historical inventor and founding figure; the company timeline identifies Paul Gardner and Isaac Rutt as early purchasers.",
+    "founding": "DEWALT dates its company beginning to 1924, after Raymond DeWalt’s early-1920s patent work.",
+    "intro": "Raymond DeWalt’s business history connects a wagon shop, woodworking machinery and an early transfer of a company and patents. DEWALT’s detailed timeline begins before the brand’s familiar 1924 date. Its centennial announcement confirms the founding association while the longer account identifies other people involved in turning the invention into a continuing business.",
+    "sections": [
+      {
+        "title": "Workshop experience preceded the brand",
+        "text": "The company timeline describes Raymond learning trades in his father John’s wagon shop and later operating DeWalt Wagon Works. It dates patent applications associated with his woodworking machine to 1921 and 1923. These events provide context for the adjustable radial-arm saw without suggesting the present power-tool portfolio existed then. The workshop background and the later branded manufacturing business are connected stages, not interchangeable founding dates.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The 1924 event included other business participants",
+        "text": "The same timeline dates DEWALT Products Company to December 1924 and says Raymond sold the company and patents to Paul Gardner and Isaac Rutt. That is more specific than a short anniversary reference to one founder. It distinguishes the inventor’s contribution from the purchasers’ role in the enterprise. A profile can recognize Raymond’s association with the Wonder-Worker saw while avoiding the implication that he remained in control throughout every subsequent phase of the brand.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Later brand development followed later ownership",
+        "text": "The company records Black & Decker acquiring DEWALT in 1960. The 2024 centennial announcement identifies it as a Stanley Black & Decker brand. Those dated accounts explain the corporate setting for subsequent products; they do not make Raymond the designer of later cordless systems. The historical record is useful because it preserves the sequence of workshop work, patents, a company transaction and later acquisition. It is not a present-day safety assessment or evidence of continuing ownership by the original inventor’s family.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the 1921 and 1923 patent work before the 1924 company date.",
+      "Retain Gardner and Rutt’s documented transaction role.",
+      "Separate the founding inventor from later owners and products."
+    ],
+    "sources": [
+      {
+        "title": "DEWALT — Company detailed timeline",
+        "url": "https://www.dewalt.com/en-us/resources/dewalt-history"
+      },
+      {
+        "title": "DEWALT — Company centennial announcement (2024)",
+        "url": "https://dewalt.mediaroom.com/2024-01-29-DEWALT-R-Celebrates-100-Years-of-Innovation"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
