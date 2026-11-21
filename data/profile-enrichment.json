@@ -344,5 +344,69 @@
         "source": "https://www.aetaxadvisors.com/bios/"
       }
     ]
+  },
+  {
+    "url": "/founder-profiles/uku-taht-plausible/",
+    "name": "Uku Taht",
+    "company": "Plausible Analytics",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "X / Twitter (linked by Plausible)",
+        "url": "https://twitter.com/ukutaht",
+        "evidence": "https://plausible.io/docs/authors",
+        "kind": "social"
+      },
+      {
+        "label": "Plausible company history",
+        "url": "https://plausible.io/about",
+        "evidence": "https://plausible.io/docs/authors",
+        "kind": "professional"
+      }
+    ],
+    "sections": [
+      {
+        "title": "From solo product to subscription business",
+        "text": "Plausible dates Uku Taht’s start on the product to December 2018 and its paid subscription launch to 2019. Its company history describes Marko Saric joining in 2020 to lead marketing and communications. The business says it is independently funded through subscriptions. These are company-published accounts, rather than independently audited financial statements.",
+        "source": "https://plausible.io/about"
+      },
+      {
+        "title": "Public professional role",
+        "text": "The company team page assigns design and development to Uku Taht and directly links the social account listed here. This verifies the published association; it does not confirm recent account activity.",
+        "source": "https://plausible.io/docs/authors"
+      }
+    ]
+  },
+  {
+    "url": "/founder-profiles/marie-martens-tally/",
+    "name": "Marie Martens",
+    "company": "Tally",
+    "reviewedAt": "2026-11-21",
+    "links": [
+      {
+        "label": "X / Twitter (linked by Tally)",
+        "url": "https://twitter.com/MarieMartens",
+        "evidence": "https://tally.so/help/press-kit",
+        "kind": "social"
+      },
+      {
+        "label": "Tally media kit",
+        "url": "https://tally.so/help/press-kit",
+        "evidence": "https://tally.so/help/press-kit",
+        "kind": "professional"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Founding Tally with Filip Minev",
+        "text": "Tally’s media kit identifies Marie Martens and Filip Minev as its founders, placing the company’s start in Ghent, Belgium in 2020. It describes a self-funded business focused on making forms easier to create. The kit links Martens’s professional social account directly.",
+        "source": "https://tally.so/help/press-kit"
+      },
+      {
+        "title": "An independent software model",
+        "text": "Tally describes its European team as customer-funded and independent. Its public company page points readers to a product roadmap, user community and milestone blog, giving researchers sources for how the product develops over time.",
+        "source": "https://tally.so/about"
+      }
+    ]
   }
 ]
