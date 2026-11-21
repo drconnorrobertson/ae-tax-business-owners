@@ -6090,5 +6090,886 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "ted-isaacson-servpro",
+    "name": "Ted Isaacson",
+    "company": "SERVPRO",
+    "website": "https://www.servpro.com/",
+    "role": "Historical co-founder with Doris Isaacson, as identified in SERVPRO’s history.",
+    "founding": "The company dates its Sacramento painting-business origin to 1967 and its first franchise to 1969.",
+    "intro": "Ted Isaacson co-founded the business that became SERVPRO with Doris Isaacson. The company’s history starts with a painting operation in Sacramento in 1967, then describes a move into franchised cleaning and restoration. Later headquarters and investment events belong to separate stages of that history, rather than changing the original founder association.",
+    "sections": [
+      {
+        "title": "A painting business before the franchise network",
+        "text": "SERVPRO’s history names both Ted and Doris as the people behind the original painting business. It says they drew on cleaning and restoration experience as the service model changed. Retaining both names prevents a founder profile from turning a partnership into a one-person story or describing the original operation as identical to today’s network.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Franchising and relocation happened later",
+        "text": "The company dates its first franchise to 1969 and its move from Sacramento to the Nashville area to 1988. Those milestones explain why a business founded in California can later have a Tennessee corporate identity. A local franchise location is another distinct geographic fact and should not be treated as a new founding place for the brand.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later investment was not the founding event",
+        "text": "Blackstone’s March 2019 announcement describes an investment in SERVPRO and identifies the Isaacson family with its 1967 origin. That transaction is a later corporate development. This profile does not infer any individual family member’s current stake from the announcement or present its expectations as a current ownership audit.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use the history to identify the right business",
+        "text": "Someone hiring a restoration provider needs to identify the actual local operator, contracted work and supporting evidence. The brand’s founder history cannot determine the condition of a property or validate a restoration plan. This entry makes no safety, response-time, performance or earnings claim; it documents a dated founding relationship and the company’s own chronology.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Doris Isaacson’s co-founding role.",
+      "Separate the 1967 operation, 1969 franchising and 1988 relocation.",
+      "Verify the local provider and work scope independently."
+    ],
+    "sources": [
+      {
+        "title": "SERVPRO — company history, reviewed November 21, 2026",
+        "url": "https://www.servpro.com/about/history"
+      },
+      {
+        "title": "Blackstone and SERVPRO — transaction announcement, March 26, 2019",
+        "url": "https://www.blackstone.com/news/press/servpro-leading-franchisor-of-residential-and-commercial-property-damage-restoration-services-announces-recapitalization-and-long-term-partnership-with-blackstone/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mary-ellen-sheets-two-men-truck",
+    "name": "Mary Ellen Sheets",
+    "company": "TWO MEN AND A TRUCK",
+    "website": "https://twomenandatruck.com/",
+    "role": "Historical founder associated with formalizing the moving business in 1985; no current executive title is asserted.",
+    "founding": "The company distinguishes the Sorber brothers’ early Lansing moves, Sheets’s 1985 truck purchase and franchising in 1989.",
+    "intro": "Mary Ellen Sheets developed TWO MEN AND A TRUCK from moving work begun by her sons, Brig and Jon Sorber, in Lansing, Michigan. The company’s history describes her role in its logo, operations and later franchising. The early work, formal business development and national brand are connected stages, but they are not interchangeable dates.",
+    "sections": [
+      {
+        "title": "Keep the brothers in the origin story",
+        "text": "The company history says Brig and Jon Sorber used a pickup truck to help people move while they were in high school. Sheets drew a logo for a community newspaper advertisement. That context matters because a profile centered on Sheets should preserve the contribution of the people who performed the early moving work.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A more formal operation in 1985",
+        "text": "After the brothers left for college, Sheets continued receiving calls, according to the company account. It dates her purchase of a larger truck and hiring of movers to 1985. This is a concrete operational milestone, rather than a reason to erase the earlier activity or imply that a franchise system existed from the first move.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Franchising and later leadership",
+        "text": "The history dates the first location outside Michigan to 1989 and describes Melanie Bergeron’s role in the company’s subsequent development. A fortieth-anniversary article separately records the 2021 acquisition by ServiceMaster Brands. Those later events should remain distinct from Sheets’s original work and from any unsupported assumption about her present ownership.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A national name and a local moving engagement",
+        "text": "A customer still needs the operator’s identity, the agreed inventory, service responsibilities and current terms for an individual move. Founder history cannot resolve a particular estimate or establish future service performance. This profile makes no earnings, claims-handling or customer-outcome promise; it documents the people and dates in the company’s own account.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Credit Brig and Jon’s early moving work.",
+      "Keep 1985 formalization and 1989 franchising distinct.",
+      "Use current local documents for a moving engagement."
+    ],
+    "sources": [
+      {
+        "title": "TWO MEN AND A TRUCK — company history, reviewed November 21, 2026",
+        "url": "https://twomenandatruck.com/about-us/our-history"
+      },
+      {
+        "title": "TWO MEN AND A TRUCK — fortieth-anniversary company account",
+        "url": "https://twomenandatruck.com/blog/two-men-and-truck-celebrates-40-years-moving-people-forward"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "dallen-peterson-merry-maids",
+    "name": "Dallen Peterson",
+    "company": "Merry Maids",
+    "website": "https://merrymaids.com/",
+    "role": "Historical founder; the company records a sale to ServiceMaster in 1988.",
+    "founding": "Merry Maids dates its founding in Omaha, Nebraska, to 1979.",
+    "intro": "Dallen Peterson founded Merry Maids in Omaha in 1979, according to the company’s history. The account describes family involvement in both cleaning homes and building a franchise system. A later sale to ServiceMaster is part of the company’s chronology, so the historical founder relationship should not be read as proof of current ownership.",
+    "sections": [
+      {
+        "title": "Learning through the original service work",
+        "text": "Merry Maids says Peterson and family members personally cleaned customers’ homes as they developed the business. That provides an operational context for the brand’s beginning: the account concerns an active cleaning service, not only the creation of a name or the purchase of an abstract franchise concept.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The local business and franchise system",
+        "text": "The company’s history credits Peterson’s family with helping create the Merry Maids system and franchise the company. It identifies Omaha as the origin. That is distinct from the location of a current branch or independently operated franchise, each of which may have its own business history and local responsibilities.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A dated change in corporate ownership",
+        "text": "Both the company history and a later brand article record ServiceMaster’s purchase in 1988. The later article describes the connection between a national brand and local operations. This profile uses those statements to explain the historical transition, not to infer current holdings of Peterson, family members or individual franchise operators.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Founder context does not specify a cleaning contract",
+        "text": "For a current service decision, a customer should establish the operator, rooms or tasks included, scheduling and how requested changes are handled. The founder’s early work cannot answer those engagement-specific questions. This biography does not certify cleaning methods, promise health outcomes or assess financial results. It preserves a sourced account of the founding, family contribution and later corporate change.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain family involvement in the early business.",
+      "Keep the 1988 sale separate from the 1979 start.",
+      "Identify the actual operator for current service questions."
+    ],
+    "sources": [
+      {
+        "title": "Merry Maids — company history, reviewed November 21, 2026",
+        "url": "https://merrymaids.com/about-us/company-history"
+      },
+      {
+        "title": "Merry Maids — brand history and local-operations account",
+        "url": "https://merrymaids.com/blog/time-priceless-why-merry-maids-works"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "jack-bates-stanley-steemer",
+    "name": "Jack A. Bates",
+    "company": "Stanley Steemer",
+    "website": "https://www.stanleysteemer.com/",
+    "role": "Historical founder; later family leadership is described separately in company materials.",
+    "founding": "The company dates the Jack Bates Carpet Cleaning Company to 1947 in Columbus, Ohio; Stanley Steemer naming followed in 1972.",
+    "intro": "Jack A. Bates founded the carpet-cleaning business that later became Stanley Steemer. The company’s timeline identifies a 1947 Columbus operation under his own name and explains the later equipment, branding and franchise milestones. This is a history of an evolving business, rather than a claim that its present form appeared fully developed at the beginning.",
+    "sections": [
+      {
+        "title": "The original business carried the founder’s name",
+        "text": "The timeline identifies the Jack Bates Carpet Cleaning Company as a one-person business in Columbus in 1947. The company FAQ also names Jack A. Bates as founder. Together, the records connect the person to the original operation without assuming that the later Stanley Steemer name was used from its first day.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Equipment helped shape the later brand",
+        "text": "The company timeline describes development of a prototype cleaning machine around 1970 and connects its name with older steam-powered automobiles. It dates the Stanley Steemer International name and first franchise to 1972. These are company-reported naming and operating milestones, not independent findings about cleaning performance.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Successive generations held different roles",
+        "text": "The timeline says Wesley Bates joined full time in 1970 and later became president and CEO. The current FAQ describes another generation’s leadership. A biography of Jack should not borrow those later titles. Nor does a continuing family name establish which person has authority over a current local service engagement.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Use present documents for present work",
+        "text": "A customer comparing cleaning services needs the local operator’s scope, instructions, exclusions and current terms. A historical equipment story cannot validate an application on a particular surface. This profile does not evaluate chemical safety, service results, revenue or personal ownership; it documents the original founder and the later events the company itself records.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the original business name from the 1972 brand.",
+      "Keep Jack and Wesley Bates’s roles separate.",
+      "Verify current surface-specific service requirements directly."
+    ],
+    "sources": [
+      {
+        "title": "Stanley Steemer — company historical timeline",
+        "url": "https://www.stanleysteemer.com/ceros/story-of-stanley-steemer-timeline/"
+      },
+      {
+        "title": "Stanley Steemer — company FAQ, reviewed November 21, 2026",
+        "url": "https://new.stanleysteemer.com/faqs"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mark-kushinsky-maidpro",
+    "name": "Mark Kushinsky",
+    "company": "MaidPro",
+    "website": "https://www.maidpro.com/",
+    "role": "Founder with Richard Sparacio, as identified by MaidPro; no current corporate executive title is asserted.",
+    "founding": "Company pages describe a Boston business operating since 1991 and a Beacon Hill office start in 1992; those statements are retained separately.",
+    "intro": "Mark Kushinsky founded MaidPro with Richard Sparacio, according to the company’s origin story and Boston office page. Those sources agree on the people and city but describe the early dates differently. A careful founder profile can preserve that distinction instead of silently selecting one date as the verified legal formation of the business.",
+    "sections": [
+      {
+        "title": "The experience described by the company",
+        "text": "MaidPro’s origin story says Kushinsky was dissatisfied with cleaning services he hired and discussed the experience with Sparacio. It presents that conversation as the beginning of MaidPro. The account is the company’s own explanation of its motivation, not an independent assessment of competing cleaners or their work.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Two date statements with different wording",
+        "text": "The company’s About page describes starting in a small Beacon Hill office in 1992. Its Boston location page says the business has operated since 1991. This entry does not resolve that difference by inventing a legal chronology. It records each statement as written and leaves incorporation or registration questions to authoritative business records.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A brand founder and a local operation",
+        "text": "The Boston page names both Kushinsky and Sparacio as the founders. It also discusses that specific local business, whereas the origin page describes the wider MaidPro brand. Those scopes are not interchangeable. A statement about one location should not automatically be applied to every franchise or corporate entity using the name.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Make the uncertainty visible",
+        "text": "When dates differ, keeping the source title, wording and review date is more useful than repeating a convenient single year. This biography makes no finding about current ownership, earnings or service quality. Customers should identify the local provider and current scope directly; researchers needing a legal formation date should obtain the relevant official filing.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Richard Sparacio’s founding role.",
+      "Keep the 1991 and 1992 statements attributed separately.",
+      "Do not treat an office-opening date as a verified incorporation date."
+    ],
+    "sources": [
+      {
+        "title": "MaidPro — brand origin story, reviewed November 21, 2026",
+        "url": "https://www.maidpro.com/about/leadership"
+      },
+      {
+        "title": "MaidPro — Boston location history, reviewed November 21, 2026",
+        "url": "https://www.maidpro.com/boston-maidpro"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "omar-soliman-college-hunks",
+    "name": "Omar Soliman",
+    "company": "College HUNKS Hauling Junk & Moving",
+    "website": "https://www.collegehunkshaulingjunk.com/",
+    "role": "Co-founder and Visionary on the company team page; its November 2026 leadership account identifies a separate CEO.",
+    "founding": "The company’s origin story dates an early summer hauling idea to 2003; this is not presented as an independently verified incorporation date.",
+    "intro": "Omar Soliman co-founded College HUNKS Hauling Junk & Moving with Nick Friedman. The company’s story connects its early idea to customers wanting old furniture removed during deliveries. Its current team page distinguishes the founders from a newly appointed CEO, so an older description of Soliman as chief executive should not automatically be repeated as current.",
+    "sections": [
+      {
+        "title": "A customer request behind an early idea",
+        "text": "The company history places the initial opportunity in the summer of 2003. It describes Soliman seeing requests to remove furniture and discussing a hauling business with Friedman. That is an attributed account of an early business idea. This entry does not convert it into a legal formation date without a corresponding filing.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Retain the founding partnership",
+        "text": "Both the history and team page identify Friedman alongside Soliman. The team page labels the founders as Visionaries and also describes them as co-chairmen in its CEO biography. These are company-published role descriptions. A profile focused on Soliman should retain Friedman’s contribution and avoid implying that public visibility makes one person the sole founder.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A new CEO changes the present-tense description",
+        "text": "The reviewed team page says Brad Cowan joined as CEO in November 2026 and leads day-to-day operations while reporting to the co-founders. That is a more recent role account than older promotional pages calling Soliman CEO. This profile uses the founder relationship without assigning him the new CEO’s responsibilities.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Separate corporate history from a local job",
+        "text": "A moving or hauling customer still needs the local operator’s identity, agreed items and current terms. The national origin story does not establish the outcome of an individual job. This biography makes no earnings, service-quality or ownership-percentage claim, and it does not imply a relationship with AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Nick Friedman as co-founder.",
+      "Distinguish the 2003 idea from legal formation.",
+      "Use the November 2026 team account for current leadership context."
+    ],
+    "sources": [
+      {
+        "title": "College HUNKS — origin story, reviewed November 21, 2026",
+        "url": "https://www.collegehunkshaulingjunk.com/about-us/our-story/"
+      },
+      {
+        "title": "College HUNKS — current team and CEO account, reviewed November 21, 2026",
+        "url": "https://www.collegehunkshaulingjunk.com/about-us/meet-the-team/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "jonathan-barnett-oxi-fresh",
+    "name": "Jonathan Barnett",
+    "company": "Oxi Fresh",
+    "website": "https://www.oxifresh.com/",
+    "role": "Founder, as identified in Oxi Fresh’s company history and biography.",
+    "founding": "Oxi Fresh’s timeline dates its first Denver location to August 2006.",
+    "intro": "Jonathan Barnett founded Oxi Fresh in 2006, according to the company’s timeline and biography. Its public history describes a carpet-cleaning business that later added services and franchise locations. This profile records the founder relationship and operating chronology without adopting the company’s environmental, chemical, drying-time or performance claims.",
+    "sections": [
+      {
+        "title": "A dated first location",
+        "text": "Oxi Fresh’s timeline identifies August 2006 as the start of the business in Denver, Colorado. Its founder biography also places the company’s beginning in mid-2006. These descriptions support a calendar-year founding account while preserving the more specific month as the company’s own timeline statement.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The service range changed after opening",
+        "text": "The timeline records upholstery cleaning as a later addition and then describes tile and grout services. It also records a registered brand mark in 2007, a different event from the initial opening. Those milestones distinguish the first carpet-cleaning operation from the wider service list encountered today. A customer should not assume that every listed service is available from every local operator or suitable for every material.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The biography describes earlier business experience",
+        "text": "Barnett’s company biography discusses earlier entrepreneurial projects and an interest in franchising before Oxi Fresh. This gives context for how the brand explains his path into the business. Personal details, credentials and promotional rankings unnecessary to the founder identification are not reproduced here.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A founder record is not a product evaluation",
+        "text": "Selecting a cleaning method requires current product information, surface requirements and the proposed service scope. The company’s account of why it developed its approach does not independently validate environmental or health claims. This entry also does not verify the ownership interest described in promotional materials, estimate earnings or infer an AE client relationship.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the 2006 opening separate from later service additions.",
+      "Attribute the founder biography to the company.",
+      "Assess cleaning methods using current application-specific evidence."
+    ],
+    "sources": [
+      {
+        "title": "Oxi Fresh — company historical timeline",
+        "url": "https://www.oxifresh.com/carpet-cleaning-companies/history/"
+      },
+      {
+        "title": "Oxi Fresh — Jonathan Barnett biography, reviewed November 21, 2026",
+        "url": "https://www.oxifresh.com/management-team/jonathan-barnett/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "gary-salomon-fastsigns",
+    "name": "Gary Salomon",
+    "company": "FASTSIGNS",
+    "website": "https://www.fastsigns.com/",
+    "role": "Historical co-founder with Bob Schanbaum, as identified in company and supplier accounts.",
+    "founding": "FASTSIGNS dates its first Dallas location to 1985; an Austin shop appears in the separate technology-inspiration account.",
+    "intro": "Gary Salomon co-founded FASTSIGNS with Bob Schanbaum. The company’s history describes a Dallas opening in 1985, while a supplier case study explains how a sign-making operation in Austin inspired the founders. Keeping those two cities attached to their different events avoids confusing the origin of an idea with the location of the first branded shop.",
+    "sections": [
+      {
+        "title": "The company’s first-store account",
+        "text": "FASTSIGNS’s thirtieth-anniversary article names Salomon and Schanbaum and places their first location in Dallas in 1985. It describes an emphasis on producing signs and banners with quicker turnaround. That is an attributed founding and service account, not a current delivery guarantee.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A supplier’s account of the technology idea",
+        "text": "HP’s customer case study describes the founders noticing a small Austin sign business using computers for sign production. It discusses their interest in applying that approach. The supplier also connects this interest with later testing of its printing equipment by FASTSIGNS. This is a directly involved supplier’s customer account, not an independent history, and the Austin visit should not replace Dallas as the company-reported first-store location.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "From early signs to a broader offering",
+        "text": "The company article contrasts early cut-vinyl production with later printing and visual-marketing services. That is useful context for a business whose product range evolved. It does not establish that every later sign type or installation service was part of the original operation, or that all locations offer identical capabilities.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Use the history to frame technical questions",
+        "text": "A sign buyer should specify the actual materials, artwork, dimensions, site conditions and installation responsibilities required. A founder’s early use of technology cannot answer those project details. This profile assesses neither product durability nor financial performance and does not infer current ownership from the historical co-founder relationship.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Credit Bob Schanbaum as co-founder.",
+      "Separate Austin inspiration from the Dallas opening.",
+      "Treat the HP case study as supplier-published customer testimony."
+    ],
+    "sources": [
+      {
+        "title": "FASTSIGNS — thirtieth-anniversary company history",
+        "url": "https://www.fastsigns.com/blog/miscellaneous-trending/fastsigns-happenings/then-vs-now-how-things-have-changed-at-fastsigns/"
+      },
+      {
+        "title": "HP — FASTSIGNS customer case study, 2011",
+        "url": "https://www.hp.com/hpinfo/newsroom/press_kits/2011/HPLatexSummit/FastSigns.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ray-titus-signarama",
+    "name": "Ray Titus",
+    "company": "Signarama",
+    "website": "https://signarama.com/",
+    "role": "Co-founder with Roy Titus; the company About page identifies Ray as CEO on the review date.",
+    "founding": "Signarama dates its first store in Farmingdale, New York, to 1986 and franchising to 1987.",
+    "intro": "Ray Titus co-founded Signarama with Roy Titus in 1986. The company’s history identifies Farmingdale, New York, as the first-store location and separates that opening from later franchising and Florida office moves. This chronology gives readers a clearer picture than treating the present brand’s headquarters as its original home.",
+    "sections": [
+      {
+        "title": "A father-and-son founding partnership",
+        "text": "Signarama’s About page describes Ray and Roy Titus opening the first store together. Its timeline names both founders and specifies Farmingdale. A profile about Ray should retain Roy’s contribution rather than imply that one current executive created the business alone. The founding partnership and the current leadership structure are different subjects.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Franchising followed the first store",
+        "text": "The company timeline dates the start of franchising to 1987, a year after the first location. It then records a corporate move to North Palm Beach in 1989 and to West Palm Beach in 1993. Those separate dates explain how a New York origin and a Florida corporate association can both be accurate.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Current company roles have their own evidence",
+        "text": "The reviewed About page identifies Ray as CEO and A.J. Titus as brand president. This entry reports only those company-stated roles, without interpreting family relationships as evidence of share ownership or control of an individual franchise. Readers needing signing authority should obtain a current confirmation from the relevant entity.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The brand history does not determine a sign order",
+        "text": "Materials, placement, design requirements and local installation responsibilities depend on the actual project. A founding biography cannot establish that a proposed sign meets those requirements. This entry makes no service, earnings or product-performance promise; it preserves the documented founders and the sequence of company development.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Roy Titus as co-founder.",
+      "Keep first store, franchising and office relocations distinct, including dates for a local store rather than the wider brand.",
+      "Verify the responsible local operator for an order."
+    ],
+    "sources": [
+      {
+        "title": "Signarama — company About page, reviewed November 21, 2026",
+        "url": "https://signarama.com/about/about-us/"
+      },
+      {
+        "title": "Signarama — company historical timeline",
+        "url": "https://signarama.com/about/our-history"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "todd-hopkins-office-pride",
+    "name": "Todd Hopkins",
+    "company": "Office Pride",
+    "website": "https://officepride.com/",
+    "role": "Founder, as identified by Office Pride; the 2019 president/CEO title is historical.",
+    "founding": "Office Pride dates its founding to 1992 and links the idea to Hopkins’s graduate research.",
+    "intro": "Todd Hopkins founded Office Pride in 1992, according to the company’s history. The business describes an origin in research into commercial cleaning, followed by Hopkins doing the work of finding customers and cleaning their premises. A historical executive title in an older announcement should be kept separate from the continuing founder association.",
+    "sections": [
+      {
+        "title": "Research before the operating business",
+        "text": "Office Pride’s company page says Hopkins studied the commercial-cleaning industry while working on his MBA. It presents that research as the starting point for the business concept. The account helps explain the professional-service focus without establishing that a classroom project and a legally formed business began on the same day.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The founder initially performed the service",
+        "text": "A company announcement from April 2019 describes Hopkins working from home, signing customers during the day and cleaning in the evenings. This is an attributed account of early operating work. It offers more useful context than assuming the company began as a national franchise organization with a fully developed support structure.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A dated leadership description",
+        "text": "The 2019 announcement calls Hopkins founder and president/CEO. The current company history continues to identify him as founder. This profile preserves that durable historical association while treating the older operating title according to its date. It does not infer current executive authority or ownership percentage from an archived news release.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Separate company history from service verification",
+        "text": "A business selecting a cleaning provider needs an agreed scope, access arrangements, scheduling and clear responsibility for changes. The founder’s research and early experience cannot verify the work of every local operation. This entry makes no hygiene, safety, earnings or service-quality claim; it provides a source trail for the company’s own account of its beginning.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep research, operations and legal formation as separate questions.",
+      "Date the 2019 executive title.",
+      "Verify current local service responsibilities directly."
+    ],
+    "sources": [
+      {
+        "title": "Office Pride — company history, reviewed November 21, 2026",
+        "url": "https://officepride.com/about-office-pride/"
+      },
+      {
+        "title": "Office Pride — Todd Hopkins company announcement, April 9, 2019",
+        "url": "https://officepride.com/office-pride-founder-and-president-ceo-speaks-at-tampa-bay-leadership-prayer-breakfast/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "rik-nonelle-window-genie",
+    "name": "Rik Nonelle",
+    "company": "Window Genie",
+    "website": "https://www.windowgenie.com/",
+    "role": "Historical founder; the 2016 acquisition announcement describes a transition from CEO to brand president.",
+    "founding": "The acquiring company’s announcement dates Window Genie’s Cincinnati start to 1994.",
+    "intro": "Rik Nonelle founded Window Genie in Cincinnati in 1994, according to the company that later acquired the business. The acquisition announcement describes a change in his role, while a Window Genie article records an earlier founder association. Those sources should not be combined into an unsupported claim that an old CEO title remains current.",
+    "sections": [
+      {
+        "title": "A Cincinnati service-company origin",
+        "text": "The 2016 acquisition announcement describes Window Genie beginning as a small Cincinnati window-cleaning business in 1994. It also describes a broader service range by the time of the transaction. That distinction keeps the original operating focus separate from the services the brand later offered.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A transaction and an executive transition",
+        "text": "The acquiring company’s release says Nonelle would assume the role of brand president following the acquisition. It identifies him as CEO in the pre-transaction description. Those are two different points in a transition, not conflicting titles to be selected without a date. This profile does not assert a current executive role.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An earlier company account",
+        "text": "Window Genie’s article about community activity identifies Nonelle as founder and refers to a 2014 event. It provides a separate company-published connection between the person and the business. The biographical value is that dated association; this entry does not reproduce unnecessary personal details or treat charitable activity as a service endorsement.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A current engagement needs a current operator",
+        "text": "The history of the brand and the founder’s later role do not establish who will perform a particular local job. A customer should identify the contracted services, location and responsible business directly. This profile makes no estimate of sale proceeds, wealth or current holdings and does not guarantee cleaning, installation or surface-treatment results.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the 2016 role transition attached to its date.",
+      "Distinguish the local origin from the later brand network.",
+      "Obtain current service and operator details separately."
+    ],
+    "sources": [
+      {
+        "title": "Neighborly — Window Genie acquisition announcement, 2016",
+        "url": "https://www.neighborlybrands.com/press-center/news/2016/acquires-window-genie/"
+      },
+      {
+        "title": "Window Genie — founder community account, referring to 2014",
+        "url": "https://www.windowgenie.com/blog/windows-4-wishes-gives-back/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mike-merrick-fish-window-cleaning",
+    "name": "Mike Merrick",
+    "company": "Fish Window Cleaning",
+    "website": "https://www.fishwindowcleaning.com/",
+    "role": "Founder, as identified by the company; no current CEO title is inferred from older materials.",
+    "founding": "The company dates its first business to January 1978 and its first franchise to 1998.",
+    "intro": "Mike Merrick founded Fish Window Cleaning in January 1978, according to company materials. A direct interview also describes his purchase of an existing window-cleaning business. Keeping that detail visible avoids turning the founder story into a claim that he invented the trade or began without any predecessor operation.",
+    "sections": [
+      {
+        "title": "A change from banking to a service business",
+        "text": "The company’s media kit describes Merrick moving from banking into window cleaning. In a company-published interview with Mike and Linda Merrick, he explains that the person cleaning the bank’s windows had a business for sale and that he bought it. This is first-person evidence of the acquisition context behind the founding account.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The founder account includes Linda",
+        "text": "The interview presents Mike and Linda together, and the media kit also includes their joint photograph and story. This entry preserves Linda’s involvement without assigning an unverified legal title. A person-centered profile should not erase the other participants simply because one name is most often used in summaries of the business.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Franchising began much later",
+        "text": "The company media kit dates the first franchise to 1998 in Tampa, Florida, twenty years after the initial business. That is an important distinction for understanding the operating model. The local service business and the later franchise system should not be described as though both were created in January 1978.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Keep historical titles and current responsibilities apart",
+        "text": "An older media kit’s executive title is not a fresh confirmation of present management. Customers should identify the current local operator, work scope and access arrangements for their own property. This profile does not evaluate window-cleaning methods, service quality, earnings or ownership holdings. It records a founder association, acquisition context and the later franchise milestone.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain the purchased-business context from the direct interview.",
+      "Acknowledge Linda’s documented involvement.",
+      "Separate the 1978 business from the 1998 franchise launch."
+    ],
+    "sources": [
+      {
+        "title": "Fish Window Cleaning — company media kit, 2015",
+        "url": "https://www.fishwindowcleaning.com/pageimages/2015%20Media%20Kit.pdf"
+      },
+      {
+        "title": "Fish Window Cleaning — direct Mike and Linda Merrick interview transcript",
+        "url": "https://www.fishwindowcleaning.com/franchise/getDocument.php?c=67"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "tony-giordano-lawn-doctor",
+    "name": "Tony Giordano",
+    "company": "Lawn Doctor",
+    "website": "https://www.lawndoctor.com/",
+    "role": "Historical co-founder with Bob Magda; the company records Giordano’s death in 1983.",
+    "founding": "Company histories distinguish mid-1960s local service activity and Auto Lawn from the 1967 franchise milestone.",
+    "intro": "Tony Giordano co-founded the business that became Lawn Doctor with Bob Magda. The company’s histories connect Giordano’s hardware-store customers with Magda’s equipment work. They describe stages before and during the development of the franchise system, rather than a single event that created every part of the later business.",
+    "sections": [
+      {
+        "title": "Questions from hardware-store customers",
+        "text": "The company history describes Giordano operating a hardware store in Matawan, New Jersey, where homeowners asked about their lawns. It says he began holding instructional sessions and later discussed a service business with Magda. This is the company’s account of an observed customer problem, not an independent assessment of lawn treatments.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Two people with different contributions",
+        "text": "The same source attributes business and marketing work to Giordano and equipment development to Magda. The franchise timeline describes local activity around 1965, Auto Lawn around 1966 and franchising in 1967. Retaining the partner’s correct name and those separate stages avoids compressing the development into an inaccurate one-founder narrative.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The founder’s role ended before later leadership",
+        "text": "The company records Giordano’s death in 1983 and the subsequent appointment of Russell Frith as president and CEO. Later executive roles therefore belong to different people. This biography does not carry a founder title into a claim that Giordano remains involved in present operations.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A historical profile does not prescribe a treatment",
+        "text": "A current customer needs the actual local provider, proposed service, products and property-specific considerations. The company’s equipment history cannot establish the suitability or effect of a treatment on a particular lawn. This entry provides no chemical, safety, environmental or earnings conclusion and makes no inference about present family ownership. Technical descriptions remain company statements, rather than evidence validating equipment for a present customer.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use Bob Magda’s correct name.",
+      "Keep local service, Auto Lawn and franchising milestones separate.",
+      "Treat Giordano’s role as historical."
+    ],
+    "sources": [
+      {
+        "title": "Lawn Doctor — company history, reviewed November 21, 2026",
+        "url": "https://www.lawndoctor.com/company_history/"
+      },
+      {
+        "title": "Lawn Doctor — franchise-development timeline",
+        "url": "https://lawndoctorfranchise.com/history/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "don-dwyer-neighborly",
+    "name": "Don Dwyer Sr.",
+    "company": "Dwyer Group / Neighborly",
+    "website": "https://www.neighborlybrands.com/",
+    "role": "Historical founder of the Dwyer Group; a direct family account records his death in 1994.",
+    "founding": "The cited founder and company accounts date the group’s beginning to 1981, associated with Rainbow International.",
+    "intro": "Don Dwyer Sr. founded the business group now known as Neighborly. The company and his daughter’s first-person accounts connect its beginning to Rainbow International in 1981. This profile distinguishes the group’s founder from later executives and from the independent businesses operating under individual service brands.",
+    "sections": [
+      {
+        "title": "An early brand and a later group identity",
+        "text": "Neighborly’s history article describes the organization beginning with Rainbow International, a carpet-dyeing and cleaning business associated with Dwyer in 1981. It then describes the development of a group of service brands. This entry does not infer that Dwyer personally originated every acquired brand or every local franchise operation.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A first-person account of the founder’s legacy",
+        "text": "Dina Dwyer-Owens’s 2016 article describes her father as the company’s founder and discusses how later management used the values he established. It is explicitly a family and company leadership perspective. The account supports the founder relationship while remaining an attributed source rather than an independent assessment of corporate culture.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The founder and later leadership are different periods",
+        "text": "In a direct interview, Dwyer-Owens dates her father’s death to 1994 and describes the continued development of the business afterward. The article’s present-tense description belongs to the interview date. This profile does not give Don Dwyer a current role or infer ownership held by relatives. A shared brand family does not make every local business the same legal entity.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Identify the business behind a service engagement",
+        "text": "A holding-company history, a service brand and a local contractor answer different research questions. Customers should establish the actual contracting business and scope for the work they need. This biography makes no promise about franchise performance, earnings or service results. It documents the founder association and the distinction between the original group and the organization that developed later.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the group founder from individual brand founders.",
+      "Attribute family testimony as first-person evidence.",
+      "Identify the current local contracting business independently."
+    ],
+    "sources": [
+      {
+        "title": "Dina Dwyer-Owens — first-person founder account, May 12, 2016",
+        "url": "https://www.dinadwyerowens.com/blog/2016/may/happy-anniversary-to-our-code-of-values-/"
+      },
+      {
+        "title": "Neighborly — Rainbow and group history, August 15, 2019",
+        "url": "https://franchise.neighborly.com/blog/becoming-the-trusted-property-restoration-franchise"
+      },
+      {
+        "title": "Truth at Work — direct Dina Dwyer-Owens interview",
+        "url": "https://truthatwork.org/operationalizing-your-values-with-dina-dwyer-owens/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "robert-harris-chem-dry",
+    "name": "Robert Harris",
+    "company": "Chem-Dry",
+    "website": "https://www.chemdry.com/",
+    "role": "Historical founder, as identified in Chem-Dry’s company account.",
+    "founding": "Company materials distinguish the early-1970s development story from franchising beginning in 1977.",
+    "intro": "Robert Harris is the founder associated with Chem-Dry’s company history. Its narrative connects work in carpet cleaning with an idea for a different cleaning process. A franchise information report separately dates the start of franchising, allowing the invention story and business-development milestones to remain distinct.",
+    "sections": [
+      {
+        "title": "The company’s account of an early problem",
+        "text": "Chem-Dry’s About page describes Harris working for a carpet cleaner while studying in Utah during the 1970s. It says he began looking for a different approach to cleaning. This is the company’s own explanation of its product-development history, not proof of comparative performance or the validity of every technical claim in its marketing.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An anecdote is part of the founder narrative",
+        "text": "The company attributes an idea about carbonation to a small stain-cleaning experience during air travel. The account is reported here only as the origin story Chem-Dry publishes. It should not be read as a chemical demonstration or a basis for applying a product to a particular carpet or other surface.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Franchising has a separate date",
+        "text": "The company’s franchise information report places early development in the 1970s and dates franchising to 1977. Its later timeline describes additional equipment and service developments. The source dates remain important when interpreting those product milestones and the sequence in which they occurred. These separate milestones are more informative than assuming that every current product and franchise arrangement existed when the initial idea arose.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use current technical information for current work",
+        "text": "A customer should obtain the applicable product instructions, surface requirements and local service scope. A historical founder profile cannot validate safety, environmental effects, drying times or stain-removal results. This entry makes none of those claims, does not assert a current executive position for Harris and does not estimate personal wealth or company revenue.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the early idea and 1977 franchising date separate.",
+      "Attribute the origin anecdote to the company.",
+      "Evaluate products through current application-specific information."
+    ],
+    "sources": [
+      {
+        "title": "Chem-Dry — company origin account, reviewed November 21, 2026",
+        "url": "https://www.chemdry.com/about"
+      },
+      {
+        "title": "Chem-Dry — franchise information report, 2017",
+        "url": "https://chemdryfranchise.com/wp-content/uploads/2017/02/Chem-Dry-Franchise-Information-Report.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "karen-mcguffin-bloomin-blinds",
+    "name": "Karen McGuffin",
+    "company": "Bloomin’ Blinds",
+    "website": "https://www.bloominblinds.com/",
+    "role": "Historical founder; the current brand story describes McGuffin as retired.",
+    "founding": "The company distinguishes her earlier Seattle business in 1993 from Bloomin’ Blinds, which its press page dates to 2001.",
+    "intro": "Karen McGuffin founded Bloomin’ Blinds after an earlier blind-cleaning business in Seattle, according to the company’s brand story. That account also identifies the roles of her three sons. The earlier business and the later Bloomin’ Blinds operation should not be collapsed into one founding date or described as the work of a single person.",
+    "sections": [
+      {
+        "title": "An earlier business came first",
+        "text": "The brand story says McGuffin began cleaning and repairing blinds in Seattle in 1993 and later sold that first operation. It then describes her launching Bloomin’ Blinds with her sons. The distinction matters because the company’s press page dates Bloomin’ Blinds itself to 2001, rather than treating every earlier activity as the same business.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The family’s contributions are part of the record",
+        "text": "The company identifies Kelsey, Kristopher and Kevin Stuart alongside McGuffin. It describes work in business development, operations and technical support across the family. This profile retains their involvement while avoiding assumptions about who holds shares or signing authority in a current local franchise.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A retired founder and changing leadership titles",
+        "text": "The current brand story explicitly describes McGuffin as retired. Other company pages contain different operating titles for members of the next generation. This entry therefore uses the clear historical founder association for McGuffin and does not assign her a present executive role or resolve unrelated title differences without current evidence.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Separate a founder biography from a window-treatment order",
+        "text": "A customer needs the proposed product, repair assessment, measurements and installation responsibilities for their own property. The family history cannot establish those details. The name of a local franchise does not identify its current ownership on its own. This profile makes no product-performance, service-quality or earnings claim. It supplies a source trail for the sequence of businesses and the founder’s documented role.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use Karen McGuffin’s correct name.",
+      "Separate the 1993 predecessor from the 2001 brand.",
+      "Retain all three sons’ documented participation."
+    ],
+    "sources": [
+      {
+        "title": "Bloomin’ Blinds — current brand and founder story",
+        "url": "https://www.bloominblinds.com/brand-story/"
+      },
+      {
+        "title": "Bloomin’ Blinds — press information and founding year",
+        "url": "https://www.bloominblinds.com/press-page/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
