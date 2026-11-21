@@ -2196,5 +2196,373 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 4
+  },
+  {
+    "slug": "construction-change-order-cost-log",
+    "title": "Connect construction change orders to costs, billing and cash",
+    "description": "Build a change-order log that distinguishes approval, work performed, cost estimates, invoices and expected collections.",
+    "intro": "A change order can alter the job schedule, estimated margin and cash requirement at different times. A verbal request on site is not the same as an approved price, and approval is not the same as payment. Use a linked log to make those stages visible to the project manager, office and accountant. This is a recordkeeping workflow, not an interpretation of a construction contract.",
+    "sections": [
+      {
+        "title": "Give every change a stable reference",
+        "text": "Record the job, change identifier, request date, description and person responsible. Link the supporting request, estimate and relevant correspondence. Keep revisions under the same reference with version dates so the current amount can be distinguished from earlier proposals. An unexplained total in a spreadsheet cannot show whether two rows represent separate changes or revisions to the same work."
+      },
+      {
+        "title": "Separate approval from production",
+        "text": "Use distinct fields for proposed, approved, in progress and completed work. Record the written evidence supporting each status. Do not resolve uncertainty about authorization by changing the status to approved. Escalate disputed scope or contract interpretation to the appropriate project or legal adviser. Show work already performed on unresolved changes separately so management can see the exposure."
+      },
+      {
+        "title": "Update cost and time assumptions",
+        "text": "List expected material, labor, subcontract and other incremental costs, along with amounts already incurred and remaining estimates. Identify schedule effects that may create cost elsewhere in the project. For a fictional approved $12,000 change, $7,000 of estimated incremental cost suggests $5,000 before other affected costs. That arithmetic is an initial scenario, not proof of the final job margin."
+      },
+      {
+        "title": "Link the billing and collection record",
+        "text": "Track the invoice or application-for-payment reference, amount billed, withheld amounts and expected collection date. A completed change might remain unbilled because documentation is missing. A billed amount might remain unpaid for another reason. Keep those issues visible rather than treating all approved work as cash available for payroll. Reconcile receipts against specific billing records."
+      },
+      {
+        "title": "Review changes with the full job forecast",
+        "text": "At each review, reconcile the log to the latest job forecast and identify duplicate or omitted items. Preserve prior versions and explain major movements. Ask the accountant how the operational log supports the reporting method used by the business; do not infer revenue recognition from this workflow. Assign an owner and next action to every unresolved item."
+      }
+    ],
+    "checklist": [
+      "Stable change IDs and version history",
+      "Approval evidence and production status",
+      "Actual costs and remaining estimates",
+      "Billing references and collection assumptions",
+      "Reconciliation to the job forecast"
+    ],
+    "questions": [
+      "Which changes have work underway without resolved approval?",
+      "Which completed changes remain unbilled?",
+      "What evidence supports the expected collection date?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "restaurant-food-waste-cost-log",
+    "title": "Measure restaurant food waste before changing the purchasing plan",
+    "description": "Create a consistent food-waste log and reconcile it with purchases, inventory and operating decisions.",
+    "intro": "A food-cost percentage can move because of purchasing prices, recipe portions, menu mix, stock-count errors or waste. A waste log helps isolate one part of that picture. It works best when staff can record an event consistently and management uses the results to investigate operations. This guide does not prescribe a food-safety procedure or a universal acceptable waste rate.",
+    "sections": [
+      {
+        "title": "Define the event being recorded",
+        "text": "Identify the item, date, station, quantity, unit and reason. Use a manageable list of reasons such as preparation trim, spoilage, production surplus or a returned dish, with room for notes. Keep the definitions consistent across shifts. A count of containers cannot be compared with weight unless the container size and conversion are documented."
+      },
+      {
+        "title": "Choose a consistent cost basis",
+        "text": "Have the accounting or purchasing owner define how quantities are converted to cost. Record the supplier or recipe-cost reference and effective date. A current purchase price and an older standard recipe cost can produce different estimates, so identify which is used. Avoid presenting a rough operational estimate as a precise financial adjustment."
+      },
+      {
+        "title": "Reconcile the surrounding stock movements",
+        "text": "Review beginning inventory, receipts, transfers, recorded waste and ending counts for the same period. A missing transfer or a receiving error can resemble waste. Check unusual differences before attributing them to staff behavior. Keep records of donations, staff meals or other movements in their appropriate categories rather than hiding every reduction under a waste label."
+      },
+      {
+        "title": "Test one operating change at a time",
+        "text": "For a fictional kitchen discarding ten portions after several quiet weekday lunches, investigate production timing and demand before changing all purchase quantities. Compare similar days and record menu or event differences. A smaller batch might reduce surplus but require more preparation time. Evaluate the full operating effect rather than assuming every reduction in the log is a net saving."
+      },
+      {
+        "title": "Close the review with a responsible owner",
+        "text": "Summarize recurring causes, proposed actions and the next measurement period. Preserve original entries and document corrections. Use the information alongside purchasing, sales and physical counts, not as a substitute for them. If the log affects accounting entries, have the accountant review that handoff. Route food handling and safety questions to qualified staff and applicable guidance."
+      }
+    ],
+    "checklist": [
+      "Common item and reason definitions",
+      "Quantity units and cost references",
+      "Purchases, counts and transfer records",
+      "Comparable review periods",
+      "Assigned action and follow-up date"
+    ],
+    "questions": [
+      "Are the quantities measured consistently?",
+      "Could stock movements explain the apparent loss?",
+      "Did the change improve the whole operation?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "ecommerce-returns-margin-review",
+    "title": "Review ecommerce returns beyond the refunded sales amount",
+    "description": "Connect refunds, recovered stock, shipping, marketplace fees and replacement orders in one returns review.",
+    "intro": "A refund report shows money returned to customers, but it may omit the cost of return freight, replacement shipments, processing and goods that cannot be sold again. Build a return-level review before drawing conclusions about product profitability. Keep the operational estimate separate from the accounting entries until the finance owner confirms how each component is treated.",
+    "sections": [
+      {
+        "title": "Connect the original sale and return",
+        "text": "Use the order number, return authorization and product identifier to link the original sale, shipment and customer request. Record quantities and currencies. Identify whether the event is a refund, exchange, partial credit or replacement without a refund. Those outcomes can have different cash and inventory effects even when customer service groups them together."
+      },
+      {
+        "title": "Track the actual condition of returned stock",
+        "text": "Record whether goods were received, inspected, returned to saleable inventory, discounted, repaired or discarded. Identify the inspection date and responsible team. A return authorization alone does not prove the goods came back. Avoid giving every refund an assumed inventory recovery credit when the physical result has not been established."
+      },
+      {
+        "title": "List costs and credits separately",
+        "text": "Connect outbound and return freight, processing costs, nonrefunded platform charges and any fee credits. Document estimates where exact costs are not yet known. In a fictional $100 sale, a $100 refund plus $12 return freight is not the same economic event as a refund with no return shipment. Any recovered inventory must be considered using an appropriate cost basis, not its retail price."
+      },
+      {
+        "title": "Compare comparable groups of orders",
+        "text": "Review by product, reason, channel and sale period while allowing time for later returns. Recent sales may look better simply because their return window is still open. Keep exchange orders from being counted as unrelated new sales in the analysis. Look for packaging, description or fulfillment issues before assigning a cause solely from a reason code."
+      },
+      {
+        "title": "Reconcile and assign a practical action",
+        "text": "Compare totals with refund settlements, warehouse records and the accounting system. Record timing differences and unresolved transactions. Assign a specific investigation or operating change and review later outcomes. A return dashboard supports decisions about products and processes; it does not by itself establish revenue recognition, inventory valuation or the tax treatment of a refund."
+      }
+    ],
+    "checklist": [
+      "Order, authorization and product links",
+      "Physical receipt and condition status",
+      "Freight, fees, credits and estimates",
+      "Comparable sales periods and channels",
+      "Refund-to-ledger reconciliation"
+    ],
+    "questions": [
+      "Which refunds have no confirmed stock recovery?",
+      "Are fee credits and replacement costs included?",
+      "Are recent orders being compared with fully matured return periods?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "consulting-utilization-capacity-review",
+    "title": "Review consulting utilization without confusing capacity and cash",
+    "description": "Define billable utilization, available hours, backlog and collection assumptions before making staffing decisions.",
+    "intro": "A utilization percentage depends on its numerator and denominator. Two consulting teams can report the same label while measuring different things. Before using utilization to hire, price or forecast, define the calculation and connect it to the work calendar. Hours delivered, invoices issued and cash collected should remain distinct throughout the review.",
+    "sections": [
+      {
+        "title": "Write down the denominator",
+        "text": "Define the period and available hours. State how holidays, leave, training, management duties and part-time schedules are handled. Use the same rule across comparisons or explain differences. A denominator based on every paid hour answers a different question from one based only on hours scheduled for client delivery."
+      },
+      {
+        "title": "Distinguish types of recorded work",
+        "text": "Separate billable delivery, nonbillable client work, internal activity and unassigned time using definitions staff can apply. Review missing or late time entries before interpreting the result. Contract limits may make some delivered hours nonbillable even when the work benefits the client. Do not relabel time merely to make a target appear achieved."
+      },
+      {
+        "title": "Calculate a transparent example",
+        "text": "For a fictional consultant with 120 available delivery hours and 90 billable hours under the stated rules, utilization is 75 percent. That number alone does not establish profitability. Review realized fees, delivery cost, write-offs and required nonbillable responsibilities. Compare the same role and period rather than applying the example as a universal target."
+      },
+      {
+        "title": "Build a forward capacity view",
+        "text": "Map committed work to people, required skills and expected dates. Show unsigned opportunities separately from contracted assignments. A large backlog may still leave a specialist underused if the work requires another skill. Include plausible project delays and employee absences in scenarios, and document who owns each assumption."
+      },
+      {
+        "title": "Connect delivery to the cash forecast",
+        "text": "Identify billing milestones, approval requirements and expected payment timing. High utilization can coexist with slow collections or a fixed-fee overrun. Review hiring or subcontracting decisions against both delivery capacity and cash needs. Keep earlier forecasts so the team can compare assumptions with actual outcomes and improve scheduling decisions."
+      }
+    ],
+    "checklist": [
+      "Written available-hour definition",
+      "Consistent time categories",
+      "Utilization calculation and period",
+      "Skills-based committed-work schedule",
+      "Billing and collection assumptions"
+    ],
+    "questions": [
+      "What exactly is excluded from available hours?",
+      "Which work is committed rather than expected?",
+      "Would added capacity improve delivery and remain affordable?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "manufacturing-work-in-process-handoff",
+    "title": "Prepare a manufacturing work-in-process file for accounting review",
+    "description": "Organize open jobs, material issues, labor records and remaining-work assumptions at a reporting cutoff.",
+    "intro": "An unfinished production job can contain material, labor and other costs while still requiring additional work before it can ship. A work-in-process handoff should show what physically exists, what records support it and what remains uncertain. This operational file supports an accountant’s review; it does not choose a valuation method or determine the accounting treatment.",
+    "sections": [
+      {
+        "title": "Fix the reporting cutoff and job list",
+        "text": "List open production orders at a stated date and time. Include product, planned quantity, completed quantity, current stage and responsible supervisor. Explain whether completed items awaiting inspection or shipment appear in this file or another report. A consistent boundary prevents the same units from appearing in both unfinished and finished stock."
+      },
+      {
+        "title": "Link material movements to jobs",
+        "text": "Connect material issues, returns to stores, substitutions and scrap records to each production order. Check units of measure and posting dates. A purchase receipt is not automatically evidence that material was consumed by a particular job. Investigate negative balances or quantities that exceed the documented production activity before passing totals to accounting."
+      },
+      {
+        "title": "Review labor and other cost records",
+        "text": "Identify the time records and cost reports associated with the job. Separate documented amounts from estimates or allocations. Record the basis and owner of overhead assumptions for the accountant’s assessment. Do not select a rate solely to make a job reach a desired margin. Keep corrections traceable to their underlying records."
+      },
+      {
+        "title": "Describe remaining work and exceptions",
+        "text": "For a fictional batch of 200 units with 120 through assembly, explain the status of the other 80 and any inspection or rework still required. Do not convert a physical completion percentage into a cost percentage without support. List damaged material, stalled jobs, customer changes and quality holds so the review can address them explicitly."
+      },
+      {
+        "title": "Reconcile the handoff to control reports",
+        "text": "Compare the open-job file with production, inventory and ledger control totals. Explain timing differences and unresolved postings. Have the production owner confirm physical status and the finance owner determine needed accounting adjustments. Preserve the cutoff file, later corrections and approval trail so the next reporting period can begin from a known position."
+      }
+    ],
+    "checklist": [
+      "Cutoff and complete open-job population",
+      "Material movement references",
+      "Labor records and allocation assumptions",
+      "Physical stage and remaining-work notes",
+      "Control-total reconciliation and approvals"
+    ],
+    "questions": [
+      "Could units be counted in two stock categories?",
+      "Which amounts are estimates rather than recorded costs?",
+      "Who has confirmed the physical job status?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "retail-shrink-investigation-log",
+    "title": "Investigate retail stock differences before posting an adjustment",
+    "description": "Use recounts, movement checks and approvals to explain physical-to-system inventory differences.",
+    "intro": "A gap between a shelf count and the inventory system is an observation, not a diagnosis. Receiving errors, transfers, returns, timing, unit conversions and other causes can all affect the result. A structured investigation log keeps the evidence and approval process visible. It should not label a difference as theft or another specific cause without supporting information.",
+    "sections": [
+      {
+        "title": "Capture the count conditions",
+        "text": "Record the item, location, count date, system snapshot time, physical quantity and unit. Note whether sales or stock movements continued during the count. Preserve the original count sheet. If the system balance was taken at a different time, reconcile intervening movements before treating the difference as an unexplained loss."
+      },
+      {
+        "title": "Recount significant or unusual differences",
+        "text": "Assign a second count under the business’s review policy and document who performed it. Check nearby locations, packaging multiples and product identifiers. A case-versus-unit error can create a large apparent gap. Keep both observations and explain the resolved quantity rather than overwriting the first count without a trail."
+      },
+      {
+        "title": "Trace receipts, transfers and returns",
+        "text": "Review recent deliveries, purchase-order receipts, inter-location transfers, customer returns and write-off records. Identify items physically moved but not posted, or posted twice. In a fictional shop, six units received into the wrong location can produce an apparent shortage in one branch and surplus in another. Resolve the linked error instead of recording two unrelated unexplained adjustments."
+      },
+      {
+        "title": "Separate quantity and value decisions",
+        "text": "Once the quantity is supported, have the finance owner confirm the cost basis and accounting entry. Retail selling price is not automatically the value of an inventory adjustment. Record the reason, evidence and approver. Use a temporary unresolved status when the cause remains under review rather than inventing a convenient explanation."
+      },
+      {
+        "title": "Review patterns and control changes",
+        "text": "Group confirmed causes across counts and compare consistent periods. A repeated receiving problem may require a process change rather than a different count target. Assign corrective actions and check their effect in later counts. Restrict access to sensitive investigation material and route allegations or personnel matters through the appropriate process."
+      }
+    ],
+    "checklist": [
+      "Count and system snapshot timestamps",
+      "Independent recount where required",
+      "Receipts, transfers and returns checked",
+      "Supported cost basis and approval",
+      "Cause patterns and follow-up actions"
+    ],
+    "questions": [
+      "Were physical and system quantities measured at the same cutoff?",
+      "Could another location hold the missing units?",
+      "What evidence supports the adjustment reason?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "agency-media-spend-client-reconciliation",
+    "title": "Reconcile agency media spend to client funding and fees",
+    "description": "Connect advertising-platform charges, client deposits, agency fees, credits and remaining balances.",
+    "intro": "An agency can receive client money before platforms charge it, or pay platforms before a client reimburses it. Those timing differences can make a bank balance difficult to interpret. Maintain a client-level reconciliation that distinguishes media activity, agency service fees and unsettled items. Have the accountant determine the proper reporting of pass-through amounts and agency revenue.",
+    "sections": [
+      {
+        "title": "Map accounts and responsibility",
+        "text": "Record the client, platform account, billing currency and party whose payment method is charged. Identify who owns each advertising account and who can approve spending. A dashboard total can include accounts outside the client’s agreement, so define the population before reconciling. Keep access credentials outside the worksheet."
+      },
+      {
+        "title": "Reconcile activity to actual charges",
+        "text": "Connect campaign spend reports with platform invoices, card charges and billing adjustments for the same period. Note time zones, currency conversions and delayed billing. Reported campaign activity and a card settlement may differ for legitimate reasons. Record those differences with references and expected resolution dates rather than forcing the totals to match."
+      },
+      {
+        "title": "Separate client funding from agency fees",
+        "text": "Track deposits, reimbursement invoices and agency service charges in distinct fields. For a fictional client funding $10,000 of media with $8,500 of confirmed charges, the $1,500 difference requires reconciliation; it is not automatically agency profit or a refundable amount. Check pending charges, credits and the agreement before deciding what happens next."
+      },
+      {
+        "title": "Track credits and shared charges carefully",
+        "text": "Identify platform refunds, promotional credits and disputed charges, including who is entitled to them under the agreement. Allocate a shared charge using a documented basis and approval. Preserve the original amount and any conversion calculation. Do not assume a credit shown in a platform will be paid out in cash or can be transferred between clients."
+      },
+      {
+        "title": "Close the client balance review",
+        "text": "Compare the client schedule with bank, card and ledger balances. List unresolved items, the next action and the responsible owner. Share an understandable statement through the approved client process. Before increasing spend, check available funding and authorization rather than relying on the agency’s overall bank balance. Retain the signed-off period reconciliation for the next cycle."
+      }
+    ],
+    "checklist": [
+      "Client and platform account map",
+      "Activity-to-invoice reconciliation",
+      "Funding and agency fees separated",
+      "Credits and currency assumptions",
+      "Outstanding items and signed-off balance"
+    ],
+    "questions": [
+      "Whose payment method funds each account?",
+      "Are unbilled platform charges still pending?",
+      "What does the agreement say about unused funding and credits?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "fleet-maintenance-cash-reserve-review",
+    "title": "Plan fleet maintenance cash using service schedules and downtime",
+    "description": "Build a vehicle-level maintenance forecast that separates scheduled work, repair scenarios and replacement decisions.",
+    "intro": "A single average maintenance amount can hide differences between vehicles, usage and upcoming service needs. A fleet cash forecast is more useful when it connects each vehicle to known work and explicit uncertainty. The purpose is budgeting and scheduling. Manufacturer guidance, qualified maintenance staff and applicable safety requirements should govern service and whether a vehicle can operate.",
+    "sections": [
+      {
+        "title": "Build a vehicle and usage register",
+        "text": "Record the vehicle identifier, age, mileage or operating hours, assignment and responsible manager. Link service history and the applicable maintenance schedule. Identify seasonal usage and planned changes in workload. A calendar-only forecast may miss service driven by mileage, while a mileage-only view may overlook time-based requirements."
+      },
+      {
+        "title": "List scheduled work separately",
+        "text": "For each known service, record the due condition, expected date, current quote or estimating basis and payment timing. Include relevant inspection or booking lead times confirmed by the responsible team. Distinguish approved work from an estimate. Refresh amounts when quotes change and retain the earlier assumption for later comparison."
+      },
+      {
+        "title": "Model uncertain repairs transparently",
+        "text": "Use documented history and professional assessment to frame scenarios rather than presenting a guessed repair as certain. For a fictional fleet with $4,000 of scheduled work next quarter, a separate $3,000 repair scenario produces a $7,000 stress case. It does not establish a required reserve or predict that the repair will occur. State the assumptions and avoid counting the same repair in multiple categories."
+      },
+      {
+        "title": "Include operational downtime",
+        "text": "Consider how scheduled or unexpected downtime affects delivery capacity, rental needs, subcontracting or lost work. Name the person who determines whether an alternative vehicle is suitable. A lower repair invoice can still produce a higher total operating cost if a vehicle remains unavailable longer. Keep those scenario costs distinct from the maintenance invoice itself."
+      },
+      {
+        "title": "Review repair and replacement decisions together",
+        "text": "Connect the forecast with the broader vehicle replacement plan and cash commitments. A cash budget is not a mechanical safety assessment or a complete economic comparison of ownership options. Ask finance to review the accounting treatment and maintenance staff to review service assumptions. Update actual payments, explain variances and roll the forecast forward after each review."
+      }
+    ],
+    "checklist": [
+      "Vehicle, usage and service-history register",
+      "Scheduled work with current cost basis",
+      "Separate uncertain repair scenarios",
+      "Downtime and alternative-capacity assumptions",
+      "Actual payments and forecast updates"
+    ],
+    "questions": [
+      "Which service dates depend on usage rather than the calendar?",
+      "Are repair scenarios double-counted?",
+      "Who confirms service requirements and operational availability?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
   }
 ]
