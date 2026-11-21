@@ -5195,5 +5195,900 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "doug-woods-dpr",
+    "name": "Doug Woods",
+    "company": "DPR Construction",
+    "website": "https://www.dpr.com/",
+    "role": "Historical co-founder; DPR’s 2021 company publication records his death.",
+    "founding": "DPR’s history dates its founding by Woods, Peter Nosler and Ron Davidowski to July 1990.",
+    "intro": "Doug Woods co-founded DPR Construction with Peter Nosler and Ron Davidowski. The company’s history explains the initials in its name and describes a construction business built around shared leadership. Woods is a historical founder: an archived DPR publication records his death in 2021, so older leadership quotations should not be presented as a current role.",
+    "sections": [
+      {
+        "title": "Three names behind the initials",
+        "text": "DPR’s history identifies Woods, Nosler and Davidowski as the founders and dates the start to July 1990. It describes the three as construction veterans and lists other members of the original team. The name therefore reflects a founding partnership, not a single executive whose surname happened to become a company brand.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "How the founders described the business",
+        "text": "The history includes Woods’s explanation that DPR intended to be a customer-focused, negotiating and self-performing general contractor. Nosler describes construction as a service business. Those statements help explain the founders’ intended operating model. They are attributed company accounts, rather than evidence that every later project or engagement follows an identical arrangement.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A structure intended to outlast the founders",
+        "text": "DPR’s thirty-fifth anniversary announcement describes a shared leadership model. Its 2021 publication discusses succession and records Woods’s death. These sources support an important distinction: the business continued beyond an individual founder, and a historical founding association is different from holding a present management position.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Research the company at the project level",
+        "text": "Readers considering a contractor can use an origin story to understand how the firm describes its approach. They still need a project-specific scope, responsible team, schedule, contract and acceptance process. This biography does not certify construction quality, safety performance or financial capacity. It records Woods’s place in a three-person founding group without estimating personal wealth or current ownership.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Nosler and Davidowski as co-founders.",
+      "Label Woods’s role as historical.",
+      "Evaluate a proposed project through its own documents."
+    ],
+    "sources": [
+      {
+        "title": "DPR — company history, reviewed November 21, 2026",
+        "url": "https://www.dpr.com/company/culture/history"
+      },
+      {
+        "title": "DPR — thirty-fifth anniversary announcement, July 2, 2025",
+        "url": "https://www.dpr.com/media/press-releases/dpr-celebrates-35"
+      },
+      {
+        "title": "DPR — Great Things, Issue 5, 2021",
+        "url": "https://www.dpr.com/media/collections/great-things-issue-5"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "charles-garney-garney",
+    "name": "Charles Garney",
+    "company": "Garney Construction",
+    "website": "https://www.garney.com/",
+    "role": "Historical founder; the company records a completed transition to employee ownership in 1995.",
+    "founding": "Garney’s company history dates its Kansas City founding to 1961.",
+    "intro": "Charles Garney founded a pipeline and utility construction company after leaving his father’s Kansas City plumbing business in 1961. The present company’s history describes both that origin and a later transition to employee ownership. Keeping those events separate avoids confusing a founder’s lasting association with the business with a claim of current ownership.",
+    "sections": [
+      {
+        "title": "From plumbing to utility construction",
+        "text": "The company’s About page says Garney left an existing family plumbing operation to establish his own pipeline and utility business. It describes subsequent expansion into related work and other regions. The early specialization is useful context for a company now associated with water and wastewater construction, but it should not be treated as a complete list of current capabilities.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "An ownership transition with two dates",
+        "text": "Garney’s timeline says Charles sold approximately thirty percent of Garney Holding Company stock to employees in 1986 and sold the remaining shares to the company in 1995. This entry reports that company-described historical sequence without inferring an individual employee’s stake or the present structure of every subsidiary.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The Kansas City story continued through relocation",
+        "text": "A November 2020 company announcement describes the headquarters move to North Kansas City. It recalls an initial small building and later locations along Vivion Road. That account gives a geographic chronology beyond a generic headquarters label: the founding area and the later office location are related but not identical details.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Separate a business biography from a procurement decision",
+        "text": "A utility project requires evidence tied to the actual scope, technical requirements and parties performing the work. The founder’s experience and the company’s historical ownership transition cannot establish a particular project’s capacity, compliance or likely outcome. No current personal ownership, financial standing, revenue qualification or relationship with AE Tax Advisors is evaluated in this profile.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the 1986 and 1995 ownership events distinct.",
+      "Use the dated relocation account for geographic context.",
+      "Request current project and contracting information directly."
+    ],
+    "sources": [
+      {
+        "title": "Garney — company history, reviewed November 21, 2026",
+        "url": "https://www.garney.com/about/"
+      },
+      {
+        "title": "Garney — headquarters relocation announcement, November 2020",
+        "url": "https://www.garney.com/garney-headquarters-moves-to-north-kansas-city/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-ernest-dunn-je-dunn",
+    "name": "John Ernest Dunn",
+    "company": "JE Dunn Construction",
+    "website": "https://jedunn.com/",
+    "role": "Historical founder, identified as John Ernest “Ernie” Dunn in company histories.",
+    "founding": "JE Dunn’s history dates its founding in Kansas City, Missouri, to 1924.",
+    "intro": "John Ernest “Ernie” Dunn founded JE Dunn Construction in Kansas City in 1924. The company’s histories distinguish him from later generations of Dunn leadership. That distinction matters in a business whose initials and family name remain visible: an account of the founder should not accidentally assign a descendant’s work or current title to him.",
+    "sections": [
+      {
+        "title": "A Kansas City beginning",
+        "text": "The company’s history page identifies Dunn as the person who established the construction business in 1924. It describes his approach to fair treatment and service. Those values are presented as the company’s retrospective explanation of its origins; they are not an independent assessment of present contracting practices.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A historical letter and a continuing philosophy",
+        "text": "The centennial history refers to a guiding letter Dunn wrote to his sons before his death. It uses that document to explain how later leaders understood the business’s purpose. For a directory researcher, this is evidence of a company preserving a founder narrative across generations, not evidence that the founder remains an operating decision-maker.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Later leadership belongs to different people",
+        "text": "The same centennial account identifies Bill Dunn’s move into the president and CEO role in 1974 and discusses later leadership changes. Those events are part of the company’s development, but they should not be folded into John Ernest Dunn’s personal biography. Keeping names and dates attached to each event prevents a long-running family business from becoming a single undifferentiated story.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use the historical record with present-day questions",
+        "text": "The company’s age and founding philosophy may help orient a reader, but a proposed engagement still requires a current team, scope and responsibility map. This profile does not certify work quality, quote financial results or infer ownership interests held by descendants. It records the founder’s identity and the company’s own explanation of how his role fits within its longer history.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish John Ernest Dunn from later Dunn leaders.",
+      "Keep the 1924 origin separate from subsequent successions.",
+      "Verify present responsibilities using current company information."
+    ],
+    "sources": [
+      {
+        "title": "JE Dunn — company history, reviewed November 21, 2026",
+        "url": "https://jedunn.com/history/"
+      },
+      {
+        "title": "JE Dunn — centennial historical account",
+        "url": "https://centennial.jedunn.com/a-look-back/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "clinton-burns-burns-mcdonnell",
+    "name": "Clinton Sumner Burns",
+    "company": "Burns & McDonnell",
+    "website": "https://www.burnsmcd.com/",
+    "role": "Historical co-founder with Robert E. McDonnell; the company records Burns’s death in 1924.",
+    "founding": "The company dates the Kansas City partnership’s launch to April 1, 1898.",
+    "intro": "Clinton Sumner Burns co-founded Burns & McDonnell with Robert E. McDonnell. The engineering firm’s account links their partnership to municipal water and sewer work in the Midwest. Burns’s role is historical, and the current multidisciplinary company should not be described as though its entire service range existed at the partnership’s launch.",
+    "sections": [
+      {
+        "title": "A partnership formed around a specific market",
+        "text": "The company’s biographical announcement describes Burns and McDonnell meeting at Stanford and later deciding to form an engineering partnership. It says they investigated demand for municipal water and sewer services before choosing Kansas City. That account explains a market choice as well as a geographic origin.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The initial business required more than an idea",
+        "text": "According to the same company account, the partners opened a rented office in April 1898. Burns also worked as an assistant engineer for Kansas City’s park commissioners while the new firm developed. The narrative identifies a major waterworks commission for Iola, Kansas, in 1900. These are dated company-reported milestones, not generalized advice about how quickly another practice will become viable.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Kansas City remained a company connection",
+        "text": "Burns & McDonnell’s current Kansas City page repeats the 1898 origin and describes the location as its world headquarters. It presents a much wider range of services than the initial partnership. That contrast provides useful context for the evolution of the business without attributing every later discipline to Burns personally.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Historical recognition has limits",
+        "text": "The biographical source was published when Burns received posthumous professional recognition. This profile uses it to document a founding association and chronology, not to validate today’s project work. Current professional licensing, engineering scope and contractual responsibility require separate checks. No personal wealth, current equity ownership or financial qualification is inferred from the founder’s historical achievements.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Robert McDonnell’s equal founding association.",
+      "Distinguish the early municipal focus from current services.",
+      "Use current project records for professional responsibility questions."
+    ],
+    "sources": [
+      {
+        "title": "Burns & McDonnell — Kansas City location history",
+        "url": "https://www.burnsmcd.com/locations/kansas-city-mo"
+      },
+      {
+        "title": "Burns & McDonnell — Clinton Burns historical biography, December 9, 2020",
+        "url": "https://www.burnsmcd.com/news/burns-named-historic-civil-engineer-by-asce"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mauritz-sundt-sundt",
+    "name": "Mauritz Martinsen Sundt",
+    "company": "Sundt",
+    "website": "https://www.sundt.com/",
+    "role": "Historical founder, as identified in the company’s history.",
+    "founding": "Sundt dates its founding to 1890 in Las Vegas, New Mexico.",
+    "intro": "Mauritz Martinsen Sundt founded the construction business bearing his name in Las Vegas, New Mexico, in 1890. The state is an important part of that record: the company’s origin should not be confused with Las Vegas, Nevada. Its histories describe a carpenter’s business that developed into a much broader construction organization.",
+    "sections": [
+      {
+        "title": "A specific place and trade",
+        "text": "Sundt’s history identifies its founder as a Norwegian carpenter and locates the start of the business in New Mexico. The company’s history book supplies a longer account of his early life and trade. This profile retains only the professional context needed to explain the founding association, rather than reproducing unnecessary personal or family detail.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The company’s own anniversary perspective",
+        "text": "A December 2015 company article marked 125 years since the 1890 founding. It connected the anniversary with a collection of projects selected by employees. That is useful evidence of how the organization documents its history, but a commemorative selection is not an independent rating of the founder or the company’s work.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Founding history differs from today’s structure",
+        "text": "The anniversary article describes a later employee-owned organization. That description belongs to the time of the article and is separate from the founder’s original business. A reader should not infer a current personal ownership interest from the continuing Sundt name or assign modern operating arrangements to the nineteenth-century enterprise.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A regional origin without an assumed service boundary",
+        "text": "Beginning in New Mexico does not establish that all later projects remained there, nor does a later office location change the original starting point. For a current construction decision, verify the responsible entity, project team, scope and relevant professional requirements directly. This biography records an attributed founding history without assessing safety outcomes, financial strength or contractual suitability.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Specify Las Vegas, New Mexico.",
+      "Treat the founder role as historical.",
+      "Keep anniversary-era ownership language tied to its source date."
+    ],
+    "sources": [
+      {
+        "title": "Sundt — company history, reviewed November 21, 2026",
+        "url": "https://www.sundt.com/about-sundt/history-2/"
+      },
+      {
+        "title": "Sundt — 125-year anniversary account, December 28, 2015",
+        "url": "https://www.sundt.com/2015/going-beyond-125-years/"
+      },
+      {
+        "title": "Sundt — company history book",
+        "url": "https://sundt.com/wp-content/uploads/2019/09/Sundt-History-Book.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "al-schneider-schneider",
+    "name": "Al Schneider",
+    "company": "Schneider",
+    "website": "https://schneider.com/",
+    "role": "Historical founder, as identified in Schneider’s company history.",
+    "founding": "Schneider’s history dates Al Schneider’s first truck and the company’s beginning to 1935.",
+    "intro": "Al Schneider founded the transportation business associated with the Schneider name. The company’s histories describe a single-truck beginning in 1935 and later transitions into a broader logistics network. The founder’s role should be kept separate from his son Don’s later leadership and from the executives identified in current company materials.",
+    "sections": [
+      {
+        "title": "One truck before a network",
+        "text": "Schneider’s history says Al sold the family car to purchase the first truck in 1935. Its ninetieth-anniversary announcement repeats the founder association and places the commemoration in Green Bay, Wisconsin. These are company accounts of an origin, not evidence that the modern range of services existed when that first truck began operating.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Later milestones changed the business",
+        "text": "The history records interstate authority in 1958, later entry into additional hauling activities, and the creation of logistics and brokerage businesses in subsequent decades. Those milestones distinguish the original trucking operation from the multimodal company a reader encounters today. They should remain attached to their dates rather than being compressed into the founder’s initial plan.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A son’s leadership is a separate chapter",
+        "text": "The company timeline identifies Don Schneider becoming president in 1976 and records later changes in executive leadership. The distinction is important when a surname appears in several generations: a biographical entry about Al should not attribute Don’s management tenure or later executives’ responsibilities to the founder.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Use current shipping evidence for a present shipment",
+        "text": "A long operating history gives context but does not determine the terms or outcome of a specific shipment. Service scope, cargo requirements, parties, charges and supporting documents need their own review. This profile makes no guarantee about delivery, safety or carrier capacity and does not infer personal wealth, share ownership or a current management position for Al Schneider.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep Al and Don Schneider’s roles distinct.",
+      "Separate the first truck from later business lines.",
+      "Review current terms for the particular transportation service."
+    ],
+    "sources": [
+      {
+        "title": "Schneider — company history, reviewed November 21, 2026",
+        "url": "https://schneider.com/company/about/history"
+      },
+      {
+        "title": "Schneider — ninetieth-anniversary announcement, June 12, 2025",
+        "url": "https://schneider.com/company/news/schneider-celebrates-90-years-of-bold-innovation-growth-and-industry-leadership"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "abel-hensel-phelps",
+    "name": "Abel Hensel Phelps",
+    "company": "Hensel Phelps",
+    "website": "https://www.henselphelps.com/",
+    "role": "Historical founder; the company records his retirement before the 1957 incorporation.",
+    "founding": "Hensel Phelps dates the beginning of operations in Greeley, Colorado, to June 1937.",
+    "intro": "Abel Hensel Phelps was one person, and the company’s name preserves part of his full name. Hensel Phelps’s history identifies him as its founder in Greeley, Colorado, in 1937. The original operation, a later family partnership and subsequent incorporation are distinct events rather than interchangeable founding dates.",
+    "sections": [
+      {
+        "title": "The name does not describe two founders",
+        "text": "The company timeline explicitly names Mr. Abel Hensel Phelps and dates the start to June 1937. It describes early work in home building and remodeling. This resolves a potential ambiguity for directory readers: the words “Hensel” and “Phelps” should not be split into two invented founding people.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Operations preceded incorporation",
+        "text": "The history says Joseph Phelps joined the business in 1952 and entered a partnership with his father in 1955. It then records incorporation on June 3, 1957, after the founder retired, with Joseph becoming president and general manager. The 1937 operating origin and the 1957 corporate event therefore answer different historical questions.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Greeley remains part of the company’s account",
+        "text": "The company’s eightieth-anniversary announcement again identifies Greeley as the founding location and describes later regional offices. It also uses the shortened name Hensel Phelps for the founder. This profile uses the fuller name supplied by the timeline while keeping the regional expansion separate from the original local business.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A historical identity check before a current engagement",
+        "text": "Knowing the name’s origin can prevent misidentification, but it does not establish the team or entity responsible for a modern project. Readers should verify the current contracting party, services and project obligations directly. This record does not assess construction results, infer personal holdings or present the founder as a current executive. Later leadership and employee ownership belong to the company’s continuing history.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Treat Abel Hensel Phelps as one person.",
+      "Distinguish 1937 operations from 1957 incorporation.",
+      "Keep Joseph Phelps’s subsequent role separate."
+    ],
+    "sources": [
+      {
+        "title": "Hensel Phelps — company timeline, reviewed November 21, 2026",
+        "url": "https://www.henselphelps.com/about-us/history/"
+      },
+      {
+        "title": "Hensel Phelps — eightieth-anniversary announcement, January 30, 2017",
+        "url": "https://www.henselphelps.com/careers-at-school-of-global-management/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "bob-clark-clayco",
+    "name": "Bob Clark",
+    "company": "Clayco",
+    "website": "https://claycorp.com/",
+    "role": "Executive Chairman and Founder in Clayco’s company materials reviewed November 21, 2026.",
+    "founding": "Clayco’s overview dates its formation to July 23, 1984; its later company account distinguishes a St. Louis origin from Chicago headquarters.",
+    "intro": "Bob Clark founded Clayco in 1984. Current company materials identify him as Executive Chairman and Founder, a role that should not be replaced with an assumed CEO title. The business’s history also distinguishes its original St. Louis office from a later Chicago headquarters, preserving both parts of its regional story.",
+    "sections": [
+      {
+        "title": "A dated formation account",
+        "text": "Clayco’s company overview gives July 23, 1984, as the formation date. It describes early industrial, process and design-build work. This provides a more specific starting point than a general statement that Clark has worked in construction for many years, while leaving later business development attached to the appropriate period.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The founder’s explanation of the approach",
+        "text": "In his message on the company website, Clark describes wanting to change an adversarial building process through teamwork and an integrated approach. Those statements are his account of the business’s intentions. They are not an independent finding that a present project is safe, successful or appropriate for a particular customer.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "An office move does not change the origin",
+        "text": "A July 2022 company announcement describes Clayco growing from a small St. Louis office and says it had been headquartered in Chicago since 2013. The distinction matters when comparing regional business histories. Current location, founding location and a founder’s personal residence are different facts and should not be treated as substitutes.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Use the current title, then verify the engagement",
+        "text": "The reviewed company message identifies Clark as Executive Chairman and Founder. For a proposed project, a reader should separately identify the contracting entity and the people assigned operational responsibility. This profile does not infer current ownership percentages, estimate personal wealth or repeat company revenue figures. It records the founder association and the dated evolution described by Clayco.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use Executive Chairman rather than an assumed CEO title.",
+      "Separate the St. Louis origin and later Chicago headquarters.",
+      "Evaluate project obligations through current engagement records."
+    ],
+    "sources": [
+      {
+        "title": "Clayco — company overview, reviewed November 21, 2026",
+        "url": "https://claycorp.com/company-overview"
+      },
+      {
+        "title": "Clayco — message from its chairman",
+        "url": "https://claycorp.com/message-from-our-chairman"
+      },
+      {
+        "title": "Clayco — Bob Clark company announcement, July 13, 2022",
+        "url": "https://claycorp.com/latest/bob-clark-receives-lifetime-achievement-award-from-illinois-real-estate-journal"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "clarence-werner-werner-enterprises",
+    "name": "Clarence “C.L.” Werner",
+    "company": "Werner Enterprises",
+    "website": "https://werner.com/",
+    "role": "Historical founder and first driver; the company’s current history records his retirement.",
+    "founding": "Werner’s investor FAQ dates the company’s beginning to 1956.",
+    "intro": "Clarence “C.L.” Werner founded Werner Enterprises in 1956, according to the company’s investor information. Its story begins with one truck and expands into a larger transportation business over subsequent decades. Current company materials record his retirement, so the founder association should not be mistaken for a claim that he remains the company’s CEO.",
+    "sections": [
+      {
+        "title": "The first driver and the first truck",
+        "text": "Werner’s investor FAQ identifies Clarence Werner as the founder and says he became the company’s first driver after purchasing a truck. The company history repeats the 1956 starting point. This gives the biography an operating context: the initial business involved driving freight, rather than only investing in a transportation company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A changing geographic footprint",
+        "text": "The company timeline describes an early shop in Council Bluffs, Iowa, and a later headquarters in Omaha. Those details should remain separate from the founding year. The present office location cannot by itself establish where every early business activity occurred, nor does it establish a founder’s personal residence.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The service portfolio developed later",
+        "text": "Werner’s FAQ describes several current transportation and logistics services. Its history dates later additions and the company’s public listing to subsequent decades. The record therefore distinguishes the single-truck beginning from the present service portfolio. It does not project a modern logistics network backward onto the first year of the business.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Retirement and founder identity can coexist",
+        "text": "The current company timeline notes C.L. Werner’s retirement while continuing to recognize him as founder. Those are compatible statements. A reader researching current management, a carrier agreement or a particular shipment should consult current documents and responsible contacts. This entry makes no judgment about service reliability, shipping outcomes, personal wealth or ownership holdings.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish the founder from current management.",
+      "Keep early locations and later headquarters dated.",
+      "Review present service scope independently of the origin story."
+    ],
+    "sources": [
+      {
+        "title": "Werner — investor FAQ, reviewed November 21, 2026",
+        "url": "https://investor.werner.com/shareowner-services/investor-faq/default.aspx"
+      },
+      {
+        "title": "Werner — company history and leadership, reviewed November 21, 2026",
+        "url": "https://werner.com/about/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "louis-saia-saia",
+    "name": "Louis Saia Sr.",
+    "company": "Saia",
+    "website": "https://www.saia.com/",
+    "role": "Historical founder, as identified by the company’s history.",
+    "founding": "Saia dates its beginning in Houma, Louisiana, to 1924.",
+    "intro": "Louis Saia Sr. founded the transportation business that became Saia. The company’s history connects the origin to customers asking him to carry goods on trips associated with his produce business. Its modern headquarters and corporate structure belong to later chapters, and should not be substituted for the original Houma, Louisiana, setting.",
+    "sections": [
+      {
+        "title": "A customer request created an operating opportunity",
+        "text": "Saia’s company overview says customers asked Louis Saia Sr. to haul goods to New Orleans, where he traveled to collect produce. It describes the first vehicle as a family car with the rear seats removed. The company’s careers history repeats that account, tying the 1924 origin to a concrete transport task rather than a modern service label.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Regional expansion followed the original route",
+        "text": "The company timeline describes terminals added in Louisiana and Texas before a larger regional network developed. Those are later changes in the business’s operating footprint. A biography should not imply that the founder’s initial vehicle or route represented the nationwide service arrangements visible in current materials.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Corporate transitions belong to their dates",
+        "text": "Saia’s overview records a family sale to Preston Trucking in 1987, subsequent corporate changes and later public-company history. These events help explain why a founder’s surname remains visible even after the business’s legal and ownership arrangements have changed. This profile does not infer a continuing personal interest from the name.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Keep the shipment decision separate",
+        "text": "For a current shipment, a customer needs the applicable service terms, origin and destination coverage, cargo requirements and responsible contacts. Historical longevity cannot answer those questions. This entry documents a founder and the company’s own chronology without rating service quality, promising transit results or making financial claims about the founder or present business.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use Houma as the documented starting location.",
+      "Keep the produce-route origin separate from later services.",
+      "Date the sale and subsequent corporate transitions."
+    ],
+    "sources": [
+      {
+        "title": "Saia — company overview and history, reviewed November 21, 2026",
+        "url": "https://www.saia.com/about-us/company-overview"
+      },
+      {
+        "title": "Saia — careers history, reviewed November 21, 2026",
+        "url": "https://jobs.saia.com/our-story"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "earl-congdon-old-dominion",
+    "name": "Earl Congdon Sr.",
+    "company": "Old Dominion Freight Line",
+    "website": "https://www.odfl.com/",
+    "role": "Historical co-founder with Lillian Congdon; distinct from Earl Congdon Jr.",
+    "founding": "The company dates its founding in Richmond, Virginia, to 1934.",
+    "intro": "Earl Congdon Sr. co-founded Old Dominion Freight Line with Lillian Congdon in 1934. The company’s histories describe a single-truck route between Richmond and Norfolk. They also distinguish the senior Congdon from later family leadership, an essential detail when several generations share names in a long-running business.",
+    "sections": [
+      {
+        "title": "Two founders and one initial route",
+        "text": "Old Dominion’s About page names both Earl Sr. and Lillian as founders and locates the beginning in Richmond, Virginia. Its longer history describes a truck running between Richmond and Norfolk. A profile of Earl should retain Lillian’s equal founding association rather than treating the company as a one-person origin story.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Leadership changed after the founder’s death",
+        "text": "The company timeline records Earl Sr.’s death in the 1950s and says Lillian assumed the presidency as the company incorporated. It then describes the involvement of their sons. This chronology makes the distinction between Earl Sr. and Earl Jr. explicit and prevents a later role from being assigned to the wrong person.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The headquarters came later",
+        "text": "The history records later corporate-office moves into North Carolina and a subsequent headquarters in Thomasville. Those locations belong to the company’s expansion, not to a revised account of its Richmond founding. A present headquarters can help locate the current organization without rewriting where the first route began.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Use the family chronology without assuming ownership",
+        "text": "A family name in a company’s history does not establish the current holdings of any relative. Readers investigating a present carrier arrangement should use current company and service documents. This profile does not assess reliability, personal wealth or financial performance; it provides a source trail for the original partnership and the transitions that followed.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Credit Lillian Congdon as co-founder.",
+      "Distinguish Earl Sr. from Earl Jr.",
+      "Keep the Virginia origin separate from later North Carolina offices."
+    ],
+    "sources": [
+      {
+        "title": "Old Dominion — company overview, reviewed November 21, 2026",
+        "url": "https://www.odfl.com/us/en/about.html"
+      },
+      {
+        "title": "Old Dominion — company historical timeline",
+        "url": "https://www.odfl.com/us/en/careers/od-history.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "larry-roberts-rl-carriers",
+    "name": "Ralph “Larry” Roberts Sr.",
+    "company": "R+L Carriers",
+    "website": "https://www.rlcarriers.com/",
+    "role": "Historical founder, as identified in the company’s history and published announcements.",
+    "founding": "The company dates its first furniture-hauling truck to 1965 in Ohio.",
+    "intro": "Ralph “Larry” Roberts Sr. founded the business that became R+L Carriers. Company accounts begin with a truck used to haul furniture in 1965, then describe later operating changes and expansion. This profile retains the founder’s full identity while keeping the original activity separate from the modern transportation network.",
+    "sections": [
+      {
+        "title": "A truck before a carrier network",
+        "text": "R+L’s company history says Roberts purchased a single truck and used it for furniture hauling. A company press release repeats the 1965 starting point. These are direct company accounts of the beginning, rather than a deduction based on the carrier’s current branding or geographic coverage.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The company name and operating structure evolved",
+        "text": "The history describes the purchase of operating authority and later incorporation associated with R+L Transfer. It also identifies the initial Ohio operation before expansion into other states. Those details show why a founding year, a later company name and a later corporate event can refer to different stages of the same business story.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Later acquisitions are a separate chapter",
+        "text": "The company account names Gator Freightways and Greenwood Motor Lines among later acquisitions. Those events belong to the carrier’s expansion decades after its first truck. The profile does not assume that every later service or acquired operation was part of Roberts’s original undertaking.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A historical association is not a present ownership audit",
+        "text": "Route scope and company identity deserve separate lines in a research file. The surname remains closely associated with R+L, but the cited history is not evidence of any individual’s current equity percentage. A shipper should verify present service responsibilities and terms directly. This entry omits personal wealth and financial estimates, and it does not turn the company’s promotional service descriptions into independent ratings or guaranteed delivery outcomes.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain the founder’s Sr. designation.",
+      "Separate the first truck from later incorporation and acquisitions.",
+      "Use current carrier documents for a shipment decision."
+    ],
+    "sources": [
+      {
+        "title": "R+L Carriers — company history, reviewed November 21, 2026",
+        "url": "https://www.rlcarriers.com/company/about-us"
+      },
+      {
+        "title": "R+L Carriers — company-issued announcement, November 2015",
+        "url": "https://www.prnewswire.com/news-releases/rl-carriers-launches-website-aimed-at-laid-off-workers-300171312.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "art-gensler-gensler",
+    "name": "M. Arthur “Art” Gensler Jr.",
+    "company": "Gensler",
+    "website": "https://www.gensler.com/",
+    "role": "Historical co-founder; Gensler’s memorial identifies his lifetime as 1935–2021.",
+    "founding": "Gensler dates its San Francisco founding with Drue Gensler and James Follett to 1965.",
+    "intro": "M. Arthur “Art” Gensler Jr. co-founded the design firm Gensler with Drue Gensler and James Follett. The company’s history presents the practice as a collaborative enterprise from its beginning in San Francisco in 1965. Its memorial and leadership history distinguish Art’s founding role from the people who subsequently led the organization.",
+    "sections": [
+      {
+        "title": "Three founders in a small practice",
+        "text": "Gensler’s leadership history names Art, Drue and Follett as the co-founders and describes a one-room San Francisco office. It characterizes the early practice around workplace and interior design. The original corporate name appears in the company history as M. Arthur Gensler Jr. & Associates. Retaining all three names is important when a firm’s public brand uses only one founder’s surname.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A professional practice with a shared structure",
+        "text": "The company histories discuss a model built around collaboration, client work and developing leaders across offices. These are the firm’s explanations of its organizational approach. They provide useful professional-service context, but they are not independent evidence that any particular design engagement will follow a uniform process or achieve a specified outcome.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The founder’s life and later leadership are distinct",
+        "text": "Gensler’s memorial identifies Art’s death in 2021 and discusses his withdrawal from executive roles before that. The separate leadership history names subsequent generations of leadership. This entry therefore uses a historical co-founder label and does not assign Art a present management responsibility.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Use the biography to understand a practice, not approve a design",
+        "text": "A client selecting a design team needs project-specific qualifications, scope, responsibilities and evidence relevant to the proposed work. A founder’s reputation or a firm’s historical culture cannot replace that review. This profile evaluates neither design quality nor professional suitability, and makes no inference about current ownership, revenue or personal wealth.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Drue Gensler and James Follett as co-founders.",
+      "Keep Art’s role historical.",
+      "Verify the team and scope for the actual design engagement."
+    ],
+    "sources": [
+      {
+        "title": "Gensler — Art Gensler memorial and history",
+        "url": "https://www.gensler.com/art-gensler-legacy"
+      },
+      {
+        "title": "Gensler — legacy of leadership, reviewed November 21, 2026",
+        "url": "https://www.gensler.com/legacy-of-leadership"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "david-macneil-weathertech",
+    "name": "David MacNeil",
+    "company": "WeatherTech",
+    "website": "https://www.weathertech.com/",
+    "role": "Founder and CEO in WeatherTech’s company account reviewed November 21, 2026.",
+    "founding": "WeatherTech dates its beginning in Clarendon Hills, Illinois, to 1989.",
+    "intro": "David MacNeil founded WeatherTech in 1989, according to the company’s account. The business is associated with automotive accessories and Illinois manufacturing. Its history distinguishes an early period of importing floor mats from later production changes, making the chronology more specific than a broad claim that every stage began with domestic manufacturing.",
+    "sections": [
+      {
+        "title": "The early product problem in the company story",
+        "text": "WeatherTech says MacNeil started the business from his home in Clarendon Hills after dissatisfaction with existing automotive floor mats. The account describes importing mats from England in the early period. This is the company’s explanation of the opportunity it pursued, rather than an independent comparison of product quality.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later change in production",
+        "text": "The same account dates a move of production to the United States to 2007. MacNeil’s signed 2010 note discusses manufacturing equipment, tooling and materials associated with that approach. This separates the account of product sourcing from the later manufacturing decision. Keeping 1989 and 2007 separate avoids presenting a later production strategy as though it were the complete original operating model.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A founder’s stated manufacturing priorities",
+        "text": "The signed note explains MacNeil’s preference for investing in manufacturing and suppliers closer to the company’s operations. It is useful as first-person evidence of his priorities at that time. Its claims about efficiency and product quality remain attributed statements, not conclusions independently reached by this directory.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A product decision still requires current evidence",
+        "text": "A buyer should confirm the fit, materials, instructions and warranty terms for the exact product being considered. A founder biography cannot establish those particulars for every item in a catalog. This profile uses the company’s founder-and-CEO identification but does not adopt its ownership-percentage claim, estimate personal wealth or evaluate financial performance.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Separate the 1989 start from the 2007 production change.",
+      "Treat the signed manufacturing note as a dated viewpoint.",
+      "Verify the specifications of the particular product."
+    ],
+    "sources": [
+      {
+        "title": "WeatherTech — founder and company origin account, reviewed November 21, 2026",
+        "url": "https://www.weathertech.com/blog/weathertech-news/who-owns-weatherTech.html?subFolderId=weathertech-news"
+      },
+      {
+        "title": "WeatherTech — signed David MacNeil manufacturing note, 2010",
+        "url": "https://www.weathertech.com/UserFiles/file/Note_from_David_MacNeil.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "james-henry-ryan-ryan-companies",
+    "name": "James Henry Ryan",
+    "company": "Ryan Companies",
+    "website": "https://www.ryancompanies.com/",
+    "role": "Historical founder, as described in company-participant case studies.",
+    "founding": "The cited participant accounts date Ryan Lumber and Coal in Hibbing, Minnesota, to 1938.",
+    "intro": "James Henry Ryan founded the lumber-and-coal business associated with today’s Ryan Companies. Direct company-participant accounts published by software supplier Procore describe the early operation and later move into real estate. The current company overview corroborates the 1938 starting year while describing a substantially broader contemporary service business.",
+    "sections": [
+      {
+        "title": "A lumber-and-coal origin",
+        "text": "Procore’s Ryan Companies case study says James Henry Ryan and his sons Francis and Russell began Ryan Lumber and Coal in Hibbing in 1938. Because the document features company participants, it is treated here as their account published by a supplier, not as an independent historical investigation. The sons’ involvement remains part of the founding context.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A later real-estate chapter",
+        "text": "A second Procore participant case study describes Francis and Russell assessing the business’s real-estate holdings and developing Ryan Realty Company in 1949. This is a later stage than the original lumber-and-coal operation. The distinction prevents the modern development business from being projected unchanged onto 1938.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "The current company overview supplies context",
+        "text": "Ryan’s own About page identifies 1938 as its starting point and describes development, design, engineering, construction and management services. That corroborates the broad chronology without independently proving every anecdote in the supplier case studies. Source type matters when building a biography from several public accounts. Supplier involvement alone does not make every quoted statement independently verified.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Keep historical evidence and project evidence separate",
+        "text": "The founder story can explain how a company describes its development, but it cannot establish current project capability or contract terms. A reader considering an engagement should identify the proposed service and responsible team directly. This profile makes no claim about revenue, family wealth, ownership percentages or the results of any particular development.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Attribute supplier-published history to company participants.",
+      "Retain Francis and Russell Ryan in the early account.",
+      "Separate 1938 operations from the 1949 real-estate chapter."
+    ],
+    "sources": [
+      {
+        "title": "Procore — Ryan Companies participant case study, Safety in Mobility",
+        "url": "https://mkt-cdn.procore.com/downloads/casestudies/CaseStudy_RyanCompanies.pdf"
+      },
+      {
+        "title": "Ryan Companies — company overview, reviewed November 21, 2026",
+        "url": "https://www.ryancompanies.com/about/"
+      },
+      {
+        "title": "Procore — Ryan Companies participant case study, Embedded Expertise",
+        "url": "https://mkt-cdn.procore.com/downloads/casestudies/RyanCompaniesEmbeddedExpertise_CS_US.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ty-measom-camp-chef",
+    "name": "Ty Measom",
+    "company": "Camp Chef",
+    "website": "https://www.campchef.com/",
+    "role": "Historical founder; the selected 2012 and 2019 documents do not establish a current executive role or ownership interest.",
+    "founding": "A 2012 filed biography and Camp Chef’s 2019 submission date the business to 1990.",
+    "intro": "Ty Measom founded Camp Chef in 1990, according to a filed biography and the company’s later government submission. The documents connect the business with outdoor cooking equipment and Logan, Utah. They are historical sources: titles and ownership statements appearing in them should not be treated as automatically current in November 2026.",
+    "sections": [
+      {
+        "title": "A filed professional biography",
+        "text": "A 2012 SEC-filed proxy document identifies Measom’s engineering background and says he founded Camp Chef Outdoor Cooking Products in 1990. It places the company in Logan, Utah. The biography’s descriptions of his office and ownership belong to that filing period, not to an independently verified present-day status.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The company’s explanation of its first product",
+        "text": "In a 2019 submission published through Regulations.gov, Camp Chef describes Measom designing a portable stove in response to limitations he saw in outdoor cooking equipment. The document explains the company’s view of the product’s development. This profile does not adopt its comparative safety or performance claims as tested conclusions.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A founder speaking about the business",
+        "text": "Utah State University’s business school published a direct Measom interview in 2017. Its description connects the founding with his work as an engineer and discusses the development of the company’s outdoor cooking range. This offers another dated, directly involved source without establishing that the same product lineup or management arrangements continue today.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "Treat each source according to its date and purpose",
+        "text": "A proxy biography, a company submission and an interview were created for different audiences. Together they support a founder association and broad chronology, but they do not amount to a current ownership audit. A product purchase requires current specifications and instructions. This entry does not infer wealth, revenue, current executive authority or the suitability of equipment for a particular use.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep 2012 and 2019 role statements historical.",
+      "Attribute product-development claims to the company.",
+      "Use current product documents for present equipment decisions."
+    ],
+    "sources": [
+      {
+        "title": "SEC — filed Ty Measom biography, 2012",
+        "url": "https://www.sec.gov/Archives/edgar/data/1468780/000121465912001683/f413121pre14a.htm"
+      },
+      {
+        "title": "Camp Chef — company submission published by Regulations.gov, 2019",
+        "url": "https://downloads.regulations.gov/USTR-2019-0004-2543/attachment_2.pdf"
+      },
+      {
+        "title": "Utah State University — direct Ty Measom interview, March 30, 2017",
+        "url": "https://www.youtube.com/watch?v=3NTbcoIqoZk"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
