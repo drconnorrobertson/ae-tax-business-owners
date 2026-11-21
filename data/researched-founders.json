@@ -2535,5 +2535,880 @@
     ],
     "reviewedAt": "2026-11-20",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "christina-cacioppo-vanta",
+    "name": "Christina Cacioppo",
+    "company": "Vanta",
+    "website": "https://www.vanta.com/",
+    "role": "CEO and co-founder, as listed on Vanta’s company page reviewed November 20, 2026.",
+    "founding": "Vanta’s company account dates its founding to 2018.",
+    "intro": "Christina Cacioppo is identified by Vanta as its CEO and co-founder. The security-software company connects its origin to the effort required for a growing business to demonstrate its security practices. Her own website provides a complementary first-person account of earlier product work. This profile follows those public accounts without treating company positioning as verified security performance.",
+    "sections": [
+      {
+        "title": "A product problem encountered firsthand",
+        "text": "Vanta’s company biography says Cacioppo founded the business in 2018 after experiencing the manual process associated with SOC 2 while working on Dropbox Paper. The account ties the original product idea to a recurring organizational task, rather than presenting it as an abstract technology project. The founding date is the company’s stated history; it does not identify the current distribution of ownership.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Earlier work in products and investing",
+        "text": "Cacioppo’s personal site describes helping build Dropbox Paper, making programming tools and beginning her career at Union Square Ventures. Vanta’s biography likewise identifies product-management and investment-team experience. These sources explain the combination of product and organizational context behind the company. They do not establish that every later product decision followed the same path or that prior employment is an endorsement.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The business represented today",
+        "text": "Vanta now describes a platform for ongoing security and trust work, extending beyond its original automation focus. That evolution matters when comparing an early founder interview with current product documentation. A directory reader should verify the particular workflow, integration and independent assessment needed for a purchase instead of assuming that a founding story establishes present suitability.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "How to use the source trail",
+        "text": "Use the company page for its stated role and history and the personal account for Cacioppo’s description of her own work. Both are interested first-party sources. This profile does not evaluate security claims, revenue, investment returns or personal finances. The founder designation remains separate from current equity and from any relationship with AE Tax Advisors.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the 2018 founding claim attributed to Vanta.",
+      "Verify present product scope independently of the origin story.",
+      "Do not turn a founder title into an ownership estimate."
+    ],
+    "sources": [
+      {
+        "title": "Vanta — company history and leadership, reviewed November 20, 2026",
+        "url": "https://www.vanta.com/company/about"
+      },
+      {
+        "title": "Christina Cacioppo — personal business biography, reviewed November 20, 2026",
+        "url": "https://www.christinacacioppo.com/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "adam-markowitz-drata",
+    "name": "Adam Markowitz",
+    "company": "Drata",
+    "website": "https://drata.com/",
+    "role": "CEO and co-founder, as listed by Drata when reviewed November 20, 2026.",
+    "founding": "Drata’s company history refers to 2020; its author biography describes launching in 2021.",
+    "intro": "Adam Markowitz is identified by Drata as its chief executive and co-founder. The company’s account connects its security-workflow product to earlier experience building Portfolium. Its current history and author biography use different dates for formation and launch, which this profile preserves rather than forcing into a single unsupported milestone.",
+    "sections": [
+      {
+        "title": "Experience before Drata",
+        "text": "Drata’s author biography describes Markowitz’s earlier work as an aerospace engineer and founder of Portfolium. It states that Instructure acquired Portfolium in 2019. These are professional-history claims made by his current company, useful for identifying the sequence of businesses. The biography’s references to scale and customer reach are not used here as audited measures of either company.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Formation and launch are not the same label",
+        "text": "The company history says the team launched Drata in 2020 after confronting repetitive evidence collection while building Portfolium. The author page describes a 2021 launch. Those labels may refer to different phases, but the sources do not fully reconcile them. A careful biography can retain both accounts and avoid inventing a precise corporate event to resolve the difference.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A collaborative founding account",
+        "text": "Drata’s leadership page names Daniel Marashlian and Troy Markowitz as co-founders alongside Adam. Its history connects the team to the earlier company and describes a move toward continuous monitoring and evidence preparation. Naming the collaborators prevents a chief executive’s profile from erasing the wider founding team. It does not disclose each founder’s current financial interest.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Research scope for directory readers",
+        "text": "The current company materials describe software for security, risk and trust-related workflows. Those descriptions explain the business category; they do not certify a buyer’s compliance or guarantee an audit result. Use current technical and professional information for that separate assessment. This entry provides a dated, primary-source business history without revenue qualification or an AE client claim.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish company-history and public-launch dates.",
+      "Preserve the other named co-founders.",
+      "Treat compliance-product descriptions as company claims, not certification."
+    ],
+    "sources": [
+      {
+        "title": "Drata — company history and executive team, reviewed November 20, 2026",
+        "url": "https://drata.com/about"
+      },
+      {
+        "title": "Drata — Adam Markowitz author biography, reviewed November 20, 2026",
+        "url": "https://drata.com/blog/author/adam-markowitz"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "sam-li-thoropass",
+    "name": "Sam Li",
+    "company": "Thoropass",
+    "website": "https://www.thoropass.com/",
+    "role": "Co-founder and CEO, as identified on Thoropass’s author page reviewed November 20, 2026.",
+    "founding": "Li’s September 26, 2023 first-person account names Eva Pittas and Austin Ogilvie as fellow founders.",
+    "intro": "Sam Li is a co-founder of Thoropass, a company working on security-compliance and audit workflows. Its author biography identifies him as CEO, while his own published origin account names the other founders and explains the organizational problem they wanted to address. The sources support a founding association, not an independent evaluation of the company’s audit model.",
+    "sections": [
+      {
+        "title": "Background described by the company",
+        "text": "Thoropass’s biography says Li was an entrepreneur in residence at Bain Capital Ventures after serving as co-founder and chief technology officer of Zinc Platform. It also lists computer-science study and an MBA. Those details are attributed professional background, not a claim that a particular degree or earlier role qualifies every current service the company offers.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A first-person account of the founding team",
+        "text": "In a September 26, 2023 article, Li says that he, Eva Pittas and Austin Ogilvie founded Thoropass to address friction around information-security compliance and IT audits. His account emphasizes difficulties experienced by technology businesses. It is a direct statement from a participant and identifies collaborators, while remaining a founder’s interpretation of the problem and intended solution.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The distinction between a platform and an engagement",
+        "text": "The company presents a combination of software and professional processes. For a directory reader, that makes the scope of a specific engagement important: tools for organizing evidence and the work performed by auditors are different parts of the offering. A founder profile cannot determine independence, professional standards or the suitability of a particular arrangement.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Follow the dated sources",
+        "text": "Use the author page for the role stated when checked and the signed account for the historical rationale. If the role or service model matters to a new decision, confirm it again with current company documentation and qualified professionals. No revenue, ownership percentage, audit outcome or client relationship with AE is evaluated by this entry.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Pittas and Ogilvie in the founding account.",
+      "Separate software descriptions from audit-engagement conclusions.",
+      "Recheck the current role before a time-sensitive citation."
+    ],
+    "sources": [
+      {
+        "title": "Thoropass — Sam Li author biography, reviewed November 20, 2026",
+        "url": "https://www.thoropass.com/authors/sam-li"
+      },
+      {
+        "title": "Sam Li — signed Thoropass origin account, September 26, 2023",
+        "url": "https://www.linkedin.com/pulse/thoropass-oro-way-origin-story-why-were-fixing-audits-sam-li"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "shrav-mehta-secureframe",
+    "name": "Shrav Mehta",
+    "company": "Secureframe",
+    "website": "https://secureframe.com/",
+    "role": "Founder; this entry does not independently establish a current executive title.",
+    "founding": "Mehta’s own account and Secureframe’s company page identify 2020 as the founding year.",
+    "intro": "Shrav Mehta’s personal website says he founded Secureframe in 2020. The company’s own page also presents 2020 as its founding year and describes a security-and-compliance software business. Reading the two sources together gives a first-party record of the founder association and product setting without importing outside revenue estimates or assuming an ownership percentage.",
+    "sections": [
+      {
+        "title": "Building before Secureframe",
+        "text": "Mehta describes making Android applications while young and working at technology companies including Lob, Pilot, Hired and Scale AI. These details come from his own professional account. They establish how he presents his development path, not a verified measure of the success of each project or an endorsement from the former employers.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A company organized around a recurring workflow",
+        "text": "Secureframe’s company page states its mission around business trust and presents a distributed security-and-compliance organization. Mehta describes the company as automating cybersecurity-related work. That combination places the founder story in a business-process setting: organizations repeatedly gather evidence, review controls and communicate information. It does not prove the effectiveness of a particular product implementation.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep the history separate from product claims",
+        "text": "The personal site contains investment interests and broad statements about customers and the defense industrial base. This profile does not repeat those as verified outcomes. The relevant biographical point is that Mehta identifies Secureframe as the company he started and connects his current interests with security, software and the physical economy. Specific offerings need their own current review.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A bounded founder record",
+        "text": "Use the personal account for Mehta’s stated experience and the company site for the business it currently presents. A founder label can remain historically accurate through changes in management or ownership. This entry therefore does not infer a present CEO role, current shareholding, revenue eligibility or personal financial position from those sources.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Attribute earlier-career details to Mehta’s own account.",
+      "Verify any current executive title separately.",
+      "Keep company marketing outcomes outside the ownership record."
+    ],
+    "sources": [
+      {
+        "title": "Secureframe — company background, reviewed November 20, 2026",
+        "url": "https://secureframe.com/about"
+      },
+      {
+        "title": "Shrav Mehta — personal founder account, reviewed November 20, 2026",
+        "url": "https://shrav.com/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "chris-power-hadrian",
+    "name": "Chris Power",
+    "company": "Hadrian",
+    "website": "https://www.hadrian.co/",
+    "role": "Founder and CEO, named in Hadrian’s July 2025 release and CapitalG’s current portfolio page.",
+    "founding": "The selected sources establish the founder association; they are not used to infer a formation date.",
+    "intro": "Chris Power is identified as Hadrian’s founder and chief executive in the company’s July 17, 2025 announcement and in direct investor CapitalG’s portfolio material. Hadrian presents a manufacturing business that combines software, production systems and operated factories. This profile concentrates on that business model and the dated role evidence, without treating expansion announcements as audited operating results.",
+    "sections": [
+      {
+        "title": "A manufacturing business with a software layer",
+        "text": "Hadrian’s announcement describes moving from precision components toward assemblies and larger production programs. It calls its approach factories as a service. This is a company account of the work it intends to provide, not evidence that every customer receives the same capacity, quality or delivery outcome. The source identifies Power as founder and CEO at the announcement date.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The investor’s description",
+        "text": "CapitalG’s portfolio page also names Power as founder and CEO. It describes Hadrian as combining process engineering, robotics and software in automated factories and dates CapitalG’s initial investment to 2026. The investor is a direct participant with an interested perspective. Its page is useful corroboration of identity and business category, not an independent audit of the company.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Why the operating model matters",
+        "text": "A company operating physical manufacturing capacity differs from a business selling only design software. Procurement, production readiness and the responsibilities assigned to a facility remain important even when software coordinates the work. That distinction helps directory readers understand why a founder biography about Hadrian belongs in manufacturing as well as technology, without making a technical suitability recommendation.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Use announcements with their dates",
+        "text": "Preserve the date when citing a planned expansion or historical leadership statement. Confirm current facility and service details directly for a commercial decision. This profile does not evaluate the size or terms of financing, revenue, production economics, personal wealth or Power’s current ownership interest. It records a sourced founding relationship and explains the surrounding business context.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep plans separate from completed operating outcomes.",
+      "Recognize the investor’s interested perspective.",
+      "Do not infer revenue or ownership from financing announcements."
+    ],
+    "sources": [
+      {
+        "title": "Hadrian — company announcement, July 17, 2025",
+        "url": "https://www.hadrian.co/blog/series-c"
+      },
+      {
+        "title": "CapitalG — Hadrian portfolio record, reviewed November 20, 2026",
+        "url": "https://capitalg.com/portfolio/hadrian/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "edward-mehr-machina-labs",
+    "name": "Edward Mehr",
+    "company": "Machina Labs",
+    "website": "https://machinalabs.ai/",
+    "role": "Co-founder and CEO, as named in the company-hosted December 11, 2025 announcement.",
+    "founding": "The selected company announcement establishes the co-founder role without supplying a formation date.",
+    "intro": "Edward Mehr is named as co-founder and CEO of Machina Labs in a December 11, 2025 announcement hosted by the company. Machina’s current website describes software-directed robotic manufacturing for metal structures. The profile connects that dated identity evidence with the business now presented online, rather than assuming a current executive title from an older release.",
+    "sections": [
+      {
+        "title": "The dated partnership record",
+        "text": "The December 2025 announcement describes an initial partnership and investment agreement with Strategic Development Fund. It identifies Mehr in the accompanying account of the signing. That supports his stated role at the time and the company’s involvement in the announcement. It does not establish the eventual commercial results, final deployment scope or continuing terms of that relationship.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The manufacturing activity described today",
+        "text": "Machina’s website describes factories that turn digital design information into complex metal structures using robotics. It presents applications in automotive, aerospace and other industrial settings. Those descriptions explain the category of business associated with Mehr. They are not independent verification of speed, qualification, safety or technical performance in a customer’s particular production environment.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A different kind of software-company context",
+        "text": "Here the software is linked to a physical production process rather than only an online information service. That distinction is useful when researching a founder: equipment, materials, process control and customer specifications remain part of the business context. The public record supports this general description but does not disclose how each project allocates responsibilities or economic risk.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Limits of the leadership evidence",
+        "text": "The title in a December 2025 release remains dated evidence. Check the company’s current leadership material before asserting a later executive role. This entry does not assess investment values, current revenues, ownership shares or personal finances, and it does not treat an announcement or product page as proof of a manufacturing outcome.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Date the co-founder and CEO statement to December 2025.",
+      "Verify project-specific capabilities separately.",
+      "Keep initial partnership announcements distinct from completed deployments."
+    ],
+    "sources": [
+      {
+        "title": "Machina Labs — company-hosted partnership announcement, December 11, 2025",
+        "url": "https://machinalabs.ai/resources/uae-strategic-development-fund-announces-investment-and-initial-partnership-with-machina-labs"
+      },
+      {
+        "title": "Machina Labs — current manufacturing website, reviewed November 20, 2026",
+        "url": "https://machinalabs.ai/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "jake-loosararian-gecko-robotics",
+    "name": "Jake Loosararian",
+    "company": "Gecko Robotics",
+    "website": "https://www.geckorobotics.com/",
+    "role": "Co-founder; a July 2025 U.S. Senate event biography names him CEO.",
+    "founding": "Gecko’s company history dates the co-founder partnership to 2013, after prototype work in 2012.",
+    "intro": "Jake Loosararian is a co-founder of Gecko Robotics. The company’s history describes an engineering-student project that developed into an industrial robotics and software business. An official July 2025 event biography supplies a second dated account. This profile separates the early prototype story, the company’s later business description and the limits of claims about infrastructure outcomes.",
+    "sections": [
+      {
+        "title": "A prototype before the company partnership",
+        "text": "Gecko’s history says Loosararian visited a power plant as a Grove City College engineering student in 2012 and worked on a climbing robot carrying sensors. It places the partnership with Troy Demmer in 2013. The timeline distinguishes the initial project from the later founding association, rather than assuming both happened on the same date.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A second dated public account",
+        "text": "The U.S. Senate event biography identifies Loosararian as co-founder and CEO and describes the combination of robots and software for infrastructure information. It is an official event publication, not a financial filing or technical audit. Its leadership title is evidence for that 2025 context and should be kept with the date when quoted elsewhere.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "From collecting measurements to using information",
+        "text": "Gecko’s public story links physical inspection tools with software that helps organizations organize the resulting data. For directory research, that means the business cannot be understood only as selling a robot or only as selling a dashboard. The connection between field work and information use is part of the company’s own description of its offering.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Avoid transferring promotional outcomes",
+        "text": "The selected sources contain statements about infrastructure reliability and improvements. This entry does not adopt those as measured results for a buyer. Verify any current service, technical requirement or operating claim independently. Revenue, equity interests, personal income and an AE client relationship are not evaluated by this primary-source founding record.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Separate 2012 prototype activity from the 2013 co-founder account.",
+      "Retain the date of the event’s executive title.",
+      "Do not convert infrastructure claims into guaranteed outcomes."
+    ],
+    "sources": [
+      {
+        "title": "Gecko Robotics — company history, reviewed November 20, 2026",
+        "url": "https://www.geckorobotics.com/about-us"
+      },
+      {
+        "title": "U.S. Senate Pennsylvania Energy and Innovation Summit — speaker biography, July 2025",
+        "url": "https://www.mccormick.senate.gov/wp-content/uploads/2025/07/441252-Energy-Summit-Speaker-Bios-8.5x11.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "saman-farid-formic",
+    "name": "Saman Farid",
+    "company": "Formic",
+    "website": "https://formic.co/",
+    "role": "Founder and CEO, as stated on his personal site reviewed November 20, 2026.",
+    "founding": "A company-hosted October 8, 2021 interview records his co-founder account.",
+    "intro": "Saman Farid is the founder of Formic, a business presenting managed robotic automation for manufacturers. His current personal site identifies him as CEO, while an October 2021 company interview records his explanation of the original problem. The sources show a founder association and an operating concept, without establishing customer savings, safety results or current ownership.",
+    "sections": [
+      {
+        "title": "The adoption problem in his own account",
+        "text": "In the company-hosted interview, Farid describes a gap between the capability of robotics and the number of places putting it to work. He says he built Formic to make automation more accessible to factories. That is a participant’s account of the purpose of the company, not proof that the company removed every practical barrier for a customer.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Experience described in a current biography",
+        "text": "Farid’s personal website discusses prior work at Baidu Ventures and the founding of Comet Labs, alongside his role at Formic. It presents his interests at the intersection of software, robotics and physical production. These statements help explain the professional setting he brings to the company; they do not verify the performance of investments or prior ventures.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "An operated service rather than equipment alone",
+        "text": "Formic’s public account emphasizes deployment and management of automation. That makes implementation and continuing operation part of the described commercial model, not merely the delivery of hardware. A business researching the company should still establish the exact scope, service responsibilities and technical requirements of an actual proposal. The founder narrative does not supply those terms.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep claims within the source scope",
+        "text": "The 2021 interview and current personal site were produced at different points in the company’s development. Preserve those dates rather than treating all descriptions as contemporaneous. This profile leaves financing figures, uptime, customer economics and personal financial claims outside its conclusions. It records public business history and directs readers to the primary material.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Date the 2021 origin interview separately from the current biography.",
+      "Distinguish managed automation from a hardware-only sale.",
+      "Verify proposed service responsibilities directly."
+    ],
+    "sources": [
+      {
+        "title": "Formic — co-founder interview, October 8, 2021",
+        "url": "https://formic.co/resources/articles/saman-farid-the-co-founder-story"
+      },
+      {
+        "title": "Saman Farid — personal operating biography, reviewed November 20, 2026",
+        "url": "https://saman.co/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "dave-evans-fictiv",
+    "name": "Dave Evans",
+    "company": "Fictiv",
+    "website": "https://www.fictiv.com/",
+    "role": "Co-founder and CEO, as listed on Fictiv’s company page reviewed November 20, 2026.",
+    "founding": "Fictiv’s company history dates the founders’ start to 2013 and names brothers Dave and Nate Evans.",
+    "intro": "Dave Evans is a co-founder of Fictiv, which presents a manufacturing and supply-chain service for businesses developing physical products. Its company history and an earlier first-person interview connect the business to a practical sourcing problem. This entry preserves the role of his brother and co-founder Nate rather than attributing the company’s origin to one person alone.",
+    "sections": [
+      {
+        "title": "The founders’ complementary backgrounds",
+        "text": "Fictiv’s company account says Dave studied mechanical engineering and worked at Ford’s Silicon Valley innovation operation. It describes Nate’s background in Chinese studies and investment banking. The source places their start in 2013. These details explain the different professional perspectives named in the company narrative; they do not establish the present division of authority or equity.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A small early manufacturing network",
+        "text": "In a company-published question-and-answer account, Evans describes an early version of Fictiv beginning with a MakerBot and an expanding network. The interview provides a direct founder perspective on how the business tested a way to help people make parts. Its historical description should not be mistaken for the scale or capabilities of Fictiv’s current service.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Sourcing as an ongoing operating function",
+        "text": "The current company page describes a wider manufacturing and supply-chain offering, with teams and capabilities across several regions. For a directory reader, the continuity is the sourcing problem rather than one particular machine or production method. A project buyer still needs to establish specifications, manufacturing responsibility, inspection and logistics in a current proposal.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Where this profile stops",
+        "text": "A corporate biography can establish how the company presents its founders and operating history without proving a customer outcome. This entry does not evaluate reported reach, delivery performance, revenue or current ownership. Use the current company materials for new service questions and retain the earlier interview date when describing the original experiment.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Preserve Nate Evans’s co-founder role.",
+      "Separate the early prototype network from current capabilities.",
+      "Verify project specifications directly rather than inferring them from the biography."
+    ],
+    "sources": [
+      {
+        "title": "Fictiv — company history and leadership, reviewed November 20, 2026",
+        "url": "https://www.fictiv.com/about-us"
+      },
+      {
+        "title": "Fictiv — Dave Evans first-person community Q&A, historical company publication",
+        "url": "https://www.fictiv.com/articles/hwstartups-slack-community-ama-with-fictiv-ceo-dave-evans"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "ted-sorom-mantle",
+    "name": "Ted Sorom",
+    "company": "Mantle",
+    "website": "https://mantle3d.com/",
+    "role": "Co-founder and former CEO; Mantle announced his departure from the CEO role on March 5, 2026.",
+    "founding": "Mantle’s company history names Sorom and Stephen Connor as the people who formed the business.",
+    "intro": "Ted Sorom is a co-founder of Mantle, a metal additive-manufacturing business focused on tooling. The company’s older About page lists him as CEO, but a March 5, 2026 announcement says Kim Hayashi succeeded him after he stepped down earlier that year. This profile gives the dated leadership change priority over the stale title.",
+    "sections": [
+      {
+        "title": "The collaboration behind the business",
+        "text": "Mantle’s history describes Stephen Connor exploring whether a materials approach could produce metal parts and joining with Sorom to form the company. It connects Sorom’s product-design background with a focus on tools and dies used in manufacturing. That account supports a collaborative origin rather than a story in which either founder alone supplied the entire business concept.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A leadership transition with a clear date",
+        "text": "The March 2026 company announcement names Hayashi as chief executive and explicitly states that she succeeds Sorom. It thanks him for the company’s formative years. The announcement supports calling Sorom a former CEO; it does not establish that he retains another executive or board position. This profile does not fill that gap by assuming continued involvement.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Toolmaking as the operating context",
+        "text": "Mantle describes its technology in relation to tooling used to make other products. That distinction matters: a toolmaking platform and the finished goods produced with its tools occupy different parts of a manufacturing chain. Buyers need current technical and commercial information about the intended application, not only an account of the founders’ early goals.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "A historical profile without financial inference",
+        "text": "The founder relationship remains relevant even when management changes. Keep the dated transition alongside any earlier biography that calls Sorom CEO. This entry does not assess acquisition proceeds, retained ownership, company revenue or personal wealth. It is a sourced history of a business role, not a current management directory or an endorsement of the technology.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Use the March 2026 announcement over the older CEO title.",
+      "Do not assume an unreported continuing role.",
+      "Separate tooling capability from a finished-product outcome."
+    ],
+    "sources": [
+      {
+        "title": "Mantle — company founding history; older leadership wording, reviewed November 20, 2026",
+        "url": "https://mantle3d.com/about/"
+      },
+      {
+        "title": "Mantle — CEO transition announcement, March 5, 2026",
+        "url": "https://mantle3d.com/news/mantle-appoints-kim-hayashi-as-chief-executive-officer/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "anna-katrina-shedletsky-instrumental",
+    "name": "Anna-Katrina Shedletsky",
+    "company": "Instrumental",
+    "website": "https://instrumental.com/",
+    "role": "Co-founder and CEO, as stated in company materials and the 2026 company-event page.",
+    "founding": "Instrumental’s founder account dates its creation to 2014 and names Samuel Weiss as co-founder.",
+    "intro": "Anna-Katrina Shedletsky is a co-founder of Instrumental, a software business focused on manufacturing information and engineering workflows. The company’s origin account links the business to work at Apple, and its 2026 event page identifies her as CEO and founder. The profile preserves the shared founding account while avoiding claims that the software guarantees manufacturing results.",
+    "sections": [
+      {
+        "title": "A problem observed in product engineering",
+        "text": "Instrumental’s company page says Shedletsky and Samuel Weiss encountered manufacturing inefficiencies while working as engineers at Apple and created Instrumental in 2014. It identifies her background in product design and mechanical engineering. These are the company’s own biographical statements and explain its origin story, not an endorsement of Instrumental by the former employer.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The second founder belongs in the record",
+        "text": "The same source names Weiss as co-founder and chief technology officer. Its account connects hardware, software and manufacturing experience rather than attributing the platform to a single discipline. A profile of Shedletsky should therefore retain that collaboration. The titles shown on a company page do not disclose the founders’ current ownership shares.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The company’s 2026 discussion",
+        "text": "The Build Better 2026 keynote page identifies Shedletsky as CEO and founder and frames the session around electronics manufacturing and engineering constraints. The publicly readable page supports her event role and the topics advertised. It does not support claims about statements inside the gated recording that were not reviewed, or prove the results suggested by promotional descriptions.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Interpreting the business context",
+        "text": "Instrumental describes software for finding and understanding manufacturing problems. That positions the business around the information used by engineering and operations teams. Specific production, quality and integration decisions need current technical evaluation. This entry does not assess revenue, avoided waste, customer outcomes or personal finances; it offers a primary-source history and a dated leadership reference.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Retain Samuel Weiss in the founding account.",
+      "Do not infer gated-recording content from its landing page.",
+      "Evaluate production claims separately from the biography."
+    ],
+    "sources": [
+      {
+        "title": "Instrumental — founder account and company biography, reviewed November 20, 2026",
+        "url": "https://instrumental.com/company/"
+      },
+      {
+        "title": "Instrumental — Build Better 2026 opening-keynote page",
+        "url": "https://instrumental.com/build-better-2026-opening-keynote"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "arye-barnehama-elementary",
+    "name": "Arye Barnehama",
+    "company": "Elementary",
+    "website": "https://www.elementaryml.com/",
+    "role": "Founder and former CEO; the company’s current About page names Milind Karnik as CEO.",
+    "founding": "Elementary’s company history places the founding in Pasadena in 2017.",
+    "intro": "Arye Barnehama founded Elementary, originally presented as Elementary Robotics. The company’s current history describes a shift from robotic assistants toward machine-vision inspection. An older company article calls him CEO, while the current leadership section names Milind Karnik. This profile records the historical founder role without carrying the older executive title forward.",
+    "sections": [
+      {
+        "title": "The original company direction",
+        "text": "Elementary’s About page dates its start to 2017 in Pasadena and links Barnehama with an initial effort to build machines that understand their surroundings. The history describes robotic assistants as the starting direction. Its language reflects the company’s own retrospective account; it should not be used as independent proof of technical or safety performance.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A change in the product focus",
+        "text": "The same history describes a subsequent focus on machine vision and inspection. That shift is a substantive part of the founder record: the business now presented online is not identical to the original robotic-assistant idea. Current service questions should follow the present product documentation and project scope rather than assumptions based on the earlier name.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Preserve the historical CEO reference accurately",
+        "text": "A January 2023 company article, later updated in March 2025, identifies Barnehama as CEO and describes co-founding with Bill Gross. The current About page lists a different CEO. These records can coexist when their roles and dates are explicit. Neither record establishes Barnehama’s current operating position, and this entry does not invent one.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Use the biography as a research path",
+        "text": "The sources support a founder association and a change in the company’s stated technical emphasis. They do not validate defect detection, customer savings, company revenue or retained ownership. For any current commercial decision, review the specific inspection application and the present team. This is a historical business profile in the revenue-not-evaluated collection.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Distinguish Elementary Robotics history from the current brand.",
+      "Do not repeat the old CEO title as current.",
+      "Keep inspection performance claims separate from founder identity."
+    ],
+    "sources": [
+      {
+        "title": "Elementary — current history and leadership, reviewed November 20, 2026",
+        "url": "https://www.elementaryml.com/about"
+      },
+      {
+        "title": "Elementary — Barnehama company article, January 4, 2023; updated March 4, 2025",
+        "url": "https://www.elementaryml.com/blog/elementary-ceo-arye-barnehama-recognized-as-forbes-30-under-30-all-star-alumni"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "etienne-lacroix-vention",
+    "name": "Etienne Lacroix",
+    "company": "Vention",
+    "website": "https://vention.com/",
+    "role": "Founder and CEO, as listed on Vention’s company page reviewed November 20, 2026.",
+    "founding": "Vention’s company page identifies Lacroix as founder; this profile does not independently verify a formation date.",
+    "intro": "Etienne Lacroix is identified by Vention as its founder and chief executive. The industrial-automation company presents a combination of engineering software, components and deployment tools. This profile uses its company biography and a company-hosted automation discussion, while distinguishing the person and business from unrelated organizations using the Etienne Lacroix name.",
+    "sections": [
+      {
+        "title": "Engineering and business experience",
+        "text": "Vention’s biography describes Lacroix’s earlier work at McKinsey and GE and identifies engineering and business study. It presents him as someone working across industrial technology and business operations. These company-provided details explain the professional background claimed for its founder; they are not a certification of a proposed automation project or proof of the qualifications of every delivery-team member.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A company built around automation access",
+        "text": "The company account identifies Max Windisch as co-founder alongside Lacroix. Its current positioning combines design and deployment of industrial automation. The relevant business distinction is the connection between a digital engineering workflow and physical equipment. A buyer still needs to identify the specific components, implementation responsibilities and operating environment for an actual project.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A dated public discussion",
+        "text": "Vention’s page for its 2024 automation-highlights fireside chat names Lacroix as CEO and describes a discussion looking toward 2025. The page supports that historical participation and topic, not a claim that every advertised deployment outcome was independently verified. Retaining the event’s period avoids presenting an older forecast as a description of current conditions.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Maintain identity and scope boundaries",
+        "text": "Use the Vention domain to distinguish this founder from similarly named businesses elsewhere. Recheck the leadership page for current titles and technical material for product capabilities. This profile does not evaluate revenues, ownership shares, customer economics or personal wealth. It records a source-backed founder association within an explicitly unqualified collection.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Do not confuse Vention with unrelated Etienne Lacroix businesses.",
+      "Retain Max Windisch’s co-founder role.",
+      "Date the 2024 discussion rather than treating it as a current forecast."
+    ],
+    "sources": [
+      {
+        "title": "Vention — company history and leadership, reviewed November 20, 2026",
+        "url": "https://vention.com/about"
+      },
+      {
+        "title": "Vention — 2024 automation-highlights event page",
+        "url": "https://vention.com/webinars/fireside-chat-2024-automation-highlights-99"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "waseem-daher-pilot",
+    "name": "Waseem Daher",
+    "company": "Pilot",
+    "website": "https://pilot.com/",
+    "role": "Co-founder; the selected historical sources do not establish his current executive title.",
+    "founding": "Daher’s first-person account dates Pilot’s founding to 2017.",
+    "intro": "Waseem Daher is a co-founder of Pilot, the business associated with bookkeeping and other back-office services. His personal account and a January 2021 statement by direct investor Sequoia describe the founders’ earlier companies and the problem behind Pilot. Because older biographies call him CEO, this entry deliberately avoids treating that title as current.",
+    "sections": [
+      {
+        "title": "A sequence of companies with recurring collaborators",
+        "text": "Daher’s account says his first startup was Ksplice in 2008, followed by Zulip and then Pilot in 2017. He describes working with co-founders met through MIT’s computer club. The account gives a first-person chronology, rather than establishing the current ownership or legal relationships among those separate companies.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The investor’s firsthand founding account",
+        "text": "Sequoia’s January 26, 2021 article names Daher, Jeff Arnold and Jessica McKellar as Pilot’s co-founders. It describes the investor’s earlier contact with the team and their interest in simplifying back-office work after experiencing it in prior ventures. As an investor publication, it provides direct but interested evidence. Its praise and company-scale claims are not adopted as independent conclusions here.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A service problem informed by operating experience",
+        "text": "The two accounts frame Pilot as a response to work the founders encountered while running businesses, rather than a venture unrelated to their prior operations. That helps explain the business category. It does not determine the appropriate service scope, professional responsibilities or accounting treatment for a different business choosing a provider.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Keep titles tied to their sources",
+        "text": "The January 2021 article and personal biography contain executive wording that may not reflect later leadership arrangements. The lasting statement supported here is co-founder. Confirm a current title directly before using it elsewhere. This entry does not assess service outcomes, revenue, equity or personal finances, and inclusion does not imply that Pilot or Daher is an AE client.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Preserve Arnold and McKellar in the co-founder record.",
+      "Do not reuse historical CEO wording as a present title.",
+      "Evaluate a current service engagement on its own terms."
+    ],
+    "sources": [
+      {
+        "title": "Waseem Daher — first-person company history, reviewed November 20, 2026",
+        "url": "https://waseem.substack.com/about"
+      },
+      {
+        "title": "Sequoia — direct investor founding account, January 26, 2021",
+        "url": "https://medium.com/sequoia-capital/pilot-a-smarter-back-office-for-every-startup-and-smb-76802f2203bd"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "amy-spurling-compt",
+    "name": "Amy Spurling",
+    "company": "Compt",
+    "website": "https://compt.io/",
+    "role": "Founder and CEO, as identified in Compt’s author biography updated May 21, 2026.",
+    "founding": "Compt’s company history states that the business was founded in Boston in 2018.",
+    "intro": "Amy Spurling is the founder of Compt, which presents software for lifestyle spending accounts, stipends and related employee programs. The company connects the business to her earlier finance and operations work. Its founder story and May 2026 author biography provide the evidence for this profile, without turning product descriptions into benefit-tax or compliance conclusions.",
+    "sections": [
+      {
+        "title": "Finance and operations in the founder account",
+        "text": "Compt’s history describes Spurling’s experience as a CFO and COO and says she encountered difficulty providing benefits that fit different employees while remaining manageable for internal teams. That is the company’s explanation of the problem behind its creation. It is not evidence that every organization faces the same problem or needs the same solution.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The business formed around that problem",
+        "text": "The company says it was founded in Boston in 2018. It describes an approach in which employees use approved spending programs while employers manage policies and administration through software. The profile retains the general operating concept without assuming how any particular payment should be taxed or whether a particular policy complies with applicable requirements.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A dated leadership and writing reference",
+        "text": "Compt’s article updated May 21, 2026 identifies Spurling as founder and CEO and presents her discussion of employee-engagement programs. The author biography supports the title as stated in that company publication. The article’s argument reflects her perspective, not an independently established result for companies adopting the product.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Questions beyond the biography",
+        "text": "An employer evaluating a spending program should review its actual policies, data handling, payroll arrangements and professional advice. The founder story can explain why the software emphasizes administrative flexibility but cannot answer those organization-specific questions. This profile does not assess customer participation, company revenue, personal wealth or current share ownership.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Keep the company’s 2018 founding claim attributed.",
+      "Date the executive title to the reviewed company material.",
+      "Do not infer benefit-tax treatment from the product description."
+    ],
+    "sources": [
+      {
+        "title": "Compt — company and founder history, reviewed November 20, 2026",
+        "url": "https://compt.io/who-we-are/"
+      },
+      {
+        "title": "Compt — Spurling author biography and article, updated May 21, 2026",
+        "url": "https://compt.io/blog/employee-engagement-strategy-amy-spurling/"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "allison-robinson-the-mom-project",
+    "name": "Allison Robinson",
+    "company": "The Mom Project",
+    "website": "https://themomproject.com/",
+    "role": "Founder and former CEO/chairwoman; her later public statement announces departure from chair and board roles.",
+    "founding": "The company’s historical press material dates its launch to 2016.",
+    "intro": "Allison Robinson founded The Mom Project, a talent marketplace and community described in the company’s historical press material. That record calls her founder and CEO, but she later publicly announced that she was stepping down as chairwoman and board member. This profile treats those positions as historical and does not infer a continuing management role.",
+    "sections": [
+      {
+        "title": "The business origin in company material",
+        "text": "The company’s press sheet connects the idea to the difficulty of combining professional work and family responsibilities, and dates the launch to 2016. It describes a marketplace connecting experienced professionals with businesses seeking talent. This is the company’s own account of its origin, not a general claim about every parent’s experience or a verified measure of labor-market outcomes.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A service model with several engagement types",
+        "text": "The historical press material lists work including direct hiring, contingent arrangements and return-to-work needs. That helps explain the breadth of the marketplace described at the time. A current buyer or candidate should review the present offering and specific engagement terms rather than assume every historical service remains available in the same form.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The later departure statement matters",
+        "text": "In a signed public post, Robinson says she is stepping down from her chairwoman and board roles. The statement comes after the earlier transition from CEO to chairwoman. It prevents a profile from stopping at an outdated title. This later first-person statement clarifies the role chronology but does not identify a subsequent operating position.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A founder association survives role changes",
+        "text": "A historical founder profile can remain accurate while executive responsibilities change. Preserve the sequence and source context instead of presenting old promotional material as a current management listing. This entry does not evaluate economic-impact figures, company revenue, ownership stakes, personal wealth or an AE client relationship. It provides a bounded public business history.",
+        "sourceIndexes": []
+      }
+    ],
+    "checks": [
+      "Treat CEO and chairwoman positions as historical.",
+      "Do not infer a current board or operating role.",
+      "Verify current marketplace terms directly."
+    ],
+    "sources": [
+      {
+        "title": "The Mom Project — historical company press sheet, launch history",
+        "url": "https://cdn2.hubspot.net/hubfs/5134751/TMP%20Press%20page-v03.pdf"
+      },
+      {
+        "title": "Allison Robinson — signed departure statement, reviewed November 20, 2026",
+        "url": "https://www.linkedin.com/posts/allison-m-robinson_dear-friends-after-much-reflection-i-have-activity-7206626349870960641-LXXS"
+      }
+    ],
+    "reviewedAt": "2026-11-20",
+    "revenueEvaluated": false
   }
 ]
