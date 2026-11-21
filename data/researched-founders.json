@@ -7815,5 +7815,874 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "george-marvin",
+    "name": "George G. Marvin",
+    "company": "Marvin",
+    "website": "https://www.marvin.com/",
+    "role": "Historical founder of Marvin Lumber and Cedar; subsequent window development involved his son Bill.",
+    "founding": "George Marvin established the lumber and cedar company in Warroad in 1912.",
+    "intro": "George G. Marvin founded a lumber business before his family’s name became associated with made-to-order windows and doors. The company’s history places his arrival in Warroad, Minnesota, in 1904 and the establishment of Marvin Lumber and Cedar in 1912. Those are separate stages in the story.",
+    "sections": [
+      {
+        "title": "A lumber company came before the windows",
+        "text": "The company’s account begins in a northern Minnesota community with a grain elevator and a lumber trade. George’s original enterprise drew on that setting rather than an existing window-manufacturing operation. The distinction helps explain the capabilities available to the next generation: knowledge of wood and a place in a local economy could become the basis for another kind of production. It does not mean that the later national product range existed when the business opened.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Bill Marvin changed the production direction",
+        "text": "George’s son Bill joined in 1939. The company describes Bill’s interest in window and door components as a way to create work for people returning after the war. Its retrospective includes disagreement between father and son over investment in woodworking machinery. That account gives the business transition a specific decision and specific participants. George’s founding role and Bill’s later manufacturing initiative are connected, but crediting George with both would erase the difference the company itself makes.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A family history with several generations",
+        "text": "Marvin’s centennial film and written history describe continuity in Warroad alongside changes in the company’s work. The written account names later generations in leadership and describes expansion beyond Minnesota. These are later developments, not evidence of George’s present authority or personal ownership. A reader can follow the sequence from lumber enterprise to window production and then broader operations without confusing George the founder with a later family member carrying the same given name.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1904 arrival from the 1912 business start.",
+      "Attribute the window-production transition to Bill’s documented role.",
+      "Distinguish the founder from later family namesakes."
+    ],
+    "sources": [
+      {
+        "title": "Marvin — Company history",
+        "url": "https://www.marvin.com/our-story/history-of-marvin"
+      },
+      {
+        "title": "Marvin — Company centennial film",
+        "url": "https://www.youtube.com/watch?v=Lq6uEWdX2MM"
+      },
+      {
+        "title": "Marvin — Historical company brochure filed with local government",
+        "url": "https://westlinnoregon.gov/sites/default/files/fileattachments/planning/project/55796/applicant_submittal.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "pete-kuyper-pella",
+    "name": "Pete Kuyper",
+    "company": "Pella",
+    "website": "https://www.pella.com/",
+    "role": "Historical founder associated with Pete and Lucille Kuyper’s investment in Rolscreen.",
+    "founding": "The Kuypers invested in Rolscreen in 1925; the company moved to Pella in 1926.",
+    "intro": "Pete Kuyper’s Pella story begins with an investment in an existing screen-making idea, not a claim that he invented the screen. Pella’s company history names Pete and Lucille Kuyper together. Its centennial timeline distinguishes their 1925 investment in a Des Moines business from the move to Pella the following year.",
+    "sections": [
+      {
+        "title": "The first decision was about a business",
+        "text": "The Rolscreen product could roll up and down. Pete and Lucille invested in the company making it, then developed the enterprise that became associated with their hometown. That sequence identifies an acquired product opportunity rather than a lone inventor’s workshop. It also preserves Lucille’s role. A profile focused on Pete should not reduce the company’s beginning to his work alone, or replace the investment and relocation with a simplified claim that he invented windows in Pella.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The range expanded beyond screens",
+        "text": "The company timeline describes Venetian blinds in the 1930s and its first Pella window in 1937. The change matters because screens, blinds and complete windows are different offers. The enterprise’s later identity developed through additions to the range, rather than existing fully at the time of the original investment. Pella’s centennial account also records later doors and retail showrooms. Those milestones belong to the company’s development across generations, not automatically to Pete’s personal design work.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Family leadership continued after the origin",
+        "text": "Pella’s account of Joan Kuyper Farver identifies her as Pete’s daughter and dates her board leadership to 1980–1995. That is a specific example of the later family governance described in the broader company history. It helps separate a founder’s influence from the responsibilities of those who followed. The available sources document investment, relocation, product expansion and later leadership. They do not establish Pete’s invention of every product or turn company longevity into evidence about a current installation.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Lucille Kuyper alongside Pete.",
+      "Separate the acquired screen idea from inventor claims.",
+      "Keep 1925 investment, 1926 relocation and 1937 window introduction distinct."
+    ],
+    "sources": [
+      {
+        "title": "Pella — Company history",
+        "url": "https://www.pella.com/about/history/"
+      },
+      {
+        "title": "Pella — Company centennial timeline",
+        "url": "https://www.pella.com/about/"
+      },
+      {
+        "title": "Pella — Company account of later family leadership",
+        "url": "https://pressroom.pella.com/spirit-award/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "hans-jacob-andersen",
+    "name": "Hans Jacob Andersen",
+    "company": "Andersen",
+    "website": "https://www.andersenwindows.com/",
+    "role": "Historical cofounder with his family; Sarah “Sadie” Andersen was a founding partner.",
+    "founding": "The Andersen Lumber Company began in Hudson, Wisconsin, in 1903; window-frame production followed.",
+    "intro": "Hans Jacob Andersen’s company started in Hudson, Wisconsin, before its later association with Bayport, Minnesota. Company accounts and the Minnesota Historical Society’s corporate archive describe a family lumber enterprise in 1903. They also identify the production and shipping changes that helped create a window-manufacturing business.",
+    "sections": [
+      {
+        "title": "The founding involved the family",
+        "text": "Andersen’s own retrospective says Hans opened the company with his wife and children. A separate company account explicitly identifies Sarah “Sadie” Andersen as a founding partner whose ideas influenced the launch. Her role is therefore part of the business history, not background decoration. The archive also records Hans as president during the company’s early years. These sources establish a family enterprise without implying that every family member later held the same office or ownership interest.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Standard parts changed the offer",
+        "text": "The corporate archive dates window-frame production to 1904 and the two-bundle method to 1905. Different horizontal and vertical components could be combined into multiple frame sizes. This was a change in how the product was made, shipped and assembled, rather than simply a new name for the lumberyard. The history illustrates a move toward standardized parts while retaining choices for builders. It is historical manufacturing context, not a promise about installation times or performance of a current window.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Location and names evolved",
+        "text": "The sources distinguish the early Hudson operation from the later Bayport headquarters. The archive records the names Andersen Frame Company in 1929 and Andersen Corporation in 1937. Those changes should not be substituted for the original 1903 business date. The company’s later products, employee programs and distribution arrangements also developed over time. Keeping the sequence visible makes the founder’s contribution easier to understand without assigning him decisions that belonged to later management.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Sadie Andersen’s founding-partner role.",
+      "Separate the 1903 business from 1904 production and 1905 packaging.",
+      "Use later names and locations only in their dated context."
+    ],
+    "sources": [
+      {
+        "title": "Andersen — Founder and product history",
+        "url": "https://www.andersenwindows.com/about/frame-maker/innovation-at-work/what-makes-andersen-so-special"
+      },
+      {
+        "title": "Andersen — Corporate records at Minnesota Historical Society",
+        "url": "https://storage.googleapis.com/mnhs-finding-aids-public/library/findaids/00678.html"
+      },
+      {
+        "title": "Andersen — Founding partner Sarah Andersen",
+        "url": "https://enewsletter.renewalbyandersen.com/2023/March/Womens-History-Month"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "richard-wendt-jeld-wen",
+    "name": "Richard Wendt",
+    "company": "JELD-WEN",
+    "website": "https://www.jeld-wen.com/",
+    "role": "Historical cofounder with four business partners.",
+    "founding": "JELD-WEN began with an asset purchase in Klamath Falls, Oregon, in 1960.",
+    "intro": "Richard “Dick” Wendt’s JELD-WEN history starts inside another manufacturer’s operation. The company says Caradco sent him to help manage its Klamath Falls millwork plant in 1957. When the assets were offered for sale, Wendt and four partners used that opening to establish a new enterprise in 1960.",
+    "sections": [
+      {
+        "title": "A new company from an existing plant",
+        "text": "JELD-WEN’s history names Larry Wetter, John Biehn, Gerry Wickersham and Bill Taylor alongside Wendt in the October 1960 purchase. Retaining them makes the origin more precise than a story about a sole founder building a factory from nothing. The assets and Wendt’s operating experience already existed, while the new organization and its plans were still to develop. This distinction is central to the company’s own account of how it began.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The name left room for changes",
+        "text": "The company explains that JELD-WEN came from names in Wendt’s immediate family and an abbreviated surname. Its separate naming history connects that choice with an intention not to confine the business to one place or product. The record therefore distinguishes the partners who bought the assets from the relatives represented in the name. A family-inspired brand is not itself a list of shareholders or proof that every person named in the acronym founded the company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Expansion involved different kinds of investment",
+        "text": "The company timeline records a window assembly plant in Charlotte in 1962, an acquisition in 1969 and a fiber plant for molded doorskins in 1975. These are different operating steps: establishing assembly, buying an existing business and adding a production capability. They show how the enterprise expanded beyond the original Oregon millwork assets. A later retrospective discusses training and shared operating principles across acquisitions; those are company descriptions of its approach, not independent findings about every facility.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain all four named purchase partners.",
+      "Separate the family acronym from the founding team.",
+      "Distinguish new plants, acquisitions and added manufacturing capabilities."
+    ],
+    "sources": [
+      {
+        "title": "JELD-WEN — Company history and original partners",
+        "url": "https://corporate.jeld-wen.com/about-us/our-history"
+      },
+      {
+        "title": "JELD-WEN — History of the company name",
+        "url": "https://www.corporate.jeld-wen.com/newsroom/our-stories/2023/what-does-jeld-wen-mean"
+      },
+      {
+        "title": "JELD-WEN — Company retrospective on operating principles",
+        "url": "https://www.corporate.jeld-wen.com/newsroom/our-stories/2025/a-tradition-that-drives-us-ever-day-jeld-wen-history-of-core-values"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "cg-johnson-overhead-door",
+    "name": "C. G. Johnson",
+    "company": "Overhead Door",
+    "website": "https://www.overheaddoor.com/",
+    "role": "Historical cofounder associated with Owen Dautrick.",
+    "founding": "Dautrick-Johnson Manufacturing began in 1921; the electric opener followed in 1926.",
+    "intro": "C. G. Johnson’s company history is tied to a change in how a garage door moved. Overhead Door’s account describes the difficulties of outward-opening doors and places Johnson’s work on an upward-acting sectional door in that setting. It also names his partner, Owen Dautrick, in the business’s beginnings.",
+    "sections": [
+      {
+        "title": "A door designed around the opening",
+        "text": "The company describes an early-twentieth-century problem: heavy doors that swung outward could be obstructed by material in front of a garage. Its account presents the sectional upward-moving door as a response. That explains the use the early business was addressing without turning a historical description into a present-day safety judgment. A current opening, door and installation still have their own requirements. The founder history concerns the original product concept and the organization formed to bring it to customers.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A partnership before the later brand",
+        "text": "In 1921, Johnson and Dautrick started Dautrick-Johnson Manufacturing Company, which the brand history identifies as the predecessor to Overhead Door Corporation. Keeping the earlier name and the partnership visible prevents the familiar brand from obscuring the original business structure. It also separates Johnson’s founder association from the contributions of Dautrick. The later name is part of the company’s development; it is not evidence that every present distributor is the same enterprise as the original manufacturer.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The opener added another part of the system",
+        "text": "The company dates the electric garage-door opener to 1926, after the sectional door. The sequence shows an expansion from the door itself into how it was operated. Its current account also emphasizes a distributor network providing installation and service. That later structure introduces another distinction for readers: manufacturing a branded product and supplying local installation are different roles. The history can explain the brand’s development without assigning a current local provider the founder’s identity or making an unsupported service-quality claim.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Credit Owen Dautrick in the origin story.",
+      "Separate the 1921 door business from the 1926 opener.",
+      "Keep manufacturer and present distributor roles distinct."
+    ],
+    "sources": [
+      {
+        "title": "Overhead Door — Brand origins",
+        "url": "https://www.overheaddoor.com/about-us"
+      },
+      {
+        "title": "Overhead Door — History of the sectional garage door",
+        "url": "https://www.overheaddoor.com/blogs/blog-detail/the-story-of-the-modern-garage-door"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "joseph-lodge",
+    "name": "Joseph Lodge",
+    "company": "Lodge Cast Iron",
+    "website": "https://www.lodgecastiron.com/",
+    "role": "Historical founder of Blacklock Foundry and the later Lodge manufacturing business.",
+    "founding": "Blacklock began in South Pittsburg in 1896; the rebuilt business took the Lodge name in 1910.",
+    "intro": "Joseph Lodge’s manufacturing history includes more than cookware. The company’s founder biography describes experience in machine shops and industrial work before he established Blacklock Foundry in South Pittsburg, Tennessee, in 1896. The later Lodge name followed a fire and rebuilding decision in 1910.",
+    "sections": [
+      {
+        "title": "Experience before the foundry",
+        "text": "The company biography traces Lodge’s work across several places before he settled in Tennessee. It describes industrial experience involving machinery, furnaces and an earlier pipe foundry. Those details help connect the person with the capabilities behind the later enterprise. They do not make every stage the same company. His move to South Pittsburg preceded Blacklock’s start, and the broader story of his working life should not be compressed into the single year printed on a cookware brand.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Blacklock made a range of castings",
+        "text": "The company’s foundry account describes products such as irons, kettles, sinks and cookware. This wider range matters because the original operation was a casting business rather than a factory devoted only to the familiar skillet. After fire destroyed Blacklock in May 1910, Lodge bought land nearby and resumed production under the Lodge name. The company dates the new pouring operation to August, distinguishing the rebuilt site and identity from the original foundry.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Later changes belonged to later generations",
+        "text": "Lodge’s timeline describes novelty castings during the Depression, automated molding in the twentieth century and foundry seasoning much later. These are company milestones across generations. They should not all be credited to Joseph personally. The history demonstrates changes in products and production after the founder’s initial work. It does not establish health claims, current material specifications or guaranteed product life. The source trail instead shows how a foundry business rebuilt and continued adapting its manufacturing operations.",
+        "sourceIndexes": [
+          0
+        ]
+      }
+    ],
+    "checks": [
+      "Separate earlier industrial experience from Blacklock’s founding.",
+      "Use 1896 for Blacklock and 1910 for the rebuild and name.",
+      "Attribute later production changes to their own periods."
+    ],
+    "sources": [
+      {
+        "title": "Lodge Cast Iron — Company history",
+        "url": "https://www.lodgecastiron.com/pages/about-lodge"
+      },
+      {
+        "title": "Lodge Cast Iron — Founder biography",
+        "url": "https://www.lodgecastiron.com/blogs/yelllowstone/story-our-founder-joseph-lodge"
+      },
+      {
+        "title": "Lodge Cast Iron — Foundry and process history",
+        "url": "https://www.lodgecastiron.com/pages/about-lodge-how-its-made"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "h-david-dalquist-nordic-ware",
+    "name": "H. David Dalquist",
+    "company": "Nordic Ware",
+    "website": "https://www.nordicware.com/",
+    "role": "Historical founder Dave Dalquist; brother Mark and wife Dorothy “Dotty” were important contributors.",
+    "founding": "The early manufacturing venture began in 1946; the Nordic Ware business developed through a later acquisition and products.",
+    "intro": "H. David “Dave” Dalquist’s Nordic Ware story involves both industrial manufacturing and household products. The Smithsonian guide to the company records describes him joining his brother Mark in 1946 to start Plastics for Industry. The company’s own history also places Dave and Dorothy “Dotty” Dalquist at the beginning of the family venture.",
+    "sections": [
+      {
+        "title": "Several people and an earlier company",
+        "text": "The archive describes foundry patterns, industrial plastic products and Scandinavian cookware among the early work. It then records the brothers’ 1950 purchase of Northland Aluminum Products, which already had a Nordic Ware line. This sequence gives the familiar brand an earlier industrial and corporate context. It also preserves Mark’s role rather than turning the history into a one-person founding story. The older Dave should not be confused with his son David, who appears in later management records.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A product developed with outside input",
+        "text": "The Smithsonian account links the Bundt pan to a request from two women associated with Hadassah who wanted a lighter version of a European mold. Its records describe later attention after a 1966 baking competition and a subsequent Pillsbury licensing arrangement. The useful business history includes product development, publicity and distribution through another company. Those are distinct contributions and events, rather than a claim that one patent or one advertisement created the entire business.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Demonstration and recipes were part of selling",
+        "text": "The archive describes Dotty demonstrating products at sales conventions, trying new products and developing recipes. Nordic Ware’s own history credits Dave and Dotty together. Her work makes clear that manufacturing the object was only one part of building demand for it. Recipes and demonstrations helped show customers how to use unfamiliar cookware. The company later developed other products as well; its history should not end with one celebrated pan or assume that its success made every subsequent product equally successful.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Mark’s early partnership and Dotty’s commercial contributions.",
+      "Separate the 1946 venture from the 1950 acquisition.",
+      "Distinguish founder Dave from his son David."
+    ],
+    "sources": [
+      {
+        "title": "Nordic Ware — Company history",
+        "url": "https://www.nordicware.com/about-us/"
+      },
+      {
+        "title": "Nordic Ware — Smithsonian guide to company records",
+        "url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.0980.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-ulam-all-clad",
+    "name": "John Ulam",
+    "company": "All-Clad",
+    "website": "https://www.all-clad.com/",
+    "role": "Historical founder of All-Clad Metalcrafters.",
+    "founding": "Clad Metals preceded the 1971 establishment of All-Clad Metalcrafters.",
+    "intro": "John Ulam’s All-Clad history connects industrial metalworking with a household product. Company accounts describe his earlier work with bonded metals before he applied related methods to cookware. The distinction between the earlier metals business and All-Clad Metalcrafters is important to the timeline.",
+    "sections": [
+      {
+        "title": "The capability existed before the cookware brand",
+        "text": "All-Clad’s 2026 history identifies Clad Metals Incorporated in 1967 and describes Ulam’s work across industrial applications. That places the cookware idea within an existing technical background. The business story is not simply that someone decided to sell pans and then learned how to make them. A manufacturing capability developed in one setting could be applied to another product. This account does not independently verify every patent or repeat differing patent totals shown on company pages.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "A new use for bonded metal",
+        "text": "The company’s origin story says Ulam experimented with layers of stainless steel and aluminum and then formed cookware from them. It dates All-Clad Metalcrafters to 1971. These details explain the move from a process to a product business. They do not establish that a particular present pan will behave in a particular way, or that every product carrying the brand uses the same construction. The profile follows the historical application of a process without adopting comparative cooking claims.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Canonsburg provided an industrial setting",
+        "text": "The company’s 2025 account places its factory in Canonsburg, near Pittsburgh, and connects that location with the region’s metalworking history. That is a specific relationship between the business and its manufacturing setting. It also separates the 1971 beginning from later anniversaries and current operations. A reader can understand Ulam’s role through the transition from industrial materials work to cookware production while leaving later management, ownership and individual product specifications to their own current evidence.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate the 1967 metals venture from All-Clad in 1971.",
+      "Describe the bonding process without unverified patent totals.",
+      "Keep historical production context distinct from current product claims."
+    ],
+    "sources": [
+      {
+        "title": "All-Clad — Company origins",
+        "url": "https://www.all-clad.ca/en/about-us"
+      },
+      {
+        "title": "All-Clad — Canonsburg manufacturing history (2025)",
+        "url": "https://www.all-clad.com/blog/post/where-steel-began-rooted-in-community"
+      },
+      {
+        "title": "All-Clad — Metallurgy and cookware history (2026)",
+        "url": "https://www.all-clad.com/blog/post/55-years-of-all-clad-where-performance-became-the-standard"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "sam-farber-oxo",
+    "name": "Sam Farber",
+    "company": "OXO",
+    "website": "https://www.oxo.com/",
+    "role": "Historical founder of OXO; product development involved Betsey Farber and Smart Design.",
+    "founding": "OXO’s Good Grips line reached the market in 1990, after earlier design work.",
+    "intro": "Sam Farber’s OXO story began with a familiar kitchen object that he and his wife Betsey found difficult to use. The company describes that observation as the starting point for a different peeler. Museum and design-school records connect the idea with a collaboration that developed into a household-products business.",
+    "sections": [
+      {
+        "title": "An everyday task exposed the problem",
+        "text": "OXO’s account describes Sam and Betsey cooking together and noticing the shortcomings of a metal peeler. Betsey’s experience was part of the design prompt, not an incidental detail to remove from the story. The eventual response focused on the handle as well as the blade. This profile treats that account as company history. It does not claim that a particular tool is suitable for everyone or provides treatment for a medical condition.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The development involved a design team",
+        "text": "MoMA’s collection labels identify Smart Design’s role in developing the Good Grips tools. They describe the handle’s shape and material as part of an effort to make the utensils easier to wield. That record prevents the business story from assigning all product design to Farber alone. It also distinguishes the observation of a problem from the engineering and design work needed to respond. The institution dates collection objects to 1989, before the line’s commercial launch in 1990.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A product idea became a broader approach",
+        "text": "The Institute of Design places the peeler within Farber’s interest in inclusive design, and OXO describes a continuing process of reconsidering everyday tools. Those sources connect the initial problem with a broader product-development approach. They do not show that every later product was designed by Farber personally. The useful founder history is the sequence: a task that prompted a question, a collaboration to develop an alternative, and a company whose identity grew around that approach.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Betsey’s contribution to the original observation.",
+      "Credit Smart Design for the documented development work.",
+      "Separate 1989 object dates from the 1990 commercial launch."
+    ],
+    "sources": [
+      {
+        "title": "OXO — Company origin story",
+        "url": "https://www.oxo.com/aboutus/"
+      },
+      {
+        "title": "OXO — MoMA collection labels (2024)",
+        "url": "https://press.moma.org/wp-content/uploads/2024/11/MoMA_Pirouette-ObjectLabels_Final.pdf"
+      },
+      {
+        "title": "OXO — Institute of Design founder biography",
+        "url": "https://id.iit.edu/sam-farber/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "hobart-alter-hobie",
+    "name": "Hobart Alter",
+    "company": "Hobie",
+    "website": "https://www.hobie.com/",
+    "role": "Historical founder; different Hobie businesses and later licensing arrangements require separate context.",
+    "founding": "Alter began making surfboards in 1950 and opened a Dana Point shop in 1954.",
+    "intro": "Hobart “Hobie” Alter’s business history began with surfboards before expanding into other kinds of outdoor equipment. The brand’s accounts distinguish his early board-making from the opening of a shop and later work on watercraft. They also show why a shared brand name should not make every later product the founder’s own invention.",
+    "sections": [
+      {
+        "title": "A maker became a shop operator",
+        "text": "The Hobie brand timeline dates Alter’s first surfboard to 1950 and his Dana Point shop to 1954. The Surfing Walk of Fame account describes early balsa work followed by development with Gordon Clark using foam materials. These were changes in both production and the business’s setting. Keeping Clark in the account preserves the collaboration involved in that later stage. It avoids describing the familiar brand as if one person independently invented every material and process behind it.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The name crossed product categories",
+        "text": "The brand timeline moves from surfboards into skateboards and then catamarans. It places the Hobie 14 in the late 1960s and distinguishes the eyewear business launched by Hobie Alter Jr. in 1982. Those are separate people and product histories. The founder’s name on several categories does not make them one unchanged organization. The chronology is most useful when each development retains its own date, contributors and commercial setting.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Later transactions had a defined scope",
+        "text": "A 2025 announcement from Bass Pro Shops and White River Marine Group concerns the Hobie watercraft business and describes Alter’s original surfboard-making as part of its heritage. That later transaction should not be projected backward onto the first shop, or treated as proof that every licensed Hobie product changed hands in the same way. The source trail supports a history of making, retailing and product expansion while keeping the founder’s work distinct from subsequent brand and corporate arrangements.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate 1950 board-making from the 1954 shop.",
+      "Credit Gordon Clark’s documented role in foam development.",
+      "Distinguish the founder, his son and later watercraft transactions."
+    ],
+    "sources": [
+      {
+        "title": "Hobie — Brand history",
+        "url": "https://hobieeyewear.com/pages/about"
+      },
+      {
+        "title": "Hobie — Watercraft acquisition announcement (2025)",
+        "url": "https://about.basspro.com/newsroom/stories/hobie/"
+      },
+      {
+        "title": "Hobie — Surfing Walk of Fame historical biography",
+        "url": "https://surfingwalkoffame.com/hobie-alter/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "asher-dick-kelty",
+    "name": "Asher Dick Kelty",
+    "company": "Kelty",
+    "website": "https://kelty.com/",
+    "role": "Historical cofounder with Nena Kelty.",
+    "founding": "The Keltys began their pack business in the early 1950s; published accounts use different exact years.",
+    "intro": "Asher “Dick” Kelty and Nena Kelty built a pack business from their own outdoor experience. The company’s history emphasizes changes in materials and construction, while its account of Nena identifies the couple as partners. Their shared work is more informative than a founder story that follows only the surname printed on a pack.",
+    "sections": [
+      {
+        "title": "A different combination of materials",
+        "text": "Kelty’s historical account describes nylon fabric, aluminum frames, padded straps and waist belts as parts of Dick’s approach. The business question was how those components could work together in equipment people would carry outdoors. The profile reports that design direction without assigning universal comfort or load-carrying results to modern products. A historical account of lighter materials is not a test report for a particular current backpack.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Nena was part of the enterprise",
+        "text": "The company’s Nena account explicitly describes her and Dick as business partners. A historical interview with Nena recalls the early packs and the decision to use the Kelty name. The sources therefore support a shared founding history rather than treating sewing, selling or naming as invisible background work. Keeping her contribution in view also makes the early enterprise more concrete: turning an idea into a product required more than its frame design.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A careful chronology preserves the history",
+        "text": "The company’s Nena product page gives 1953 for the founding, while older accounts discuss packs sold in 1952. This profile uses the early 1950s rather than choosing an exact year without qualification. The broader company story then describes the packs reaching expedition use during the following decade. Those later associations are part of the brand’s development, not evidence that every current product is an expedition model or a statement about the founders’ present role.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Nena as a partner in the origin story.",
+      "Use early-1950s wording where exact dates differ.",
+      "Separate historical material choices from present performance claims."
+    ],
+    "sources": [
+      {
+        "title": "Kelty — Company history",
+        "url": "https://kelty.com/pages/who-we-are"
+      },
+      {
+        "title": "Kelty — Company account of Nena and Dick Kelty",
+        "url": "https://kelty.com/products/nena-60l?variant=44267918000304"
+      },
+      {
+        "title": "Kelty — Historical interview with Nena Kelty (2004)",
+        "url": "https://www.latimes.com/socal/glendale-news-press/news/tn-gnp-xpm-2004-01-15-export13078-story.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "skip-yowell-jansport",
+    "name": "Skip Yowell",
+    "company": "JanSport",
+    "website": "https://www.jansport.com/",
+    "role": "Historical cofounder with Murray Pletz and Jan Lewis; retired in 2010.",
+    "founding": "JanSport began in Washington in 1967.",
+    "intro": "Skip Yowell’s JanSport history is a shared founding story. The company’s account identifies three people in Washington in 1967: Skip, Murray and Jan. Their different contributions connected outdoor experience, engineering and sewing to the early packs rather than making the business the work of one person.",
+    "sections": [
+      {
+        "title": "Different skills met around a frame",
+        "text": "JanSport’s account describes Murray’s adjustable aluminum frame and Jan’s work on a backpack pattern to fit it. Skip’s outdoor interests were part of the group’s starting point. The company’s name retained Jan’s contribution, and this profile keeps her in the narrative as a founder rather than only a namesake. Murray is identified in historical accounts as Pletz, later McCory. That naming distinction should not create two different people in the company’s origin story.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "The outdoor business broadened its audience",
+        "text": "The company’s 2010 retirement announcement describes a business that began with outdoor packs and expanded to daypacks, travel gear and other products. It also names several retail channels, including college bookstores and department stores. The development matters because a technical outdoor origin does not mean the company always served only expedition customers. Product uses and routes to customers broadened over time. Those later channels are not automatically part of the original three-person operation.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "The founder’s operating role had an endpoint",
+        "text": "The retirement announcement identifies Yowell as cofounder and vice president of global public relations, with retirement effective December 31, 2010. That is a dated employment event. It preserves his founding contribution while preventing the older executive title from being presented as current. Taken together, the sources show a founding team, an expanding product business and a founder whose later role included representing the company’s history. They do not establish that he personally designed every product the announcement describes.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Jan Lewis and Murray alongside Yowell.",
+      "Treat Murray’s later surname as an identity detail, not another founder.",
+      "Keep the 2010 retirement separate from the 1967 founding."
+    ],
+    "sources": [
+      {
+        "title": "JanSport — Company founding history",
+        "url": "https://eu.jansport.com/en-ie/pages/about-us"
+      },
+      {
+        "title": "JanSport — Company retirement announcement (2010)",
+        "url": "https://gearinstitute.com/yowell-announces-retirement/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "wayne-gregory-packs",
+    "name": "Wayne Gregory",
+    "company": "Gregory Mountain Products",
+    "website": "https://eu.gregorypacks.com/",
+    "role": "Historical founder of Gregory Mountain Products.",
+    "founding": "Gregory Mountain Products began in San Diego in 1977, after an earlier venture named Sunbird.",
+    "intro": "Wayne Gregory’s pack-making history began before the company that carries his surname. A company presentation from 2010 places Sunbird in 1970 and Gregory Mountain Products in San Diego in 1977. The separate dates help explain his experience without making two businesses one continuous legal entity.",
+    "sections": [
+      {
+        "title": "An earlier venture supplied experience",
+        "text": "The historical presentation describes Sunbird as Gregory’s first company, focused on external-frame packs. It later records the establishment of Gregory Mountain Products. The sequence is useful because a founder’s skills can develop before a familiar brand exists. It does not mean that Sunbird and Gregory had identical products or corporate arrangements. The profile uses the earlier venture to explain the development of his work, not to backdate the founding of Gregory Mountain Products.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Fit became a product-development focus",
+        "text": "The company’s current history describes attention to fit, suspension and construction. Its 2010 annual report similarly presents the idea of a pack that is worn in relation to the body rather than simply carried as a container. That is a documented design focus, not a promise that any current model will fit every user. The business’s identity developed around a particular design problem, with models and applications expanding beyond the original line over time.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The later organization is not the starting shop",
+        "text": "The annual report describes a range spanning several outdoor activities, while the current company account describes prototyping near its office. Those records come from different periods and should not be blended into a claim that today’s facilities existed in 1977. They show continuing design and product work after the founding. The sources establish Gregory’s historical contribution without proving present ownership, current executive authority or a specific product’s performance for an individual customer.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish Sunbird in 1970 from Gregory in 1977.",
+      "Describe fit as a design focus rather than a universal result.",
+      "Keep historical facilities and later operations in their own periods."
+    ],
+    "sources": [
+      {
+        "title": "Gregory Mountain Products — Company history",
+        "url": "https://eu.gregorypacks.com/uk-en/who-we-are.html"
+      },
+      {
+        "title": "Gregory Mountain Products — Historical company presentation (2010)",
+        "url": "https://www.claruscorp.com/all-sec-filings/content/0001144204-10-041373/0001144204-10-041373.pdf"
+      },
+      {
+        "title": "Gregory Mountain Products — Company annual report (2010)",
+        "url": "https://content.equisolve.net/_4e1ac1bfa4d58df5f78a5af78fa7cf96/claruscorp/db/366/2522/annual_report/2010.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "dana-gleason-mystery-ranch",
+    "name": "Dana Gleason",
+    "company": "Mystery Ranch",
+    "website": "https://www.mysteryranch.com/",
+    "role": "Cofounder with Renée Sippel-Baker; later ownership changed through YETI’s acquisition.",
+    "founding": "Mystery Ranch began in 2000, after the founders’ earlier pack businesses.",
+    "intro": "Dana Gleason and Renée Sippel-Baker’s Mystery Ranch history follows earlier work together in outdoor equipment. Utah State University’s archive holds designs, illustrations, photographs and other records from Dana Design and Mystery Ranch. The collection makes the shared authorship of the business history explicit.",
+    "sections": [
+      {
+        "title": "Earlier work belongs in its own chapter",
+        "text": "The university’s archive identifies Dana Design and Mystery Ranch as companies founded by Gleason and Sippel-Baker. Their shared background helps explain the later enterprise, but the two names should not be treated as one company with one founding date. Mystery Ranch’s 2000 start followed earlier work in pack design and production. Retaining Sippel-Baker’s role prevents the company name and Gleason’s first name from turning a partnership into a solo-founder story.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Specialized users shaped the product business",
+        "text": "YETI’s acquisition announcement describes Mystery Ranch’s work with load-bearing packs for outdoor and professional uses. It also quotes Gleason acknowledging Sippel-Baker as his cofounder. Those details establish both the business’s product focus and the founding partnership. They are not evidence that a specific pack meets every professional requirement or is suitable for a particular user. The historical point is a company organized around carrying equipment for distinct uses, with design and production central to its offer.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Announcement and completion were separate",
+        "text": "YETI announced the transaction on January 31, 2024. Its subsequent annual filing gives February 2, 2024 as the acquisition-completion date. That later ownership event supersedes older material describing the founders as current owners. It does not erase their earlier contributions or establish their present executive positions. The profile distinguishes the 2000 founding, the accumulated design record and the 2024 transaction, while avoiding personal proceeds or ownership-percentage estimates.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Renée Sippel-Baker as cofounder.",
+      "Separate the earlier Dana Design history from Mystery Ranch’s start.",
+      "Distinguish the 2024 announcement from completion and current roles."
+    ],
+    "sources": [
+      {
+        "title": "Mystery Ranch — Founders’ archive at Utah State University",
+        "url": "https://usu.libraryhost.com/repositories/2/resources/3827"
+      },
+      {
+        "title": "Mystery Ranch — Acquisition announcement (January 2024)",
+        "url": "https://investors.yeti.com/news/news-details/2024/YETI-Acquires-MYSTERY-RANCH/default.aspx"
+      },
+      {
+        "title": "Mystery Ranch — YETI annual filing: acquisition completion",
+        "url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059225000008/yeti-20241228.htm"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "bill-moss-tent-works",
+    "name": "Bill Moss",
+    "company": "Moss",
+    "website": "https://www.mossinc.com/",
+    "role": "Historical designer and founder associated with the Moss businesses; Marilyn Moss led their commercial development.",
+    "founding": "The 1950s tent designs preceded Moss Tent Works, which began in 1975.",
+    "intro": "Bill Moss’s history joins industrial design, tents and later fabric structures for exhibitions. The sources distinguish the early design work from Moss Tent Works and give Marilyn Moss a substantial operating role. That distinction matters because a product’s origin and the formation of a business around it are different events.",
+    "sections": [
+      {
+        "title": "Design work came before Tent Works",
+        "text": "Moss Inc.’s history places Bill’s pop-up tent work in the 1950s. The licensed tent-brand history then identifies a design practice before Moss Tent Works began in 1975. The accounts use different shorthand around the earliest tent date, so this profile treats that work as a 1950s design chapter rather than the incorporation of the later company. It does not call every later Moss business the same organization or imply that the first tent already served exhibition customers.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Marilyn supplied business leadership",
+        "text": "The tent-brand history identifies Marilyn Moss with leadership of Tent Works and describes Bill leaving that operation in 1983. Marilyn’s own account emphasizes her work turning the tent into a broader business. These sources should be read with their different perspectives visible. They support retaining both people’s contributions rather than crediting Bill’s designs with all the company’s subsequent commercial development. His founder association does not mean he managed every later stage.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A display became another product direction",
+        "text": "Moss Inc. describes an important moment at an outdoor trade show in 1983: its fabric-and-frame display attracted exhibitors interested in the structure itself. That episode connects the tent-making capability with a different customer problem, exhibition presentation. The later company history moves into larger production and display operations. It is a concrete example of a capability finding another market, while the licensed tent-brand history requires separate context. This profile does not collapse the later display company and every Moss-branded tent into one ownership claim.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Separate 1950s design work from the 1975 business.",
+      "Retain Marilyn’s management and commercial contributions.",
+      "Distinguish the display-company history from licensed tent products."
+    ],
+    "sources": [
+      {
+        "title": "Moss — Company history",
+        "url": "https://www.mossinc.com/about/"
+      },
+      {
+        "title": "Moss — Licensed tent-brand history",
+        "url": "https://mosstents.net/en/pages/about-moss-tents"
+      },
+      {
+        "title": "Moss — Marilyn Moss’s account",
+        "url": "https://www.marilynmmoss.com/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-simms-fishing",
+    "name": "John Simms",
+    "company": "Simms Fishing Products",
+    "website": "https://www.simmsfishing.com/",
+    "role": "Founder; later ownership and the Bozeman operation are separate historical developments.",
+    "founding": "John Simms launched Simms Fishing Products in 1980 in the Jackson, Wyoming, area.",
+    "intro": "John Simms’s account of building fishing products begins with his work as a guide and the practical problems he noticed around equipment. A 2023 company interview records those recollections. Local economic-development and manufacturing records then place the business’s later move to Bozeman in a separate chapter.",
+    "sections": [
+      {
+        "title": "Guiding supplied the product questions",
+        "text": "In the company interview, Simms describes observing clients on the river and developing equipment in response. His account includes a wrist aid and adapting neoprene into a gravel guard. Those recollections explain how a guide’s work could generate product ideas. They do not establish current performance or suitability for a particular angler. The interview is a dated first-person account, and the profile attributes the sequence to him rather than presenting every anecdote as independently tested evidence.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A request suggested a larger product",
+        "text": "Simms recalls a distributor asking for a longer gravel guard. His account connects that request with further work on neoprene fishing equipment. It is a specific customer-feedback story: a change requested for one item suggested another use of the material. The business began in 1980, according to both the interview and the city profile. Keeping that date separate from the later Montana location avoids describing the original operation as if it had already been based in Bozeman.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Later management changed the setting",
+        "text": "Bozeman’s economic-development profile records K.C. Walsh’s 1993 acquisition and the company’s relocation. A 2004 Montana Manufacturing Extension Center report describes subsequent production and process work there. Those are later operating developments, not actions to attribute automatically to the founder. Nor should old source language about a then-current owner be carried forward as a present ownership statement. The resulting history connects the guide’s original ideas with a business that later operated in a different place under different leadership.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Attribute the 2023 recollections to Simms.",
+      "Use Jackson for the founding context and Bozeman for the later move.",
+      "Keep the founder’s ideas distinct from subsequent management decisions."
+    ],
+    "sources": [
+      {
+        "title": "Simms Fishing Products — Founder interview (November 2023)",
+        "url": "https://www.simmsfishing.com/blogs/the-plug/the-innovator"
+      },
+      {
+        "title": "Simms Fishing Products — City economic-development profile",
+        "url": "https://www.bozemanmt.gov/home/showpublisheddocument/3288/637971298053530000"
+      },
+      {
+        "title": "Simms Fishing Products — Montana Manufacturing Extension Center report (2004)",
+        "url": "https://www.montana.edu/mmec/documents/past_newsletters/spring04.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
