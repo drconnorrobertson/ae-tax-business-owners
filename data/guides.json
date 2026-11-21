@@ -696,5 +696,497 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "merchant-payout-reconciliation",
+    "title": "Reconcile merchant payouts before using sales figures for tax planning",
+    "description": "A practical bridge from processor sales to bank deposits, with fees, refunds, reserves and timing differences shown separately.",
+    "intro": "A payment processor can deposit less cash than the sales report shows without either number being wrong. Fees, refunds, chargebacks, reserves and settlement timing can all sit between the sale and the bank. Before an owner uses a dashboard number to forecast profit or taxes, the bookkeeping team should explain that bridge. This guide is a reconciliation worksheet, not a rule that every item has the same tax treatment.",
+    "sections": [
+      {
+        "title": "Choose one period and one processor",
+        "text": "Download the detailed sales activity, payout report and bank transactions for the same period. Keep the report date, time zone, currency and account identifier with each file. Identify payouts that combine sales from several days or cross month-end. A useful reconciliation has an opening unsettled balance, current activity, cash received and a closing unsettled balance. Comparing a calendar-month sales total with deposits received that month can leave a timing difference that needs explanation."
+      },
+      {
+        "title": "Separate deductions from the payout",
+        "text": "Give processor fees, customer refunds, disputes, reserve movements and other adjustments their own lines. Avoid recording a net deposit as both sales and a separate unexplained clearing entry. The team should be able to follow an individual sale into the processor report and then into a payout. If a refund refers to a prior period, retain that reference instead of moving it merely to make the current month balance."
+      },
+      {
+        "title": "Resolve the exception list",
+        "text": "For a fictional shop, a processor reports $10,000 of activity, subtracts $300 of fees and sends $9,700 to the bank. That arithmetic explains the cash movement; it does not alone establish taxable revenue or deductible expenses. If the bank receives $9,200 instead, identify the additional $500 with records rather than labeling it miscellaneous. Assign each unresolved difference an owner, source document and review date."
+      },
+      {
+        "title": "Deliver a repeatable close file",
+        "text": "Save the reports, reconciliation and approved adjustments together. Tell the preparer which accounting method the books use and identify any change from prior periods. IRS recordkeeping guidance calls for supporting records behind business transactions; a processor dashboard screenshot may not contain enough detail. Ask the accountant how the reconciled sales, fees and timing items should appear in the ledger and tax workpapers."
+      }
+    ],
+    "checklist": [
+      "Processor sales and payout exports for the selected dates",
+      "Matching bank statement and transaction references",
+      "Fee, refund, dispute and reserve detail",
+      "Opening and closing unsettled-balance reconciliation",
+      "An assigned list of unresolved differences"
+    ],
+    "questions": [
+      "Can each payout be traced to its underlying activity?",
+      "Which differences are timing items and which require correction?",
+      "Who approves the final sales and fee mapping?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "business-loan-payment-records",
+    "title": "Separate loan principal, interest and fees in your business records",
+    "description": "Build a lender-to-ledger payment schedule instead of treating every loan payment as the same kind of expense.",
+    "intro": "A business loan payment is a cash outflow, but its components may belong in different places in the records. The lender might apply money to principal, interest, fees or an escrow balance. A bank-feed description rarely explains the allocation. Prepare a payment schedule that your bookkeeper and tax preparer can reconcile before using debt service in a profit or cash forecast.",
+    "sections": [
+      {
+        "title": "Begin with the signed debt documents",
+        "text": "Collect the note, amortization schedule, lender statements and closing documents. Record the borrower, account number, original proceeds, payment frequency and any amendments. Keep guarantees and ownership information in the appropriate secure file. If proceeds went directly to a seller or paid off another lender, show that flow explicitly so the absence of a deposit is not mistaken for missing financing."
+      },
+      {
+        "title": "Reconcile the lender balance",
+        "text": "For each payment, list the payment date, cash amount and the lender’s allocation. Compare the ending principal balance with the statement, and explain differences from the original amortization schedule. Variable interest, late payments, extra principal and modifications can change the result. Do not force a payment into an old schedule when the lender’s actual application differs."
+      },
+      {
+        "title": "Keep cash forecasting separate from expense classification",
+        "text": "For a fictional payment of $2,000, a lender might apply $1,600 to principal and $400 to interest. The owner needs the full $2,000 in the cash forecast, while the accountant separately determines the ledger and tax treatment. Fees and financed costs require their own review. This example illustrates allocation only; it does not establish that any interest or fee is deductible."
+      },
+      {
+        "title": "Prepare the year-end handoff",
+        "text": "Give the preparer beginning and ending balances, total payments, lender allocations, accrued items and any refinance documents. Flag debt involving an owner or another related entity for specific review. Retain the evidence for why an entry was made, not just the final total. Ask who will reconcile the loan account each month and update the forecast when terms change."
+      }
+    ],
+    "checklist": [
+      "Signed note and amendments",
+      "Current lender statements and payment detail",
+      "Opening-to-closing principal reconciliation",
+      "Separate interest, fee and escrow lines",
+      "Documents for new borrowing, refinancing or payoff"
+    ],
+    "questions": [
+      "Does the ledger balance agree with the lender?",
+      "Which payment components need separate accounting review?",
+      "Has the cash forecast included the whole payment?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "business-asset-disposal-records",
+    "title": "Prepare an asset disposal file before removing equipment from the books",
+    "description": "Document a sale, trade-in, scrap or retirement so the asset register and tax schedules can be reviewed together.",
+    "intro": "Equipment can leave a business through a sale, a trade-in, a donation, scrapping or a move to another use. Deleting it from an asset list does not explain what happened. Build a disposal file while the evidence is available. The preparer needs the asset’s history and the disposal facts to evaluate the accounting and tax consequences.",
+    "sections": [
+      {
+        "title": "Identify the exact asset",
+        "text": "Start with the register description, acquisition date, original invoice, serial number and location. Link the item to its depreciation schedule and any later improvements. If one invoice covered several assets, explain which portion is leaving the business. A vague entry such as old equipment makes it harder to match the physical item with the cost and deductions already recorded."
+      },
+      {
+        "title": "Describe what actually happened",
+        "text": "Record the disposal date, recipient, proceeds and transaction costs. For a sale, retain the agreement and proof of payment. For a trade-in, preserve the entire new purchase agreement and trade allowance rather than only the net check. For scrapping, document the decision and available removal evidence. Do not invent a sale price for an item that was not sold."
+      },
+      {
+        "title": "Carry the history into the review",
+        "text": "The IRS identifies acquisition, improvement, depreciation and disposal information as relevant asset records. Ask the preparer to reconcile the disposal with the books and tax schedule. The cash received is not automatically the gain, and the remaining book balance is not automatically the tax basis. Avoid estimating a deduction or recapture amount without the necessary history and professional review."
+      },
+      {
+        "title": "Close the operational loop",
+        "text": "Tell the people responsible for insurance, maintenance, property records and the asset register that the item has left. For a fictional machine sold during an upgrade, the disposal file should remain linked to the old machine even if the replacement uses a similar description. Keep the old tax records through the applicable retention period; removing an operational listing is not permission to discard its history."
+      }
+    ],
+    "checklist": [
+      "Original acquisition record and asset identifier",
+      "Depreciation and improvement schedules",
+      "Disposal date and reason",
+      "Sale, trade-in or removal evidence",
+      "Proceeds and transaction-cost detail"
+    ],
+    "questions": [
+      "Can the disposed item be matched to the tax schedule?",
+      "What facts distinguish a sale from a trade-in or retirement?",
+      "Who confirms the books and asset register were updated?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "inventory-count-handoff",
+    "title": "Turn a physical inventory count into an accounting review file",
+    "description": "Plan count instructions, discrepancy review and a documented handoff without assuming every count difference has the same treatment.",
+    "intro": "A physical count is useful only when the business can explain what was counted, when it was counted and how the result relates to its records. A list of quantities does not by itself establish cost, ownership or tax treatment. Prepare the count as an operational process and a separate accounting handoff, particularly when stock moves during the count.",
+    "sections": [
+      {
+        "title": "Define the count boundary",
+        "text": "Record locations, product identifiers, units of measure and the cutoff time. Decide how the team will identify damaged goods, consigned items, customer-owned materials and goods in transit. Keep these categories separate for review instead of silently including or excluding them. Give counters a consistent instruction for opened cartons, partial units and products with similar names."
+      },
+      {
+        "title": "Control movement and recounts",
+        "text": "Assign a person to track receipts, shipments and transfers near the count. Preserve original count sheets and record who counted and who checked material differences. A recount should explain the correction rather than erase the first observation. If operations cannot pause, the accountant needs a movement log to bridge the physical observation to the reporting date."
+      },
+      {
+        "title": "Investigate quantity and value separately",
+        "text": "A missing unit, a duplicate system entry and an outdated cost are different problems. Create an exception list with the item, recorded quantity, counted quantity, explanation and proposed adjustment. In a fictional warehouse, ten damaged units should not simply disappear into a generic shrinkage total before someone assesses what happened. Accounting and tax treatment require the applicable method and supporting facts."
+      },
+      {
+        "title": "Hand over the full reconciliation",
+        "text": "Deliver the count instructions, signed results, movement log, exception approvals and cost report. Ask the preparer which additional records support purchases and inventory valuation. Retain the approved final file and the original evidence. The objective is a traceable reconciliation that another reviewer can understand, not an adjustment chosen solely to reach a desired profit figure."
+      }
+    ],
+    "checklist": [
+      "Count date, cutoff time and locations",
+      "Product list and units of measure",
+      "Original count and recount sheets",
+      "Receipts, shipments and transfers near cutoff",
+      "Approved quantity and valuation exceptions"
+    ],
+    "questions": [
+      "Which goods belong to the business at the reporting date?",
+      "Can the count be bridged to the inventory ledger?",
+      "Who approves quantity and cost adjustments?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "intercompany-transfer-reconciliation",
+    "title": "Reconcile transfers between related businesses before year-end",
+    "description": "Track the sender, recipient, purpose and matching entries for money moving between entities.",
+    "intro": "An owner may move money between companies to cover payroll, fund a purchase or settle a shared bill. The fact that the same person controls both companies does not explain how the transfer should be recorded. A transfer log gives each entity’s accountant the same facts and makes mismatched balances easier to find.",
+    "sections": [
+      {
+        "title": "Identify both sides of the movement",
+        "text": "List the sending entity, receiving entity, bank accounts, date, amount and currency. Link the bank evidence on both sides. Avoid using a person’s shorthand company names when legal entities have similar names. If money passes through an owner’s account, show each step rather than presenting it as a direct entity-to-entity transfer."
+      },
+      {
+        "title": "Document the stated purpose",
+        "text": "Keep the agreement, invoice, funding request or other contemporaneous explanation. Separate proposed loans, reimbursements, capital movements and payments for services for professional review. The label on a bank transfer does not settle its legal or tax character. Ask the advisors which documentation and approvals are needed for the actual arrangement, particularly when ownership differs between entities."
+      },
+      {
+        "title": "Compare the ledgers together",
+        "text": "Build a schedule showing the sender’s entry and the recipient’s entry beside each transfer. Investigate missing dates, exchange differences, netting and transfers posted twice. For a fictional $8,000 movement, one company’s receivable and another company’s expense may indicate that the teams understood the transaction differently. Do not solve that mismatch by changing a label without agreeing on the underlying facts."
+      },
+      {
+        "title": "Assign responsibility for closing differences",
+        "text": "Have one coordinator circulate the unresolved schedule to both bookkeeping teams. Record the agreed correction, approval and posting reference in each entity. Retain the original evidence and the reason for the final treatment. A clean combined total is insufficient if the separate entities’ records remain inconsistent or if an obligation is unsupported."
+      }
+    ],
+    "checklist": [
+      "Legal names and ownership context of both entities",
+      "Bank evidence for sending and receiving accounts",
+      "Purpose and supporting agreements",
+      "Paired ledger entries and balances",
+      "Approved corrections with posting references"
+    ],
+    "questions": [
+      "Do both entities describe the transaction consistently?",
+      "What documentation supports the proposed classification?",
+      "Who confirms both sides have posted the correction?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "customer-deposit-tracking",
+    "title": "Track customer deposits without confusing bookings, cash and earned revenue",
+    "description": "Create a deposit schedule that connects customer agreements, cash receipts, delivery and refunds.",
+    "intro": "A business can receive money before it completes the promised work. The booking report, bank balance and revenue figure may therefore answer different questions. Maintain a customer deposit schedule that explains the commitment behind the cash. The proper accounting and tax treatment depends on the agreement, method and facts; this guide helps prepare those facts for review.",
+    "sections": [
+      {
+        "title": "Connect cash to the customer agreement",
+        "text": "Record the customer identifier, contract or order, receipt date, amount and payment reference. Keep the terms governing delivery, cancellation and refunds. Describe whether the payment reserves capacity, covers a milestone or pays for completed work. Do not rely on a generic deposit account name when different agreements impose different obligations."
+      },
+      {
+        "title": "Track delivery and changes",
+        "text": "Update the schedule when goods ship, services occur, milestones are accepted or the order changes. Link the supporting invoice, completion record or credit memo. A rescheduled job should remain visible, especially when the cash was received in an earlier reporting period. Separate a customer refund from a transfer between the company’s own bank accounts."
+      },
+      {
+        "title": "Reconcile the open commitments",
+        "text": "Begin with the prior schedule, add new receipts, identify amounts applied or refunded and explain the ending balance. For a fictional event company, deposits for next season and receipts for completed events should remain distinguishable even if the processor pays them together. Match the total to the ledger and keep a list of items awaiting customer or operations confirmation."
+      },
+      {
+        "title": "Give the preparer the agreement and method",
+        "text": "Ask the accountant to review the schedule against the company’s reporting and tax methods. Do not assume cash receipt, invoicing or delivery alone controls every situation. Preserve the history of changes and communicate the approved treatment to the billing team. This prevents operational staff from resolving an accounting question by simply renaming a payment."
+      }
+    ],
+    "checklist": [
+      "Customer contracts and refund terms",
+      "Receipt dates and bank or processor references",
+      "Delivery or milestone evidence",
+      "Refunds, credits and changes",
+      "Opening-to-closing deposit reconciliation"
+    ],
+    "questions": [
+      "What obligation remains for each open deposit?",
+      "Which events support applying or refunding the amount?",
+      "Does the approved treatment match the accounting method?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "contractor-invoice-review-file",
+    "title": "Build a contractor invoice review file that supports the business expense",
+    "description": "Connect the engagement, work delivered, invoice approval and payment without treating an invoice as the whole record.",
+    "intro": "A contractor invoice may state an amount due while saying little about the business purpose or work performed. A usable expense file connects the agreement, delivery, approval and payment. That file helps the owner understand spending and gives the bookkeeper and preparer evidence to review. It does not by itself decide worker status, information-reporting duties or deductibility.",
+    "sections": [
+      {
+        "title": "Match the invoice to the engagement",
+        "text": "Record the vendor’s legal identity, contract, project and agreed billing basis. Check whether the invoice is for a deposit, milestone, time period or completed assignment. Identify reimbursed costs and materials separately when they are described that way in the agreement. Do not silently replace the vendor name with an employee or owner name because someone else submitted the bill."
+      },
+      {
+        "title": "Document the work and approval",
+        "text": "Ask the person responsible for the project to identify what was received and whether it matches the invoice. Useful evidence may include a dated deliverable, service report, approved hours or acceptance note. Keep sensitive customer information in its proper system and reference it securely. Approval should explain the business reason for the expense rather than merely show that someone clicked a payment button."
+      },
+      {
+        "title": "Check payment and duplicates",
+        "text": "Link the approved invoice to the bank or payment-platform transaction. Review duplicate invoice numbers, partial payments, credits and expenses billed through another supplier. For a fictional design project billed in three milestones, the final invoice should not be recorded again as the full contract total if earlier milestones are already in the books. Resolve the difference with the vendor and preserve the correction."
+      },
+      {
+        "title": "Route separate compliance questions",
+        "text": "Tell the preparer who provided the work, where the service occurred and how payment was made. Ask the appropriate professional to review classification and reporting questions rather than assuming all vendors receive the same treatment. Retain approved vendor information through a secure process. A complete expense file supports review; it is not a substitute for that review."
+      }
+    ],
+    "checklist": [
+      "Contract or approved scope",
+      "Vendor identity and invoice references",
+      "Evidence of delivered work",
+      "Named approval and business purpose",
+      "Payment, credits and duplicate checks"
+    ],
+    "questions": [
+      "Does this invoice match the work accepted?",
+      "Has any part already been billed or paid?",
+      "Which classification or reporting questions need separate review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "receivables-review-before-tax-planning",
+    "title": "Review unpaid customer invoices before forecasting owner cash",
+    "description": "Separate receivables aging, collection expectations and accounting questions in the planning conversation.",
+    "intro": "A profitable month can leave little cash for the owner when customers have not paid. An accounts-receivable aging report helps explain the gap, but age alone does not establish whether an invoice is valid, collectible or eligible for a tax adjustment. Prepare a review that joins invoice facts with the collection history and reporting method.",
+    "sections": [
+      {
+        "title": "Validate the open balance",
+        "text": "Match each significant receivable to its invoice, customer agreement and delivery record. Check unapplied receipts, credit memos, duplicate invoices and payments sent to another account. Confirm the aging report’s date and whether it measures age from invoice date or due date. An apparently overdue amount may result from a posting error that needs correction rather than a collection decision."
+      },
+      {
+        "title": "Separate disputes from delayed payments",
+        "text": "Record whether the customer disputes the work, awaits an internal approval, has promised a payment date or has stopped responding. Keep dated collection notes and supporting correspondence. Avoid turning an optimistic verbal promise into a forecast certainty. If an employee proposes a credit or settlement, identify who can approve it and retain the agreed terms."
+      },
+      {
+        "title": "Build a realistic cash view",
+        "text": "For a fictional company with $40,000 of open invoices, split expected collections by timing and confidence instead of treating the entire balance as next month’s cash. Show the effect on payroll, debt service and planned owner withdrawals. This is a management forecast, not a change to the ledger. Keep forecast assumptions visible so the owner can update them when customers pay or plans change."
+      },
+      {
+        "title": "Bring tax questions to the preparer",
+        "text": "Explain the accounting method and how each disputed or potentially uncollectible amount was originally recorded. Ask what evidence and approvals are required before any adjustment. Do not assume every old invoice produces a deduction or that a collection forecast determines taxable income. Save the reviewed aging, supporting records and final posting decisions together."
+      }
+    ],
+    "checklist": [
+      "Dated receivables aging report",
+      "Invoices, delivery evidence and customer terms",
+      "Unapplied cash and credit memo review",
+      "Collection history and disputed items",
+      "Cash forecast with explicit assumptions"
+    ],
+    "questions": [
+      "Which balances are accurate but unpaid?",
+      "How much cash is realistically expected and when?",
+      "What facts are needed before any accounting or tax adjustment?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "year-end-adjustment-log",
+    "title": "Keep a year-end adjustment log that the next bookkeeper can follow",
+    "description": "Record proposed, approved and posted journal changes with supporting documents and the effect on prior reports.",
+    "intro": "Year-end work often produces journal entries after an owner has already used the books for decisions. Without a change log, one team may rely on an old report while another uses the adjusted version. A clear adjustment record shows what changed, why it changed and whether the posting has reached every relevant system.",
+    "sections": [
+      {
+        "title": "Give each proposed change an identity",
+        "text": "Assign a reference number, entity, period, preparer and description. Attach the calculation and supporting document. Separate a proposal awaiting approval from an entry that has been posted. A spreadsheet sent by email does not prove that the bookkeeping file now contains the change. Keep the original report version so the effect can be understood."
+      },
+      {
+        "title": "Explain the accounts and rationale",
+        "text": "Show the debit and credit accounts, amount and purpose in language the reviewer can follow. Link the entry to the reconciliation or decision that produced it. If the entry reverses later, identify the reversal date and who will perform it. Do not use a general cleanup description for several unrelated corrections that require different evidence or approvals."
+      },
+      {
+        "title": "Track approval and posting",
+        "text": "For a fictional business, a preparer may propose an adjustment to an asset balance after reviewing an invoice. The log should identify who approved the change, who posted it and which report confirms the new balance. If the tax workpaper differs from the financial books by design, record the distinction rather than forcing the two to agree without explanation."
+      },
+      {
+        "title": "Distribute the final version",
+        "text": "Provide the final trial balance, updated financial statements and completed adjustment log to the people responsible for forecasting and next year’s opening balances. Identify any unresolved items and the agreed restrictions on later changes. Preserve access to the electronic records and supporting evidence. The next bookkeeper should not need to reconstruct the close from scattered messages."
+      }
+    ],
+    "checklist": [
+      "Adjustment reference, entity and accounting period",
+      "Supporting calculation and source document",
+      "Account mapping and proposed amount",
+      "Approval and posting references",
+      "Final report version and open issues"
+    ],
+    "questions": [
+      "Is this entry proposed, approved or posted?",
+      "Can a reviewer explain the change from its supporting file?",
+      "Who has received the final adjusted reports?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/how-should-i-record-my-business-transactions",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "business-record-retention-map",
+    "title": "Build a business record retention map before deleting old files",
+    "description": "Classify returns, asset history, employment records and ordinary support before applying a destruction schedule.",
+    "intro": "An old folder is not automatically safe to delete. Record-retention periods depend on what a document supports and the circumstances of the return or transaction. Build a map of record categories before applying a general cleanup rule. The IRS also notes that non-tax requirements may require keeping records longer.",
+    "sections": [
+      {
+        "title": "Classify the record before choosing a date",
+        "text": "Separate filed returns, supporting income and expense documents, employment records, asset history and active contracts. Identify the entity and tax year for each category. Keep records tied to an open dispute, examination, claim or other hold outside the routine destruction process. A storage system organized only by upload date can hide documents that still support a current balance."
+      },
+      {
+        "title": "Treat asset history as a continuing file",
+        "text": "An acquisition invoice or improvement record may support depreciation and a future disposal calculation years after the payment. Link that history to the asset rather than scattering it among annual expense folders. The IRS generally ties retention of property records to the limitation period for the disposal year. Ask the preparer how this applies to the business’s actual property and transaction history."
+      },
+      {
+        "title": "Document the retention decision",
+        "text": "Assign a responsible reviewer to each record category and record the rule or professional instruction being applied. Do not turn a common three-year reference into a universal deletion policy: the IRS lists exceptions and separate employment-record rules. Also check lender, insurer, contractual and other applicable obligations. The goal is a defensible schedule that reflects the documents you actually hold."
+      },
+      {
+        "title": "Test retrieval before archiving",
+        "text": "For a fictional company moving files to lower-cost storage, retrieve a sample invoice, return and asset record before removing the working copies. Preserve readable formats, permissions and the relationship between the record and its index. Log authorized deletions and pause the process when a hold arises. A backup that nobody can restore is not an effective recordkeeping plan."
+      }
+    ],
+    "checklist": [
+      "Record categories with entity and year",
+      "Asset and continuing-balance links",
+      "Open holds, disputes and claims",
+      "Tax and non-tax retention review",
+      "Retrieval test and authorized deletion log"
+    ],
+    "questions": [
+      "What current or future calculation does this record support?",
+      "Does an exception or other obligation require longer retention?",
+      "Can the archived file actually be retrieved and read?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "accounting-software-migration-records",
+    "title": "Preserve business records when changing accounting software",
+    "description": "Plan exports, opening balances, audit history and access before ending the old software subscription.",
+    "intro": "A software migration can preserve the headline balances while losing the detail needed to explain them. Before ending the old subscription, agree which records will move, which will remain archived and how the team will retrieve both. Electronic records still need to be complete, accurate and accessible; a successful login to the new system is only one part of the handoff.",
+    "sections": [
+      {
+        "title": "Inventory the old system",
+        "text": "List ledgers, customer and supplier records, bank reconciliations, attachments, payroll interfaces, asset schedules and relevant history. Identify integrations that hold information outside the accounting application. Record who controls each export and its format. If the new system cannot import a category, designate a readable archive instead of assuming the data is unnecessary."
+      },
+      {
+        "title": "Choose and reconcile the cutover",
+        "text": "Set a cutoff date and decide who may post changes before and after it. Reconcile the final old-system trial balance with the new opening balances, including receivables, payables, loans and clearing accounts. Keep the detailed schedules behind those totals. Record any conversion adjustments separately from ordinary business transactions so the next reviewer can distinguish migration work from operations."
+      },
+      {
+        "title": "Test a transaction end to end",
+        "text": "Use a sample sale, purchase and bank payment to test document retrieval and account mapping. For a fictional company, a customer balance of $5,000 in both systems is insufficient if the invoices behind it differ. Check aged items, unapplied cash and attachments. Ask the preparer whether the available archive will support later review of the periods kept in the old system."
+      },
+      {
+        "title": "Retain access until the handoff is accepted",
+        "text": "Agree who signs off the migration and which exceptions must be resolved first. Preserve exports and credentials through an authorized secure process. Do not rely solely on an inactive subscription remaining available indefinitely. Record the archive location, responsible owner, retention review and retrieval instructions so staff turnover does not sever access to the business history."
+      }
+    ],
+    "checklist": [
+      "System and integration inventory",
+      "Complete exports and readable attachments",
+      "Cutoff rules and final reconciliations",
+      "Opening-balance comparison and exceptions",
+      "Archive owner, access and retrieval test"
+    ],
+    "questions": [
+      "Which detail stays outside the new system?",
+      "Do opening balances reconcile to the old closing records?",
+      "Can a future reviewer retrieve the supporting documents?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/how-should-i-record-my-business-transactions",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "payroll-to-ledger-reconciliation",
+    "title": "Reconcile payroll reports, cash payments and the general ledger",
+    "description": "Separate gross pay, deductions, employer costs and remittances before relying on the payroll expense total.",
+    "intro": "A payroll service may withdraw several amounts on different dates for one pay run. The bank total, employee net pay and payroll expense are therefore not interchangeable. Prepare a reconciliation that joins the payroll register, funding transactions and ledger entries. Specific payroll filing or correction decisions belong with the responsible payroll and tax professionals.",
+    "sections": [
+      {
+        "title": "Define the payroll period and records",
+        "text": "Collect the register for each pay run, funding notices, relevant liability reports and bank activity. Record pay dates separately from the periods worked. Identify off-cycle checks, voids, reversals and manual payments. If payroll spans entities or departments, preserve that allocation. A report for one company should not be silently combined with another because both use the same service login."
+      },
+      {
+        "title": "Build a gross-to-net bridge",
+        "text": "Show gross compensation, employee deductions and net payments in separate columns. Identify employer costs and payroll-service fees separately from employee withholdings. Match withdrawals to their purpose rather than posting all payroll-related cash to wages. Ask the payroll team to explain any funding amount that does not agree with the corresponding report."
+      },
+      {
+        "title": "Review unpaid or duplicate items",
+        "text": "For a fictional pay run, a replaced payment can create a second bank movement while the underlying compensation remains unchanged. Link the void, replacement and clearance records. Review payroll liabilities and confirm what has been remitted or remains open. Do not clear an unexplained balance just because the payroll service’s dashboard shows the latest run completed."
+      },
+      {
+        "title": "Agree on the final handoff",
+        "text": "Give the bookkeeper the approved mapping and adjustment references. Give the preparer the reconciled annual reports and a list of corrections or unresolved items. The IRS identifies employment records as a distinct recordkeeping category, so preserve the source detail under the applicable retention policy. Make someone responsible for confirming that payroll reports and the ledger remain aligned after corrections."
+      }
+    ],
+    "checklist": [
+      "Payroll registers and pay dates",
+      "Funding notices and bank references",
+      "Gross-to-net and employer-cost bridge",
+      "Void, reversal and manual-payment records",
+      "Open liabilities and approved adjustments"
+    ],
+    "questions": [
+      "Does each cash withdrawal have a documented purpose?",
+      "Have voids and replacements been counted correctly?",
+      "Who confirms the final payroll and ledger totals agree?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "category": "Business records",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
   }
 ]
