@@ -82,3 +82,5 @@ assert.deepEqual(listedResourceSlugs.sort(),expectedResourceSlugs,'Every guide l
 console.log(`PASS: ${resourceListingFiles.length} bounded resource pages discover all ${expectedResourceSlugs.length} guides exactly once.`);
 
 await import("./check-provider-calculators.mjs");
+
+await import("./check-researched-founders.mjs");
