@@ -6971,5 +6971,849 @@
     ],
     "reviewedAt": "2026-11-21",
     "revenueEvaluated": false
+  },
+  {
+    "slug": "john-gabbert-room-board",
+    "name": "John Gabbert",
+    "company": "Room & Board",
+    "website": "https://www.roomandboard.com/",
+    "role": "Founder; the company’s 2024 letter identified him as founder and chairman.",
+    "founding": "Gabbert dates the start of Room & Board to 1980; the company announced employee ownership in 2024.",
+    "intro": "John Gabbert’s account of Room & Board connects a decision to leave an existing family enterprise with a later decision about the future of the business he created. His signed company letter supplies a clear starting point: he left his family’s furniture business in 1980 to begin Room & Board.",
+    "sections": [
+      {
+        "title": "A separate retail identity",
+        "text": "Gabbert described a personal product test: he wanted to sell furniture he would choose himself. He paired that with a particular approach to customers and colleagues. These were the operating intentions in his own account, rather than a claim that a style of furniture alone created the business. The distinction is useful in understanding the founding decision: Room & Board began with an attempt to define a different retail experience, not simply to extend the family company under another name.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "A business built with manufacturing partners",
+        "text": "The 2024 company announcement describes a Minneapolis-based furniture retailer centered on American craftsmanship. Gabbert’s accompanying letter discusses stores, delivery centers and manufacturing partners as separate parts of the organization’s reach. That structure makes the history relevant beyond furniture design. A retailer can organize selection, customer relationships and delivery while relying on other businesses for production. The account does not make every manufacturer an owned factory, and this profile does not treat the partner network as one legal entity.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Choosing the next ownership structure",
+        "text": "In 2024, Room & Board announced its transition to an employee stock ownership plan. Gabbert explained the decision in terms of preserving the company’s culture and giving employees an ownership interest. The announcement is a dated company event, not a calculation of any employee’s benefit or Gabbert’s personal proceeds. It marks a different question from the one he faced in 1980: after creating a separate enterprise, how would its stated priorities continue beyond the founder’s initial control?",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Compare the 1980 founding decision with the 2024 succession announcement.",
+      "Keep manufacturing partners distinct from owned operations.",
+      "Use the dated letter for Gabbert’s stated reasons, not estimated transaction outcomes."
+    ],
+    "sources": [
+      {
+        "title": "Room & Board — Founder’s employee-ownership letter (2024)",
+        "url": "https://www.roomandboard.com/blog/2024/07/were-100-employee-owned/"
+      },
+      {
+        "title": "Room & Board — Company announcement of employee ownership (April 2024)",
+        "url": "https://www.prnewswire.com/news-releases/room--board-celebrates-transition-to-100-employee-ownership-302127485.html"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-reed-arhaus",
+    "name": "John Reed",
+    "company": "Arhaus",
+    "website": "https://www.arhaus.com/",
+    "role": "Cofounder with Jack Reed; executive roles are described by dated company records.",
+    "founding": "Arhaus traces its first showroom to Cleveland in 1986; its later LLC formation is a separate event.",
+    "intro": "John Reed cofounded Arhaus with his father, Jack Reed. The company’s 2025 annual report returns to a specific physical beginning: a building in Cleveland’s Flats neighborhood that the pair renovated for their first showroom in 1986. The setting helps explain why presentation became part of the business model.",
+    "sections": [
+      {
+        "title": "The first showroom was part of the product",
+        "text": "The annual report describes the founders selecting an approximately 150-year-old building and working on its details before opening. Their activity combined sourcing furniture with creating a place in which customers would encounter it. A showroom was therefore more than storage for stock. In the company’s retrospective, the building and its arrangement contributed to the experience the founders wanted to offer. This is a documented account of the opening, not an independent measurement of how individual design choices affected sales.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A founding year is not every corporate date",
+        "text": "Arhaus’s management biography dates Reed’s cofounding role to 1986 but dates his service on the Arhaus, LLC board from that entity’s formation in December 2013. It also describes separate periods as chief executive, including an interruption between December 2015 and February 2017. Those details prevent a misleading uninterrupted-title narrative. An operating brand can have a history longer than a particular legal entity, and a founder can leave and return to an executive position without founding the business again.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Extending the showroom model",
+        "text": "The 2025 report describes showrooms alongside catalogs, ecommerce, interior design services and trade relationships. Those channels are presented as parts of an integrated customer experience. The historical continuity is the attention to how people see and plan with furniture; the change is the number of ways they can interact with the company. Reed’s story can be read through that development without assuming that the original showroom, the later corporate structure and today’s channel mix were all present at the start.",
+        "sourceIndexes": [
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Jack Reed’s cofounding role.",
+      "Separate the 1986 opening from the 2013 entity formation.",
+      "Date executive titles rather than implying uninterrupted tenure."
+    ],
+    "sources": [
+      {
+        "title": "Arhaus — John Reed management biography",
+        "url": "https://ir.arhaus.com/management/john-reed"
+      },
+      {
+        "title": "Arhaus — 2025 annual report: first showroom and operating model",
+        "url": "https://www.sec.gov/Archives/edgar/data/1875444/000119312526138946/d49586dars.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "bob-duncan-american-leather",
+    "name": "Bob Duncan",
+    "company": "American Leather",
+    "website": "https://www.americanleather.com/",
+    "role": "Founder; historical executive roles and former ownership are identified separately.",
+    "founding": "The company dates its origins to 1990.",
+    "intro": "Bob Duncan’s American Leather story begins with a manufacturing question: could a company make customized upholstered furniture without the lengthy wait that customers associated with it? The company dates its founding to 1990 and describes an engineering-led attempt to change how an order moved from specification to finished furniture.",
+    "sections": [
+      {
+        "title": "Designing the production process",
+        "text": "American Leather’s own account says its founders considered the customary wait for customized furniture too long. It describes a small team working in a borrowed facility. That origin emphasizes process as well as product. The business needed a way to handle customer choices while still moving work through production. Its historical ambitions should not be read as a delivery commitment for a current order; lead times depend on the actual product, retailer and written terms.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Automation and craft had different jobs",
+        "text": "Room & Board, a manufacturing customer, describes Duncan’s interest in lean production and computerized cutting. Its account also describes people selecting leather patterns and tailoring upholstery around frames. The useful operating distinction is that machines and craftspeople were assigned different tasks within the same flow. Cutting consistent components did not remove the need to work with variable hides or fit an upholstered cover. This partner account explains a production relationship, rather than serving as an independent quality rating.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "The founder’s role changed over time",
+        "text": "The Little Green Book Foundation identifies Duncan as American Leather’s founder and former owner. Its biography connects his later activities with the business he previously built. That wording is narrower than calling him the current owner or chief executive. Together, the sources show an origin centered on manufacturing systems, a commercial partnership that describes those systems in use, and a later founder biography. They do not establish his present authority over an order or provide a current ownership percentage.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish a historical production goal from a current delivery promise.",
+      "Read the retailer account as a participant’s description.",
+      "Use former-owner wording where the founder’s foundation does."
+    ],
+    "sources": [
+      {
+        "title": "American Leather — Company origins and manufacturing approach",
+        "url": "https://www.americanleather.com/about-us/"
+      },
+      {
+        "title": "American Leather — Founder’s foundation biography",
+        "url": "https://www.littlegreenbookfoundation.org/foundation-1"
+      },
+      {
+        "title": "American Leather — Manufacturing partner’s account",
+        "url": "https://www.roomandboard.com/about-us/craftspeople/american-leather"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "gerrard-wendell-haworth",
+    "name": "Gerrard Wendell Haworth",
+    "company": "Haworth",
+    "website": "https://www.haworth.com/",
+    "role": "Historical founder of the business that became Haworth.",
+    "founding": "G.W. Haworth founded Modern Products in 1948; its products and name evolved later.",
+    "intro": "Gerrard Wendell Haworth, usually identified as G.W. Haworth, began the business that became Haworth with woodworking rather than a complete office-furniture system. The company’s history traces the 1948 start to Modern Products and describes a sequence of changes in products, markets and family leadership.",
+    "sections": [
+      {
+        "title": "From a workshop to a product business",
+        "text": "Haworth’s account describes an industrial-arts teacher making wood items, including retail display pieces. The initial business was not yet the broad workplace supplier associated with the later name. Its early work connected a maker’s skills to specific customer needs. The company’s description of support from Haworth’s parents belongs to that historical founding account; it is not a model for the financing available to another manufacturer or a basis for estimating the founder’s later wealth.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Partitions changed the direction",
+        "text": "In the 1950s, the company built an office partition system for the United Auto Workers headquarters in Detroit. Its timeline links that work with the move toward wall products and the name Modern Partitions. The sequence matters because it identifies a change in the business’s focus. Wooden display work and workplace partitions required related manufacturing capabilities, but they served different uses. The later office-furniture identity developed through that transition instead of appearing fully formed in the original garage.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Different generations made different contributions",
+        "text": "The company attributes the development of pre-wired panels to G.W.’s son, Dick Haworth. It also describes later leadership moving from Dick to Matthew Haworth. This is a history with several contributors, not a single-founder explanation for every later invention. Reading the timeline that way keeps the 1948 founding act separate from product development and management decisions made by subsequent generations. G.W.’s historical founder status does not imply that he held a current role when later milestones occurred.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Use Modern Products for the 1948 business name.",
+      "Distinguish the partition transition from the original woodworking work.",
+      "Attribute pre-wired panels to Dick Haworth."
+    ],
+    "sources": [
+      {
+        "title": "Haworth — Company history and leadership generations",
+        "url": "https://www.haworth.com/na/en/about/about-haworth"
+      },
+      {
+        "title": "Haworth — Historical product and company milestones",
+        "url": "https://www.haworth.com/na/en/about/about-haworth/history"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "dirk-jan-de-pree-herman-miller",
+    "name": "Dirk Jan De Pree",
+    "company": "Herman Miller",
+    "website": "https://www.hermanmiller.com/",
+    "role": "Historical founder of the renamed Herman Miller business; not founder of its 1905 predecessor.",
+    "founding": "The predecessor began in 1905; the Herman Miller name dates to the 1923 acquisition and renaming.",
+    "intro": "Dirk Jan “D.J.” De Pree’s route to Herman Miller began as an employee of an existing furniture company. The company timeline dates Star Furniture’s start to 1905, his arrival as a clerk to 1909 and his appointment as president to 1919. Those steps preceded the transaction behind the Herman Miller name.",
+    "sections": [
+      {
+        "title": "An acquisition created the familiar name",
+        "text": "In 1923, De Pree persuaded his father-in-law, Herman Miller, to acquire a majority interest in Michigan Star Furniture. The business was renamed Herman Miller Furniture Company, with De Pree as president. Describing that sequence is more accurate than saying De Pree opened the original factory in 1905. It also explains why the company carries another person’s name. The founding association concerns the renamed business and its new direction, while the predecessor’s manufacturing history remains part of the record.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Changing what the company made",
+        "text": "The timeline places De Pree’s meeting with designer Gilbert Rohde during the difficulties of the Great Depression. Rohde encouraged a move away from traditional reproductions toward furniture suited to changing needs. The company introduced his work in the 1930s and later entered office furniture. This was a product and market transition within an existing manufacturer. Its significance lies in changing the offer and working with outside design talent, rather than treating continued production of the old range as the only path available.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Design leadership outlasted one collaboration",
+        "text": "After Rohde’s death, De Pree hired George Nelson as design director. The company’s archive describes Nelson’s ambitious catalog and later documentation of the office as a working environment. These records show that presentation, product development and design leadership were connected business activities. They also make clear that the history belongs to a network of designers and employees. De Pree’s founder narrative should retain those contributors rather than assign all later furniture design to the person who led the company.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep the 1905 predecessor and 1923 renaming distinct.",
+      "Retain Herman Miller’s role in the acquisition.",
+      "Distinguish De Pree’s business leadership from the designers’ work."
+    ],
+    "sources": [
+      {
+        "title": "Herman Miller — Company timeline",
+        "url": "https://www.hermanmiller.com/en_us/about/timeline/"
+      },
+      {
+        "title": "Herman Miller — Company archives: The Office Documented",
+        "url": "https://www.hermanmiller.com/stories/why-magazine/the-office-documented/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "peter-martin-wege-steelcase",
+    "name": "Peter Martin Wege",
+    "company": "Steelcase",
+    "website": "https://www.steelcase.com/",
+    "role": "Historical cofounder with Walter D. Idema and David D. Hunting.",
+    "founding": "The Metal Office Furniture Company was established in Grand Rapids in 1912 and later took the Steelcase name.",
+    "intro": "Peter Martin Wege was among the founders of the Metal Office Furniture Company, the business later known as Steelcase. The company’s history names Walter D. Idema and David D. Hunting with him. The early story is about applying metalworking to office products and then building channels through which those products could reach customers.",
+    "sections": [
+      {
+        "title": "Beginning with an office problem",
+        "text": "Steelcase’s account links an early metal wastebasket with the hazards associated with combustible office containers. That is historical product context, not a statement about the certification or suitability of a current product. The founders were working in Grand Rapids, already associated with furniture manufacturing. Their company approached the office through metal construction. Keeping that starting point visible explains the original business name and why an apparently small object figures prominently in the company’s account of its beginnings.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Desks and distribution followed",
+        "text": "The company describes a dealer network developing by 1919 as its range included desks, cabinets and other products. Its historical leadership-spaces article shows early desks available with finishes intended to resemble wood. That combination is instructive: a different construction material did not mean that every customer preference had changed. Product design, appearance and access through dealers were separate operating choices. The later Steelcase name, formally adopted in 1954, followed decades of business under the earlier identity.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Preserving the people in the founding record",
+        "text": "Wege should not be confused with his son, Peter Melvin Wege, who belonged to a later generation. Nor should Idema and Hunting disappear from a biography centered on one founder. The sources establish a shared founding association and describe products and distribution over time. They do not support crediting Peter Martin Wege alone with all subsequent company development. The useful history is a progression from metal-office products into a broader organization, with the founding partners retained in the account.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep all three named founding partners in view.",
+      "Separate Peter Martin Wege from Peter Melvin Wege.",
+      "Treat early product claims as historical context, not present certification."
+    ],
+    "sources": [
+      {
+        "title": "Steelcase — Company history and founding partners",
+        "url": "https://att-site.my.steelcase.com/about-steelcase/"
+      },
+      {
+        "title": "Steelcase — Historical leadership spaces",
+        "url": "https://www.steelcase.com/eu-en/research/articles/topics/culture-talent/an-evolution-of-leadership-spaces/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "tim-copeland-furniture",
+    "name": "Tim Copeland",
+    "company": "Copeland Furniture",
+    "website": "https://copelandfurniture.com/",
+    "role": "Founder associated with the company’s origins; a 2018 company release also names Jenny Copeland.",
+    "founding": "Company accounts describe early-1970s wood products, a 1975 founding in a release and production since 1976 in a later catalog.",
+    "intro": "Tim Copeland’s company history starts with practical wood products before the furniture collections now associated with the name. Copeland Furniture’s current account describes cider presses, butcher-block kitchen pieces and porch furniture as stages in that development. It is a manufacturing history with several dates, rather than one date that explains every activity.",
+    "sections": [
+      {
+        "title": "Useful wood products came first",
+        "text": "The company describes making cider presses for households and small orchards, then expanding into kitchen and Adirondack-style furniture. These products connected woodworking capability with different everyday uses. The progression did not require the original product to remain the company’s entire identity. It also provides a concrete way to read the later furniture business: materials and production experience accumulated while the product range changed. This is the company’s own description of its early work, not a present-day product recommendation.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Growth changed the production setting",
+        "text": "Copeland’s history describes a move from a small garage operation in East Corinth to a manufacturing facility in Bradford, Vermont. It connects present production with both computer technology and traditional craft. The signed July 2024 catalog places the business in its Vermont setting and dates wood-product and furniture production to 1976. Those descriptions make the production setting part of the story, while avoiding an assumption that every process used in the later factory existed during the first workshop years.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The dates and family attribution need care",
+        "text": "A company-submitted June 2018 release names Tim and Jenny Copeland as founders and gives 1975. The later catalog says production since 1976, while the current history discusses the early 1970s. These statements identify related stages and do not establish one precise incorporation date. This profile retains Jenny’s documented founding involvement and reports the different source contexts. The same release concerns a design dispute; its allegations are unnecessary to the origin story and are not adopted here as independent findings.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Jenny Copeland’s named founding involvement.",
+      "Separate early woodwork, founding and production dates.",
+      "Do not turn a company release’s allegations into independent conclusions."
+    ],
+    "sources": [
+      {
+        "title": "Copeland Furniture — Company history",
+        "url": "https://copelandfurniture.com/about-copeland-furniture/"
+      },
+      {
+        "title": "Copeland Furniture — Signed July 2024 company catalog",
+        "url": "https://www.copelandfurniture.com/pub/media/documents/CopelandFurnitureCatalogJuly2024LowRes.pdf"
+      },
+      {
+        "title": "Copeland Furniture — Company-submitted release (June 2018)",
+        "url": "https://www.furnituretoday.com/business-news/copeland-furniture-sues-barkman-furniture-protect-its-intellectual-property/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "edward-knabusch-la-z-boy",
+    "name": "Edward M. Knabusch",
+    "company": "La-Z-Boy",
+    "website": "https://www.la-z-boy.com/",
+    "role": "Historical cofounder with cousin Edwin J. Shoemaker.",
+    "founding": "Floral City Furniture began in 1927; the company’s annual reports date its first recliner to 1928 and La-Z-Boy incorporation to 1941.",
+    "intro": "Edward M. Knabusch and Edwin J. Shoemaker began the business behind La-Z-Boy together. The annual reports identify Floral City Furniture as the 1927 starting point. Their later reclining chair and the La-Z-Boy corporate name belong to subsequent steps, a distinction that is easy to lose in a compressed brand history.",
+    "sections": [
+      {
+        "title": "A mechanism became a product",
+        "text": "The company’s 75th-anniversary report describes Shoemaker developing a reclining mechanism and the cousins using orange crates to work through a prototype. Their work connected a physical mechanism with a piece of furniture they could manufacture. The account is about iteration, not merely naming a finished chair. It also preserves the collaboration: a biography centered on Knabusch should not remove Shoemaker’s mechanical contribution or imply that either man created the entire later product range alone.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Upholstery changed how the chair could be used",
+        "text": "The same report describes a customer suggesting upholstery for the original chair. In the company’s telling, that moved the offer beyond a seasonal use toward furniture suited to the home throughout the year. The historical business point is a change in the product’s setting and sales proposition. It is not proof that a present model has any particular comfort or durability advantage. A contemporary purchase still depends on the specific design, materials and terms being offered.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Business, product and incorporation have different dates",
+        "text": "The 2026 annual report places Floral City Furniture in 1927, the first recliner in 1928, Michigan incorporation as La-Z-Boy Chair Company in 1941 and the La-Z-Boy Incorporated name in 1996. Those dates describe different events. They do not contradict one another simply because they differ. Keeping them separate produces a clearer founder profile: the cousins first created an operating furniture business, then developed its signature product, while later corporate changes continued after those early years.",
+        "sourceIndexes": [
+          0
+        ]
+      }
+    ],
+    "checks": [
+      "Name both cousins in the founding account.",
+      "Keep 1927, 1928 and 1941 attached to their specific events.",
+      "Read the upholstered-chair story as historical product development."
+    ],
+    "sources": [
+      {
+        "title": "La-Z-Boy — 2026 annual report: business origins",
+        "url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000027/ar2026.pdf"
+      },
+      {
+        "title": "La-Z-Boy — 2002 annual report: founding and product history",
+        "url": "https://www.sec.gov/Archives/edgar/vprr/0204/02045719.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "john-david-bassett",
+    "name": "John David Bassett",
+    "company": "Bassett Furniture",
+    "website": "https://www.bassettfurniture.com/",
+    "role": "Historical cofounder of Bassett Furniture Company.",
+    "founding": "Bassett Furniture began in 1902; later incorporation and consolidation dates describe different events.",
+    "intro": "John David “J.D.” Bassett’s founding association belongs to the early furniture enterprise in Virginia, not to the later career of his grandson with a similar name. Virginia Tech’s archival description identifies him with brothers Samuel Henry and Charles Columbus Bassett and their brother-in-law, Reed L. Stone.",
+    "sections": [
+      {
+        "title": "Lumber experience preceded furniture manufacturing",
+        "text": "The Virginia historic-property record describes J.D. Bassett as a merchant and sawmiller before the family entered furniture manufacturing in 1902. The connection between those activities is important: furniture production was a new use for experience with materials and regional trade. The account places the venture in Henry County and describes its early focus on bedroom furniture. It is a history of moving into manufacturing, rather than evidence that the family began with the later national retail business already in place.",
+        "sourceIndexes": [
+          2
+        ]
+      },
+      {
+        "title": "The family created more than one business",
+        "text": "Virginia Tech’s description notes that family members established additional companies and that these were consolidated as Bassett Furniture Industries in 1931. The company’s own annual filing gives 1930 as its incorporation under Virginia law. These statements refer to different corporate events. A reader should not replace the 1902 operating origin with either later date, or assume that every company bearing the Bassett name is interchangeable. The original family enterprise, subsequent organizations and consolidated business require their own context.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Records reveal the work behind the name",
+        "text": "The university archive includes 1922 letters concerning a burned-out motor and a furnace installation. Such records ground the company history in practical manufacturing needs, rather than only a retrospective brand story. They also identify J.D. Bassett’s historical presidency. The modern company filing describes manufacturing, retail and wholesale channels, but those later arrangements should not be projected backward onto his founding role. The profile follows the documented person, partners and sequence without estimating family wealth or present control.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish J.D. Bassett from similarly named descendants.",
+      "Preserve all four named founding participants.",
+      "Separate 1902 operations, 1930 incorporation and 1931 consolidation."
+    ],
+    "sources": [
+      {
+        "title": "Bassett Furniture — Virginia Tech company archive description",
+        "url": "https://aspace.lib.vt.edu/agents/corporate_entities/735"
+      },
+      {
+        "title": "Bassett Furniture — 2024 annual filing: corporate history",
+        "url": "https://investors.bassettfurniture.com/node/17146/html"
+      },
+      {
+        "title": "Bassett Furniture — Virginia historic-property nomination",
+        "url": "https://www.dhr.virginia.gov/VLR_to_transfer/PDFNoms/044-5011_Eltham_Manor_1999_Final_Nomination.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "paul-lamfrom-columbia",
+    "name": "Paul Lamfrom",
+    "company": "Columbia Sportswear",
+    "website": "https://www.columbia.com/",
+    "role": "Historical founder associated with Columbia Hat Company; Marie Lamfrom’s participation is retained.",
+    "founding": "The family moved to Portland in 1937; the company’s history places the hat-business origin in 1938.",
+    "intro": "Paul Lamfrom’s role in Columbia began with a hat business, before the later outdoor-apparel identity. Columbia’s history links the family’s move from Germany to Portland with the creation of Columbia Hat Company. Its 1998 annual report names both Paul and Marie Lamfrom in the purchase that followed their arrival.",
+    "sections": [
+      {
+        "title": "Arrival and business formation were separate steps",
+        "text": "The family arrived in Portland in 1937 after fleeing Nazi Germany. The annual report describes Paul and Marie buying a small hat distributorship the following year and changing its name to Columbia Hat Company. The current company timeline likewise places its origin under 1938. Retaining those dates avoids turning the family’s arrival into an exact business-formation date. It also keeps Marie in the account rather than reducing a family venture to Paul’s name alone.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Distribution exposed a production problem",
+        "text": "The 1998 report describes frustration with supplier deliveries as part of the move toward making products. In this account, the business did not jump directly from selling hats to the later outdoor range. Its development involved decisions about what to source and what to produce. That is a concrete operating change: when a distributor depends on outside supply, delivery experience can become part of the reason to reconsider its role in the product chain. The source supplies historical context, not a general recommendation to manufacture in-house.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "Later generations changed the offer",
+        "text": "Columbia’s timeline describes Neal Boyle’s later leadership and Gert Boyle’s work on a fishing-vest prototype. Those contributions belong to the company’s development after the initial hat business. They should neither disappear from the history nor replace Paul and Marie’s earlier roles. The resulting profile is a sequence of different activities—migration, acquisition, distribution, production and apparel development—with the people attached to their documented contributions. It does not claim that the modern product range was Paul’s original business.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Keep Marie Lamfrom in the purchase account.",
+      "Separate the 1937 move from the 1938 business origin.",
+      "Place Neal and Gert Boyle’s contributions in their later context."
+    ],
+    "sources": [
+      {
+        "title": "Columbia Sportswear — Company origin timeline",
+        "url": "https://www.columbia.com/our-story/"
+      },
+      {
+        "title": "Columbia Sportswear — 1998 annual report: family history",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_06b9c61d71a960f03e9ac70564a02500/columbia/db/670/5030/annual_report/annual_report_98.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "klaus-obermeyer-sport",
+    "name": "Klaus Obermeyer",
+    "company": "Sport Obermeyer",
+    "website": "https://obermeyer.com/",
+    "role": "Founder; roles and biographical details from anniversary material are historical.",
+    "founding": "The company traces its product origins to Klaus Obermeyer’s arrival in Aspen in 1947.",
+    "intro": "Klaus Obermeyer’s company story begins with teaching skiing in Aspen and noticing what clothing people needed on the mountain. The brand’s anniversary accounts connect that experience with early apparel development. They provide a dated retrospective of the business, rather than a current confirmation of every title or biographical detail printed on the pages.",
+    "sections": [
+      {
+        "title": "The first product came from the setting",
+        "text": "The company’s account describes Obermeyer using a down comforter to make a parka after arriving in the United States in 1947. It relates that experiment to the clothing available for his ski students. This is the brand’s explanation of an early product idea: a person working with customers encountered a practical problem and used materials at hand to respond. The story is not a modern assessment of insulation, product suitability or safety in mountain conditions.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "From an item to an apparel business",
+        "text": "The 75th-anniversary retrospective presents later decades of apparel development alongside recollections from Obermeyer. It shows the company’s identity becoming tied to ski clothing and design over time. The first parka is useful context, but it is not the whole enterprise. Developing a collection, keeping products relevant and translating observations from the mountain into clothing were continuing activities. This profile focuses on that evolution without repeating the promotional claim that any single product changed skiing for everyone.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Anniversary language has a date",
+        "text": "The retrospective was published in February 2023, and related anniversary material describes Obermeyer at age 103. Those details belong to that period. They should not be republished as his age or daily routine in November 2026, nor should an old president label automatically become a verified current title. Treating the sources as historical accounts preserves their value: they document how the founder and company described the origins and development of the business at a specific anniversary.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Date the 75th-anniversary account to its publication period.",
+      "Separate an origin anecdote from tested product-performance evidence.",
+      "Do not carry an old age or executive title forward as current."
+    ],
+    "sources": [
+      {
+        "title": "Sport Obermeyer — First 75 years company history",
+        "url": "https://obermeyer.com/pages/the-first-75-years"
+      },
+      {
+        "title": "Sport Obermeyer — 75th anniversary retrospective (February 2023)",
+        "url": "https://obermeyer.com/en-eu/blogs/off-piste-blog/8-decades-of-obermeyer-snapshots-from-75-years"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "mike-pfotenhauer-osprey",
+    "name": "Mike Pfotenhauer",
+    "company": "Osprey",
+    "website": "https://www.osprey.com/",
+    "role": "Founder; the company was acquired by Helen of Troy in December 2021.",
+    "founding": "Osprey began in Santa Cruz in 1974; subsequent production moves and acquisition are separate milestones.",
+    "intro": "Mike Pfotenhauer began Osprey with custom packs in Santa Cruz, California. The company history describes an early business closely connected to his sewing and design work. It then follows changes in production, location and organization that made the enterprise different from the small operation in which it started.",
+    "sections": [
+      {
+        "title": "Custom work shaped the starting offer",
+        "text": "Osprey describes customers seeking made-to-order packs and Pfotenhauer learning to sew before he founded the business in 1974. Its history identifies Diane Wren’s later involvement and describes the move to Colorado. That progression matters because the founder’s original relationship with an individual customer could not remain identical as production expanded. Design knowledge, sales and sewing work increasingly involved other people. The company’s account names those changes rather than presenting growth as the work of the founder alone.",
+        "sourceIndexes": [
+          0
+        ]
+      },
+      {
+        "title": "Production and design moved through different settings",
+        "text": "The company timeline places a move into a former factory in Dolores in 1990, followed by expansion in Cortez. Another Osprey timeline describes production moving to Vietnam and Pfotenhauer spending several years there overseeing operations and establishing design and quality-control capabilities. These are changes in the organization of work, not merely changes of address. The two timelines use slightly different shorthand around the Vietnam move; the profile treats it as an early-2000s transition rather than manufacturing an exact date for every activity.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The acquisition changed the ownership context",
+        "text": "Helen of Troy’s quarterly filing dates completion of the Osprey acquisition to December 29, 2021; its public closing announcement followed on December 30. That event supersedes an older Osprey page describing Pfotenhauer as owner. It does not erase his founding association or establish a present executive title. The sources support a history of custom production, wider manufacturing operations and a later corporate acquisition. They do not disclose the founder’s personal proceeds or justify continuing to label him current owner.",
+        "sourceIndexes": [
+          2,
+          3
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Diane Wren’s documented participation.",
+      "Keep early-2000s production changes separate from 1974 founding.",
+      "Distinguish the acquisition closing date from its announcement."
+    ],
+    "sources": [
+      {
+        "title": "Osprey — Company history",
+        "url": "https://www.osprey.com/culture/history"
+      },
+      {
+        "title": "Osprey — Design and production timeline",
+        "url": "https://www.osprey.com/gb/about-osprey"
+      },
+      {
+        "title": "Osprey — Acquisition closing announcement (December 2021)",
+        "url": "https://www.sec.gov/Archives/edgar/data/916789/000091678922000003/ex-991_12302021pressrelease.htm"
+      },
+      {
+        "title": "Osprey — Quarterly filing: acquisition date",
+        "url": "https://www.sec.gov/Archives/edgar/data/916789/000091678922000005/hele-20211130.htm"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "charles-danner-boots",
+    "name": "Charles Danner",
+    "company": "Danner",
+    "website": "https://www.danner.com/",
+    "role": "Historical founder; later family management and ownership changes are separate.",
+    "founding": "The business began in Chippewa Falls in 1932 and moved to Portland in 1936.",
+    "intro": "Charles Danner’s business did not begin in Oregon even though the brand’s later identity is strongly associated with the Pacific Northwest. A historical company account filed with the USPTO places the start in Chippewa Falls, Wisconsin, in 1932. It then describes the move that connected Danner with western logging customers.",
+    "sections": [
+      {
+        "title": "An existing market drew the business west",
+        "text": "The historical account describes Charles Danner recognizing an opportunity in the Pacific Northwest and moving his family and business to Portland in 1936. The current brand account emphasizes his ambition to make boots for loggers. Read together, the sources explain a market and location decision. They do not make the Oregon setting the original founding location. Nor do they establish that every boot sold under the name today is made in the same place or suited to the same work.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "The next generation broadened the business",
+        "text": "The historical company material describes sons John and Bill joining the business and later roles after wartime service. It connects Bill with expansion of the product line and the first retail store. The account later turns to hiking and outdoor use as important parts of the range. This development is a change in customers and channels over time. It should not be collapsed into a claim that Charles launched the company with every category later associated with Danner.",
+        "sourceIndexes": [
+          1
+        ]
+      },
+      {
+        "title": "A durable brand can outlive founding ownership",
+        "text": "The filed company history describes Bill’s sale of the business in 1983. That is a later family and ownership event, not the founder’s original launch. The current website carries forward the Charles Danner story as part of the brand’s identity. A reader can use the two accounts to distinguish origin, family development and subsequent ownership without treating a founder’s surname on the product as proof of current family control. This profile reports that sequence and makes no product certification or protective-performance judgment.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Use Wisconsin for the 1932 start and Oregon for the 1936 move.",
+      "Separate Charles’s role from Bill’s later changes.",
+      "Do not infer current ownership from the brand name."
+    ],
+    "sources": [
+      {
+        "title": "Danner — Current brand history",
+        "url": "https://www.danner.com/about-danner"
+      },
+      {
+        "title": "Danner — Historical company account filed with USPTO",
+        "url": "https://ttabvue.uspto.gov/ttabvue/ttabvue-92051324-CAN-1.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "roy-seiders-yeti",
+    "name": "Roy Seiders",
+    "company": "YETI",
+    "website": "https://www.yeti.com/",
+    "role": "Cofounder with Ryan Seiders; current ownership is not inferred.",
+    "founding": "YETI was founded in 2006; the Tundra introduction followed in 2008.",
+    "intro": "Roy Seiders cofounded YETI with his brother Ryan in 2006. The company’s own story ties the founding to their experience using outdoor equipment. Its catalogs and annual report make it possible to separate that origin from later product introductions and the development of a wider consumer-products business.",
+    "sections": [
+      {
+        "title": "The initial customer was close to the founders",
+        "text": "YETI describes the brothers as outdoor users dissatisfied with the coolers available to them. The founding story focuses on equipment that would fit demanding hunting and fishing use. That context identifies the original problem and audience without proving every performance claim attached to later products. It also preserves Ryan’s cofounding role. Roy’s biography should not make a shared business look like a solo invention or treat the founders’ personal interests as a complete explanation of the company’s later growth.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "The product sequence prevents a compressed history",
+        "text": "The company’s 2023 catalog distinguishes the 2006 founding from the Tundra hard cooler introduced in 2008. Its annual-report timeline also describes later additions such as drinkware and soft coolers. These dates matter because the familiar current assortment did not appear all at once. A business may begin around a narrowly defined product problem and then develop other categories. Reading the sequence shows that expansion without attributing every later product decision to the original year.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "A brand grew into a different organization",
+        "text": "YETI’s 2019 annual report describes the company as a designer, marketer, retailer and distributor, and records its October 2018 initial public offering. Those are later organizational facts, separate from the brothers’ founding association. They do not reveal what percentage Roy owns today or how an individual shareholder fared. The useful business history connects the initial equipment problem, a sequence of product introductions and a later multi-channel organization while keeping those stages distinct.",
+        "sourceIndexes": [
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Retain Ryan Seiders alongside Roy.",
+      "Separate 2006 founding from the 2008 Tundra introduction.",
+      "Do not translate public-company milestones into personal financial estimates."
+    ],
+    "sources": [
+      {
+        "title": "YETI — Founding story",
+        "url": "https://www.yeti.com/stories/our-story.html"
+      },
+      {
+        "title": "YETI — 2023 company catalog",
+        "url": "https://assets.yeti.com/m/6b32d3da3746ad36/original/Canada-Corporate-Sales-Catalog-2023-Final.pdf"
+      },
+      {
+        "title": "YETI — 2019 annual report",
+        "url": "https://s22.q4cdn.com/322452763/files/doc_financials/2019/q4/YETI-FY19-10-K.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "roger-dahle-blackstone-products",
+    "name": "Roger Dahle",
+    "company": "Blackstone Products",
+    "website": "https://blackstoneproducts.com/",
+    "role": "Founder of Blackstone Products; identified as combined-company CEO in the May 2025 announcement.",
+    "founding": "Blackstone Products began in 2008; its business combination with Weber closed in May 2025.",
+    "intro": "Roger Dahle founded Blackstone Products, the outdoor-griddle business, in 2008. Its later combination with Weber provides a documented example of a founder-led product company entering a larger organization. The business is distinct from the similarly named investment firm; this profile concerns the outdoor-cooking brands.",
+    "sections": [
+      {
+        "title": "A different product format created the starting point",
+        "text": "The companies’ December 2024 announcement describes Blackstone’s development around outdoor griddles and accessories. A 2026 university interview connects Dahle’s account with the range of meals people could prepare on that format. Those sources explain the company’s product focus, rather than establishing that a griddle is the right choice for every buyer. The founding narrative concerns the business Dahle created and its category, not a recommendation, cooking-performance test or comparison of specific appliances.",
+        "sourceIndexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Agreement and completion were different events",
+        "text": "On December 2, 2024, Weber and Blackstone announced an agreement to combine. The statement explicitly said they would remain separate companies until closing. On May 5, 2025, they announced completion after regulatory approvals. Keeping both dates prevents treating a proposed transaction as already completed at its announcement. It also avoids substituting loose acquisition language for the companies’ own description of a business combination. The public releases did not disclose the transaction terms.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Two brands within the combined company",
+        "text": "The completion announcement describes Weber Blackstone as the combined entity while preserving Weber and Blackstone as distinct market-facing brands. It identifies Dahle as chief executive of that combined business. This is a dated leadership statement, not proof of his title indefinitely or a calculation of his stake. The history is useful because it separates product identity from corporate organization: customers can continue to see two brands even after the companies behind them complete a combination.",
+        "sourceIndexes": [
+          1
+        ]
+      }
+    ],
+    "checks": [
+      "Distinguish Blackstone Products from the investment firm.",
+      "Use December 2024 for agreement and May 2025 for completion.",
+      "Separate brand names, corporate entity and dated executive role."
+    ],
+    "sources": [
+      {
+        "title": "Blackstone Products — Combination agreement announcement (December 2024)",
+        "url": "https://www.weber.com/US/en/weber-and-blackstone-announcement.html"
+      },
+      {
+        "title": "Blackstone Products — Combination completed (May 2025)",
+        "url": "https://www.weber.com/US/en/weber-blackstone-announces-combination.html"
+      },
+      {
+        "title": "Blackstone Products — University interview (winter 2026)",
+        "url": "https://utahstatemagazine.usu.edu/wp-content/uploads/2026/01/UtahStateMagazine_DegreesOfChange_Winter2026.pdf"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
+  },
+  {
+    "slug": "jim-gentes-giro",
+    "name": "Jim Gentes",
+    "company": "Giro",
+    "website": "https://www.giro.com/",
+    "role": "Historical founder of Giro Sport Design.",
+    "founding": "Giro’s brand history dates its founding to 1985 and the Prolight commercial milestone to 1986.",
+    "intro": "Jim Gentes brought industrial-design interests and cycling experience to Giro. The brand timeline and NASA’s accounts describe an early business responding to riders who wanted different equipment. They also show how a product concept changed through technical collaboration and the requirements of its intended market.",
+    "sections": [
+      {
+        "title": "A design problem became a business",
+        "text": "Giro’s history dates the brand to 1985 and describes an early aerodynamic helmet aimed at triathlon. NASA’s historical account explains that Gentes was developing a helmet when racing requirements created a new context for his work. The rules described in those sources belong to that period. They are not current advice about what equipment a rider must use. The relevant founding point is that a designer’s initial concept encountered a specific market need that helped shape the next product.",
+        "sourceIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Technical collaboration refined the concept",
+        "text": "NASA identifies Raymond Hicks, an aerodynamicist at Ames Research Center, as a collaborator in adapting airfoil knowledge to the helmet’s form. The agency’s account connects that work with airflow and the development of the Prolight. This is a documented technology-transfer story, not a statement that NASA certified every Giro helmet or endorsed the brand. It shows outside technical expertise contributing to a commercial design while leaving product-specific approval and suitability to their own evidence.",
+        "sourceIndexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Development and launch have their own chronology",
+        "text": "Giro’s timeline places the Prolight milestone at the 1986 Long Beach bicycle show. NASA published an account in 1992 and returned to the story in a 2024 retrospective. Those sources look at the same early development from different dates and with different emphasis. They should be read as a sequence of founding, product refinement and commercialization rather than forcing every step into one year. Gentes’s historical role remains clear without assigning him responsibility for the company’s current product range.",
+        "sourceIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "checks": [
+      "Separate 1985 founding from the 1986 Prolight milestone.",
+      "Attribute NASA’s contribution to the documented collaboration.",
+      "Do not infer present certification or endorsement from a historical account."
+    ],
+    "sources": [
+      {
+        "title": "Giro — Brand history and product milestones",
+        "url": "https://it.giro.com/the-giro-story.html"
+      },
+      {
+        "title": "Giro — NASA Spinoff historical account (1992)",
+        "url": "https://spinoff.nasa.gov/node/8963"
+      },
+      {
+        "title": "Giro — NASA technology retrospective (May 2024)",
+        "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-a-nasa-inspired-bike-helmet-with-aerodynamics-of-a-jet/"
+      }
+    ],
+    "reviewedAt": "2026-11-21",
+    "revenueEvaluated": false
   }
 ]
