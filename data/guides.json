@@ -1524,5 +1524,677 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 4
+  },
+  {
+    "slug": "purchase-order-approval-workflow",
+    "title": "Design a purchase approval workflow before the invoice arrives",
+    "description": "Assign request, budget, receipt and payment responsibilities so an invoice does not become the first notice of a commitment.",
+    "intro": "A purchase can commit the business to cash before an invoice reaches accounting. A useful approval process begins with the request and continues through receipt and payment. Define the responsibilities at each stage instead of treating a signed invoice as proof that the original purchase was authorized. The process should fit the business’s size and purchasing pattern.",
+    "sections": [
+      {
+        "title": "Record the request and total commitment",
+        "text": "Identify the business purpose, supplier, expected delivery, contract period and full expected cost. Include shipping, implementation and renewal obligations where relevant. A monthly subscription can create a larger commitment than its first invoice suggests. Explain whether the purchase is already in an approved budget or requires a separate decision."
+      },
+      {
+        "title": "Separate the approval decisions",
+        "text": "Decide who confirms the business need, who reviews available budget and who can commit the company. Establish a route for urgent or unusual requests without silently removing review. In a small team, one person may perform several roles, but a documented second review can still be used for significant commitments. Record the approval before communicating acceptance to the supplier."
+      },
+      {
+        "title": "Match delivery and billing",
+        "text": "When the invoice arrives, compare it with the approved request and evidence of delivery. Record partial shipments, changed quantities and disputed items. For a fictional equipment order, approval of the quoted machine does not automatically approve extra installation work added later. Resolve the difference with the responsible manager before the payment is released."
+      },
+      {
+        "title": "Review exceptions and close the commitment",
+        "text": "Keep a list of open purchase orders and amounts still expected. Close or revise a commitment only when the business has evidence that the obligation changed. Review after-the-fact purchases to understand why the process failed and whether the rules need adjustment. The result should be a traceable decision history, not additional paperwork that nobody uses."
+      }
+    ],
+    "checklist": [
+      "Business purpose and requesting owner",
+      "Total expected commitment and budget reference",
+      "Approval record and authority",
+      "Delivery evidence and invoice match",
+      "Open commitment and exception list"
+    ],
+    "questions": [
+      "Who may commit the company to this purchase?",
+      "What changed between approval and invoice?",
+      "When is the remaining commitment cleared?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "vendor-bank-change-verification",
+    "title": "Verify vendor payment changes through an independent channel",
+    "description": "Create a review record for changed payment instructions without relying only on the email that requested them.",
+    "intro": "A message about new bank details can look routine and still redirect a legitimate supplier payment. The FBI identifies changed payment instructions as a business email compromise risk. Build an independent verification step into the vendor-maintenance process before the new instructions become available for payment. This guide describes a control process, not a request to transmit funds.",
+    "sections": [
+      {
+        "title": "Keep the request separate from the verification",
+        "text": "Preserve the original message and identify the vendor record it would change. Do not use the new account details or a telephone number supplied only in that message as the evidence that the request is genuine. Find a previously established contact channel or independently locate the company’s published contact details. Note who performed the verification and when."
+      },
+      {
+        "title": "Confirm the change with the intended vendor",
+        "text": "Ask an authorized vendor contact to confirm that the payment procedure is changing and what documentation the company normally supplies. The FBI recommends verifying payment changes in person or through a known telephone number. A familiar signature or a reply within an existing email thread is not by itself independent verification. Escalate an unresolved request under the company’s process."
+      },
+      {
+        "title": "Require an approval trail",
+        "text": "Have an authorized reviewer approve the vendor-record change and retain the supporting confirmation securely. Where practical, separate changing the record from releasing the payment. For a fictional supplier, the record might show the request date, established contact used, confirmation result and reviewer. Avoid putting complete banking details in a broadly shared spreadsheet or meeting agenda."
+      },
+      {
+        "title": "Handle suspected diversion promptly",
+        "text": "If money may already have been sent using fraudulent instructions, contact the financial institution immediately and follow its response process. The FBI also directs affected businesses to report through IC3. Preserve relevant messages and transaction records. Do not assume that a transfer can be reversed or that reporting guarantees recovery."
+      }
+    ],
+    "checklist": [
+      "Original change request",
+      "Established or independently obtained contact channel",
+      "Verification date and responsible person",
+      "Approval and secure vendor-record update",
+      "Escalation and incident-response contacts"
+    ],
+    "questions": [
+      "Was the request verified independently of the message?",
+      "Who approved the record change and payment release?",
+      "What happens if the vendor cannot confirm it?"
+    ],
+    "source": "https://www.fbi.gov/how-we-can-help-you/common-frauds-and-scams/business-email-compromise",
+    "sourceLabel": "FBI guidance on business email compromise",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "software-subscription-spend-review",
+    "title": "Review software subscriptions by owner, use and renewal date",
+    "description": "Build a subscription inventory that explains the business purpose, actual users and next contractual decision.",
+    "intro": "Card statements can reveal software charges without showing who uses the product or when the business can change the agreement. A subscription review should connect each charge with a responsible owner, business purpose and renewal date. The objective is to make informed decisions about ongoing commitments, not cancel tools solely because their names are unfamiliar.",
+    "sections": [
+      {
+        "title": "Create a usable inventory",
+        "text": "Start with card, bank and purchasing records, then ask department owners to identify tools billed through other channels. Record the vendor, product, plan, billing frequency, currency, seat count and contract location. Consolidate duplicate names carefully: one vendor may supply distinct products, while one product may be charged through several accounts."
+      },
+      {
+        "title": "Check actual use and dependencies",
+        "text": "Ask the owner which people or processes depend on the subscription. Distinguish active use from a paid seat that has not been reassigned. Identify data stored in the system, integrations and any customer-facing function it supports. A low-login administrator account may still be essential to a critical integration, so usage numbers need operational context."
+      },
+      {
+        "title": "Review the next decision point",
+        "text": "Read the renewal, notice and cancellation provisions in the actual agreement. Record whether a change affects the next invoice or a later term. For a fictional annual tool costing $2,400, dividing by twelve gives a $200 monthly equivalent, but it does not turn the agreement into a month-to-month commitment. Include implementation or migration work when comparing alternatives."
+      },
+      {
+        "title": "Document the decision and follow-through",
+        "text": "Assign a person to approve renewal, reduce seats, investigate an alternative or keep the service unchanged. If a change is approved, plan authorized data exports and continuity before access ends. Confirm the next charge against the decision and retain the result. A review produces useful savings evidence only when the agreed changes actually reach billing."
+      }
+    ],
+    "checklist": [
+      "Vendor, product and billing account",
+      "Business owner and active users",
+      "Contract and renewal dates",
+      "Operational dependencies and stored records",
+      "Decision, approval and billing follow-up"
+    ],
+    "questions": [
+      "What business process depends on this tool?",
+      "When can the company change its commitment?",
+      "Who confirms that the approved change reached billing?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "cash-deposit-reconciliation",
+    "title": "Reconcile cash collections to bank deposits with a clear handoff",
+    "description": "Connect daily cash records, custody changes and deposit confirmation without using unexplained differences as adjustments.",
+    "intro": "Physical cash moves through several hands before appearing on a bank statement. A reconciliation should explain that movement using daily collection records, documented handoffs and deposit evidence. Keep it separate from a payment-processor reconciliation: the control questions include custody, counting and the timing of the physical deposit.",
+    "sections": [
+      {
+        "title": "Define the daily collection record",
+        "text": "Identify the location, shift, register or event covered by each record. Separate opening change funds from customer receipts and document authorized cash paid out. Use a consistent cutoff so the same collection is not counted on two days. Retain the supporting sales or receipt records rather than relying only on a handwritten deposit total."
+      },
+      {
+        "title": "Record custody and counting",
+        "text": "Specify who counts the cash, who reviews the count and who takes custody for deposit. Document each handoff according to the business’s process. Where staffing is limited, use an owner or other authorized person to review the count and bank evidence afterward. Avoid sharing access or records in a way that makes responsibility impossible to trace."
+      },
+      {
+        "title": "Match the deposit to the bank",
+        "text": "Connect the deposit slip or confirmation to the collection records it contains. A bank deposit may combine several days, while a weekend collection may appear later. For a fictional shop, a $2,000 count and a $1,950 confirmed deposit leave a $50 difference to investigate. Do not label the difference an expense or alter sales merely to make the worksheet balance."
+      },
+      {
+        "title": "Resolve and monitor differences",
+        "text": "Keep an exception log with the amount, date, explanation, evidence and approved correction. Review recurring differences to identify process problems without making unsupported accusations about individuals. The IRS calls for records supporting receipts and other business transactions; preserve the documents that explain the final entries in the books."
+      }
+    ],
+    "checklist": [
+      "Daily collection and opening-float records",
+      "Documented cash payouts",
+      "Count and custody handoffs",
+      "Deposit confirmation and bank match",
+      "Approved exception log"
+    ],
+    "questions": [
+      "Which collections make up this deposit?",
+      "Where did custody change?",
+      "What evidence explains any difference?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "sourceLabel": "IRS guidance on supporting business records",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "accounts-payable-due-date-plan",
+    "title": "Plan payables by due date and approval status",
+    "description": "Build a payment view that distinguishes recorded bills, disputed amounts, approvals and expected cash needs.",
+    "intro": "A list of unpaid invoices is not yet a payment plan. The owner needs to know which amounts are valid, approved, due and expected to be paid from available cash. Prepare a dated view that connects the payable ledger with those decisions. Do not hide overdue or disputed bills by changing their dates to make the forecast look easier.",
+    "sections": [
+      {
+        "title": "Validate the open payable list",
+        "text": "Match significant balances to invoices, credits and supplier statements. Check duplicate invoices, unapplied credits and payments not yet posted. Identify the legal entity responsible for each obligation. If a bill covers multiple departments or periods, preserve the allocation and approval detail rather than entering several copies of the same invoice."
+      },
+      {
+        "title": "Separate due dates from payment assumptions",
+        "text": "Record the contractual due date and the payment date assumed in the forecast as distinct fields. Include agreed installments and document any revised terms. A planned late payment does not change the supplier’s rights or the contract. If a date needs renegotiation, assign the discussion to an authorized person and retain the result."
+      },
+      {
+        "title": "Show approval and dispute status",
+        "text": "Mark bills awaiting delivery confirmation, manager approval or resolution of a disagreement. For a fictional $12,000 supplier balance, an approved $10,000 invoice and a disputed $2,000 item should remain distinguishable. Keep the reason and responsible reviewer with the disputed amount. The forecast should show how and when the unresolved item will be revisited."
+      },
+      {
+        "title": "Connect the plan to cash and posting",
+        "text": "Combine approved payment dates with expected receipts and other obligations in the cash forecast. Have the authorized decision-maker review any shortfall and available options. After payments occur, match them to the bank and close the relevant bills. Keep changes between the proposed and actual payment run visible to the owner."
+      }
+    ],
+    "checklist": [
+      "Validated bills and supplier credits",
+      "Contractual due dates",
+      "Planned payment dates",
+      "Approval and dispute status",
+      "Cash forecast and actual-payment reconciliation"
+    ],
+    "questions": [
+      "Which bills are ready to pay?",
+      "What is due versus merely scheduled?",
+      "Who resolves a forecast shortfall or disputed amount?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "budget-versus-actual-variance-review",
+    "title": "Explain budget variances before changing the forecast",
+    "description": "Separate volume, price, timing and scope changes so a variance report leads to a useful management decision.",
+    "intro": "A budget variance is a difference to explain, not automatically a problem or an achievement. Higher revenue may come with lower contribution, and underspending may reflect delayed work. Review the cause before changing the forecast. Use comparable periods, account definitions and business scope so the calculation measures the intended difference.",
+    "sections": [
+      {
+        "title": "Make the comparison consistent",
+        "text": "Confirm that actuals and budget cover the same period, entity and categories. Identify unposted bills, late accruals and changes in account mapping. State whether the comparison uses cash or accrual information. An apparent operating improvement can disappear when missing costs are recorded, so note the close status of the actual results."
+      },
+      {
+        "title": "Break the difference into drivers",
+        "text": "Separate changes in volume, price, mix, timing and one-time events where the data permits. For a fictional service business, more revenue from more hours is different from more revenue from a higher rate. Avoid assigning a precise driver without supporting records. Keep unexplained differences visible until someone has the information to resolve them."
+      },
+      {
+        "title": "Calculate the direction deliberately",
+        "text": "Choose and label a variance convention. If the report calculates actual minus budget, a positive revenue difference and a positive expense difference have different management meanings. For example, $110,000 actual revenue against $100,000 budget is a $10,000 increase; it does not establish an equal increase in profit. Show the associated delivery costs before calling the result favorable."
+      },
+      {
+        "title": "Turn findings into forecast decisions",
+        "text": "Ask which causes will continue and which belong only to the period reviewed. Record approved changes to assumptions, the person responsible and the next review date. Retain the original budget for comparison instead of rewriting it to match actuals. A revised forecast should show the current expectation while the budget remains the record of the original plan."
+      }
+    ],
+    "checklist": [
+      "Consistent actual and budget definitions",
+      "Close status and missing-entry list",
+      "Variance convention and driver evidence",
+      "Recurring versus one-time explanation",
+      "Approved forecast changes"
+    ],
+    "questions": [
+      "Is the variance caused by timing or a lasting change?",
+      "What happened to contribution as revenue changed?",
+      "Which forecast assumption should change, if any?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "irs-notice-intake-file",
+    "title": "Organize an IRS notice for a timely professional review",
+    "description": "Capture the notice number, tax period, requested action and deadline before gathering supporting records.",
+    "intro": "An IRS notice can concern a balance, a processing delay, an identity question or a change to a return. It should not be treated as the same issue every time. Read the complete notice and organize it for the person responsible for the response. This guide helps assemble the file; it does not determine whether the IRS position is correct.",
+    "sections": [
+      {
+        "title": "Identify the notice and deadline",
+        "text": "Keep every page and record the date received, taxpayer or entity, tax period and notice number. The IRS says the CP or LTR number can be used to find information about the notice. Identify any requested response and due date from the actual document. Do not assume that forwarding the notice to an adviser pauses the deadline."
+      },
+      {
+        "title": "Compare it with the filed records",
+        "text": "Gather the filed return, relevant schedules, payment evidence and earlier correspondence for the same issue. Distinguish a proposed change from a payment posting question or a request for information. Keep an explanation of the difference without altering the original documents. An account transcript or payment confirmation may help the professional investigate, but it should be obtained through an authorized process."
+      },
+      {
+        "title": "Assign the next action",
+        "text": "Confirm who will review the issue, communicate with the IRS and track the response. The IRS advises following the notice instructions and responding by the due date when a response is required. If representation or account access is needed, have the professional confirm the appropriate authorization. Ask for clarification early if responsibility is unclear."
+      },
+      {
+        "title": "Preserve the response history",
+        "text": "Keep the approved response, supporting copies and evidence of submission together. Record later calls, letters and outstanding follow-up dates. If the notice appears suspicious, verify through official IRS channels rather than relying on contact instructions in an unverified message. Do not send sensitive return documents through a public directory form or a broadly shared link."
+      }
+    ],
+    "checklist": [
+      "Complete notice and receipt date",
+      "CP or LTR number and tax period",
+      "Requested action and response deadline",
+      "Relevant filed return and payment evidence",
+      "Named reviewer and submission record"
+    ],
+    "questions": [
+      "What exactly does this notice ask the taxpayer to do?",
+      "Who owns the response and deadline?",
+      "What evidence supports the position being reviewed?"
+    ],
+    "source": "https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter",
+    "sourceLabel": "IRS guidance on notices and letters",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "missing-receipt-documentation",
+    "title": "Handle a missing receipt without inventing supporting records",
+    "description": "Create a documented exception and gather reliable evidence before the bookkeeper or preparer decides how to treat the expense.",
+    "intro": "A missing receipt is a documentation problem to investigate. It is not a reason to fabricate a replacement or assume a bank description proves every element of an expense. Record what is known, seek available supporting information and ask the responsible professional what is sufficient for the transaction. Different expenses can require different evidence.",
+    "sections": [
+      {
+        "title": "Record the transaction and the gap",
+        "text": "Identify the date, payee, amount, payment method and stated business purpose. Note which document is missing and who originally incurred the expense. Preserve the bank or card transaction as one piece of evidence. Avoid filling unknown facts with guesses, especially where a short merchant description does not explain what was purchased."
+      },
+      {
+        "title": "Seek reliable supporting material",
+        "text": "Ask for a duplicate invoice or receipt through an appropriate vendor channel. Look for an order confirmation, contract, delivery record or other contemporaneous document. The IRS notes that a combination of records may be needed to support purchases or expenses. Keep the documents linked so the reviewer can see what each one establishes and what remains unresolved."
+      },
+      {
+        "title": "Route the exception for review",
+        "text": "For a fictional software charge, an account statement may show the payment while the subscription invoice explains the service and period. A travel or vehicle expense may raise different substantiation questions. Have the bookkeeper or preparer determine the treatment using the applicable facts and rules. Do not present a manager’s approval as proof that every tax requirement has been met."
+      },
+      {
+        "title": "Improve the collection process",
+        "text": "Log recurring documentation gaps by vendor, payment method or workflow. Assign responsibility for obtaining receipts and keeping them accessible. Consider whether approvals, cardholder instructions or vendor billing access need adjustment. Resolve the accounting entry with a clear review trail and preserve any limitations, rather than creating a document that falsely appears to be the original receipt."
+      }
+    ],
+    "checklist": [
+      "Transaction details and known business purpose",
+      "Description of the missing document",
+      "Available vendor or payment evidence",
+      "Reviewer decision and unresolved limitations",
+      "Action to reduce repeat gaps"
+    ],
+    "questions": [
+      "What does each available record actually prove?",
+      "Which facts are still missing?",
+      "Who determines the appropriate accounting and tax treatment?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "sourceLabel": "IRS guidance on supporting business records",
+    "category": "Cash and controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "franchise-royalty-reconciliation",
+    "title": "Reconcile franchise royalties to the agreement and sales records",
+    "description": "Check the royalty base, period, adjustments and payment evidence without assuming every franchise uses the same formula.",
+    "intro": "A franchise royalty calculation depends on the agreement and the sales information used. The amount withdrawn from the bank is the end of that calculation, not proof that every input is correct. Keep the contractual definition, reporting period and supporting sales together so the owner and accountant can review the result.",
+    "sections": [
+      {
+        "title": "Identify the applicable formula",
+        "text": "Locate the signed agreement and relevant amendments. Record the royalty rate or other calculation, defined revenue base, minimums, permitted adjustments and reporting frequency. The FTC explains that continuing royalties and advertising contributions can be part of a franchise arrangement. Do not copy another franchisee’s formula or assume that the accounting system’s sales category matches the contract definition."
+      },
+      {
+        "title": "Build the sales bridge",
+        "text": "Start with the period’s detailed sales report and identify the adjustments required by the agreement. Keep refunds, discounts, taxes collected and other components visible for review rather than silently netting them. If the contract language is unclear, ask the appropriate adviser to interpret it. The reconciliation should document the agreed treatment instead of presenting a bookkeeping choice as a legal conclusion."
+      },
+      {
+        "title": "Compare expected and actual charges",
+        "text": "For a fictional agreement using a six-percent royalty on a defined $80,000 base, the simple calculation is $4,800 before any other contractual provision. Compare that expected figure with the franchisor statement and payment. Investigate a difference using the underlying inputs, dates and adjustments. Advertising charges and technology fees should remain separate when they are separate obligations."
+      },
+      {
+        "title": "Preserve a review trail",
+        "text": "Keep the submitted sales report, calculation, franchisor statement, payment reference and approved corrections. Record who communicates unresolved differences and when the next review occurs. For multiple locations, reconcile each location before combining totals so an overcharge or reporting error at one site is not obscured by another."
+      }
+    ],
+    "checklist": [
+      "Agreement and applicable amendments",
+      "Defined royalty base and period",
+      "Detailed sales and adjustment report",
+      "Franchisor statement and payment evidence",
+      "Location-level exceptions and approvals"
+    ],
+    "questions": [
+      "Does the sales report match the contractual definition?",
+      "Which other charges are separate from the royalty?",
+      "Who resolves a difference with the franchisor?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise",
+    "sourceLabel": "FTC guidance on franchise costs and obligations",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "construction-retainage-cash-schedule",
+    "title": "Track construction retainage separately from expected cash receipts",
+    "description": "Link amounts withheld, release conditions and follow-up dates to each project’s billing and cash forecast.",
+    "intro": "Construction retainage can leave a project with billed amounts that are not yet available as cash. Build a schedule showing the amount withheld and the conditions for release, rather than treating the full invoice as an immediate receipt. Contract terms and applicable law can vary; obtain professional guidance where interpretation or collection rights are involved.",
+    "sections": [
+      {
+        "title": "Start with each project agreement",
+        "text": "Identify the customer, project, contract, payment application and provisions governing withheld amounts. Record any change orders that affect the calculation. Keep the underlying contract available to the person reviewing the schedule. Do not assume the same withholding percentage, release trigger or notice requirement applies to every job."
+      },
+      {
+        "title": "Reconcile the billed and withheld amounts",
+        "text": "Show the gross application, approved adjustments, amount withheld, payment received and remaining balance. Match the schedule to the receivable ledger. For a fictional $100,000 approved billing with $5,000 withheld and $95,000 received, the $5,000 should remain identifiable rather than disappear into a generic collection difference. The example does not determine the accounting or tax treatment."
+      },
+      {
+        "title": "Track release conditions and evidence",
+        "text": "List the required project milestones, documents, approvals or other stated release conditions. Assign a responsible person and an expected follow-up date. Distinguish a management estimate from a confirmed customer release date. Preserve communications that explain a delay and ask the appropriate professional about disputed obligations or deadlines."
+      },
+      {
+        "title": "Use a realistic cash forecast",
+        "text": "Place retained amounts in the forecast according to supported timing assumptions, with a separate delayed-release scenario where useful. Do not rely on an unconfirmed receipt to fund a fixed payment without recognizing the assumption. Review old balances project by project and keep collection work separate from decisions about ledger adjustments."
+      }
+    ],
+    "checklist": [
+      "Contract and payment-application references",
+      "Gross billing, withholding and receipt amounts",
+      "Release requirements and completion evidence",
+      "Confirmed and estimated receipt dates",
+      "Assigned follow-up and unresolved disputes"
+    ],
+    "questions": [
+      "What condition must be met before release?",
+      "Does the balance reconcile to the receivable ledger?",
+      "What changes in the cash plan if release is delayed?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "property-manager-statement-reconciliation",
+    "title": "Reconcile a property manager’s statement to owner cash and rental records",
+    "description": "Separate rent collected, property expenses, reserves and owner distributions before using the statement for tax preparation.",
+    "intro": "A property manager’s payment to an owner is a net cash movement. It does not automatically equal rental income or profit. Review the statement with the lease records, manager agreement and bank activity so the owner’s accountant can understand what was collected, spent and retained for each property.",
+    "sections": [
+      {
+        "title": "Identify the period and property",
+        "text": "Confirm which units, bank activity and reporting dates the statement covers. Match the opening balance with the prior statement and distinguish owner funds from tenant-related balances. Keep the manager agreement and any changes to fees or reserve requirements with the file. Multiple properties should remain identifiable even when the manager sends a combined payment."
+      },
+      {
+        "title": "Separate the statement components",
+        "text": "List rent and other receipts, refunds, manager charges, repairs, other disbursements, reserve movements and distributions separately. Retain invoices for material expenses and explanations for adjustments. Ask the preparer how deposits, advance receipts and other items should be treated under the applicable facts rather than assuming the manager’s label settles the tax question."
+      },
+      {
+        "title": "Reconcile the owner distribution",
+        "text": "For a fictional statement with $10,000 collected, $2,000 paid in expenses and $1,000 retained in reserves, a $7,000 owner payment explains only part of the activity. Confirm the opening and closing balances as well. A reserve is not automatically an expense, and the net payout is not a substitute for the underlying rental records."
+      },
+      {
+        "title": "Resolve exceptions before the year-end handoff",
+        "text": "Investigate missing invoices, duplicate charges and unexplained balance changes with the manager. Give the accountant the complete statements and supporting schedules, not only bank deposits. IRS rental guidance discusses different kinds of receipts and expenses; the preparer should apply it to the property’s circumstances. Preserve the final reconciliation and outstanding questions."
+      }
+    ],
+    "checklist": [
+      "Property and period identifiers",
+      "Manager agreement and opening balances",
+      "Detailed receipts and expense invoices",
+      "Reserve and distribution reconciliation",
+      "Outstanding questions for manager and preparer"
+    ],
+    "questions": [
+      "What does the net owner payment exclude?",
+      "Can each reserve and expense movement be explained?",
+      "Which receipt types need separate tax review?"
+    ],
+    "source": "https://www.irs.gov/publications/p527",
+    "sourceLabel": "IRS Publication 527: residential rental property",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "unbilled-professional-time-review",
+    "title": "Review unbilled professional time before forecasting collections",
+    "description": "Separate recorded time, billable work, approved invoices and expected cash in a service firm.",
+    "intro": "Time entered in a project system is not the same as an invoice or a cash receipt. A professional-services firm needs a review of unbilled work that connects recorded activity with engagement terms and the billing decision. Keep operational measures separate from the accountant’s revenue-recognition and tax decisions.",
+    "sections": [
+      {
+        "title": "Group work by engagement",
+        "text": "Identify the client, project, period, responsible manager and engagement terms. Distinguish hourly, fixed-fee, retainer and milestone arrangements. A large time balance may reflect a legitimate future billing point, missing approval or work outside scope. Do not apply one billing rule to all engagements because they share the same time-tracking system."
+      },
+      {
+        "title": "Confirm completeness and billability",
+        "text": "Ask managers to review missing time, duplicate entries, agreed write-downs and out-of-scope requests. Preserve the reason for changes and the approval record. The number of recorded hours does not establish a contractual right to bill the customer. Escalate unclear scope or disputed work to the people authorized to resolve it."
+      },
+      {
+        "title": "Bridge to invoicing and cash",
+        "text": "For a fictional hourly assignment with 100 approved hours at $150, the potential invoice is $15,000 before any agreed adjustment. Record the planned invoice date and expected payment terms separately. A forecast should not assume cash arrives when work is entered. Fixed-fee engagements need a different bridge based on the actual agreement and completion status."
+      },
+      {
+        "title": "Review aging and learn from it",
+        "text": "Track unbilled work by age and reason. Identify which items need manager action, customer confirmation or a revised estimate. Have accounting review any financial-statement treatment separately. Use recurring causes to improve engagement setup and billing discipline, rather than clearing the report through unexplained write-offs."
+      }
+    ],
+    "checklist": [
+      "Engagement type and billing terms",
+      "Time and project records",
+      "Manager review of billability and adjustments",
+      "Planned invoice and collection dates",
+      "Aging by reason and action owner"
+    ],
+    "questions": [
+      "Which work is approved for billing now?",
+      "What must happen before the remaining work can be invoiced?",
+      "How does billing timing affect the cash forecast?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "multi-location-overhead-allocation",
+    "title": "Compare location profit with a documented overhead allocation",
+    "description": "Show direct results and shared-cost assumptions separately when reviewing branches or stores.",
+    "intro": "A location report can change substantially depending on how central costs are allocated. Before comparing branches, define which costs belong directly to a site and which are shared. Present the allocation method alongside the result so management can distinguish an operating difference from a reporting convention.",
+    "sections": [
+      {
+        "title": "Start with traceable direct costs",
+        "text": "Map each location’s sales and directly attributable costs using consistent account definitions. Review transfers between sites so the same activity is not counted twice. Identify missing location codes and explain how they will be corrected. A comparison is difficult to interpret when one branch records delivery costs directly and another leaves them in a central account."
+      },
+      {
+        "title": "Choose and disclose shared-cost drivers",
+        "text": "List shared costs such as central administration, systems or facilities support. Document the selected allocation basis and why it is useful for this decision. Revenue, headcount or usage may produce different results. Do not present the chosen basis as an objective measurement of responsibility when it is an approximation."
+      },
+      {
+        "title": "Show results before and after allocation",
+        "text": "For a fictional two-location business, report each site’s contribution before central overhead, then show the allocated amount and resulting figure. If $30,000 of shared cost is allocated 60/40, the entries are $18,000 and $12,000. The arithmetic is straightforward; whether that split helps the decision depends on the underlying facts."
+      },
+      {
+        "title": "Test the decision sensitivity",
+        "text": "Compare a reasonable alternative allocation and see whether the management conclusion changes. Separate costs that would actually disappear after a closure from costs that would remain elsewhere. Have the financial team review implications before acting. Preserve the method, assumptions and period so later reports can be compared consistently."
+      }
+    ],
+    "checklist": [
+      "Consistent location-level revenue and direct costs",
+      "Shared-cost inventory",
+      "Documented allocation basis",
+      "Results before and after allocation",
+      "Sensitivity and avoidable-cost review"
+    ],
+    "questions": [
+      "Which costs can be traced directly?",
+      "How much does the conclusion depend on the allocation method?",
+      "Which costs would remain if a location changed?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "inventory-landed-cost-review",
+    "title": "Build a landed-cost review for inventory purchases",
+    "description": "Connect supplier prices, freight and other acquisition costs before comparing product margins.",
+    "intro": "The supplier’s unit price may be only one part of acquiring inventory. A landed-cost worksheet helps the owner understand the costs associated with getting goods ready for the business. It is a management review tool; the accountant should determine the appropriate book and tax treatment under the company’s method.",
+    "sections": [
+      {
+        "title": "Collect the purchase and shipment records",
+        "text": "Link the order, supplier invoice, freight bill and other relevant acquisition documents. Identify product quantities, shipment dates, currency and any credits. Keep costs for separate shipments distinguishable. An estimated shipping allowance should not silently replace a final invoice once the actual charge is available."
+      },
+      {
+        "title": "Explain the allocation method",
+        "text": "Where a charge covers several products, document how it is assigned for the review. Weight, volume, value or units may produce different outcomes. Choose a basis that can be explained and applied consistently, and identify items needing professional accounting review. The allocation should not be changed merely to make a selected product look more profitable."
+      },
+      {
+        "title": "Calculate a transparent example",
+        "text": "For a fictional shipment of 100 identical units with a $5,000 supplier price and $500 of freight assigned to that shipment, the simple combined amount is $55 per unit. This example excludes other costs, taxes and accounting adjustments. If only 90 units arrive, investigate the shortage and claim status rather than automatically spreading the same amount without explanation."
+      },
+      {
+        "title": "Reconcile estimates with final records",
+        "text": "Compare estimated and actual costs and identify changes that affect pricing decisions. Give the accountant the underlying records and allocation assumptions. IRS guidance emphasizes supporting documents for purchases; retain the evidence behind the figures. Keep a process for updating cost information when credits, shortages or later charges are resolved."
+      }
+    ],
+    "checklist": [
+      "Order, supplier invoice and received quantities",
+      "Freight and other supporting charges",
+      "Currency and credit information",
+      "Documented allocation method",
+      "Estimated-to-actual cost reconciliation"
+    ],
+    "questions": [
+      "Which costs are included in the management calculation?",
+      "How are shared charges assigned to products?",
+      "What changes when final invoices or shortages are resolved?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+    "sourceLabel": "IRS guidance on purchase records",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "subscription-billing-accounting-handoff",
+    "title": "Hand off subscription billing data without confusing bookings and revenue",
+    "description": "Keep contracts, invoices, collections and service periods distinct when preparing subscription-business records.",
+    "intro": "A subscription business can have several valid numbers for the same customer relationship: contract value, invoices, cash collected and accounting revenue. They are not automatically interchangeable. Build a handoff that preserves each event and lets the accountant apply the appropriate reporting method to the facts.",
+    "sections": [
+      {
+        "title": "Identify the customer agreement",
+        "text": "Record the contract, products, service dates, billing frequency and approved changes. Distinguish new subscriptions, renewals, upgrades, cancellations and credits. Keep the effective date of each change. A current customer screen may show only the latest plan and fail to explain what was actually supplied or billed earlier in the year."
+      },
+      {
+        "title": "Reconcile billing and collections",
+        "text": "Match invoices, credit notes, refunds, processor settlements and bank receipts. Separate fees and timing differences instead of treating net deposits as the complete billing record. Explain balances that remain unpaid. A refund can relate to an earlier service period and should retain that reference for review."
+      },
+      {
+        "title": "Give accounting the service-period detail",
+        "text": "For a fictional annual subscription invoiced and paid upfront, preserve the amount and twelve-month service period as separate fields. Do not assume that the cash date alone determines book revenue or taxable income. Ask the accountant which schedules and adjustments are needed under the business’s actual method and circumstances."
+      },
+      {
+        "title": "Control changes to the handoff",
+        "text": "Set a cutoff and record later corrections so billing and accounting teams do not work from different versions. Reconcile customer counts and totals between systems. Keep an exception list for unusual contracts rather than forcing every item into the standard model. The final file should explain the source of each balance and who approved its treatment."
+      }
+    ],
+    "checklist": [
+      "Contracts and service periods",
+      "Invoices, credits and refund records",
+      "Cash and processor reconciliation",
+      "Changes and cancellation dates",
+      "Accounting questions and version log"
+    ],
+    "questions": [
+      "Which number represents billing, cash or accounting revenue?",
+      "Can a reviewer reconstruct the customer’s changes?",
+      "What information is needed for the chosen reporting method?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "service-contract-renewal-forecast",
+    "title": "Forecast service renewals with clear assumptions and evidence",
+    "description": "Separate signed renewals, expected renewals and new sales when projecting a service company’s revenue.",
+    "intro": "A renewal forecast is stronger when it distinguishes documented commitments from expectations. Start with the actual contracts and renewal process, then record the evidence for each assumption. A customer’s past loyalty or a salesperson’s confidence should not silently become a signed future sale in the financial plan.",
+    "sections": [
+      {
+        "title": "Build the contract calendar",
+        "text": "Record the customer, service, current term, renewal date, notice provisions and responsible account owner. Check the actual agreement rather than assuming every contract renews automatically. Keep changes to price, scope and term visible. If interpretation of a notice or renewal clause is uncertain, route it to the appropriate adviser."
+      },
+      {
+        "title": "Separate status categories",
+        "text": "Use clear categories such as signed, decision pending, expected and at risk, with definitions the team understands. Record the evidence date and next customer action. Avoid combining all categories into one firm backlog total. A forecast can include assumptions, but readers should be able to see where those assumptions begin."
+      },
+      {
+        "title": "Model timing and amount independently",
+        "text": "For a fictional $24,000 annual service, a renewal may affect when invoices are issued as well as the total value. A delayed decision can shift cash even if the customer eventually renews. Show the assumed contract amount, start date, billing schedule and collection date separately. Do not equate an annualized sales metric with cash arriving immediately."
+      },
+      {
+        "title": "Review outcomes and adjust the process",
+        "text": "Compare actual renewals with prior forecasts and examine reasons for changes. Update the current forecast while preserving earlier versions for learning. Assign follow-up to an owner and avoid counting the same renewal as a new sale in another system. A useful report supports customer conversations and cash planning without presenting probabilities as facts."
+      }
+    ],
+    "checklist": [
+      "Contract terms and renewal calendar",
+      "Defined status categories",
+      "Evidence date and account owner",
+      "Amount, start, billing and cash assumptions",
+      "Prior forecast and actual outcome comparison"
+    ],
+    "questions": [
+      "Which renewals are signed and which are assumptions?",
+      "How would a delay affect collections?",
+      "Who owns the next customer decision or follow-up?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
   }
 ]
