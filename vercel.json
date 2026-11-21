@@ -75,7 +75,7 @@
       "permanent": true
     },
     {
-      "source": "/owners/:name([a-z0-9-]+)-q:record([0-9]+)",
+      "source": "/owners/:name([a-z0-9-]+)-q:record([0-9]+)/",
       "destination": "/owners/:name/",
       "permanent": true
     },
@@ -90,7 +90,7 @@
       "permanent": true
     },
     {
-      "source": "/founder-reference/people/:name([a-z0-9-]+)-q:record([0-9]+)",
+      "source": "/founder-reference/people/:name([a-z0-9-]+)-q:record([0-9]+)/",
       "destination": "/founder-reference/people/:name/",
       "permanent": true
     }
