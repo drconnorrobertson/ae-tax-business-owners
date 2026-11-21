@@ -6652,5 +6652,805 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "in-house-versus-outsourced-bookkeeping",
+    "title": "In-house versus outsourced bookkeeping: compare daily coverage",
+    "description": "Compare who answers daily questions, processes exceptions and owns bookkeeping continuity before choosing a staffing model.",
+    "intro": "An owner comparing an internal bookkeeping position with an outside service is comparing two ways to organize daily work. The meaningful question is not simply the monthly fee. It is whether the proposed arrangement covers transaction volume, interruptions, approvals, reporting deadlines and absences. Define those needs before deciding which model fits the business. Neither model automatically produces accurate records or transfers the owner’s approval responsibilities.",
+    "sections": [
+      {
+        "title": "Describe the workday",
+        "text": "List recurring tasks and the unscheduled questions that interrupt them. A shop may need cash reconciliation each morning, supplier inquiries throughout the day and a weekly payment packet. A provider offering a monthly close could be suitable for another company while leaving this shop’s daily queue uncovered. Ask both candidates to describe the same representative week, including who receives and resolves exceptions."
+      },
+      {
+        "title": "Compare coverage rather than presence",
+        "text": "Physical presence does not prove that bookkeeping receives uninterrupted attention, while remote availability does not establish immediate response. Write down required response windows and backup arrangements. For an internal role, identify who covers leave and reviews completed work. For a service, identify named contacts, escalation routes and whether different staff handle routine transactions and difficult questions."
+      },
+      {
+        "title": "Build a comparable cost boundary",
+        "text": "For an illustrative business, compare one arrangement covering daily entry and weekly supplier contact with another covering those identical tasks. List recruitment, training, software, equipment and management time where applicable, alongside onboarding and additional service charges. Use actual proposals for amounts. Do not compare a full internal job with a narrowly scoped outside subscription and call the difference a saving."
+      },
+      {
+        "title": "Keep approvals and knowledge usable",
+        "text": "Decide who can prepare payments, who can approve them and who may change supplier information. The comparison should preserve a workable review process under either model. Ask where procedure notes, supporting records and unresolved questions reside. A business-controlled archive helps continuity when an employee leaves or the service team changes; it does not by itself establish that every record is complete."
+      },
+      {
+        "title": "Run a realistic workload discussion",
+        "text": "Present a week containing a missing invoice, a disputed customer balance and a reviewer’s absence. Ask how each arrangement would prioritize the queue and document decisions. Compare what remains with the owner at the end of that week. If one proposal assumes an internal coordinator, include that person’s workload in the choice rather than treating the outsourced service as fully self-managing."
+      },
+      {
+        "title": "Set a review point",
+        "text": "Record which outcomes will be examined after the first agreed reporting cycle: unresolved items, report delivery, owner interruptions and access to records. These observations provide a basis for adjusting scope. They are not a provider rating. Keep the original workload description so a later rise in transactions can be distinguished from a failure to deliver the original service."
+      }
+    ],
+    "checklist": [
+      "Representative weekly workload",
+      "Response windows and backup coverage",
+      "Comparable included tasks and actual costs",
+      "Payment approval boundaries",
+      "Business-controlled procedure and record archive"
+    ],
+    "questions": [
+      "Who handles the daily exception queue?",
+      "Which owner tasks remain under each model?",
+      "How is absence coverage demonstrated?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "bookkeeping-cleanup-versus-recurring-service",
+    "title": "Bookkeeping cleanup versus recurring service: define the finish line",
+    "description": "Separate historical correction work from the ongoing process that keeps new records current.",
+    "intro": "A cleanup project addresses a defined backlog or set of record problems. Recurring bookkeeping addresses work as it arrives. A business can need both, but purchasing one does not necessarily include the other. Compare the historical period, acceptance evidence and ongoing cutoff before choosing a proposal. Treat these as proposed scope boundaries to confirm in writing, not universal meanings attached to service names.",
+    "sections": [
+      {
+        "title": "Inventory the backlog",
+        "text": "Describe the periods, bank accounts, transaction sources and known gaps. Separate missing documents from unexplained balances and unprocessed current activity. A provider cannot reliably price an unknown backlog from a statement that the books are messy. Give candidates the same sample records and list what has not yet been obtained, without assuming that unavailable evidence can be recreated."
+      },
+      {
+        "title": "Define project acceptance",
+        "text": "Ask what will be delivered when cleanup ends: reconciliations, corrected reports, an adjustment log and unresolved items may be relevant. Identify who reviews proposed changes and how supporting evidence is retained. A report generated from the system is not enough if the engagement was intended to explain opening balances. Acceptance can include documented exceptions rather than a claim that every historical issue is resolved."
+      },
+      {
+        "title": "Protect the current period",
+        "text": "While older records are reviewed, new transactions continue. In an illustrative April engagement covering the prior calendar year, identify who maintains January through April and who handles questions that cross the boundary. Otherwise the business may finish one historical year while creating another backlog. The project plan should name a cutoff and a process for routing newly discovered historical issues."
+      },
+      {
+        "title": "Compare pricing triggers",
+        "text": "Ask whether fees assume a transaction count, document availability or a particular condition of opening balances. Record what causes a revised estimate and who approves it. Compare the cleanup fee separately from the recurring monthly scope. A low recurring quote does not establish the cost of bringing records to its required starting condition, and a cleanup price does not establish future service capacity."
+      },
+      {
+        "title": "Use a handoff test",
+        "text": "Choose one balance corrected during the project and trace its supporting schedule into the first recurring close. Ask how the ongoing team will maintain it and recognize a new exception. This tests whether the project leaves a usable process rather than a one-time collection of entries. Keep the person responsible for explaining historical changes available through the agreed handoff period."
+      },
+      {
+        "title": "Choose the sequence deliberately",
+        "text": "The decision can be cleanup first, concurrent work with separated owners, or a combined engagement with distinct milestones. Record why the chosen sequence matches the backlog and reporting deadline. Do not describe historical corrections as tax-return amendments unless qualified professionals have separately reviewed the filing implications. The bookkeeping project’s completion and any tax work remain different decisions."
+      }
+    ],
+    "checklist": [
+      "Historical period and account inventory",
+      "Document gaps and accepted exceptions",
+      "Current-period task owner",
+      "Separate project and recurring fee triggers",
+      "First-close handoff evidence"
+    ],
+    "questions": [
+      "What proves cleanup is complete?",
+      "Who prevents new backlog during the project?",
+      "Which filing questions need separate review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "accounts-payable-service-versus-automation",
+    "title": "Accounts payable service versus automation: who resolves the queue?",
+    "description": "Compare a managed invoice process with software by exception ownership, approvals and payment evidence.",
+    "intro": "Invoice software and an accounts payable service can appear to offer the same result: fewer invoices on the owner’s desk. Their proposed work may differ substantially. Software may route information while a service team performs defined processing tasks. Compare the actual queue, including missing approvals and disputed charges, rather than assuming either label includes every step from invoice receipt to payment.",
+    "sections": [
+      {
+        "title": "Map the invoice path",
+        "text": "Write down how invoices arrive, how suppliers are identified, how purchase evidence is matched and how approval occurs. Include credit notes and duplicate submissions. A proposal addressing only email capture may leave supplier follow-up and account coding with the business. Ask each candidate to mark the steps it performs and the steps it merely enables another person to perform."
+      },
+      {
+        "title": "Separate preparation from authority",
+        "text": "Decide who can prepare a payment packet and who approves the release of funds. A convenient workflow should still make those roles understandable. Identify who may alter bank details and how a change is verified through the business’s process. Do not infer payment authority from a provider’s ability to view an invoice or synchronize data with accounting software."
+      },
+      {
+        "title": "Compare an exception-rich week",
+        "text": "Use an illustrative week with twenty straightforward invoices, three missing purchase approvals and one disputed delivery. Ask the software proposal which staff must resolve the four exceptions. Ask the service proposal whether supplier contact and escalation are included. The comparison becomes more useful when it shows the owner’s remaining actions, not just the number of invoices uploaded automatically."
+      },
+      {
+        "title": "Inspect evidence and integration",
+        "text": "Request a sample payment packet showing the invoice, approval trail and accounting reference without exposing another client’s data. Confirm how failed synchronization, duplicate records and reversed payments are handled. The business should be able to locate the source document after changing systems. An integration logo is not proof that every field, status and attachment transfers as expected."
+      },
+      {
+        "title": "Price the full queue",
+        "text": "Record charges for processing volume, additional entities, supplier inquiries and implementation where applicable. Add the internal time required by the software arrangement using clearly labeled estimates. Avoid claiming that automation removes a job or that a managed service eliminates errors. Compare what each quoted price actually includes and which exceptional work requires authorization."
+      },
+      {
+        "title": "Agree on an operating review",
+        "text": "Track overdue approvals, unresolved invoices and corrections during an agreed initial period. Use the results to refine ownership and workflow. A service may depend on timely internal approvals, while software may depend on consistent staff attention. Write down those dependencies so poor inputs and missed service commitments can be discussed separately."
+      }
+    ],
+    "checklist": [
+      "Invoice-path responsibility map",
+      "Separate payment preparation and approval",
+      "Exception-week comparison",
+      "Source-document and integration evidence",
+      "Volume charges and internal workload"
+    ],
+    "questions": [
+      "Who contacts a supplier about an exception?",
+      "Who approves cash leaving the account?",
+      "What happens when synchronization fails?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "billing-service-versus-payment-processor",
+    "title": "Billing service versus payment processor: compare revenue-work ownership",
+    "description": "Distinguish invoice creation and customer-account work from collecting an approved payment.",
+    "intro": "A business asking for help getting paid may need invoice preparation, customer-account follow-up, payment acceptance or all three. A billing service and a payment processor should be compared against those specific needs. Names alone do not establish who verifies a charge, fixes a disputed invoice or reconciles the resulting deposit. Start with the gap in the current revenue process.",
+    "sections": [
+      {
+        "title": "Define the billing trigger",
+        "text": "Identify the event that authorizes an invoice: a completed delivery, approved milestone, recurring subscription or another documented event. Ask who checks that event and enters the billing details. A payment interface that accepts an amount does not necessarily confirm that the amount is supported by the contract. Keep operational approval separate from the mechanics of charging a customer."
+      },
+      {
+        "title": "Follow a disputed invoice",
+        "text": "Use an illustrative customer who agrees that work occurred but disputes an added item. Identify who investigates, obtains an approval and issues any correction. Compare whether the proposal includes customer communication or only a tool through which staff send messages. A processor’s payment status does not resolve the underlying commercial disagreement."
+      },
+      {
+        "title": "Reconcile collections to accounts",
+        "text": "Ask how an approved invoice, a payment, processing charges and the bank deposit connect in the records. Batch settlements may require a supporting breakdown. Identify who handles partial payments, refunds and failed collections within the actual proposed scope. Do not assume that a deposit equal to several receipts has been reconciled merely because it appears in a bank feed."
+      },
+      {
+        "title": "Compare control over customer data",
+        "text": "Record where billing contacts, invoices, authorizations and communication history reside. Confirm that the business can obtain usable records if the arrangement ends. Limit permissions to what the role requires through the business’s access process. Customer communication must also follow the business’s approved tone and escalation rules, particularly when a dispute could affect the relationship."
+      },
+      {
+        "title": "Compare fees on a common activity set",
+        "text": "Describe a month with the same number of invoices, payments, corrections and account inquiries for each candidate. Record which costs vary with transaction amounts or activity and which are fixed. Use written quoted terms rather than an assumed industry rate. A low payment fee does not describe the price of preparing invoices or handling customer-account questions."
+      },
+      {
+        "title": "Select the missing function",
+        "text": "A business with accurate invoices and little follow-up work may be evaluating payment acceptance. Another with complex milestones may first need billing administration. A combined proposal should still identify each function and its owner. Agree on evidence for the first cycle, including a traceable sample from approved work through the invoice and into the bank reconciliation."
+      }
+    ],
+    "checklist": [
+      "Documented invoice trigger",
+      "Dispute and correction owner",
+      "Invoice-to-deposit reconciliation",
+      "Customer record access and permissions",
+      "Comparable monthly activity scenario"
+    ],
+    "questions": [
+      "Who establishes that the invoice is correct?",
+      "Who handles a commercial dispute?",
+      "Can each deposit be traced to customer accounts?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "receivables-followup-versus-credit-control",
+    "title": "Receivables follow-up versus credit-control design",
+    "description": "Compare help contacting overdue customers with work that changes how credit is granted and monitored.",
+    "intro": "Calling customers about overdue invoices and designing a credit-control process address different points in the same cash cycle. A business should identify whether it needs help executing an existing policy, creating a policy or both. This comparison concerns operational scope. It does not authorize collection conduct, determine legal rights or establish a customer’s ability to pay.",
+    "sections": [
+      {
+        "title": "Locate the recurring problem",
+        "text": "Separate invoices delayed by missing paperwork, disputed work, incorrect contact information and actual inability or unwillingness to pay. A follow-up queue cannot fix every cause. Compile a small anonymized sample so candidates can explain which issues their proposed work addresses. Avoid treating the entire aged balance as a single homogeneous collection task."
+      },
+      {
+        "title": "Describe execution responsibilities",
+        "text": "For a follow-up service, define contact channels, reminder timing, documentation and escalation. Identify who can approve a payment arrangement, correction or suspension of further work. The service should not invent those authorities. Ask how it returns unresolved commercial questions to the business and how staff avoid contacting a customer whose account is already under internal review."
+      },
+      {
+        "title": "Describe policy deliverables",
+        "text": "For credit-control design, specify the decisions to be documented: customer information requests, approval roles, credit limits, review events and exception handling may be relevant. The project may produce a process and training without performing daily reminders. Confirm who will maintain the policy and evaluate exceptions after the design engagement ends."
+      },
+      {
+        "title": "Use two customer scenarios",
+        "text": "Compare an illustrative long-standing customer missing a purchase-order reference with a new customer seeking a large initial order on credit. The first may need operational follow-up and corrected paperwork. The second presents an approval decision before an invoice becomes overdue. Ask each proposal to show its response to both, making omissions explicit rather than claiming universal coverage."
+      },
+      {
+        "title": "Keep records and boundaries clear",
+        "text": "Require an account-level history of actions, promises, disputes and approvals in a business-accessible location. Discuss applicable legal or contractual constraints with qualified advisers where needed; this guide does not supply collection rules. Distinguish an internal operational reminder from work that may require a differently qualified provider. Do not equate firm language with effective or permissible action."
+      },
+      {
+        "title": "Measure the right outcome",
+        "text": "For execution, examine whether assigned accounts were handled and escalated as agreed. For policy work, examine whether staff can apply the documented approval process to a new case. Cash collected can be influenced by many factors beyond the engagement. Retain those limitations when evaluating results, and avoid attributing every payment received to the provider’s involvement."
+      }
+    ],
+    "checklist": [
+      "Overdue-balance cause sample",
+      "Reminder and escalation authority",
+      "Policy-design deliverables",
+      "Business-owned account history",
+      "Separate execution and design acceptance"
+    ],
+    "questions": [
+      "Do we lack capacity or an agreed policy?",
+      "Who approves a payment arrangement?",
+      "Who operates the policy after the project?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "budget-project-versus-rolling-forecast-service",
+    "title": "Budget project versus rolling forecast service",
+    "description": "Compare an approved annual baseline with a regularly updated view of future performance.",
+    "intro": "An annual budget and a rolling forecast can use similar spreadsheets while serving different decisions. A budget project may help management agree on a baseline and assign responsibility. A forecast service may update expectations as conditions change. Ask candidates to explain the decision their proposed model supports, the refresh process and who owns assumptions after delivery.",
+    "sections": [
+      {
+        "title": "State the management use",
+        "text": "Describe whether the business needs an approved spending framework, a current outlook or both. A lender request, department planning meeting and short-term cash decision may require different outputs. Avoid requesting a forecast merely because that label sounds more dynamic. Explain who will read the model and what decisions they need to make from it."
+      },
+      {
+        "title": "Define the baseline",
+        "text": "For a budget project, identify periods, departments, account detail and approval steps. Ask whether the work includes gathering operating assumptions or only arranging figures supplied by management. A completed file should show its assumptions and an approved version. Without a version boundary, later edits can make it difficult to distinguish the original plan from revised expectations."
+      },
+      {
+        "title": "Define the refresh cycle",
+        "text": "For recurring forecasts, identify update frequency, source data, responsible assumption owners and the period covered by each refresh. Confirm whether the provider changes the model or simply imports recent actuals. Ask how one-time events, sales timing and staffing changes are reviewed. A recurring meeting without an updated output may not provide the continuing outlook the owner expects."
+      },
+      {
+        "title": "Compare a changed order book",
+        "text": "In an illustrative manufacturer, the annual plan assumes two major orders in the second quarter, but one moves to the third. Ask a budget-project candidate what post-delivery support is included. Ask a forecast-service candidate how the shift reaches production, costs and cash assumptions. The difference is not that one model is right and the other wrong; it is who maintains the view after facts change."
+      },
+      {
+        "title": "Review model usability",
+        "text": "Request clear definitions, source references and a handover that lets authorized staff understand the calculations. Confirm where approved versions are stored and how scenario changes are labeled. Complex formatting is not a substitute for explainable assumptions. The engagement should identify limitations where the underlying information is incomplete rather than conceal them behind precise-looking totals."
+      },
+      {
+        "title": "Compare the complete commitment",
+        "text": "Separate setup, recurring updates, meetings and special scenarios in the fee discussion. Identify the internal time needed to provide operating inputs. Choose acceptance evidence appropriate to the scope: an approved baseline for the project, or a reproducible refresh for the recurring service. Neither output guarantees business results, financing availability or the accuracy of management’s assumptions."
+      }
+    ],
+    "checklist": [
+      "Named management decision",
+      "Baseline approval and version control",
+      "Refresh tasks and assumption owners",
+      "Changed-order-book walkthrough",
+      "Separate setup and recurring scope"
+    ],
+    "questions": [
+      "Who changes the assumptions after delivery?",
+      "Is the original budget preserved?",
+      "What usable output follows a refresh?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "cash-forecast-versus-treasury-administration",
+    "title": "Cash forecasting versus treasury administration",
+    "description": "Compare predicting cash needs with administering approved cash movements and bank information.",
+    "intro": "A cash forecast describes expected inflows and outflows under stated assumptions. Treasury administration, as proposed by a provider, may involve bank information, cash positioning or preparation of approved movements. These are related but different functions. A business needs to specify which decisions, records and actions are included without assuming that an analytical service also operates bank accounts.",
+    "sections": [
+      {
+        "title": "Identify the requested output",
+        "text": "Ask whether the business needs a weekly forecast, a daily balance summary, a payment-preparation process or another defined output. Label prediction separately from completed activity. A forecast showing enough cash does not establish that a payment has been authorized, sent or received. Conversely, an accurate account balance does not explain obligations expected next month."
+      },
+      {
+        "title": "Map information sources",
+        "text": "List bank accounts, receivable expectations, payroll dates, supplier commitments and financing information relevant to the requested scope. Identify who updates uncertain dates. Forecast work may depend on commercial staff estimating customer payments. Administrative work may depend on timely approved payment instructions. Both arrangements need a clear response when the underlying information is missing or contradictory."
+      },
+      {
+        "title": "Keep execution authority explicit",
+        "text": "Write down who can view accounts, prepare instructions, approve transfers and confirm completion. Use the business’s authorization process for access. Do not grant a provider operational authority merely because it builds a spreadsheet. Ask how proposed transactions are documented and how an absence or failed instruction is escalated. The engagement should distinguish recommendation from execution in plain language."
+      },
+      {
+        "title": "Walk through a cash shortfall",
+        "text": "For an illustrative wholesaler, a customer receipt slips beyond payroll while another bank account holds available funds. A forecast provider may identify the timing gap and model options. An administrative provider may prepare an authorized transfer within its agreed scope. Management and qualified advisers retain the relevant decisions. Compare which party identifies, proposes, approves and records each step."
+      },
+      {
+        "title": "Inspect the review trail",
+        "text": "For a forecast, retain assumption dates, prior versions and explanations of material changes. For cash administration, retain instructions, approvals and completion evidence. A dashboard screenshot alone may not explain why a movement occurred. Confirm how these records remain accessible to the business and accounting team when the service ends or a bank connection changes."
+      },
+      {
+        "title": "Compare dependencies and fees",
+        "text": "Ask which bank feeds, reports and staff responses each proposal assumes. Record extra charges for additional entities, accounts or scenario work where applicable. Avoid treating a forecast subscription as equivalent to payment operations. A combined engagement can be useful, but its scope should make each deliverable and authority boundary independently reviewable."
+      }
+    ],
+    "checklist": [
+      "Forecast versus completed-action labels",
+      "Source data and update owners",
+      "Bank access and approval boundaries",
+      "Shortfall walkthrough",
+      "Version and movement evidence"
+    ],
+    "questions": [
+      "Who identifies a gap and who acts on it?",
+      "What bank authority is actually requested?",
+      "Which evidence supports completed movements?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "inventory-count-service-versus-valuation-support",
+    "title": "Inventory counting versus inventory valuation support",
+    "description": "Separate evidence of quantities from the accounting work that assigns and reviews recorded values.",
+    "intro": "A physical inventory count and inventory valuation support answer different questions. Counting seeks evidence about quantities at specified locations and times. Valuation work considers the amounts associated with those quantities under an agreed accounting approach. A business may require both, but a count report alone does not establish that the inventory balance is appropriately valued.",
+    "sections": [
+      {
+        "title": "Describe the count boundary",
+        "text": "List locations, stock categories, third-party holdings and the intended cutoff. Identify units of measure and how movements during the count will be controlled. Ask whether the proposed count service covers all items or a sample and how exceptions are recorded. The business should know which quantities are observed directly and which depend on information supplied by others."
+      },
+      {
+        "title": "Describe the valuation question",
+        "text": "Specify whether the support concerns cost records, a reconciliation, damaged items, obsolete stock or another defined issue. Ask the accounting professional what information is necessary and which judgments remain with management. Do not assume that a counting crew will determine an appropriate accounting treatment or that a valuation review includes opening every storage location."
+      },
+      {
+        "title": "Use a stock example",
+        "text": "In an illustrative parts business, a count finds 200 units of a component, while the system carries 240. Separately, some of the observed units are damaged. The quantity difference and the condition issue require related but distinct evidence. Ask each proposal which question it resolves, which report it provides and how the unresolved question is passed to the appropriate reviewer."
+      },
+      {
+        "title": "Connect identifiers and records",
+        "text": "Agree on item codes, location identifiers and units before work starts. A count of boxes cannot be reconciled directly to a ledger recording individual pieces unless the conversion is documented. Retain the original observations and any approved adjustments. The handoff should preserve how quantities changed rather than replace the initial count with a final unexplained total."
+      },
+      {
+        "title": "Clarify independence and assurances",
+        "text": "Ask what the provider’s report does and does not represent. An operational count is not automatically an audit or assurance engagement. If a lender, auditor or other recipient requires a particular form of evidence, obtain that requirement before purchasing the service. Do not promise acceptance by a third party based solely on the provider’s marketing description."
+      },
+      {
+        "title": "Compare effort on the same inventory",
+        "text": "Give candidates the same location list, item volume, timing and condition concerns. Identify business staff needed for access, identification and issue resolution. Separate the cost of observation from professional analysis and follow-up corrections. Acceptance should show usable count evidence and a defined accounting handoff, with exceptions still visible where further work is required."
+      }
+    ],
+    "checklist": [
+      "Locations, units and cutoff",
+      "Separate quantity and value questions",
+      "Condition and discrepancy evidence",
+      "Item-code reconciliation",
+      "Recipient requirements and report limitations"
+    ],
+    "questions": [
+      "Does this scope establish quantities, values or both?",
+      "Who resolves damaged-stock questions?",
+      "Can observations be traced to item records?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "software-implementation-versus-managed-accounting",
+    "title": "Accounting software implementation versus managed accounting",
+    "description": "Compare configuring a system with operating the accounting process after launch.",
+    "intro": "A configured accounting platform and an operating accounting function are different deliverables. An implementation project may establish settings, data connections and workflows. Managed accounting may maintain records and deliver agreed reports after launch. The owner should compare those responsibilities explicitly, especially when proposals describe both as a complete finance solution without showing who operates it.",
+    "sections": [
+      {
+        "title": "Name the implementation outcome",
+        "text": "List the processes the new system must support and the evidence required to accept them. Include opening data, permissions, integrations and report requirements. Ask whether configuration is based on documented business decisions or defaults selected by the implementer. A technically functioning account does not establish that staff can perform the business’s actual month-end work."
+      },
+      {
+        "title": "Name recurring work separately",
+        "text": "Identify who imports transactions, reviews exceptions, reconciles accounts and prepares reports after launch. An implementation team may offer a short support period without taking over those tasks. A managed accounting provider may expect the system to be configured already. Put both assumptions in the same responsibility map so launch does not leave an unowned operating queue."
+      },
+      {
+        "title": "Test a complete transaction",
+        "text": "Use an illustrative sale involving a deposit, final invoice and customer refund. Ask the implementer to demonstrate the configured path and resulting records. Ask the recurring provider to explain who reviews and maintains those records next month. This reveals the difference between a system capable of recording the event and a team assigned to keep it correct."
+      },
+      {
+        "title": "Distinguish repair from change requests",
+        "text": "Define what counts as a configuration defect, a missing requirement and a new business request. Record the support window and escalation process. A business that adds another entity after acceptance may need additional implementation work; that should not be confused with a routine bookkeeping correction. Keep agreed requirements available when discussing the distinction."
+      },
+      {
+        "title": "Preserve usable knowledge",
+        "text": "Require configuration notes, administrator ownership and relevant workflow instructions in a business-accessible place. Training should use the roles staff actually perform. Confirm which integrations depend on an individual account and how authorized staff recover access. Official recordkeeping guidance provides background on preserving usable records; it does not certify a particular implementation method."
+      },
+      {
+        "title": "Compare the launch and operating timeline",
+        "text": "Show the final project milestone, first recurring reporting cycle and who supports the interval between them. Compare project fees and recurring fees independently, including internal training effort. Acceptance should involve working examples and clear ownership, rather than a statement that software is installed. The ongoing service agreement should describe what happens when new requirements emerge."
+      }
+    ],
+    "checklist": [
+      "Configured-process acceptance tests",
+      "Recurring transaction and review owners",
+      "Defect versus change definitions",
+      "Business-controlled configuration notes",
+      "Launch-to-first-close responsibility map"
+    ],
+    "questions": [
+      "Who operates the system after acceptance?",
+      "What example proves the workflow works?",
+      "Where is configuration knowledge retained?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "management-reporting-versus-dashboard-software",
+    "title": "Management reporting service versus dashboard software",
+    "description": "Compare interpreted reporting work with the software that displays selected data.",
+    "intro": "A dashboard can make figures easier to see, but a useful management report also depends on definitions, reconciled inputs and interpretation. A reporting service may perform some of that work; dashboard software may provide tools for staff to do it. Compare the proposed responsibilities before purchasing a visual interface to solve an undefined reporting problem.",
+    "sections": [
+      {
+        "title": "Start with a decision",
+        "text": "Describe the operating question, such as whether a service line is covering its direct labor and allocated support costs. Identify who will act on the answer and when it is needed. Avoid beginning with a list of chart types. A visually attractive report can still be unsuitable if it uses a definition that differs from the owner’s decision."
+      },
+      {
+        "title": "Assign definition ownership",
+        "text": "Write down how each measure is calculated, the source records and treatment of exceptions. Ask whether the service includes agreeing these definitions or merely implementing measures supplied by management. A software package may offer default metrics, but the business still needs to understand their meaning. Preserve definitions alongside the dashboard instead of relying on one employee’s memory."
+      },
+      {
+        "title": "Check the underlying data work",
+        "text": "Ask who identifies incomplete records, reconciles inputs and investigates unexpected changes. A dashboard connection that refreshes successfully does not prove that the source is complete. A reporting provider may also exclude bookkeeping corrections. Put the upstream work in the comparison so an unexplained number is not passed repeatedly between the software vendor and accounting team."
+      },
+      {
+        "title": "Use a margin change example",
+        "text": "In an illustrative service company, reported margin falls after subcontractor costs are posted late. Ask the software option who notices the timing issue and explains it. Ask the reporting service whether investigation is included or separately scoped. The desired output may be a corrected period comparison and a clear explanation, rather than another view of the same unreviewed data."
+      },
+      {
+        "title": "Separate explanation from recommendation",
+        "text": "Specify whether the deliverable is a chart, written commentary, a review meeting or decision analysis. A provider may explain a variance without recommending a management action. Confirm who owns any follow-up work. Do not treat automated labels or brief generated commentary as evidence that a qualified person reviewed the business context."
+      },
+      {
+        "title": "Review recurring usability",
+        "text": "Test whether authorized staff can reproduce the report, find its refresh date and identify changed definitions. Compare licensing, setup and recurring analytical work using actual proposals. The business should retain access to its definitions and outputs at exit. Neither a polished dashboard nor a service meeting guarantees that a decision based on incomplete assumptions will succeed."
+      }
+    ],
+    "checklist": [
+      "Named operating decision",
+      "Documented measure definitions",
+      "Upstream reconciliation owner",
+      "Margin-change walkthrough",
+      "Refresh dates and retained outputs"
+    ],
+    "questions": [
+      "Who explains unexpected changes?",
+      "Which data corrections are included?",
+      "Can staff reproduce the report?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "multi-entity-consolidation-versus-separate-bookkeeping",
+    "title": "Multi-entity consolidation versus separate bookkeeping",
+    "description": "Compare entity-level record maintenance with a combined management reporting process.",
+    "intro": "Keeping each entity’s books current does not automatically produce a coherent combined view. Consolidation support may require common definitions, intercompany mapping and an agreed reporting boundary. Separate bookkeeping remains important even when the owner mainly reads a group report. Compare the two scopes without assuming that a combined spreadsheet replaces entity-level records or satisfies formal reporting requirements.",
+    "sections": [
+      {
+        "title": "Define the reporting perimeter",
+        "text": "List the entities and the purpose of the combined view. State whether the owner needs internal management information or a report for an external recipient. Ownership relationships and reporting requirements may require professional assessment. This guide does not establish consolidation rules. The proposal should identify who confirms the appropriate perimeter and presentation for the intended use."
+      },
+      {
+        "title": "Make entity work visible",
+        "text": "Identify who completes each entity’s close, maintains supporting schedules and resolves discrepancies. A consolidation engagement may assume those inputs are already reviewed. If an entity delivers late or inconsistent reports, the group process needs an escalation path. Do not describe the combined reporting fee as including entity cleanup unless that work appears in the agreement."
+      },
+      {
+        "title": "Agree mappings and timing",
+        "text": "Compare account classifications, reporting periods and the cutoff used across entities. Record how different source systems are mapped into a common view. Ask who approves changes to the mapping. A combined revenue figure can be misleading when one business closes on a different schedule or records similar activity in a different category without explanation."
+      },
+      {
+        "title": "Walk through an intercompany charge",
+        "text": "Use an illustrative management fee between two entities. Ask who identifies both sides, resolves a mismatch and applies the agreed reporting treatment. The entity-level bookkeeper may record one side correctly while the group process still lacks a corresponding record. Keep the source entries, reconciliation and group adjustments traceable rather than relying on an unexplained total."
+      },
+      {
+        "title": "Compare outputs and handoffs",
+        "text": "Request the proposed entity reports, group report and adjustment record. Identify which files the tax preparers receive and who answers questions about the combined presentation. Internal reporting choices should not be presented as tax conclusions. Qualified advisers should review the actual entity structure and filing needs separately from this operational service comparison."
+      },
+      {
+        "title": "Evaluate the full schedule",
+        "text": "Map entity close dates, group review and delivery to decision-makers. Compare the number of entities, currencies or systems actually included in each proposal, without assuming they are interchangeable units. Acceptance should show a reconciled path from entity inputs to the combined output and identify unresolved differences. Preserve the underlying entity records even when the group report is the main presentation."
+      }
+    ],
+    "checklist": [
+      "Reporting perimeter and intended use",
+      "Entity-close responsibility",
+      "Common account mapping",
+      "Intercompany reconciliation trail",
+      "Group-to-entity output bridge"
+    ],
+    "questions": [
+      "Which work is assumed complete before consolidation?",
+      "Who resolves intercompany differences?",
+      "Can group figures be traced to entity records?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "bank-feed-categorization-versus-reconciliation",
+    "title": "Bank-feed categorization versus account reconciliation",
+    "description": "Compare classifying imported transactions with proving that an account balance is supported.",
+    "intro": "A bank feed can make transaction entry convenient, but categorizing imported lines and reconciling an account are different tasks. An owner comparing bookkeeping offers should ask what evidence supports the ending balance, not just how many transactions are processed. Service descriptions vary, so require the actual steps and exception handling to be stated in the proposal.",
+    "sections": [
+      {
+        "title": "Describe the entry process",
+        "text": "Ask how imported transactions are matched to existing records, classified and supported. Identify how transfers, duplicate imports and missing receipts are handled. A rule that assigns a category may be useful, but it does not necessarily explain the business purpose or establish that all activity was imported. Clarify who reviews rules and transactions that do not fit them."
+      },
+      {
+        "title": "Describe balance verification",
+        "text": "Ask what the provider means by reconciliation, what source statement is used and what record is delivered. Identify who reviews outstanding items and explains differences. The operational objective is a documented connection between the recorded account and external evidence. A screenshot of a bank-feed screen is not the same deliverable as an explained reconciliation with open items."
+      },
+      {
+        "title": "Use a missing-item example",
+        "text": "In an illustrative account, most daily activity imports successfully but a month-end charge is absent and one transfer appears twice. Ask each candidate how those conditions are found. A categorization-only scope may process every imported line without discovering the missing charge. A reconciliation scope should explain its procedure and the limits of evidence available, rather than promise that no error can remain."
+      },
+      {
+        "title": "Include non-bank accounts deliberately",
+        "text": "List credit cards, loans, payment-clearing accounts and other balances that need support. Do not assume that a bank-reconciliation service covers all balance-sheet accounts. Some require schedules and source records beyond a monthly statement. Compare which accounts are included, how often they are reviewed and who maintains the supporting documents."
+      },
+      {
+        "title": "Set exception ownership",
+        "text": "Agree how questions reach the business, when responses are needed and what remains open at reporting time. An unresolved item should have a description and owner. Automatically placing differences in a general category can make a report appear finished without resolving the underlying problem. Ask how corrections are approved and preserved in the record."
+      },
+      {
+        "title": "Compare completion evidence",
+        "text": "For each proposal, request a representative deliverable using fictional or redacted data. Compare transaction counts, accounts, periods and reviewer involvement on the same basis. The IRS recordkeeping material provides general context for maintaining records; the specific categorization and reconciliation workflow here is an editorial comparison framework, not an official assurance standard."
+      }
+    ],
+    "checklist": [
+      "Entry and matching steps",
+      "Statement-based balance evidence",
+      "Missing-item walkthrough",
+      "Included account list",
+      "Open-item owner and correction log"
+    ],
+    "questions": [
+      "What proves the ending balance is supported?",
+      "Who finds activity that never imported?",
+      "Which accounts are outside scope?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "procurement-service-versus-purchasing-software",
+    "title": "Procurement service versus purchasing software",
+    "description": "Compare staff work on supplier choices and order exceptions with tools for approvals and records.",
+    "intro": "Purchasing software can organize requests, approvals and orders. A procurement service may perform some of the research, supplier coordination or negotiation work that uses those records. The business should compare both against the actual buying problem. Neither a workflow screen nor a service title establishes that someone will resolve a late delivery or challenge an unsuitable specification.",
+    "sections": [
+      {
+        "title": "Name the buying gap",
+        "text": "Describe whether the problem is uncontrolled approvals, limited supplier options, repeated stockouts or weak follow-through after ordering. A software workflow may address one gap while leaving another untouched. Give candidates a realistic category of purchases and its current problems. Avoid asking for general savings without a defined baseline and comparable quality requirements."
+      },
+      {
+        "title": "Separate choices from administration",
+        "text": "Identify who defines requirements, compares suppliers, selects an offer, raises an order and approves changes. A procurement service may advise while management retains the choice. Software may record an approval without evaluating the purchase. Make those boundaries visible so staff do not assume that a completed electronic workflow is evidence of a considered commercial decision."
+      },
+      {
+        "title": "Walk through a delayed order",
+        "text": "Use an illustrative packaging order that will arrive after production needs it. Ask the service candidate whether contacting alternatives and assessing substitutions is included. Ask the software option which employee receives and resolves the alert. Compare the remaining internal workload and authority, especially when a faster substitute changes quality or cost."
+      },
+      {
+        "title": "Keep supplier changes controlled",
+        "text": "State who can create suppliers, change payment details and approve new terms. Review access through the business’s own process. Operational convenience should not merge every preparation and approval role without consideration. Retain the reasons for exceptions, such as an urgent order outside the usual supplier list, so a later review can understand the decision."
+      },
+      {
+        "title": "Compare evidence of performance",
+        "text": "Define usable outputs such as a documented comparison, accepted order, delivery record and exception log. Claimed savings require a clear reference point and comparable scope; do not treat a headline reduction as proof of value. Quality, timing and internal effort can differ even when quoted unit prices match. Keep those dimensions separate in the evaluation."
+      },
+      {
+        "title": "Plan knowledge retention",
+        "text": "Require business access to supplier contacts, specifications, order history and negotiated terms within the agreed scope. Ask what happens when service ends or software changes. Compare setup work, recurring support and category-specific projects individually. The appropriate choice may combine internal decision-makers with tools or outside help, but each role needs a named owner."
+      }
+    ],
+    "checklist": [
+      "Specific buying problem",
+      "Decision and administration map",
+      "Delayed-order walkthrough",
+      "Supplier-change approvals",
+      "Business-owned specification and order history"
+    ],
+    "questions": [
+      "Who resolves an exception after the order?",
+      "What does a savings claim compare?",
+      "Who retains supplier knowledge?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "project-cost-setup-versus-ongoing-job-costing",
+    "title": "Job-cost setup versus ongoing project cost control",
+    "description": "Compare designing cost codes with maintaining usable project information throughout delivery.",
+    "intro": "A job-cost structure gives transactions a place to go. Ongoing project cost control depends on people applying that structure, reviewing commitments and correcting exceptions while work continues. An owner comparing a setup project with a recurring service should distinguish the initial design from the operating discipline required afterward. Software configuration alone does not establish that project margins will be reliable.",
+    "sections": [
+      {
+        "title": "Define the reporting decision",
+        "text": "Describe whether managers need quoted-versus-actual costs, committed costs, labor hours or another specific view. Identify the project types and the level of detail staff can maintain. Excessively granular codes may be difficult to use consistently, while broad categories may not answer the business question. Ask the setup proposal to explain its design assumptions."
+      },
+      {
+        "title": "Identify ongoing inputs",
+        "text": "List time records, material issues, subcontractor commitments, purchase orders and changes relevant to the chosen view. Determine who codes each item and who resolves missing project identifiers. A recurring service may rely on site staff to provide timely information. Include that dependency in the comparison rather than assuming the service can reconstruct every project event from bank activity."
+      },
+      {
+        "title": "Test a changed project",
+        "text": "In an illustrative installation job, the customer approves additional work after the initial quote and materials are ordered before the invoice arrives. Ask the setup team how the structure accommodates the change. Ask the recurring team who records the commitment and connects the later invoice. The test distinguishes a usable design from continuing responsibility for accurate project status."
+      },
+      {
+        "title": "Agree review and correction rules",
+        "text": "Set the frequency of project review, who discusses unexpected costs and who can approve a reclassification. Retain the reason for moving costs between jobs. A cleaner-looking margin after an unexplained transfer is not sufficient evidence of a correction. The process should preserve source records and make unresolved items visible to project managers."
+      },
+      {
+        "title": "Compare acceptance milestones",
+        "text": "A setup engagement might be accepted when sample jobs run through the structure and staff can use it. A recurring engagement might be assessed through completed reporting cycles and documented exceptions. These are proposed acceptance tests, not universal service definitions. Confirm which training, historical conversion and opening-project work are included before comparing prices."
+      },
+      {
+        "title": "Preserve the operating instructions",
+        "text": "Keep cost-code definitions, project-opening steps and change procedures available to staff. Ask who updates them when the business introduces a new service or contract type. The handoff to the accounting or tax team should explain what the project reports represent and their limitations. Job-cost information supports decisions; it does not independently determine tax treatment or guarantee profitability."
+      }
+    ],
+    "checklist": [
+      "Named project decision",
+      "Input owners and timeliness",
+      "Changed-project example",
+      "Approved reclassification record",
+      "Setup and recurring acceptance tests"
+    ],
+    "questions": [
+      "Who maintains commitments before invoices arrive?",
+      "Can staff use the cost codes consistently?",
+      "What work starts after setup ends?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "document-capture-service-versus-bookkeeping-review",
+    "title": "Document capture versus bookkeeping review",
+    "description": "Compare collecting invoice data with reviewing what belongs in the accounts.",
+    "intro": "Extracting a date and amount from a document is useful administrative work. Reviewing how that document belongs in the business records requires additional context. Owners comparing capture tools, document-processing services and bookkeeping review should separate those steps. A neatly populated form does not establish that the transaction is genuine, approved, correctly classified or ready for a tax conclusion.",
+    "sections": [
+      {
+        "title": "List what capture delivers",
+        "text": "Ask which fields are extracted, how duplicates are flagged and where the original document is stored. Confirm how unreadable pages, multiple currencies or several invoices in one file are handled within the actual scope. The important comparison is the usable output and exception queue, not a general claim that processing is automatic."
+      },
+      {
+        "title": "Define the review question",
+        "text": "Identify who checks supplier identity, business purpose, approval and the proposed account classification. Some decisions require information from the purchaser or a qualified adviser. A processing service may only populate fields for that reviewer. Make the handoff explicit so a missing explanation is not silently treated as approval because the document passed through a tool."
+      },
+      {
+        "title": "Walk through an ambiguous receipt",
+        "text": "Use an illustrative receipt containing both a business item and an unrelated purchase. Ask the capture option what data it extracts and where the split decision goes. Ask the bookkeeping scope who obtains the explanation and records the agreed treatment. Do not expect a scanning rule to infer facts the source document does not establish."
+      },
+      {
+        "title": "Preserve source and changes",
+        "text": "Keep the original image connected to the record and retain meaningful corrections to extracted data. Define how staff identify the latest version without destroying the source. The IRS provides general background on retaining supporting records, but it does not endorse a particular capture product. A readable archive and a reviewed accounting entry are related deliverables, not interchangeable ones."
+      },
+      {
+        "title": "Compare exceptions and internal time",
+        "text": "Use the same document sample for each candidate, including a blurred invoice, duplicate and credit note. Ask which cases require business intervention and how they are returned. Compare quoted charges and the internal work left over. An impressive extraction rate is difficult to interpret without the sample, field definitions and error-handling process."
+      },
+      {
+        "title": "Set a reviewable starting period",
+        "text": "Agree how a first period will be checked and who approves adjustments to rules. Do not count every imported document as an accepted transaction. Track incomplete records separately until the responsible person resolves them. At exit, confirm access to documents, metadata and the links needed to understand the bookkeeping records, subject to the actual service agreement."
+      }
+    ],
+    "checklist": [
+      "Captured-field and source-image specification",
+      "Named contextual reviewer",
+      "Ambiguous-receipt test",
+      "Correction and version evidence",
+      "Comparable exception sample"
+    ],
+    "questions": [
+      "Who supplies missing business context?",
+      "Does capture imply approval in this workflow?",
+      "Can records be understood after export?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "financial-model-build-versus-model-maintenance",
+    "title": "Financial model build versus ongoing model maintenance",
+    "description": "Compare receiving an initial model with keeping its assumptions and calculations usable over time.",
+    "intro": "A financial model can be a one-time deliverable or a tool that someone maintains as the business changes. Those are different engagements. An owner should identify whether the immediate need is a model build, a recurring update process or a review of an existing model. A file with working formulas at delivery does not ensure that later users will keep its inputs consistent.",
+    "sections": [
+      {
+        "title": "Describe the model purpose",
+        "text": "State the decision and audience: an internal expansion scenario, operating plan or requested financing analysis may have different requirements. Identify the outputs needed and the facts management must supply. The engagement should record uncertainties rather than invent missing information. A model’s precision should not be confused with certainty about future outcomes."
+      },
+      {
+        "title": "Define the build acceptance",
+        "text": "Ask for transparent assumptions, documented input locations and a demonstration using a realistic scenario. Confirm whether the build includes data preparation, integration or only a model based on supplied records. The owner should know which parts are editable and which contain calculations. Training and explanatory notes may be material deliverables rather than optional extras."
+      },
+      {
+        "title": "Define maintenance ownership",
+        "text": "List recurring tasks: replacing actual results, revising assumptions, checking formulas and preserving versions. Identify who approves a structural change. A maintenance provider may update existing assumptions without adding new business lines or financing structures. A build-only engagement may include limited defect support but no continuing refresh. Put those distinctions in the comparison."
+      },
+      {
+        "title": "Test a changed business fact",
+        "text": "Use an illustrative business that delays a location opening by three months. Ask the builder to show which assumptions drive the change and how outputs respond. Ask the maintenance candidate who obtains the revised date and checks linked staffing and spending inputs. This tests the operating process around the model instead of merely whether one cell can be edited."
+      },
+      {
+        "title": "Keep review separate from assurance",
+        "text": "Ask what review of formulas and inputs is included and what remains outside scope. A model demonstration does not constitute an audit or guarantee that all errors are absent. External recipients may have their own expectations. Do not describe a provider’s involvement as an endorsement of management’s assumptions unless that characterization is explicitly supported."
+      },
+      {
+        "title": "Plan an understandable exit",
+        "text": "Confirm that the business receives usable files, assumptions, version history and instructions within the agreed scope. Identify external links or licensed components that affect continuing use. Compare initial build charges, recurring maintenance and major redesigns separately. The useful choice leaves the owner clear about who keeps the model relevant after its first presentation."
+      }
+    ],
+    "checklist": [
+      "Decision and audience definition",
+      "Transparent input and formula map",
+      "Refresh and approval owners",
+      "Delayed-opening walkthrough",
+      "Usable files and exit dependencies"
+    ],
+    "questions": [
+      "Who keeps the model current?",
+      "Which changes require a new scope?",
+      "Can another authorized person understand it?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "Official background on records or provider selection; the comparison scenarios and service scopes are original editorial examples, not official classifications",
+    "category": "Service comparisons",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]
