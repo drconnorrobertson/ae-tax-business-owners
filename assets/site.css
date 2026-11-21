@@ -27,3 +27,6 @@
 .resource-pager a{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;padding:8px 12px;border:1px solid var(--line);border-radius:3px;font-size:14px;background:var(--white)}
 .resource-pager a[aria-current=page]{background:var(--green);color:var(--paper);text-decoration:none}
 .resource-gap{padding:6px;color:var(--muted)}
+
+/* Allow the home hero grid to shrink to a narrow viewport. */
+.hero>*{min-width:0}
