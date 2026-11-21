@@ -2564,5 +2564,557 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 4
+  },
+  {
+    "slug": "equipment-rental-utilization-and-damage-log",
+    "title": "Review equipment rental utilization alongside downtime and damage",
+    "description": "Separate rental days, available days, maintenance holds and damage records when reviewing an equipment fleet.",
+    "intro": "A rental fleet can show strong demand while some assets remain unavailable or produce costly handoffs. A utilization percentage becomes useful only after the business defines its time categories. Connect the rental calendar to inspections, service holds and billing records before deciding that another purchase will solve a capacity problem. This is an operating review, not a safety inspection or a determination of customer liability.",
+    "sections": [
+      {
+        "title": "Define the time categories",
+        "text": "Record each asset, reporting period and calendar status. Separate paid rental time, available time, planned maintenance, unexpected repair and other holds. State whether weekends and delivery days count. Keep the same definitions across comparable assets. A machine unavailable for repair should not silently disappear from the denominator when management compares fleet performance."
+      },
+      {
+        "title": "Link reservations to completed rentals",
+        "text": "Match reservations, check-out records, returns and invoices. Identify cancellations, extensions and late returns separately. A reservation is evidence of expected demand, not proof that the rental occurred or was paid. Review assets reserved for several customers in overlapping periods and document how scheduling conflicts were resolved."
+      },
+      {
+        "title": "Record condition and downtime evidence",
+        "text": "Link dated inspection records, service work orders and the person releasing the asset for use. Keep customer-facing condition reports with the rental record. Do not infer who caused damage from a repair invoice alone. Route questions about safety, responsibility and contract interpretation to the appropriate qualified reviewer."
+      },
+      {
+        "title": "Calculate a consistent example",
+        "text": "For a fictional asset with 20 paid days in a 30-day reporting period, calendar utilization is about 66.7 percent. If five days were repair downtime, a separate available-day measure would use a different denominator. Label both measures rather than choosing the one that looks better. Compare revenue and operating costs alongside the time measures."
+      },
+      {
+        "title": "Choose the next operational action",
+        "text": "Distinguish a demand problem from a maintenance, delivery or scheduling bottleneck. Review whether a different asset could serve the job and whether the required cash is available. Assign an owner to recurring handoff problems and compare later periods using unchanged definitions. Do not treat a utilization target as a substitute for assessing safety or investment economics."
+      }
+    ],
+    "checklist": [
+      "Asset-level time definitions",
+      "Reservation, return and invoice links",
+      "Condition and service records",
+      "Clearly labeled utilization calculations",
+      "Assigned downtime and scheduling actions"
+    ],
+    "questions": [
+      "What time is excluded from the denominator?",
+      "Which reservations actually became paid rentals?",
+      "Is lost availability caused by demand or operations?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "landscaping-job-material-variance-review",
+    "title": "Explain landscaping material differences before repricing jobs",
+    "description": "Compare estimated quantities, purchases, site use, returns and scope changes for landscaping projects.",
+    "intro": "A landscaping job can use more material than estimated because the site changed, quantities were measured differently, deliveries were short or the original takeoff was incomplete. A variance review should distinguish those explanations. Connect the estimate to the actual site and supplier records so a price change or purchasing decision responds to evidence rather than one unexplained overrun.",
+    "sections": [
+      {
+        "title": "Preserve the original quantity basis",
+        "text": "Record the estimate version, measured area, depth or other quantity assumption, material specification and units. Keep the relevant plan or site note. A cubic-yard estimate cannot be compared directly with bags or tons without a documented conversion appropriate to the material. Ask the responsible estimator to explain uncertain assumptions."
+      },
+      {
+        "title": "Match deliveries and site movements",
+        "text": "Link purchase orders, delivery tickets, supplier invoices and quantities accepted on site. Record transfers from another job, unused stock returned to the yard and supplier returns. A purchase made for one project may serve more than one site. Allocate actual movements using records rather than assigning the whole invoice to whichever job was easiest to select."
+      },
+      {
+        "title": "Separate quantity and price effects",
+        "text": "For a fictional job estimated at 100 units costing $20 each, 110 units bought at $22 cost $2,420 instead of $2,000. One transparent breakdown is $200 for ten extra units at the original price and $220 for the price increase on all 110 units. The $420 difference should not be described entirely as waste."
+      },
+      {
+        "title": "Investigate changes and remaining material",
+        "text": "Check approved scope changes, actual site conditions, damage and leftover usable stock. Identify who confirmed the reason and whether supporting evidence is available. Do not label a difference as crew performance without checking measurement and purchasing information. Record unresolved items separately and obtain qualified guidance where technical site conditions are involved."
+      },
+      {
+        "title": "Update the next estimate deliberately",
+        "text": "Compare several similar jobs before changing a standard assumption. Preserve differences in site access, material specification and season. Assign changes to estimating, buying or delivery practices as appropriate. Have finance review any proposed inventory or job-cost adjustment; the operating explanation and the accounting entry should remain linked but distinct."
+      }
+    ],
+    "checklist": [
+      "Estimate version and measurement basis",
+      "Delivery, transfer and return evidence",
+      "Separate price and quantity calculations",
+      "Scope-change and leftover-stock notes",
+      "Approved estimating or purchasing actions"
+    ],
+    "questions": [
+      "Are quantities measured in comparable units?",
+      "Could supplier price changes explain the overrun?",
+      "What evidence supports the proposed cause?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "wholesale-vendor-rebate-tracker",
+    "title": "Track wholesale vendor rebates from eligibility to receipt",
+    "description": "Connect supplier programs, qualifying purchases, claims, confirmations and receipts in a rebate register.",
+    "intro": "A supplier rebate mentioned in a sales conversation is not the same as an approved claim or cash received. A rebate register should preserve each stage and the evidence supporting it. Use it to coordinate purchasing and finance without assuming that every advertised incentive will be earned. The accountant should decide how the applicable arrangement affects financial reporting.",
+    "sections": [
+      {
+        "title": "Store the actual program terms",
+        "text": "Record the supplier, program period, covered products, measurement basis and relevant written terms. Identify exclusions, thresholds, deadlines and the contact who can resolve questions. Keep revisions with effective dates. Avoid combining different programs just because they share a supplier or a similar percentage in their marketing materials."
+      },
+      {
+        "title": "Build a supported purchase population",
+        "text": "Link eligible purchase invoices and returns for the stated period. Check whether the program uses ordered, shipped, invoiced or paid purchases. Include credit notes and excluded products appropriately under the terms. A purchase ledger total may not equal qualifying volume, so preserve the reconciliation rather than copying the largest available number."
+      },
+      {
+        "title": "Separate estimates and confirmations",
+        "text": "Maintain distinct statuses for estimated, submitted, acknowledged, approved and received. Record the evidence date and responsible owner. For a fictional program explicitly offering two percent of $50,000 in qualifying purchases, the calculation is $1,000. It remains an estimate until the relevant conditions and supplier confirmation are resolved."
+      },
+      {
+        "title": "Track the settlement method",
+        "text": "Identify whether the supplier expects to pay cash, issue a credit or provide another form of benefit. Match the actual settlement reference to the claim. A credit on an account is not a bank deposit and may affect what future invoices remain payable. Investigate partial settlements and deductions rather than marking the entire claim received."
+      },
+      {
+        "title": "Review open claims and reporting",
+        "text": "Schedule follow-up ahead of actual claim deadlines and retain submission evidence. Compare approved amounts with receipts and escalate disputed items through the agreed channel. Ask finance to review estimates and any accounting entries. Preserve the final register and terms so later staff can distinguish a historical estimate from an earned and settled amount."
+      }
+    ],
+    "checklist": [
+      "Program terms and effective dates",
+      "Qualifying-purchase reconciliation",
+      "Claim status and evidence",
+      "Cash or credit settlement reference",
+      "Open-item owner and follow-up date"
+    ],
+    "questions": [
+      "What purchase definition does the program use?",
+      "Which amounts are confirmed rather than estimated?",
+      "Was the benefit received as cash or an account credit?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "event-supplier-commitment-cash-calendar",
+    "title": "Map event supplier commitments before using client deposits",
+    "description": "Build a dated calendar of supplier deposits, approvals, balances and expected client collections for an event.",
+    "intro": "An event may receive a client deposit long before catering, venue, production and staffing balances become due. That bank receipt does not by itself show how much cash the business can use elsewhere. Build a commitment calendar for each event and connect it to the overall cash forecast. Use the actual agreements; this guide does not interpret cancellation or refund rights.",
+    "sections": [
+      {
+        "title": "Create the supplier commitment register",
+        "text": "List the event, supplier, service, agreement version, total proposed amount and approval status. Distinguish an enquiry or estimate from a signed commitment. Record the person authorized to approve changes. Keep separately priced options visible so they are not silently included in the budget or omitted when a client selects them."
+      },
+      {
+        "title": "Put payment conditions on a calendar",
+        "text": "Record deposit dates, milestone conditions, final balances and the source document for each. Identify payments contingent on guest counts, delivery or another event rather than assuming every date is fixed. Confirm unclear terms directly and route legal interpretation to qualified advice. A planning spreadsheet cannot replace the underlying agreement."
+      },
+      {
+        "title": "Compare supplier outflows with client collections",
+        "text": "For a fictional event receiving a $10,000 client deposit, known supplier deposits of $6,000 leave $4,000 before other commitments and operating needs. That difference is not a profit calculation. Show the remaining client balance and expected collection date alongside later supplier payments, taxes or other amounts reviewed by finance."
+      },
+      {
+        "title": "Model changes without overwriting the plan",
+        "text": "Keep the approved baseline and record changes to attendance, scope, timing and quoted costs. Link client approval to supplier changes where relevant. Show unresolved proposals separately. A delayed event can shift both collections and outflows; do not assume those shifts happen in the same month or offset automatically."
+      },
+      {
+        "title": "Review the event and portfolio together",
+        "text": "Assign an owner to missing approvals and approaching payment dates. Reconcile payments to supplier statements and receipts to client records. Aggregate event forecasts so concurrent projects do not rely on the same cash. Have finance confirm reporting of deposits and completed services, and retain the closeout file after the final settlement."
+      }
+    ],
+    "checklist": [
+      "Supplier agreements and approval status",
+      "Payment dates and triggering conditions",
+      "Client collection schedule",
+      "Baseline and approved scope changes",
+      "Event-to-bank reconciliation"
+    ],
+    "questions": [
+      "Which commitments are signed rather than proposed?",
+      "Do supplier payments fall before client collections?",
+      "What still needs approval before the next payment?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "freight-fuel-surcharge-reconciliation",
+    "title": "Reconcile freight fuel surcharges to the agreed calculation",
+    "description": "Connect contract formulas, index periods, shipment records, invoices and credits when reviewing freight surcharges.",
+    "intro": "A freight invoice can use a fuel surcharge that depends on an agreed index, base price, effective period or other formula. A surcharge review begins with that arrangement, not a comparison with an unrelated fuel price. Keep the calculation and shipment evidence together so transport operations and finance can explain differences. Do not assume a universal industry formula applies to every contract.",
+    "sections": [
+      {
+        "title": "Identify the applicable agreement",
+        "text": "Record the carrier or customer, service, agreement version and effective dates. Copy the formula reference and link the actual document rather than rewriting ambiguous language as a new rule. Confirm the index, timing convention, rounding and exclusions with the responsible commercial contact. Obtain qualified advice where the agreement needs interpretation."
+      },
+      {
+        "title": "Match the correct shipment population",
+        "text": "Link shipment identifiers, service dates, routes or distance measures and base freight amounts used by the formula. Separate cancelled or corrected shipments. Check the relevant date defined by the agreement; invoice date may differ from the shipment or index date. Keep currency and unit conversions explicit."
+      },
+      {
+        "title": "Recalculate a defined sample",
+        "text": "For a fictional agreement applying a stated 12 percent surcharge to $2,000 of eligible base freight, the result is $240. This example is arithmetic, not a recommended rate. Check whether accessorial charges belong in the base before using the calculation. Compare the sample with the invoice and document any rounding difference."
+      },
+      {
+        "title": "Track credits and disputed items",
+        "text": "Record the invoice line, expected amount, billed amount and supporting explanation. Maintain separate statuses for requested correction, supplier acknowledgement and issued credit. A disputed charge has not disappeared merely because an email was sent. Reconcile the eventual credit or payment adjustment to the original shipment and invoice."
+      },
+      {
+        "title": "Connect surcharge timing to cash",
+        "text": "If the business pays a carrier and separately bills a customer, review the two arrangements independently. Their formulas and timing may differ. Track the lag between paying freight and collecting reimbursement. Summarize recurring errors for the commercial team while finance determines the appropriate entries and settlement treatment."
+      }
+    ],
+    "checklist": [
+      "Agreement and formula version",
+      "Index or rate evidence for the period",
+      "Eligible shipment and base-charge data",
+      "Recalculation and exception log",
+      "Credits and collection timing"
+    ],
+    "questions": [
+      "Which date determines the applicable surcharge?",
+      "What charges belong in the calculation base?",
+      "Does customer billing follow the same arrangement as carrier cost?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "membership-dues-reconciliation",
+    "title": "Reconcile membership dues to active records and collections",
+    "description": "Match member status, billing periods, invoices, payments and adjustments without treating a roster as a cash report.",
+    "intro": "A membership roster and a dues ledger answer different questions. Someone can appear active while a payment is unresolved, or make a payment covering a different period. Reconcile the two systems with consistent dates and identifiers before forecasting collections or contacting members. This workflow does not determine membership rights, tax status or the accounting treatment of dues.",
+    "sections": [
+      {
+        "title": "Define status and reporting dates",
+        "text": "Record the membership identifier, category, start and end dates, and source of the status decision. State the date of the roster snapshot. Keep pending applications, renewals and inactive records distinct. A live roster downloaded after month-end may differ from the population that existed during the billing period."
+      },
+      {
+        "title": "Match the billing arrangement",
+        "text": "Record the approved rate, covered period, billing frequency and invoice reference. Identify authorized discounts, waivers or category changes. Use the organization’s actual rules rather than assuming every member pays the standard annual amount. Keep personal information in the approved system and include only what the reconciliation requires."
+      },
+      {
+        "title": "Allocate receipts to the correct period",
+        "text": "Match bank or processor receipts to members and invoices. Separate processing fees, partial payments and unidentified receipts. For a fictional member owing $600 for a year and paying $300, record the payment and the remaining balance under the agreed terms. The payment alone does not determine whether membership is active or expired."
+      },
+      {
+        "title": "Investigate roster and ledger exceptions",
+        "text": "Review active records without expected billing, invoices without a corresponding member record and duplicate identifiers. Check timing before deciding an error occurred. Document approved credits and reversals with references. Do not remove a member or waive a balance solely to make two totals agree."
+      },
+      {
+        "title": "Close and use the reconciliation",
+        "text": "Have the membership owner confirm status questions and finance confirm financial adjustments. Summarize unresolved balances, collection assumptions and next actions. Preserve the roster snapshot and reconciliation for comparison with the next period. Use a separate forecast for likely collections rather than treating every billed amount as cash available today."
+      }
+    ],
+    "checklist": [
+      "Dated membership roster",
+      "Rates, waivers and billing periods",
+      "Receipt-to-invoice matching",
+      "Exception and approval records",
+      "Collection assumptions and owner"
+    ],
+    "questions": [
+      "Do the roster and ledger use the same cutoff?",
+      "Are receipts applied to the correct member and period?",
+      "Who can approve a status or balance change?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "franchise-marketing-fund-statement-review",
+    "title": "Review franchise marketing fund statements with the agreement",
+    "description": "Organize contributions, reported fund activity, statement periods and questions for a franchise marketing-fund review.",
+    "intro": "A franchise marketing-fund contribution is different from a location’s own advertising spend. A statement review should first identify what the agreement and supplied reports describe, then reconcile the amounts the business paid. It should not assume that contributions are a separate asset, guarantee local advertising results or confer a particular legal right. Obtain qualified advice about obligations and rights under the arrangement.",
+    "sections": [
+      {
+        "title": "Gather the governing documents",
+        "text": "Keep the relevant agreement, amendments, rate notices and available fund statements together. Record effective dates and the reporting period. Identify who at the franchisor can clarify the statement. Do not substitute a summary from another franchisee for the documents applying to this location."
+      },
+      {
+        "title": "Reconcile the location’s contributions",
+        "text": "Match assessments to the stated calculation base, location sales reports, invoices and payments. For a fictional agreement requiring a stated one percent of $200,000 of eligible sales, the calculation is $2,000. The example does not establish that the same rate or sales definition applies to another system. Explain credits, timing differences and unpaid items."
+      },
+      {
+        "title": "Read fund activity using its own categories",
+        "text": "Note the reported opening balance, contributions, expenditures, transfers and closing balance where supplied. Keep those fund-level figures separate from your location’s own contribution record. Identify the level of detail actually provided rather than inferring campaign costs or geographic allocations that the statement does not show."
+      },
+      {
+        "title": "Frame specific follow-up questions",
+        "text": "List unclear categories, changed reporting periods and material differences from earlier statements. Ask for clarification with the relevant page and period reference. A fund’s total spending does not measure the return on advertising for one location. Review local marketing performance using its own campaign evidence and acknowledge attribution limits."
+      },
+      {
+        "title": "Document the review outcome",
+        "text": "Record responses, remaining questions and the responsible contact. Have finance decide how the location records contributions and other charges. Keep legal interpretation separate from arithmetic reconciliation. Preserve the completed review so recurring questions and changes in reporting can be followed over time."
+      }
+    ],
+    "checklist": [
+      "Applicable agreement and amendments",
+      "Contribution calculation and payment evidence",
+      "Fund statement and reporting period",
+      "Specific clarification questions",
+      "Finance and qualified-adviser follow-up"
+    ],
+    "questions": [
+      "Does the sales base match the agreement?",
+      "Are location contributions being confused with fund-wide totals?",
+      "Which conclusions are supported by the information actually supplied?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "software-project-milestone-billing-handoff",
+    "title": "Connect software project milestones to billing evidence",
+    "description": "Prepare a handoff from project delivery to finance using milestone scope, acceptance records and invoice conditions.",
+    "intro": "A development team may complete work before the contract’s billing condition is satisfied. Finance may also receive a request to invoice without the evidence needed to explain it. A milestone handoff links the agreed deliverable, its status and the billing process. This guide does not decide whether acceptance occurred under a contract or prescribe revenue recognition.",
+    "sections": [
+      {
+        "title": "Define the billing milestone",
+        "text": "Record the project, agreement version, milestone identifier and referenced deliverables. Distinguish delivery, testing, acceptance and payment conditions where the agreement treats them separately. Ask the commercial owner to resolve unclear language. A ticket marked done is not automatically proof that the contractual billing condition has been met."
+      },
+      {
+        "title": "Keep a reviewable evidence file",
+        "text": "Link the relevant release, delivery communication, demonstration record or acceptance document. Note the date, recipient and remaining conditions. Use links to approved systems rather than copying confidential customer data into a billing spreadsheet. Preserve the version delivered so later fixes do not obscure what was submitted for review."
+      },
+      {
+        "title": "Separate approved changes and unresolved work",
+        "text": "Record change requests, approvals and their effects on the milestone and price. Keep open defects or dependencies visible with the responsible owner. Do not treat every requested change as separately billable or assume every open issue prevents billing. Those decisions require the actual agreement and authorized review."
+      },
+      {
+        "title": "Prepare the invoice package",
+        "text": "For a fictional project with an agreed $25,000 milestone, identify the approved billing amount, purchase-order reference, invoice recipient and required supporting documents. The amount does not become cash when the invoice is drafted. Record expected submission, customer processing and collection dates separately."
+      },
+      {
+        "title": "Track the handoff through collection",
+        "text": "Confirm that finance received the package and that the invoice reached the correct customer channel. Record rejections, missing references and payment disputes with next actions. Compare actual collection with the forecast. Ask accounting to determine reporting entries using the arrangement and applicable policy rather than equating project status with recognized revenue."
+      }
+    ],
+    "checklist": [
+      "Milestone and contract references",
+      "Dated delivery or acceptance evidence",
+      "Change and open-item log",
+      "Invoice routing and support package",
+      "Collection status and next action"
+    ],
+    "questions": [
+      "What evidence satisfies the billing condition?",
+      "Are approved changes reflected in the amount?",
+      "Who resolves customer invoice rejections?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "repair-shop-work-authorization-handoff",
+    "title": "Connect repair-shop work authorizations to estimates and invoices",
+    "description": "Maintain a clear record from customer request through approved work, parts, completion and billing.",
+    "intro": "Repair jobs often change after inspection or diagnosis. A useful work-order file preserves what was requested, what was estimated, what was authorized and what was ultimately performed. It helps the shop and customer discuss differences using the same record. Authorization requirements and customer rights vary; this workflow does not establish the legal rules for a particular repair.",
+    "sections": [
+      {
+        "title": "Record the starting request and item",
+        "text": "Create a job identifier and record the item, relevant identifying details, reported issue and intake condition. Keep customer contact information in the approved system. Separate what the customer reported from what staff later observed. Use a dated intake record so a subsequent change in the description is visible."
+      },
+      {
+        "title": "Preserve estimates and approved changes",
+        "text": "Link each estimate version, its stated scope and the evidence of approval required by the shop’s process and applicable rules. Record the person, date and method involved. Do not overwrite an earlier estimate when new work is discovered. Escalate uncertainty about permission before assuming a conversation authorized an expanded job."
+      },
+      {
+        "title": "Track parts and labor against the job",
+        "text": "Connect issued parts, returned parts, subcontract work and labor records to the work order. Identify unused stock and items ordered but not received. For a fictional job estimated at $500 that later adds a separately approved $120 item, show the two amounts and approval references. The example does not establish what a shop is entitled to charge."
+      },
+      {
+        "title": "Reconcile completed work to billing",
+        "text": "Have the responsible technician confirm completed and deferred items. Compare the invoice with approved scope and documented changes. Identify differences for review rather than quietly adjusting the description to match the bill. Keep applicable warranty information or follow-up instructions with the customer handoff without making unsupported coverage promises."
+      },
+      {
+        "title": "Close the file and review exceptions",
+        "text": "Match payment and final invoice status to the job. Document unresolved questions and responsible contacts. Review repeated estimate changes for purchasing, diagnosis or communication issues. Keep the record under the business’s retention and privacy procedures, and obtain qualified advice where a dispute involves contract or consumer requirements."
+      }
+    ],
+    "checklist": [
+      "Intake record and stable job ID",
+      "Estimate versions and approval evidence",
+      "Job-linked parts and labor",
+      "Completion and invoice reconciliation",
+      "Payment and exception follow-up"
+    ],
+    "questions": [
+      "Which estimate version was approved?",
+      "Are unused parts still charged to the job?",
+      "Who resolves a difference between approved and billed work?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "wholesale-customer-credit-memo-register",
+    "title": "Track wholesale customer credits without losing the original sale",
+    "description": "Link returns, pricing corrections, credit approvals and applications to invoices in a customer credit register.",
+    "intro": "A customer credit can arise from a physical return, a pricing correction or another approved adjustment. The reason matters because the supporting records and inventory effect may differ. A credit register should preserve the original sale and show how the adjustment was approved and used. Finance should determine the appropriate accounting and tax entries.",
+    "sections": [
+      {
+        "title": "Identify the reason and original transaction",
+        "text": "Record the customer, request, original invoice, product or service and amount under review. Use clear reason categories without assuming they determine accounting treatment. A disputed balance is not the same as an approved credit. Keep customer correspondence and supporting documents linked to the request."
+      },
+      {
+        "title": "Verify physical returns separately",
+        "text": "Where goods are involved, record authorization, actual receipt, inspection and disposition. A credit request alone does not prove stock was returned. Confirm quantity and condition before making an inventory adjustment. Keep damaged, restockable and unrecovered goods distinguishable so the financial review can use the actual outcome."
+      },
+      {
+        "title": "Preserve approval and calculation",
+        "text": "Record the approved amount, calculation, approver and issue date. For a fictional invoice charging 100 units at $12 instead of the agreed $11, the price difference is $100 before other applicable adjustments reviewed by finance. Keep that correction distinct from a return of 100 units; the stock movement is different."
+      },
+      {
+        "title": "Track how the credit is settled",
+        "text": "Link the issued credit memo to applications against invoices, refunds or the remaining account balance. Confirm customer instructions and the business’s process before issuing cash. A credit sitting unapplied in the ledger may not have reduced the invoice the customer expects. Review duplicate credits and partial applications."
+      },
+      {
+        "title": "Reconcile the customer statement",
+        "text": "Compare issued credits, applications, refunds and open balances with the customer account. Investigate differences before collection follow-up. Preserve voided documents and reasons rather than deleting their history. Review recurring causes with sales, fulfillment and finance so errors can be corrected at their source."
+      }
+    ],
+    "checklist": [
+      "Original invoice and credit reason",
+      "Return receipt and condition where relevant",
+      "Approved calculation and memo reference",
+      "Applications, refunds and remaining credit",
+      "Customer statement reconciliation"
+    ],
+    "questions": [
+      "Is the credit approved or merely requested?",
+      "Does the adjustment require a stock movement?",
+      "Which invoice or refund used the issued credit?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "professional-service-retainer-drawdown",
+    "title": "Reconcile professional-service retainers to work and invoices",
+    "description": "Track client funding, authorized applications, invoices and remaining balances without confusing receipts and earnings.",
+    "intro": "A professional-service retainer may fund future work, secure availability or operate under another arrangement. The agreement and applicable professional rules matter. A balance schedule should document money received and its authorized application while keeping accounting and legal conclusions with qualified reviewers. This guide does not prescribe trust-account handling or define when funds become earned.",
+    "sections": [
+      {
+        "title": "Identify the specific arrangement",
+        "text": "Record the client or matter, agreement version, purpose of the payment and responsible professional. Confirm the rules and process that apply to the service. Do not assume a retainer used by one type of firm works like another. Keep confidential client details in approved systems and use only necessary references in the schedule."
+      },
+      {
+        "title": "Record receipts without skipping the bank match",
+        "text": "Link each payment to its date, amount, currency and bank or processor reference. Separate rejected payments, refunds and processing differences. Confirm where funds were deposited under the applicable process. A receipt recorded in a client system should be reconciled to actual settlement rather than treated as proof of bank cash."
+      },
+      {
+        "title": "Link applications to authorized billing",
+        "text": "For each drawdown or application, record the invoice, covered work, approval and amount. For a fictional $5,000 funding receipt with a documented $1,200 application, the schedule shows $3,800 remaining before other movements. That arithmetic does not determine ownership of the balance or when revenue is recognized."
+      },
+      {
+        "title": "Track replenishment and exceptions",
+        "text": "Show the applicable replenishment condition and expected request date if the arrangement includes one. Record disputed invoices, unapplied receipts and proposed refunds separately. Do not change the funding balance merely to make it match a time-entry report. Resolve differences using invoices, authorizations and the governing arrangement."
+      },
+      {
+        "title": "Review balances with the right owner",
+        "text": "Reconcile the client schedule to the relevant control accounts and bank records under the firm’s procedures. Have the responsible professional approve client-specific questions and finance approve entries. Preserve the reconciliation and evidence for each period. Obtain qualified guidance about professional, trust, legal or tax obligations rather than relying on a generic template."
+      }
+    ],
+    "checklist": [
+      "Agreement and applicable-process reference",
+      "Receipt and settlement evidence",
+      "Authorized invoice applications",
+      "Replenishment and disputed-item status",
+      "Control-account reconciliation and approval"
+    ],
+    "questions": [
+      "What does this particular retainer arrangement require?",
+      "Are applications supported by authorized invoices?",
+      "Who reviews the remaining balance and any proposed refund?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "salon-prepaid-service-balance-review",
+    "title": "Reconcile salon prepaid services and gift-card balances",
+    "description": "Connect prepaid sales, redemptions, refunds and system adjustments without treating all receipts as current service revenue.",
+    "intro": "A salon may receive money today for a service or gift card redeemed later. A balance review connects the sale to later activity and helps staff answer customer questions consistently. Packages, gift cards and promotional credits can have different terms and rules. This guide provides a reconciliation workflow, not a conclusion about expiration, refunds, unclaimed property or tax treatment.",
+    "sections": [
+      {
+        "title": "Separate the product types",
+        "text": "Identify gift cards, prepaid service packages, deposits and promotional credits using the actual product setup. Record the relevant terms, issue date and system identifier. A free promotional credit should not be mixed with a customer-funded balance merely because both appear at checkout. Ask qualified advisers about rules affecting a particular offering."
+      },
+      {
+        "title": "Match sales to settled receipts",
+        "text": "Reconcile issued customer-funded value with point-of-sale records and payment settlements. Identify voids, failed payments and corrections. Keep card identifiers and customer information protected. A printed card or booking note does not by itself demonstrate that the related payment settled into the salon’s account."
+      },
+      {
+        "title": "Record redemptions and adjustments",
+        "text": "Link each redemption to the service or retail transaction, date and amount. Distinguish a refund, transfer, correction and promotional adjustment. For a fictional $200 gift card redeemed for $75 with no other movements, the remaining face-value balance is $125. That example does not decide the accounting entry or the customer’s legal rights."
+      },
+      {
+        "title": "Reconcile the balance rollforward",
+        "text": "Start with the prior balance, add supported issuances and subtract documented redemptions or other approved reductions. Compare the result with the system’s closing report. Investigate manual adjustments and missing transaction references. Keep package service units distinct from dollar balances unless the conversion is defined and consistently applied."
+      },
+      {
+        "title": "Review open balances and staff procedures",
+        "text": "Have finance determine reporting and any required treatment of old balances. Do not erase unused value based on an assumed expiration rule. Review how staff check balances, approve adjustments and handle customer disputes. Preserve the period report and correction history so a later software migration or ownership change does not lose the supporting record."
+      }
+    ],
+    "checklist": [
+      "Distinct prepaid and promotional products",
+      "Issuance-to-payment reconciliation",
+      "Linked redemptions and adjustments",
+      "Opening-to-closing balance rollforward",
+      "Approved treatment of exceptions"
+    ],
+    "questions": [
+      "Was the value paid for or promotional?",
+      "Can each redemption be traced to a transaction?",
+      "Who approves corrections and questions about unused balances?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "SBA background on business finances; the workflow above is editorial guidance",
+    "category": "Industry operations",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
   }
 ]
