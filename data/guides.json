@@ -1188,5 +1188,341 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 4
+  },
+  {
+    "slug": "gross-margin-vs-markup",
+    "title": "Gross margin versus markup: a pricing worksheet for owners",
+    "description": "Use the correct denominator when comparing product prices, direct costs and the amount available for overhead.",
+    "intro": "Gross margin and markup describe the same price-and-cost relationship from different directions. Confusing them can produce a price that misses the owner’s target. Write down the selling price and the cost being used, then calculate both measures explicitly. The worksheet is a management example; your accountant should confirm which costs belong in the reported gross-profit figure.",
+    "sections": [
+      {
+        "title": "Start with a clearly defined cost",
+        "text": "Choose one product or service and a consistent period. Identify the direct costs included in the analysis and explain any excluded labor, freight, payment fees or returns. A supplier’s unit invoice price may not be the complete delivered cost. Avoid comparing one product’s fully loaded cost with another’s purchase price. Keep the cost definition beside the calculation so a later reviewer can reproduce it."
+      },
+      {
+        "title": "Use a different denominator for each measure",
+        "text": "For a fictional item sold for $100 with a defined cost of $60, gross profit is $40. Gross margin is $40 divided by the $100 selling price, or 40 percent. Markup is $40 divided by the $60 cost, or approximately 66.7 percent. A 40 percent markup on a $60 cost would instead produce an $84 price. These are arithmetic examples, not recommended prices."
+      },
+      {
+        "title": "Translate a target into a testable price",
+        "text": "If the owner sets a target gross margin, the implied price is cost divided by one minus the target margin expressed as a decimal. Before using that result, test whether the cost assumption is complete and whether customers will pay the resulting price. Include discounting and expected returns. A mathematically correct target price is not evidence that the market will accept it."
+      },
+      {
+        "title": "Compare the result with operating profit",
+        "text": "Gross profit must still cover the costs excluded from the definition. Prepare a separate view of overhead and operating expenses instead of treating gross margin as owner take-home cash. Review realized prices after discounts against the list-price model. Assign someone to update costs and note when supplier pricing, delivery charges or the product mix changes."
+      }
+    ],
+    "checklist": [
+      "Selling price after expected discounts",
+      "Defined direct-cost components",
+      "Gross profit, margin and markup calculations",
+      "Costs excluded from the model",
+      "Date and owner of the next update"
+    ],
+    "questions": [
+      "Which costs are included in the denominator?",
+      "Is the target expressed as margin or markup?",
+      "Does realized gross profit cover the remaining operating costs?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "break-even-sales-worksheet",
+    "title": "Build a break-even sales worksheet before expanding overhead",
+    "description": "Connect fixed costs, variable costs and contribution margin without confusing accounting break-even with cash availability.",
+    "intro": "A break-even model asks how much activity is needed to cover the costs included in the model. It is useful only when its cost definitions and sales mix are visible. Keep the calculation separate from the cash forecast, because debt payments, purchases, taxes and collection timing can create cash needs even when a simplified operating model breaks even.",
+    "sections": [
+      {
+        "title": "Classify the costs for this decision",
+        "text": "List costs that change with the activity being modeled and costs that remain fixed within the relevant range. Explain mixed costs instead of forcing them into one category without a basis. A staffing or facility step-change can make a cost fixed at one volume and higher at another. State the period, capacity limit and product mix before calculating a target."
+      },
+      {
+        "title": "Calculate contribution and break-even",
+        "text": "In a fictional business with $20,000 of monthly fixed costs and a 40 percent contribution margin, break-even sales are $20,000 divided by 0.40, or $50,000. Contribution margin here means sales less the specified variable costs, divided by sales. This example excludes items not listed in the model. It is not a claim about the business’s tax liability or required bank balance."
+      },
+      {
+        "title": "Test the assumptions that move the result",
+        "text": "Calculate a second case with lower realized pricing, higher variable costs or a different sales mix. If contribution falls to 32 percent while fixed costs stay $20,000, the same formula produces $62,500 of sales. Identify which assumption management can observe each week. Do not present a single break-even number without showing how sensitive it is to the inputs."
+      },
+      {
+        "title": "Connect the model to implementation",
+        "text": "Compare required volume with actual capacity, sales history and expected collection dates. Identify any additional hiring, equipment or inventory that the volume would require. Build those cash movements into a separate forecast. Have the accountant reconcile the model’s categories with the financial statements so differences are understood rather than hidden."
+      }
+    ],
+    "checklist": [
+      "Fixed-cost schedule for the selected period",
+      "Variable-cost definition and contribution calculation",
+      "Expected sales mix and capacity",
+      "Base and downside break-even cases",
+      "Separate cash forecast for financing and timing"
+    ],
+    "questions": [
+      "Which costs change at the modeled volume?",
+      "How much does the result move if contribution declines?",
+      "Can the business deliver and collect the required sales?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "cash-runway-scenario-review",
+    "title": "Review cash runway with scenarios instead of one countdown",
+    "description": "Calculate a simple runway indicator, then test collection timing, restricted cash and changing outflows.",
+    "intro": "Cash runway is often presented as cash divided by monthly burn. That shortcut can be informative, but it is not a promise about how long a company can operate. Start with cash that is available for the modeled purpose and define burn consistently. Then use a dated forecast to test how receipts, obligations and management decisions change the result.",
+    "sections": [
+      {
+        "title": "Define available cash",
+        "text": "Reconcile the bank balances to the books and identify funds committed or restricted for another purpose. Separate an approved borrowing facility from cash already received. Confirm which entities hold the money and whether the forecast assumes transfers between them. Record the observation date so a cash figure from last month is not combined with this month’s spending estimate."
+      },
+      {
+        "title": "Show the shortcut calculation",
+        "text": "A fictional company with $120,000 of available cash and a steady $15,000 monthly net cash outflow has a simple eight-month runway indicator. Net outflow means cash payments less cash receipts under the stated definition. The indicator assumes that both amounts remain stable. It does not account for a large future payment, collection delay or financing event unless those effects are included."
+      },
+      {
+        "title": "Replace the constant assumption with dated scenarios",
+        "text": "Build monthly or weekly receipts and payments through the relevant horizon. Show a base case and a downside case using different collection or sales assumptions. Add known annual payments and planned purchases on their expected dates. Keep an uncommitted financing proposal outside the base cash balance unless management deliberately labels it as a separate scenario."
+      },
+      {
+        "title": "Agree on review triggers",
+        "text": "Identify the observable changes that require an updated forecast, such as slower collections, a hiring decision or a significant contract change. Assign a reviewer and keep prior versions with their assumptions. The purpose is to support decisions while alternatives remain available, not to turn an uncertain forecast into a precise survival date."
+      }
+    ],
+    "checklist": [
+      "Reconciled and available cash by entity",
+      "Definition of net cash outflow",
+      "Dated receipts and payment schedule",
+      "Base and downside assumptions",
+      "Review triggers and forecast owner"
+    ],
+    "questions": [
+      "Which cash is actually available for operations?",
+      "What breaks the steady-burn assumption?",
+      "When will management revisit the forecast?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "customer-concentration-review",
+    "title": "Measure customer concentration before planning the next year",
+    "description": "Review revenue, receivables and cash dependence separately when one customer represents a large share of the business.",
+    "intro": "A customer can be important in several different ways: revenue, profit, receivables, referrals or future contracted work. One concentration percentage does not capture all of them. Prepare a short review that identifies the measure, period and customer grouping used. The result should clarify dependence and possible responses without pretending to predict whether a customer will leave.",
+    "sections": [
+      {
+        "title": "Choose the measure and group related accounts",
+        "text": "Start with a consistent revenue period and reconcile customer totals with the ledger. Decide how related customer entities or departments are grouped and document the rule. A single organization billed under several names can otherwise appear more diversified than it is. Keep credits and returns in the calculation instead of using only gross invoices."
+      },
+      {
+        "title": "Calculate revenue and receivable shares separately",
+        "text": "If a fictional customer produces $180,000 of a company’s $600,000 annual revenue, its revenue share is 30 percent. That does not establish its share of gross profit or cash collected. Compare the customer’s unpaid balance with total receivables at the review date, and investigate whether its payment timing creates a different exposure than its sales share suggests."
+      },
+      {
+        "title": "Read the operating context",
+        "text": "List contract dates, renewal steps, service obligations and capacity dedicated to the customer. Ask which employees, inventory or equipment are difficult to redeploy. Distinguish a documented customer commitment from a sales forecast. Avoid interpreting a long relationship as a guarantee of future orders or a large order as proof of a permanent revenue stream."
+      },
+      {
+        "title": "Test a response without inventing a prediction",
+        "text": "Model a delay or partial reduction as a scenario and show its effect on collections, variable costs and fixed commitments. Identify practical monitoring and diversification actions with an owner and review date. Keep the exercise separate from the official forecast unless management approves a change. The goal is to understand consequences and choices, not assign an unsupported probability to customer loss."
+      }
+    ],
+    "checklist": [
+      "Reconciled revenue by customer group",
+      "Dated receivables and collection history",
+      "Gross-profit information where available",
+      "Contracts, renewal dates and committed capacity",
+      "A documented downside scenario"
+    ],
+    "questions": [
+      "Which measure best explains the dependence?",
+      "Do related accounts need to be grouped together?",
+      "What action would change if orders or payments slowed?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "pricing-change-volume-scenario",
+    "title": "Test a price change against volume and contribution",
+    "description": "Use a simple scenario to compare a proposed price with expected units, variable costs and customer response.",
+    "intro": "A price increase does not automatically increase profit, and a discount does not automatically increase useful sales. Model both price and volume, using a stated cost definition. Then compare the calculation with evidence about customer behavior and delivery capacity. Treat the example as a decision worksheet rather than a recommended price or a forecast guarantee.",
+    "sections": [
+      {
+        "title": "Build the current case from actual results",
+        "text": "Record units delivered, realized selling prices after discounts and the variable costs included. Reconcile these figures with the relevant sales and cost reports. Separate one-time credits or unusual orders that distort the period. Explain whether the model covers one product, a service package or a mixed portfolio, because an average price can conceal a changing mix."
+      },
+      {
+        "title": "Calculate a proposed case",
+        "text": "For a fictional product selling 1,000 units at $100 with $60 variable cost per unit, contribution is $40,000. A proposed $110 price with 900 units and the same unit cost produces $45,000 contribution. This calculation assumes no other changes and excludes fixed costs. It illustrates why units and contribution need to be modeled together."
+      },
+      {
+        "title": "Stress-test the response",
+        "text": "Run alternatives for larger volume loss, higher servicing costs or additional discounts. Identify the evidence behind each assumption, such as actual renewal conversations or a bounded customer test. Do not treat an informal guess as a measured demand curve. Include the cost of communicating and administering the change if it is material to the decision."
+      },
+      {
+        "title": "Define the decision and follow-up",
+        "text": "Record the proposed effective date, customers affected and approval owner. Decide which measures will be reviewed afterward: realized price, units, cancellations, gross profit and collection timing. Compare the actual result with the assumptions and preserve the difference. A decision can be well documented even when the market response remains uncertain."
+      }
+    ],
+    "checklist": [
+      "Current units and realized prices",
+      "Variable-cost definition",
+      "Proposed price and volume cases",
+      "Evidence behind customer-response assumptions",
+      "Approval and post-change review date"
+    ],
+    "questions": [
+      "How many units can change before contribution declines?",
+      "Which costs or discounts might move with the price?",
+      "What evidence will show whether the change worked?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "project-profitability-versus-cash",
+    "title": "Separate project profitability from project cash flow",
+    "description": "Compare the economic result of a job with its billing, collections and payment schedule before deciding what cash is available.",
+    "intro": "A project can appear profitable while consuming cash, or generate an early cash surplus before the work is complete. Keep its profit analysis and cash schedule side by side. Use a consistent definition of project costs and identify remaining obligations. The difference between the two views is information to explain, not an error to hide.",
+    "sections": [
+      {
+        "title": "Define the project boundary",
+        "text": "Identify the contract, approved changes, deliverables and review date. Separate work completed from work still expected. Include labor, subcontractors, materials and other costs under a documented rule. Ask the accountant how the management model relates to revenue and expense recognition in the books. A project spreadsheet should not silently change the company’s accounting method."
+      },
+      {
+        "title": "Show two calculations",
+        "text": "In a fictional completed job, a $50,000 fee less $35,000 of defined direct costs produces $15,000 of project contribution before other costs. If only $30,000 has been collected and $20,000 paid at the observation date, net cash received so far is $10,000. The remaining receivables and unpaid costs explain part of the difference. Neither figure alone is owner distributable cash."
+      },
+      {
+        "title": "Estimate remaining work separately",
+        "text": "For an open project, maintain an estimate-to-complete with its assumptions and responsible reviewer. Distinguish approved scope from hoped-for change orders. Identify rework, retention, disputed invoices and commitments that have not reached the ledger. Update the forecast when facts change rather than carrying the original budget forward automatically."
+      },
+      {
+        "title": "Use the review for a concrete decision",
+        "text": "Compare actual costs and collections with the original plan and identify causes that management can address. A billing delay, a pricing issue and inefficient delivery require different responses. Record the agreed action, owner and review date. Preserve the cash schedule alongside the project-profit view so the next planning meeting does not mistake margin for money in the bank."
+      }
+    ],
+    "checklist": [
+      "Contract and approved change orders",
+      "Defined project-cost categories",
+      "Actual and forecast completion costs",
+      "Billing, collections and supplier-payment dates",
+      "Reconciliation to the books"
+    ],
+    "questions": [
+      "Is the project complete or still forecast-dependent?",
+      "Which balances explain the profit-to-cash difference?",
+      "What remaining commitments must be funded?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "seasonal-working-capital-plan",
+    "title": "Map seasonal working capital before the busy period",
+    "description": "Connect inventory purchases, customer collections and fixed payments in a dated seasonal cash plan.",
+    "intro": "A busy season can require cash before it produces cash. Inventory, staffing and supplier deposits may be due well before customer payments arrive. Build a dated working-capital plan rather than assuming stronger sales will fund every step. The plan should distinguish committed orders from forecast demand and identify which assumptions management can update.",
+    "sections": [
+      {
+        "title": "Map the operating sequence",
+        "text": "List when materials are ordered, suppliers are paid, goods are delivered, invoices are issued and customers normally pay. Add payroll, rent and other recurring obligations. Note any supplier or customer terms that differ from normal practice. A monthly revenue target does not show this sequence, particularly when a large purchase occurs before the first seasonal sale."
+      },
+      {
+        "title": "Use cash dates rather than just order values",
+        "text": "For a fictional $120,000 seasonal order, an early $30,000 customer deposit and a $70,000 supplier payment create a $40,000 gap before considering other cash movements. The remaining customer balance may arrive only after delivery. This arithmetic describes timing under the stated assumptions; it does not establish accounting revenue, tax treatment or the availability of financing."
+      },
+      {
+        "title": "Test volume and collection changes",
+        "text": "Prepare a case with slower collections, lower sell-through or a supplier payment brought forward. Show any cash remaining tied up in unsold stock after the season. Keep financing that has not been committed in a separate scenario. Ask what operational adjustments are feasible and how long they would take, rather than assuming every expense can be stopped immediately."
+      },
+      {
+        "title": "Keep the forecast live",
+        "text": "Update actual orders, deliveries and collections during the season. Compare them with the planned dates and explain differences. Assign responsibility for inventory, supplier communication and collections so one forecast does not depend on stale information from several teams. Retain the completed season’s results as evidence for the next planning cycle."
+      }
+    ],
+    "checklist": [
+      "Supplier and customer payment terms",
+      "Dated purchase and delivery commitments",
+      "Staffing and fixed-payment schedule",
+      "Inventory and collection downside case",
+      "Forecast update owners"
+    ],
+    "questions": [
+      "When does the largest cash gap occur?",
+      "Which receipts are committed and which are assumptions?",
+      "What changes if inventory sells more slowly?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
+  },
+  {
+    "slug": "capital-purchase-payback-review",
+    "title": "Review equipment payback without mistaking it for a full investment case",
+    "description": "Calculate simple payback, then examine timing, operating assumptions and costs the shortcut leaves out.",
+    "intro": "Simple payback estimates how long stated net cash benefits take to recover an initial outlay. It is a useful screening measure, not a complete investment recommendation. Equipment decisions also involve capacity, reliability, financing, taxes, resale and alternatives. Keep the shortcut calculation visible while identifying the work required for a fuller review.",
+    "sections": [
+      {
+        "title": "Define the outlay and benefit",
+        "text": "List the purchase price and additional cash needed for delivery, installation, training and startup. Specify whether the projected benefit comes from extra sales, reduced labor, lower waste or another measurable change. Avoid counting the same benefit twice. Identify operating and maintenance costs that reduce it, and document the source of each assumption."
+      },
+      {
+        "title": "Calculate the simple case",
+        "text": "A fictional $60,000 outlay with a steady $12,000 annual net cash benefit has a simple five-year payback. If the benefit is only $6,000, payback becomes ten years. These examples ignore the time value of money, tax effects, financing and residual value. They also assume that the benefits arrive as expected. State those exclusions beside the result."
+      },
+      {
+        "title": "Compare realistic alternatives",
+        "text": "Evaluate repair, leasing, outsourcing or doing nothing over the same period where those are feasible options. Ask operations to verify capacity and implementation requirements. Include downtime or startup delays in a separate schedule. A supplier’s estimated savings should be examined against the company’s own utilization, staffing and demand rather than accepted as a guaranteed outcome."
+      },
+      {
+        "title": "Prepare the professional review",
+        "text": "Give the financial team the assumptions, cash timing, alternatives and supporting quotes. Ask for the appropriate analysis of financing, accounting and tax treatment. Do not buy equipment solely because a deduction is advertised or because a simple payback looks short. Record the decision owner and how actual costs and benefits will be reviewed after implementation."
+      }
+    ],
+    "checklist": [
+      "Complete installed-cost estimate",
+      "Net cash-benefit calculation and evidence",
+      "Base and downside payback cases",
+      "Comparable alternatives and timing",
+      "Separate financing and tax review questions"
+    ],
+    "questions": [
+      "What is excluded from the shortcut?",
+      "How sensitive is payback to utilization and savings?",
+      "Which alternative solves the same operating problem?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-finance guidance",
+    "category": "Financial decisions",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 4
   }
 ]
