@@ -8908,5 +8908,669 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "calibration-laboratory-scope-comparison",
+    "title": "Compare calibration laboratory scope for your instruments",
+    "category": "Specialist provider evaluation",
+    "description": "Compare calibration laboratory scope for your instruments. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A laboratory’s name or accreditation logo does not tell a buyer whether its proposed service fits a particular instrument and measurement task. Build an instrument-to-scope comparison before sending equipment away. The file should help your technical reviewer ask better questions, not declare that the laboratory is competent or that a measurement satisfies a regulatory requirement.",
+    "sections": [
+      {
+        "title": "Describe the actual measurement need",
+        "text": "List each instrument by asset ID, manufacturer, model and relevant function. Add the measurement range used in your process, required output format and any existing technical acceptance criteria. Separate an instrument’s full advertised range from the portion your operation actually uses. Ask the technical owner to supply the criteria rather than inventing a tolerance from a purchasing spreadsheet. Include accessories, probes or software that affect the proposed work so the quotation covers the real configuration."
+      },
+      {
+        "title": "Match evidence to the proposed task",
+        "text": "NIST’s Calibration Laboratory Accreditation Program describes assessing calibration laboratories and links to its accredited-laboratory directory and parameter search. Ask the provider for the applicable current scope and have a qualified technical reviewer examine the relevant parameter, range and uncertainty information. Accreditation is scoped evidence, not a blanket answer for every instrument a laboratory accepts. Record the exact document and date reviewed, and ask about work proposed outside the cited scope or delegated to another laboratory."
+      },
+      {
+        "title": "Worked example: one device, different ranges",
+        "text": "A hypothetical company uses a pressure instrument at two operating ranges. One quotation describes a calibration that covers only the lower range; another proposes both ranges but lists different measurement capabilities. The buyer records the differences and asks its metrology specialist whether either proposal meets the process need. The lowest headline price is not yet a comparable purchase because the offered work differs. The comparison does not decide which uncertainty is acceptable without the specialist’s evaluation."
+      },
+      {
+        "title": "Inspect the return package",
+        "text": "Agree on asset identification, reported results, any adjustment performed and how unusual findings will be communicated. Ask what happens if the instrument arrives damaged or cannot complete the proposed work. At return, check that the report matches the asset and ordered scope before routing it for technical acceptance. Keep unresolved findings visible to the equipment owner. A receiving checklist establishes that required evidence arrived; it does not independently authorize an instrument for use or establish safety."
+      }
+    ],
+    "checklist": [
+      "Asset and configuration matched to the quotation",
+      "Technical owner’s ranges and acceptance criteria recorded",
+      "Current scope document and reviewer’s unanswered questions",
+      "Return report and adjustment history routed for technical acceptance"
+    ],
+    "questions": [
+      "Does the quoted work cover every range we actually use?",
+      "Which work falls outside the cited scope?",
+      "Who decides whether the returned instrument is fit for its intended use?"
+    ],
+    "source": "https://www.nist.gov/nvlap/calibration-lap",
+    "sourceLabel": "NIST provides program and scope context; measurement interpretation remains with qualified technical personnel. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "food-testing-laboratory-sample-method-fit",
+    "title": "Compare food-testing laboratories by sample and method fit",
+    "category": "Specialist provider evaluation",
+    "description": "Compare food-testing laboratories by sample and method fit. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A food-testing proposal should connect the product, question, sampling plan and analytical method. A low per-test price is not useful if the sample cannot answer the intended question. Prepare the facts for a qualified food-safety professional and laboratory to review. This guide does not select a test, determine product safety or establish that an operation complies with food law.",
+    "sections": [
+      {
+        "title": "Define the question before requesting prices",
+        "text": "Record the product, lot or process being investigated, the reason for testing and who will use the result. Distinguish an investigative question from a buyer specification or an identified regulatory requirement. Ask the qualified reviewer to define sampling, target analyte and relevant decision criteria. Do not substitute a convenient single sample for a sampling plan. Include the product matrix and storage history because a laboratory needs context to evaluate whether its method is suitable."
+      },
+      {
+        "title": "Check the claimed program and method scope",
+        "text": "FDA describes its Laboratory Accreditation for Analyses of Foods program as applying to food testing in certain circumstances. Do not assume every commercial food test must use that program or that a program listing covers every analytical method. If the engagement requires particular accreditation, ask the qualified reviewer to identify the applicable requirement and verify the laboratory’s relevant scope. Save the exact source and lookup date. Keep general marketing statements separate from evidence about the proposed sample and method."
+      },
+      {
+        "title": "Worked example: changing the product matrix",
+        "text": "A hypothetical food business previously tested a dry ingredient and now wants testing of a finished product containing that ingredient. The buyer sends both descriptions to the laboratory instead of assuming the old quotation still applies. The laboratory identifies additional preparation questions, and the food-safety reviewer confirms the revised plan. The example demonstrates why scope needs review; it does not imply that any particular test or sample number can establish the finished product’s safety."
+      },
+      {
+        "title": "Define the result handoff",
+        "text": "Ask for sample identification, receipt condition, method identification, reporting units, relevant limitations and a contact for technical questions. Agree how damaged, late or unsuitable samples will be handled before shipping. At receipt of the report, check identifiers against the submission record and route interpretations to the qualified reviewer. Do not turn a pass-like phrase into permission to release a product unless the authorized decision process supports that conclusion. Preserve amendments and unresolved questions with the original report."
+      }
+    ],
+    "checklist": [
+      "Product matrix, lot and intended decision identified",
+      "Sampling and analytical plan supplied by qualified reviewers",
+      "Applicable laboratory scope verified for the stated requirement",
+      "Submission, receipt and report identifiers reconciled"
+    ],
+    "questions": [
+      "Can the proposed method answer this question for this product?",
+      "Which accreditation requirement, if any, applies to this engagement?",
+      "Who interprets limitations and decides the next operational step?"
+    ],
+    "source": "https://www.fda.gov/food/food-safety-modernization-act-fsma/laboratory-accreditation-analyses-foods-laaf-program-final-rule",
+    "sourceLabel": "FDA provides the limited LAAF program context; safety and compliance interpretation require qualified review. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "cold-storage-provider-excursion-handoff",
+    "title": "Evaluate a cold-storage provider’s exception handoff",
+    "category": "Specialist provider evaluation",
+    "description": "Evaluate a cold-storage provider’s exception handoff. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "When temperature-sensitive goods move through a storage provider, the buyer needs to understand how exceptions become decisions. Build a handoff map for monitoring records, alerts, affected lots and authorized disposition. Do not use a generic temperature threshold from a template. Product requirements and the consequences of an excursion belong with qualified food-safety, quality or other relevant technical professionals.",
+    "sections": [
+      {
+        "title": "Document the product-specific instructions",
+        "text": "List the goods, lot identifiers, packaging, receiving arrangements and instructions supplied by the responsible technical team. Ask which conditions the provider can monitor, where measurements are taken and how records relate to a specific storage location. Separate a room reading from a measurement of an individual product. Identify the person who can approve an instruction change. The purchasing team should preserve the approved requirements without creating its own safety limits or interpreting missing technical information."
+      },
+      {
+        "title": "Trace the exception path",
+        "text": "Ask how a monitoring alert reaches a person, how affected goods are identified and how the provider preserves records during investigation. Identify backup contacts and the information included in an escalation: times, locations, monitoring records and handling events. FDA’s sanitary-transportation materials address transport-related conditions, with scope and exceptions that require proper review. They are useful context for adjoining transport handoffs, but they are not a universal specification for every storage facility or product."
+      },
+      {
+        "title": "Worked example: an alert during transfer",
+        "text": "A hypothetical distributor moves goods between two storage areas. An alert overlaps the transfer, so a single room log cannot identify every affected pallet. The buyer asks the provider to connect movement timestamps, pallet IDs and monitoring locations. The quality lead evaluates the resulting evidence and directs the operational response. The worksheet records that decision and its owner; it does not conclude that the goods are safe, unsafe or within an acceptable excursion."
+      },
+      {
+        "title": "Test the communication without risking goods",
+        "text": "Use a tabletop example or historical redacted record to check whether the provider can assemble the required information. Review the timing and clarity of the handoff, including weekends and unavailable contacts. Agree where records will be retained and how amended reports are identified. At renewal, review actual exceptions and unresolved record gaps. A successful communication exercise supports evaluation of the process only; it does not validate the entire facility or replace a technical assessment."
+      }
+    ],
+    "checklist": [
+      "Approved product instructions and responsible technical owner",
+      "Lot-to-location mapping and monitoring record description",
+      "Alert recipient, backup and disposition authority",
+      "Tabletop evidence package with gaps and follow-up dates"
+    ],
+    "questions": [
+      "How will you identify the goods affected by an alert?",
+      "Which facts will accompany the escalation?",
+      "Who has authority to interpret an excursion and direct disposition?"
+    ],
+    "source": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-sanitary-transportation-human-and-animal-food",
+    "sourceLabel": "FDA transport guidance supplies limited handoff context; it does not establish storage safety or universal limits. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "freight-broker-carrier-verification-workflow",
+    "title": "Compare freight brokers through a shipment verification workflow",
+    "category": "Specialist provider evaluation",
+    "description": "Compare freight brokers through a shipment verification workflow. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A freight broker comparison should distinguish the intermediary you hire from the carrier that performs a shipment. Create a workflow that records those roles, the relevant identifiers and the official sources used to investigate them. This is evidence organization, not a declaration that a company is authorized, insured for every risk or suitable for a particular shipment.",
+    "sections": [
+      {
+        "title": "Keep the parties separate",
+        "text": "Record the broker’s proposed contracting identity and the carrier information available for a representative shipment. Ask when the performing carrier is identified, how changes are communicated and who confirms pickup instructions. Add the shipment’s operational requirements without guessing which authority or insurance is legally required. Your transportation specialist or counsel should interpret those requirements. A familiar carrier name in a sales presentation is not a commitment that the same carrier will handle every load."
+      },
+      {
+        "title": "Use current official lookup instructions",
+        "text": "FMCSA’s live registration FAQ includes a May 2026 notice that the older Licensing and Insurance system is available for historical motor-carrier records and does not reflect Motus filings. Older instructions may therefore be insufficient for a current question. Start with FMCSA’s current guidance, record the system and date used, and distinguish historical records from current status. When a result is unclear or systems conflict, request clarification from the relevant official channel rather than converting an old screenshot into current proof."
+      },
+      {
+        "title": "Worked example: a changed pickup carrier",
+        "text": "A hypothetical shipper approves a broker’s plan and later receives pickup details naming a different carrier. The workflow routes the change to the transportation owner before the handoff. That owner checks the identity and relevant current evidence using official instructions and resolves an inconsistent identifier with the broker. The example does not prescribe a universal approval rule; it illustrates a practical point where changed information needs review instead of being hidden inside a dispatch email."
+      },
+      {
+        "title": "Evaluate the evidence delivery",
+        "text": "Ask shortlisted brokers to show a redacted example of how carrier identity, shipment requirements, exception notices and delivery evidence are linked. Compare whether your staff can identify the responsible contact without searching multiple unrelated messages. Keep cargo condition, claims handling and contractual allocation of risk as separate professional-review questions. Review actual substitutions and unresolved documentation at renewal. A tidy file improves traceability but does not replace specialist judgment or guarantee shipment performance."
+      }
+    ],
+    "checklist": [
+      "Broker and performing-carrier roles separately identified",
+      "Official source, lookup date and historical/current scope saved",
+      "Carrier-change notification and review owner",
+      "Shipment evidence linked to exception and delivery records"
+    ],
+    "questions": [
+      "When will the actual performing carrier be identified?",
+      "Which current official source supports the status question?",
+      "How are identifier conflicts or carrier changes resolved before pickup?"
+    ],
+    "source": "https://www.fmcsa.dot.gov/registration/ask-fmcsa?topic=23021",
+    "sourceLabel": "FMCSA registration FAQs supply current lookup limitations; authorization and coverage conclusions require qualified review. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "pest-control-provider-monitoring-report-review",
+    "title": "Evaluate pest-control providers through monitoring reports",
+    "category": "Specialist provider evaluation",
+    "description": "Evaluate pest-control providers through monitoring reports. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A pest-control service can be easier to compare when the buyer sees how observations become follow-up actions. Ask for a redacted monitoring report and a site-specific explanation of the proposed process. This worksheet evaluates the clarity of records and responsibilities. It does not diagnose an infestation, select a pesticide or verify that a treatment plan meets applicable requirements.",
+    "sections": [
+      {
+        "title": "Map the site and observation points",
+        "text": "Give the provider the site areas relevant to the proposed service and ask how monitoring points will be identified. Record the purpose of each location, who can access it and how observations will be dated. A stable location ID makes a trend easier to interpret than a different description on every visit. Ask the qualified provider to explain the monitoring approach. Do not invent a treatment threshold or infer that an unmonitored area is pest-free."
+      },
+      {
+        "title": "Look for an action trail",
+        "text": "EPA’s integrated pest-management toolkit discusses monitoring records and coordinated review with pest-management companies. The toolkit is framed for health-care facilities, acknowledges broader IPM applications and does not supersede applicable requirements. Use it as context for asking how the provider records findings, recommends corrective action and follows up. Separate housekeeping or building-maintenance tasks assigned to the buyer from specialist actions. Request the relevant credentials and product information through the appropriate professional review process."
+      },
+      {
+        "title": "Worked example: repeated findings near a doorway",
+        "text": "A hypothetical facility receives similar observations at one monitoring point during several visits. One proposal offers only a visit-completed entry; another shows the location, observation, recommended building repair and follow-up status. The buyer can compare the reporting usefulness and assign its facilities contact to the repair question. It cannot infer from this paperwork alone which treatment is safe or whether the provider’s technical conclusions are correct."
+      },
+      {
+        "title": "Review a complete cycle",
+        "text": "Ask the provider to walk through a redacted sequence from observation to recommendation, buyer response and later review. Check whether unresolved actions remain visible and whether a change of technician preserves site history. Agree on who receives urgent findings and how reports are retained. At service review, distinguish missing documentation from unresolved technical questions. Escalate safety, treatment selection and compliance interpretations to qualified providers or authorities rather than scoring them casually in a purchasing grid."
+      }
+    ],
+    "checklist": [
+      "Stable site and monitoring-point identifiers",
+      "Observation, recommendation and follow-up linked by date",
+      "Buyer maintenance actions separated from specialist work",
+      "Qualified review for treatment, credentials and regulatory questions"
+    ],
+    "questions": [
+      "Can we trace one finding through follow-up?",
+      "Which actions belong to our facilities team?",
+      "How will urgent observations reach the responsible person?",
+      "How will a replacement technician learn the site history and distinguish a new observation from an unresolved earlier finding?"
+    ],
+    "source": "https://www.epa.gov/system/files/documents/2021-07/integrated-pest-management-toolkit-2021_5.pdf",
+    "sourceLabel": "EPA’s health-care IPM toolkit supplies monitoring context and explicitly preserves applicable local requirements. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "document-destruction-custody-evidence",
+    "title": "Review a document-destruction provider’s custody evidence",
+    "category": "Specialist provider evaluation",
+    "description": "Review a document-destruction provider’s custody evidence. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "Document destruction requires more than scheduling a pickup. A buyer needs to know which materials are authorized for destruction, how custody is recorded and how completion evidence relates to the collected items. Build the workflow with your records owner and appropriate legal or security advisers. The worksheet does not decide retention periods, authorize destruction or certify that a method satisfies every applicable rule.",
+    "sections": [
+      {
+        "title": "Start with authorization and exclusions",
+        "text": "Identify the record categories, containers and locations included in the request. Have the records owner confirm what may be destroyed and which materials must be held, including any instructions from counsel. Avoid putting detailed personal information into a pickup spreadsheet when container identifiers will suffice. Record the approved list and the person who authorized it. A provider’s availability should not drive the timing of a records decision that has not yet been approved."
+      },
+      {
+        "title": "Follow custody through the proposed process",
+        "text": "Ask who collects the containers, where they go, whether materials are transferred again and how exceptions are reported. Request a sample collection record and completion document. FTC disposal guidance specifically addresses consumer-report information and discusses due diligence when using a destruction contractor; other requirements may apply to different records. Ask qualified reviewers which rules cover your materials. A certificate’s title alone does not establish that the right containers were processed or that all legal obligations were satisfied."
+      },
+      {
+        "title": "Worked example: one container is missing",
+        "text": "A hypothetical business authorizes eight numbered containers. The pickup receipt lists seven, and the eighth remains in a locked records room. The buyer keeps the discrepancy open, confirms the remaining container’s location and prevents the completion report from being treated as evidence for all eight. A later collection receives its own record. This simple reconciliation makes the evidence accurate without exposing the contents of each container in routine logistics correspondence."
+      },
+      {
+        "title": "Reconcile and retain the evidence",
+        "text": "Match authorized containers, collection records, exceptions and completion evidence. Have the appropriate owner review unexplained gaps rather than marking the entire job complete automatically. Ask how failed pickups, damaged seals or rejected material are handled. Keep the final evidence according to the organization’s approved records process and restrict access to sensitive details. Evaluate the provider on whether it can supply a coherent custody trail and resolve discrepancies, while leaving technical security and legal sufficiency to qualified review."
+      }
+    ],
+    "checklist": [
+      "Authorized categories and excluded or held records",
+      "Container IDs matched to pickup evidence",
+      "Transfers, exceptions and completion record reconciled",
+      "Legal and security questions assigned to qualified reviewers"
+    ],
+    "questions": [
+      "What proves which containers were collected?",
+      "How are custody exceptions reported?",
+      "Can completion evidence be matched to the authorized materials?"
+    ],
+    "source": "https://www.ftc.gov/business-guidance/resources/disposing-consumer-report-information-rule-tells-how",
+    "sourceLabel": "FTC guidance addresses consumer-report disposal and contractor diligence; this worksheet does not establish legal sufficiency. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "backup-provider-restore-demonstration",
+    "title": "Evaluate a backup provider with a restore demonstration",
+    "category": "Specialist provider evaluation",
+    "description": "Evaluate a backup provider with a restore demonstration. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A completed backup job does not by itself show whether your business can recover a usable record or application. Ask a proposed backup provider to explain and demonstrate a bounded restore scenario. Define the scenario with your IT and security team, use an approved test environment, and record what was actually recovered. Do not run a trial that could overwrite production data or interrupt operations.",
+    "sections": [
+      {
+        "title": "Define what recovery means for this purchase",
+        "text": "List the records, application components and dependencies included in the scenario. Identify the restore point, intended destination and person who will judge usability. A recovered file, a booting server and a functioning business process are different outcomes. Specify which one the proposal promises to support. Ask about excluded systems, credentials, licenses and third-party dependencies. Record the buyer tasks needed for recovery so provider effort is not mistaken for a complete end-to-end service."
+      },
+      {
+        "title": "Ask for a safe demonstration plan",
+        "text": "The joint StopRansomware guide hosted by FBI IC3 recommends testing backup availability and integrity in recovery scenarios. That context supports a discussion about restore evidence, not a guarantee that one exercise proves resilience. Have qualified IT staff choose the isolation, permissions and test data. Agree on the start event, elapsed-time measurement and acceptance checks. Do not label a marketing recovery-time statement as a contractual commitment unless it is actually included and appropriately reviewed."
+      },
+      {
+        "title": "Worked example: files return but the application cannot use them",
+        "text": "A hypothetical provider restores the requested database files into a test environment. The business reviewer discovers that the application also needs a configuration file that was outside the selected backup set. The exercise records successful file recovery and an incomplete application recovery. The buyer and IT team revise the coverage question before selecting the service. They do not discard the useful evidence or describe the entire trial as successful merely because files appeared."
+      },
+      {
+        "title": "Keep the result reproducible",
+        "text": "Save the scenario, backup point, test environment, timestamps, validation results and unresolved dependencies. Ask what changes would require another test, such as an application upgrade or new storage location. Distinguish simulated timings from a guarantee during a real incident. Review access to backup copies and the responsibilities for restoring them with your security team. The purchasing decision should reflect the demonstrated scope and remaining uncertainties, not only a green status indicator."
+      }
+    ],
+    "checklist": [
+      "Approved isolated scenario and restore-point identification",
+      "Files, applications and business-process outcomes separated",
+      "Timing and validation evidence retained",
+      "Dependencies and retest triggers assigned to IT owners"
+    ],
+    "questions": [
+      "What exactly will the demonstration recover?",
+      "Which required components are outside the backup set?",
+      "Who verifies that the restored result is usable?"
+    ],
+    "source": "https://www.ic3.gov/CSA/2023/231019.pdf",
+    "sourceLabel": "The joint StopRansomware guide provides recovery-testing context; technical design requires qualified IT and security review. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "accessibility-audit-evidence-handoff",
+    "title": "Compare accessibility-audit providers by evidence and handoff",
+    "category": "Specialist provider evaluation",
+    "description": "Compare accessibility-audit providers by evidence and handoff. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "An accessibility-audit proposal should describe the product, user journeys, evaluation method and deliverables clearly enough for a development team to act. An automated score alone cannot establish complete accessibility or legal compliance. Ask how the provider will combine appropriate expertise, manual evaluation and tools, and how it will explain the limits of the work.",
+    "sections": [
+      {
+        "title": "Define the product and conformance target",
+        "text": "Identify the site or application, relevant versions, essential processes, authenticated areas and supported environments. Ask the provider to state the WCAG version and level used for the proposed evaluation. Have the responsible team review whether the proposed sample covers the product’s meaningful variations. W3C’s WCAG-EM 2.0 describes a process for defining scope, exploring a product, selecting samples, evaluating them and reporting findings. It does not turn an arbitrary page scan into a complete audit."
+      },
+      {
+        "title": "Specify actionable finding evidence",
+        "text": "Ask for a sample finding that includes the location, observed behavior, affected user task, relevant criterion and reproduction steps. Record how the provider distinguishes an observed failure from an item requiring further investigation. Ask what environments and assistive technologies were used and how uncertainty is described. A proposed fix should be understandable to the implementation team, but that team still needs to evaluate and test the actual change. Do not require a provider to claim certainty beyond its stated evaluation scope."
+      },
+      {
+        "title": "Worked example: a checkout flow with hidden states",
+        "text": "A hypothetical shop receives a quotation covering five public pages. Its checkout also has address errors, payment errors and a confirmation state. The buyer asks whether those steps and states are represented in the evaluation plan. The provider revises the sample description and identifies any exclusions. This improves the comparison without assuming that a fixed number of pages or a particular tool can prove the entire shop conforms."
+      },
+      {
+        "title": "Plan remediation and retesting",
+        "text": "Define who receives findings, how duplicates are grouped and whether clarification or retesting is included. Ask how corrected issues and regressions will be reported. Keep legal obligations and compliance conclusions with qualified counsel and accessibility professionals. Compare providers on transparent scope, usable evidence and a credible handoff process. A small preliminary review may be useful, but label it honestly so its results are not presented later as a comprehensive conformance determination."
+      }
+    ],
+    "checklist": [
+      "Product version, essential journeys and WCAG target specified",
+      "Representative states and exclusions documented",
+      "Reproducible findings with environments and uncertainty",
+      "Remediation questions and retesting scope agreed"
+    ],
+    "questions": [
+      "Which complete processes and states will you evaluate?",
+      "How does manual work supplement automated tools?",
+      "What can and cannot be concluded from this scope?",
+      "How will the report identify changes to the tested product version that could invalidate an earlier finding?"
+    ],
+    "source": "https://www.w3.org/TR/WCAG-EM/",
+    "sourceLabel": "W3C WCAG-EM 2.0 supplies evaluation-method context; it is not a legal-compliance guarantee. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "energy-audit-provider-measurement-baseline",
+    "title": "Compare commercial energy-audit measurement plans",
+    "category": "Specialist provider evaluation",
+    "description": "Compare commercial energy-audit measurement plans. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "Before comparing projected energy improvements, ask what each audit provider will measure and how it will define the starting point. A useful proposal connects the building, meters, operating conditions and intended decisions. This worksheet organizes the measurement conversation. It does not certify an audit method, establish regulatory compliance or predict savings from a project that has not been evaluated.",
+    "sections": [
+      {
+        "title": "Set the measurement boundary",
+        "text": "List the building areas, utility accounts, on-site generation and tenant arrangements relevant to the review. Note shared meters and missing periods. Ask whether the proposed work evaluates the whole property, a specific system or selected operating hours. Those boundaries can materially change the interpretation of a result. Have the facilities or energy professional explain the appropriate approach; the buyer should document the agreed scope rather than combine unlike readings into a convenient total."
+      },
+      {
+        "title": "Ask how the baseline will be built",
+        "text": "The Department of Energy’s commercial-building performance guidance discusses consistent metric definitions, data procedures and analysis tailored to project boundaries. Use that context to request the provider’s data sources, treatment of gaps and assumptions about operations. Ask how weather, occupancy or schedule changes will be described when relevant. Distinguish measured consumption from modeled estimates. A clear explanation of assumptions supports review, while a single percentage without a reproducible starting point is difficult to evaluate."
+      },
+      {
+        "title": "Worked example: one meter, two tenants",
+        "text": "A hypothetical owner wants an audit of a production area but its utility meter also serves a neighboring tenant. One provider proposes a whole-meter trend review; another includes temporary submetering of the production equipment. The buyer records those as different scopes and asks its technical reviewer which can support the intended equipment decision. The worksheet does not declare either method universally superior or imply a particular amount of achievable savings."
+      },
+      {
+        "title": "Define the decision-ready output",
+        "text": "Ask for a list of observed conditions, data limitations, proposed next investigations and the basis of any estimated result. Separate a screening opportunity from an engineered implementation plan. Identify who will answer technical questions after the report and whether later measurement is included. At acceptance, check that the report uses the agreed boundary and identifies missing evidence. Cost, feasibility and safety decisions may require additional qualified review before any physical changes are made."
+      }
+    ],
+    "checklist": [
+      "Building and meter boundaries mapped",
+      "Measured data separated from modeled assumptions",
+      "Missing periods and operating changes explained",
+      "Report limitations and next technical decisions visible"
+    ],
+    "questions": [
+      "What question can this measurement plan actually answer?",
+      "Which loads are outside the proposed boundary?",
+      "How can our reviewer reproduce the baseline?",
+      "Which missing meter readings would materially limit the report, and how will those limitations be communicated to management?"
+    ],
+    "source": "https://www.energy.gov/cmei/buildings/commercial-building-performance-monitoring-and-evaluation",
+    "sourceLabel": "DOE supplies commercial-building measurement context; the worksheet makes no savings or compliance claim. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "commercial-laundry-provider-count-segregation",
+    "title": "Evaluate commercial-laundry count and segregation records",
+    "category": "Specialist provider evaluation",
+    "description": "Evaluate commercial-laundry count and segregation records. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A laundry-service comparison should explain both the handling process and the records that connect items collected with items returned. Start with the textiles, service environment and needs of the facility. For health-care or other sensitive uses, qualified infection-control and safety personnel must define requirements. This worksheet does not establish hygiene, disinfection effectiveness or compliance from a delivery count.",
+    "sections": [
+      {
+        "title": "Specify the items and service context",
+        "text": "List textile types, ownership arrangements, labeling and any special handling instructions supplied by qualified staff. Distinguish customer-owned goods from rental inventory and routine linen from items requiring a separate process. Ask how the provider identifies exceptions at pickup. Record which items may be rejected and who makes that decision. Avoid copying handling requirements from another industry without review, even if both services use similar bags or vehicles."
+      },
+      {
+        "title": "Understand separation and documentation",
+        "text": "CDC laundry guidance is directed to health-care settings and discusses handling and separation of soiled and clean textiles. It should not be presented as a universal certification standard for every commercial laundry. Where the setting is relevant, ask qualified facility personnel to review the provider’s proposed process and supporting evidence. Your purchasing file can record separate pickup and return flows, identified containers, exception notices and the person who answers technical questions."
+      },
+      {
+        "title": "Worked example: a count discrepancy with mixed ownership",
+        "text": "A hypothetical facility sends 120 customer-owned towels and receives a delivery containing 115 towels plus ten rental replacements. A simple total of 125 conceals the difference. The buyer records owned items returned, missing items, rejected items and replacements separately. It asks the provider to explain the five-item discrepancy using pickup and processing records. That reconciliation supports inventory and billing review; it says nothing by itself about the hygiene quality of the returned textiles."
+      },
+      {
+        "title": "Test a complete service cycle",
+        "text": "Ask for a redacted pickup record, exception notice and return manifest from the same cycle. Compare identifiers, units and ownership categories. Have the appropriate technical professional review any handling claims before acceptance. Agree on how damaged, missing or incorrectly sorted items are reported and how repeated discrepancies are reviewed. Keep operational count acceptance separate from technical approval so a receiving clerk is not asked to infer infection-control conclusions from paperwork."
+      }
+    ],
+    "checklist": [
+      "Textile type and customer-owned versus rental categories",
+      "Qualified handling requirements and exceptions identified",
+      "Pickup and return units reconciled without mixing categories",
+      "Technical review separate from inventory and billing acceptance"
+    ],
+    "questions": [
+      "How are owned items distinguished from rental replacements?",
+      "What evidence follows a rejected or missing item?",
+      "Who reviews handling requirements for our particular setting?",
+      "Can separate pickup locations be reconciled individually when one delivery combines several departments or buildings?"
+    ],
+    "source": "https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html",
+    "sourceLabel": "CDC guidance concerns health-care laundry; applicability and handling decisions need qualified review. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "translation-provider-terminology-version-acceptance",
+    "title": "Compare translation providers through terminology and version control",
+    "category": "Specialist provider evaluation",
+    "description": "Compare translation providers through terminology and version control. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A translation-service proposal should make clear which text, language variant and intended audience the provider will handle. A polished sample cannot resolve ambiguity in your source material or prove that every specialist term is correct. Build an acceptance file that connects source versions, approved terminology and reviewer comments, with qualified language and subject-matter review suited to the intended use.",
+    "sections": [
+      {
+        "title": "Freeze a usable source package",
+        "text": "Identify the source files, edition date, embedded images, tables and text that may change during the job. Specify the intended audience and regional language variant. Ask the provider to flag unclear phrases before translating rather than silently resolving business meaning. Record which files are reference material and which require translation. If legal, medical or safety-critical material is involved, arrange appropriately qualified review; a general procurement checklist cannot establish suitability for those uses."
+      },
+      {
+        "title": "Define terminology and review roles",
+        "text": "GSA’s language-services ordering guide distinguishes written translation from oral interpretation and discusses defining service needs. Its federal-agency context is not a blanket rule for private buyers. Use the service distinction to ensure your proposal matches the actual task. Provide an approved glossary where one exists and identify who can answer terminology questions. Ask what review is included, what format comments will use and how the provider will record decisions that affect repeated terms."
+      },
+      {
+        "title": "Worked example: a changed product name",
+        "text": "A hypothetical company changes a product name after the first translated draft. The buyer sends a dated change list rather than replacing the source file without explanation. The provider marks affected passages and asks whether the previous name remains appropriate in historical references. A subject-matter reviewer resolves that question, and the final package identifies the source version used. The process prevents a superficially consistent document from hiding mixed editions."
+      },
+      {
+        "title": "Accept against a traceable package",
+        "text": "Request the final translated file, source-version reference, terminology decisions and unresolved queries. Have an appropriate reviewer inspect meaning and audience fit, while production staff check layout, missing passages and file usability. Keep those reviews distinct. Agree on how later corrections and updates will be handled and whether translation memory or other assets are included in the service. Do not treat a word-count match or automated score as proof that meaning has been preserved."
+      }
+    ],
+    "checklist": [
+      "Source edition, audience and language variant identified",
+      "Approved glossary and terminology decision owner",
+      "Meaning review separated from layout and completeness checks",
+      "Final files linked to source version and resolved queries"
+    ],
+    "questions": [
+      "Who resolves ambiguous source meaning?",
+      "What linguistic and subject-matter review is included?",
+      "How will later source changes be traced through the translation?",
+      "Who signs off on terminology when the language reviewer and the product specialist disagree about a phrase?"
+    ],
+    "source": "https://www.gsa.gov/system/files?file=Foreign+Language+Services.pdf",
+    "sourceLabel": "GSA’s federal language-services guide supplies service-definition context, not private-sector legal requirements. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "print-provider-color-proof-acceptance",
+    "title": "Compare print providers using a defined proof-acceptance process",
+    "category": "Specialist provider evaluation",
+    "description": "Compare print providers using a defined proof-acceptance process. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "Print quotes become more comparable when the buyer specifies what will be approved before production. A screen image, a color-managed soft proof and a physical sample answer different questions. Ask each provider to identify the proof type, production assumptions and limits. This workflow helps organize acceptance; it does not promise exact color reproduction across every device, substrate or viewing condition.",
+    "sections": [
+      {
+        "title": "Describe the finished piece",
+        "text": "Record dimensions, page count, stock or substrate, finishing, quantity and delivery requirements. Identify critical content such as small type, photographs, barcodes or brand colors. Ask which specifications affect the proposed proof. A proof intended only for content review should not be mistaken for evidence of the final binding or stock feel. Include the version of the artwork being evaluated and who is allowed to approve changes."
+      },
+      {
+        "title": "Make color assumptions explicit",
+        "text": "Adobe’s commercial-print guidance explains that commercial workflows differ from desktop printing and describes using press profiles for soft proofing. Ask the print provider which profile and production condition are assumed and what the proposed proof can represent. Your designer or print professional should interpret technical color requirements. A viewing screen without an agreed workflow is not an objective reference for a disputed result. Record expectations without promising that every display will show an identical image."
+      },
+      {
+        "title": "Worked example: correct text, unexpected stock",
+        "text": "A hypothetical buyer approves a PDF for a folded brochure and later receives a sample on a different paper stock. The approved PDF supports the text and layout review, but it does not resolve whether the stock substitution was accepted. The buyer’s proof sheet records separate approvals for content, fold and substrate. The provider can then explain the proposed production change before the full run, rather than treating one general approved email as permission for every variation."
+      },
+      {
+        "title": "Preserve the approval trail",
+        "text": "Keep the final proof version, reviewer comments, resolved changes and production authorization together. Ask how a late correction affects schedule, price and proofing. Inspect delivered work using agreed sampling and review procedures appropriate to the job; do not invent a universal defect allowance. If a dispute requires technical assessment, use the relevant professional and approved specifications. The goal is a traceable production decision with known limits, not an unsupported claim that a proof guarantees perfection."
+      }
+    ],
+    "checklist": [
+      "Finished-piece specifications and critical content",
+      "Proof type, purpose and production assumptions",
+      "Separate content, material and finishing approvals",
+      "Final approved version and subsequent changes retained"
+    ],
+    "questions": [
+      "What can this proof demonstrate and what remains untested?",
+      "Which production condition and profile are assumed?",
+      "How will a material or artwork change be approved?"
+    ],
+    "source": "https://helpx.adobe.com/photoshop/desktop/print/prepare-images-for-commercial-printing.html",
+    "sourceLabel": "Adobe supplies commercial-print workflow context; technical acceptance criteria belong to the agreed professional review. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "equipment-maintenance-provider-asset-task-coverage",
+    "title": "Compare maintenance providers by asset and task coverage",
+    "category": "Specialist provider evaluation",
+    "description": "Compare maintenance providers by asset and task coverage. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A maintenance proposal should identify what will be serviced and which tasks are included for each asset. A phrase such as full maintenance can conceal differences in inspections, consumables, adjustments and repairs. Build an asset-task matrix using the correct manufacturer information and qualified maintenance advice. The matrix does not itself authorize operation or establish that equipment is safe.",
+    "sections": [
+      {
+        "title": "Identify the actual equipment configuration",
+        "text": "Record asset ID, model, serial range where relevant, installed attachments and usage information available to the maintenance lead. Ask which manufacturer documents apply to that configuration. Different versions of apparently similar equipment can need different procedures. Keep the technical source with its edition or revision date. The buyer should not create service intervals from a generic web checklist or assume an interval for one machine applies to the rest of the fleet."
+      },
+      {
+        "title": "Separate included work from discovered work",
+        "text": "Ask the provider to distinguish routine tasks, condition checks, replacement parts, specialist procedures and corrective repairs. Identify who can approve work found during a visit. John Deere’s published inspection material points to the operator’s manual for periodic maintenance and assumes appropriately trained personnel; it is manufacturer-specific context, not a universal procedure for unrelated equipment. Have the qualified maintenance lead map the relevant instructions to the provider’s quotation."
+      },
+      {
+        "title": "Worked example: a visit without a required attachment check",
+        "text": "A hypothetical facility lists a machine and its optional attachment as one purchasing line. The provider’s quote covers the base unit only. During comparison, the maintenance lead identifies the attachment as a separate task set and asks both bidders to clarify coverage. The buyer now has comparable offers and a visible exclusion. The spreadsheet does not determine the correct technical procedure; it ensures that the qualified reviewer’s identified work is not lost in a general service description."
+      },
+      {
+        "title": "Review the service record before closing the job",
+        "text": "Ask for asset-linked tasks completed, observations, parts used and items deferred. Distinguish a recommendation from an authorization and a completed repair from a pending investigation. Assign a person to review unresolved findings and any restrictions communicated by the qualified provider. Invoice approval should follow the agreed commercial process, while return-to-service decisions remain with authorized technical personnel. Update the matrix after equipment changes so the next renewal reflects the actual fleet."
+      }
+    ],
+    "checklist": [
+      "Correct asset configuration and manufacturer-document revision",
+      "Routine, specialist and corrective work distinguished",
+      "Approval route for discovered work",
+      "Service record and unresolved findings reviewed by authorized staff"
+    ],
+    "questions": [
+      "Does this quote include every attachment and task identified by our maintenance lead?",
+      "What work requires a separate authorization?",
+      "Who decides whether an asset can return to service?",
+      "How will the next service technician see deferred findings and distinguish them from newly discovered conditions?"
+    ],
+    "source": "https://www.deere.com/assets/pdfs/common/parts-and-service/safety/DKTCCHECK_17-07_PreOperationSafetyAndMaintenanceInspectionChecklist.pdf",
+    "sourceLabel": "John Deere material supplies manufacturer-specific documentation context, not procedures for all equipment. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "gis-provider-coordinate-deliverable-acceptance",
+    "title": "Evaluate GIS deliverables by coordinates, units and metadata",
+    "category": "Specialist provider evaluation",
+    "description": "Evaluate GIS deliverables by coordinates, units and metadata. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A map can look plausible while its data fails to align with the system where your team needs to use it. When buying GIS work, define the deliverable’s coordinates, units, metadata and intended use before approving a proposal. Use qualified GIS or surveying professionals for technical interpretation, especially where boundaries, engineering or legal decisions depend on the result.",
+    "sections": [
+      {
+        "title": "Describe the receiving workflow",
+        "text": "List the software, existing datasets and output formats that the buyer will use. Ask the technical owner to specify the coordinate reference system, horizontal and vertical information, units and other necessary metadata. Distinguish a presentation map from an analytical dataset. A PDF may answer a visual communication need while being unusable for spatial analysis. If the work involves a regulated survey or legal boundary, identify the appropriate professional requirements separately."
+      },
+      {
+        "title": "Ask how source differences will be handled",
+        "text": "USGS explains that its digital elevation products can use different projections or coordinate systems and provide coordinate information in file headers. That illustrates why metadata matters; it does not establish the accuracy of an unrelated provider’s dataset. Ask the provider to document source datasets, transformations, processing dates and known limitations. Have the GIS reviewer assess compatibility rather than accepting an image overlay as sufficient proof that all coordinates and elevations are comparable."
+      },
+      {
+        "title": "Worked example: a visible offset",
+        "text": "A hypothetical business requests a site asset layer to combine with an existing facilities map. The delivered layer opens successfully but appears shifted. The acceptance check identifies different coordinate assumptions before the data is used in planning. The provider and GIS lead investigate the metadata and transformation, then document a corrected delivery or unresolved limitation. This example does not diagnose every offset or suggest that a visual adjustment is an adequate technical correction."
+      },
+      {
+        "title": "Test a small receiving task",
+        "text": "Choose representative features and ask the intended user to load, select, query and export them in the receiving software. Confirm that identifiers and attribute definitions remain understandable. Record version numbers and any accompanying style files. Acceptance should include the metadata package and unresolved limitations, not only a screenshot. Keep positional accuracy, legal boundary interpretation and engineering suitability with qualified professionals, and preserve their conclusions alongside the operational test."
+      }
+    ],
+    "checklist": [
+      "Receiving software, format and intended use",
+      "Coordinates, units and source metadata specified by technical owner",
+      "Transformation and processing history documented",
+      "Representative features tested without substituting visual alignment for technical review"
+    ],
+    "questions": [
+      "Which coordinate and unit definitions will accompany the data?",
+      "How will different source systems be reconciled?",
+      "What uses are outside the dataset’s stated accuracy and scope?",
+      "Can the receiving team identify the source and processing date of each layer without contacting the original analyst?"
+    ],
+    "source": "https://www.usgs.gov/faqs/what-projection-horizontal-datum-vertical-datum-and-resolution-a-usgs-digital-elevation-model",
+    "sourceLabel": "USGS elevation-product guidance supplies metadata context; surveying and technical suitability require qualified review. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "call-center-provider-quality-calibration",
+    "title": "Compare call-center providers through a quality-calibration exercise",
+    "category": "Specialist provider evaluation",
+    "description": "Compare call-center providers through a quality-calibration exercise. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A call-center score is difficult to interpret unless the buyer and provider agree on what the score measures. Before relying on a quality promise, run a calibration exercise using an approved script or appropriately handled sample. Compare how reviewers interpret the same interaction and turn disagreement into clearer criteria. This workflow does not establish that recording or using a real call is lawful.",
+    "sections": [
+      {
+        "title": "Define the customer task and review scope",
+        "text": "Identify the call types, customer needs and actions the service is expected to handle. Separate greeting quality, issue understanding, accurate information, escalation and after-call documentation. Ask which criteria are objective observations and which involve judgment. Avoid a single overall score that hides a serious failure under several minor successes. Have qualified advisers review recording, consent, personal-information and industry-specific obligations before collecting or sharing real interactions."
+      },
+      {
+        "title": "Use the same sample and rubric",
+        "text": "Give authorized reviewers the same representative interactions and the same definitions. A scripted role-play may be sufficient to test the rubric without using customer data. Record each reviewer’s observations before discussing scores, then identify ambiguous criteria. NIST’s Baldrige customer guidance emphasizes listening and understanding satisfaction and dissatisfaction; it does not prescribe a universal call-center scoring standard. Use customer needs as context while developing criteria for the specific service."
+      },
+      {
+        "title": "Worked example: a polite call with an unresolved issue",
+        "text": "A hypothetical support agent follows the greeting script and sounds helpful but sends the customer to a team that cannot solve the problem. One reviewer awards a high score for tone; another flags the incorrect escalation. The calibration meeting separates communication from resolution accuracy and clarifies which escalation evidence must be checked. The buyer learns how the provider reviews calls rather than accepting an unexplained average as proof of service quality."
+      },
+      {
+        "title": "Carry calibration into the operating review",
+        "text": "Record agreed definitions, unresolved questions and examples illustrating each criterion. Ask how new reviewers are trained and how changes to products or scripts update the rubric. Review customer feedback alongside sampled interactions, recognizing that neither source captures every customer experience. Keep access to recordings or transcripts proportionate and approved. At renewal, compare recurring error types and corrective actions rather than treating a changed score as improvement when the scoring method also changed."
+      }
+    ],
+    "checklist": [
+      "Call types and separate quality dimensions",
+      "Approved samples with lawful, appropriate data handling",
+      "Independent scoring followed by documented calibration",
+      "Method changes and recurring errors visible in review"
+    ],
+    "questions": [
+      "Would two reviewers reach the same conclusion from this evidence?",
+      "Which serious errors remain visible outside the average score?",
+      "How does customer feedback change the review criteria?",
+      "How will reviewers handle an interaction that correctly follows the script but leaves the customer with inaccurate information?"
+    ],
+    "source": "https://www.nist.gov/baldrige/self-assessing/improvement-tools/foundations-successful-business/customers",
+    "sourceLabel": "NIST Baldrige guidance supplies customer-listening context, not a mandatory call-scoring method. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "product-photography-file-acceptance",
+    "title": "Evaluate product-photography file and usage handoffs",
+    "category": "Specialist provider evaluation",
+    "description": "Evaluate product-photography file and usage handoffs. Use a practical evidence file to compare proposed work and acceptance criteria.",
+    "intro": "A product-photography proposal should specify more than the number of pictures. The buyer needs images that match the intended channels, identify the correct product version and arrive with clear usage documentation. Create a shot-to-file acceptance sheet with your creative and legal reviewers. This worksheet does not determine copyright ownership or guarantee that an image accurately represents every physical product variation.",
+    "sections": [
+      {
+        "title": "Define the shot list and intended use",
+        "text": "Record the products, variants, required views, packaging versions and channels where images will appear. Separate catalog images, detail crops, lifestyle scenes and print requirements. Ask who supplies styling references and who approves the physical sample before shooting. A change to packaging midway through production should be visible in the shot list. Define file dimensions and formats with the people who will use them rather than assuming the largest file is always the most useful deliverable."
+      },
+      {
+        "title": "Clarify technical and rights components",
+        "text": "Ask for the proposed naming system, color workflow, editing scope and treatment of source files. Distinguish final edited exports from working files and original captures. Copyright Office guidance explains that commissioned work is not automatically work made for hire in every situation. Have qualified counsel review ownership, permitted uses and third-party elements such as props, models or licensed materials where relevant. A delivery folder cannot answer those questions without the appropriate agreement and supporting documentation."
+      },
+      {
+        "title": "Worked example: nearly identical product variants",
+        "text": "A hypothetical seller commissions front and detail views for twelve products. Two sizes use similar packaging, and the initial filenames identify only the product family. The buyer’s acceptance sheet maps each file to the exact SKU and view, revealing a missing detail image and one ambiguous size. The photographer clarifies the mapping and supplies the missing shot. This prevents an operational catalog mistake without claiming that a filename review establishes broader legal or advertising compliance."
+      },
+      {
+        "title": "Inspect a representative export in context",
+        "text": "Have the intended user upload an approved sample to the staging catalog or place it in the planned layout. Check cropping, visible detail, file behavior and the link to the correct product. Route color or representation concerns to the appropriate professional. Keep approved selects, revision notes and rights documents together. At final acceptance, record missing shots and exclusions explicitly so a folder count is not mistaken for completion of the agreed shot list."
+      }
+    ],
+    "checklist": [
+      "SKU, variant and view mapped to each required image",
+      "Channel-specific formats and editing scope agreed",
+      "Rights questions reviewed separately from file delivery",
+      "Representative exports tested in the intended workflow"
+    ],
+    "questions": [
+      "Can every delivered file be mapped to its exact product and view?",
+      "Which working files and usage permissions are included?",
+      "Who approves representation and color concerns before publication?"
+    ],
+    "source": "https://www.copyright.gov/circs/circ30.pdf",
+    "sourceLabel": "Copyright Office guidance supplies commissioned-work context; rights interpretation belongs with qualified counsel. This worksheet is original editorial guidance.",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]
