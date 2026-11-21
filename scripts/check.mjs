@@ -84,3 +84,5 @@ console.log(`PASS: ${resourceListingFiles.length} bounded resource pages discove
 await import("./check-provider-calculators.mjs");
 
 await import("./check-researched-founders.mjs");
+
+await import('./check-operations-calculators.mjs');

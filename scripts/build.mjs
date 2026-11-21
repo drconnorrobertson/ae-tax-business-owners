@@ -1,3 +1,4 @@
+import {renderOperationsCalculators} from './operations-calculators.mjs';
 import {buildResearchedFounders} from './researched-founders.mjs';
 import {renderProviderCalculators} from './provider-calculators.mjs';
 import {renderEditorialGuides} from './editorial-guides.mjs';
@@ -120,6 +121,7 @@ renderEditorialGuides({write,base:BASE,guides:editorialGuides});
 write('/sitemap/','All founder profiles, companies, and resources','Browse every founder profile, company page, industry collection, and owner planning resource in Business Owner Index.',`<div class="wrap"><section class="page-head"><span class="eyebrow">The complete index</span><h1>Every page. One place.</h1></section><article class="prose"><h2>Our sponsor and featured businesses.</h2><ul>${featured.map(p=>`<li><a href="/owners/${p.slug}/">${e(p.name)}</a> · <a href="${p.companyUrl}">${e(p.company)}</a></li>`).join('')}</ul><h2>Founder profiles and companies.</h2><ul>${[...owners,...publicFounderRecords].sort((a,b)=>a.name.localeCompare(b.name)).map(p=>`<li><a href="/owners/${p.slug}/">${e(p.name)}</a> · <a href="${p.companyUrl||`/companies/${p.companySlug}/`}">${e(p.company)}</a></li>`).join('')}</ul><h2>Business founders.</h2><p><a href="/business-founders/">Browse ${publicFounderRecords.length.toLocaleString()} additional sourced business founder profiles.</a></p><h2>Public founder reference library.</h2><p><a href="/founder-reference/">Browse all sourced founder and company reference records.</a></p><h2>Industries.</h2><ul>${industries.map(x=>`<li><a href="/industries/${slug(x)}/">${e(x)}</a></li>`).join('')}</ul><h2>Owner resources.</h2><ul>${[...guides,...editorialGuides].map(g=>`<li><a href="/resources/${g.slug}/">${e(g.title)}</a></li>`).join('')}</ul></article><div class="section">${button('/directory/','Search the directory')}</div></div>`);
 buildCollections({root,owners,industries,industryCopy,write,e,slug,cards,bread,aeBanner,BASE});
 renderProviderCalculators({root,write,e,bread,aside,BASE,BOOK});
+renderOperationsCalculators({root,write,e,bread,aside,BASE,BOOK});
 buildResearchedFounders({root,write,e,bread,aside,BASE});
 // Each sitemap remains below the 50,000 URL limit as the directory grows.
 for(let i=0;i<pages.length;i+=10000){const part=pages.slice(i,i+10000);fs.writeFileSync(path.join(out,`sitemap-${i/10000+1}.xml`),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${part.map(p=>`<url><loc>${BASE+p.path}</loc><lastmod>${p.lastmod}</lastmod></url>`).join('')}</urlset>`);}

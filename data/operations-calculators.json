@@ -1,0 +1,624 @@
+[
+  {
+    "id": "breakeven",
+    "slug": "break-even-units-revenue",
+    "title": "Break-even units and revenue calculator",
+    "intro": "Calculate the unit volume required to cover entered fixed costs when each sold unit contributes a positive amount after variable cost. The tool shows both a fractional mathematical threshold and the next whole unit. Use one consistent planning period and one product or a clearly defined representative unit. The starting numbers are fictional, and the result is a scenario rather than a sales forecast.",
+    "fields": [
+      {
+        "name": "fixed",
+        "label": "Fixed costs for the period",
+        "value": 5000,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "price",
+        "label": "Selling price per unit",
+        "value": 80,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "variable",
+        "label": "Variable cost per unit",
+        "value": 30,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      }
+    ],
+    "formula": "Contribution per unit = price \u2212 variable cost. Exact break-even units = fixed costs \u00f7 contribution. Whole units = exact units rounded upward. Revenue at that whole-unit volume = whole units \u00d7 price.",
+    "example": "With fictional fixed costs of $5,000, an $80 price and $30 variable cost, contribution is $50 per unit. Exact and whole-unit break-even are both 100 units, and corresponding revenue is $8,000. Changing fixed costs to $5,025 produces 100.5 exact units, requiring 101 whole units and $8,080 revenue.",
+    "sections": [
+      {
+        "title": "Keep the period and unit consistent",
+        "text": "Monthly fixed costs need monthly sales assumptions. A package price and per-item variable cost should not be mixed unless you first document the conversion. Enter costs expected to vary with the sold unit in the variable field, and identify any costs you deliberately leave out. The calculator cannot determine the correct economic classification from an account name."
+      },
+      {
+        "title": "Read the threshold carefully",
+        "text": "The whole-unit result rounds upward because partial units may not be saleable. It does not show that demand exists or that the business can produce the volume. If price is no greater than variable cost, the model reports that no finite threshold can be calculated from these assumptions. Review the assumptions rather than interpreting an error as a recommendation to change prices."
+      },
+      {
+        "title": "Compare a documented alternative",
+        "text": "Save the original assumptions outside the tool if you want to compare a second scenario. Change one input at a time and record why it changed. Consider capacity, channel fees, returns and product mix separately. Use the existing break-even worksheet to organize those questions before bringing the numbers to an adviser."
+      }
+    ],
+    "exclusions": "Taxes, financing, stepped capacity costs, product-mix changes and demand forecasts are excluded. It does not classify expenses for accounting or tax purposes or recommend a target margin.",
+    "checklist": [
+      "Use the same time period for fixed costs and sales.",
+      "Define the exact unit being sold.",
+      "Confirm variable cost includes the items relevant to your scenario.",
+      "Keep capacity and demand assumptions beside the result."
+    ],
+    "related": [
+      "break-even-sales-worksheet"
+    ]
+  },
+  {
+    "id": "landed",
+    "slug": "landed-supplier-quote-comparison",
+    "title": "Landed supplier quote and pack-quantity calculator",
+    "intro": "Compare two supplier quotes by the number of units purchased, total cash committed and average landed cost per unit. Enter whole pack quantities and pack sizes, then the quoted pack price and separate delivery or other costs. Different order sizes remain visible. This tool does not decide a reorder point, forecast demand or tell you how much inventory to hold.",
+    "fields": [
+      {
+        "name": "packsA",
+        "label": "Option A packs ordered",
+        "value": 10,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "unitsA",
+        "label": "Option A units per pack",
+        "value": 20,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "priceA",
+        "label": "Option A price per pack",
+        "value": 100,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "freightA",
+        "label": "Option A freight",
+        "value": 80,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "otherA",
+        "label": "Option A other costs",
+        "value": 20,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "packsB",
+        "label": "Option B packs ordered",
+        "value": 8,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "unitsB",
+        "label": "Option B units per pack",
+        "value": 25,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "priceB",
+        "label": "Option B price per pack",
+        "value": 130,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "freightB",
+        "label": "Option B freight",
+        "value": 40,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "otherB",
+        "label": "Option B other costs",
+        "value": 0,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      }
+    ],
+    "formula": "Ordered units = packs \u00d7 units per pack. Committed cash = packs \u00d7 price per pack + freight + other costs. Landed cost per unit = committed cash \u00f7 ordered units. The cash difference is Option A minus Option B.",
+    "example": "Fictional Option A buys 10 packs of 20 units at $100 per pack, plus $80 freight and $20 other costs: 200 units for $1,100, or $5.50 each. Option B buys 8 packs of 25 at $130 plus $40 freight: 200 units for $1,080, or $5.40 each. A commits $20 more cash.",
+    "sections": [
+      {
+        "title": "Compare the actual pack configuration",
+        "text": "A quoted case price is not a unit price unless the case contains one unit. Check pack sizes and minimum quantities in the written quotes. Keep quality, specification and delivery differences outside the arithmetic so a lower unit cost is not mistaken for an equivalent offer. The model accepts different total quantities because that distinction often drives the cash decision."
+      },
+      {
+        "title": "Separate costs from payment timing",
+        "text": "Enter only costs you have identified for this comparison. Delivery, duty or handling may need clarification from the supplier and relevant professionals. The cash commitment total does not show when installments are due, whether a deposit is refundable or how costs should be recorded. Keep those terms beside the result."
+      },
+      {
+        "title": "Use both totals",
+        "text": "A cheaper unit can require a larger order and more cash. Review the ordered-unit and committed-cash outputs together, then examine storage, demand and obsolescence in your own planning process. The model does not estimate those effects or recommend the offer with the smaller displayed number."
+      }
+    ],
+    "exclusions": "Quality differences, financing, inventory holding costs, tax treatment, demand and replenishment policy are excluded. All charges are user-entered; no live supplier rates are retrieved.",
+    "checklist": [
+      "Verify pack size and whole-pack quantity.",
+      "Use matching product specifications.",
+      "Identify freight and other charges explicitly.",
+      "Review cash timing and quantity differences separately."
+    ],
+    "related": [
+      "inventory-landed-cost-review",
+      "minimum-order-quantity-cash-review"
+    ]
+  },
+  {
+    "id": "weighted",
+    "slug": "weighted-service-role-quote",
+    "title": "Weighted service-role quote calculator",
+    "intro": "Build a service quote from three role groups with different planned hours and rates. The calculator totals labor and expenses, then shows the blended labor rate and the total quote per planned hour. Its fictional role groups are placeholders: rename the roles in your comparison notes and enter the hours and rates from an actual proposed scope.",
+    "fields": [
+      {
+        "name": "hours1",
+        "label": "Role 1 planned hours",
+        "value": 10,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "rate1",
+        "label": "Role 1 hourly rate",
+        "value": 100,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "hours2",
+        "label": "Role 2 planned hours",
+        "value": 5,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "rate2",
+        "label": "Role 2 hourly rate",
+        "value": 200,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "hours3",
+        "label": "Role 3 planned hours",
+        "value": 2,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "rate3",
+        "label": "Role 3 hourly rate",
+        "value": 300,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "expenses",
+        "label": "Separate expenses",
+        "value": 400,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      }
+    ],
+    "formula": "Labor = sum of each role\u2019s hours \u00d7 rate. Total quote = labor + expenses. Blended labor rate = labor \u00f7 total role hours. All-in quote per hour = total quote \u00f7 total role hours. More than zero total hours is required.",
+    "example": "Fictional roles contribute 10 \u00d7 $100, 5 \u00d7 $200 and 2 \u00d7 $300, producing $2,600 labor across 17 hours. Adding $400 expenses gives a $3,000 quote. The blended labor rate is about $152.94, while the all-in amount per planned hour is about $176.47.",
+    "sections": [
+      {
+        "title": "Keep responsibility visible",
+        "text": "The same total hours can represent a different service when senior review, specialist work or implementation responsibilities change. Record each role\u2019s tasks outside the calculator. A low blended rate does not demonstrate equivalent qualifications, quality or oversight. Ask how staffing changes would affect the proposed deliverables and commercial terms."
+      },
+      {
+        "title": "Treat expenses separately",
+        "text": "Expenses enter the total quote but not the labor-only rate. This distinction helps you see why the all-in amount differs from the staffing mix. Confirm whether expenses are fixed, estimated, reimbursed or subject to approval. The tool does not interpret a cap or decide whether a charge is permissible."
+      },
+      {
+        "title": "Compare planned and actual work carefully",
+        "text": "The hours are planned inputs, not a productivity promise. If you later compare actual hours, use the same role definitions and identify approved scope changes. Do not divide a fixed-fee quote by an invented hour estimate and present the result as the provider\u2019s actual rate. Use the proposal scope grid to retain the real deliverables and exclusions."
+      }
+    ],
+    "exclusions": "Taxes, overtime, billing increments, rate changes, contingency, unpaid review and contractual fee caps are excluded unless you represent them explicitly in the inputs. This is arithmetic, not a recommendation about staffing or professional fees.",
+    "checklist": [
+      "Match role hours to the actual scope.",
+      "Enter at least one positive hour amount.",
+      "Keep expenses separate from labor.",
+      "Compare responsibilities alongside the blended rate."
+    ],
+    "related": [
+      "professional-service-proposal-scope-grid",
+      "named-delivery-team-qualification-review"
+    ]
+  },
+  {
+    "id": "yield",
+    "slug": "batch-yield-unit-cost",
+    "title": "Batch yield and sellable-unit cost calculator",
+    "intro": "Use counted starting units and sellable output to show a batch yield and spread entered batch costs across that output. This count-based model is useful only when starting and finished units are meaningfully comparable. It does not convert weight into packages or determine whether a product is safe or suitable for sale. Qualified operating staff supply the approved output count.",
+    "fields": [
+      {
+        "name": "started",
+        "label": "Units started",
+        "value": 1000,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "good",
+        "label": "Sellable units",
+        "value": 800,
+        "min": 1,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "materials",
+        "label": "Batch material cost",
+        "value": 1200,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "labor",
+        "label": "Batch labor cost",
+        "value": 600,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "overhead",
+        "label": "Other entered batch cost",
+        "value": 200,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      }
+    ],
+    "formula": "Yield = sellable units \u00f7 units started \u00d7 100. Units outside sellable output = started \u2212 sellable. Entered batch cost = materials + labor + other cost. Cost per sellable unit = entered batch cost \u00f7 sellable units.",
+    "example": "A fictional batch starts 1,000 units and produces 800 sellable units, an 80% yield with 200 units outside sellable output. Entered costs of $1,200 materials, $600 labor and $200 other costs total $2,000. Dividing by 800 gives $2.50 per sellable unit.",
+    "sections": [
+      {
+        "title": "Define the count boundary",
+        "text": "Use the same batch and cutoff for starting units, output and costs. Record whether held items, work in progress or rework remain outside the sellable count. The calculator labels the difference neutrally; it does not assume all non-sellable output is waste. A later release of held units should be documented before rerunning the scenario."
+      },
+      {
+        "title": "Do not mix unlike units",
+        "text": "The model rejects output greater than starting units because it assumes comparable count units. It is unsuitable when one input unit naturally creates several finished units unless you first define a consistent equivalent unit. For roasting weight or recipe conversion, use the relevant record guide to organize a suitable measurement approach."
+      },
+      {
+        "title": "Review the cost boundary",
+        "text": "Entered cost per unit depends on which costs you include. A production manager and accountant may need different views for different decisions. Keep the component list and any allocations with the result rather than presenting the number as a universal inventory valuation. Compare scenarios only when the cost boundary is consistent."
+      }
+    ],
+    "exclusions": "Scrap proceeds, recovered materials, work-in-progress valuation, joint products, taxes and accounting allocations are not automatically modeled. The tool makes no production-quality or safety conclusion.",
+    "checklist": [
+      "Use comparable starting and output units.",
+      "Document held, rework and other excluded output.",
+      "Use costs for the same batch boundary.",
+      "Have the appropriate professional review financial classification."
+    ],
+    "related": [
+      "greenhouse-tray-sellable-plant-reconciliation",
+      "coffee-roaster-lot-yield-reconciliation"
+    ]
+  },
+  {
+    "id": "change",
+    "slug": "job-change-cost-bridge",
+    "title": "Job change labor and material cost calculator",
+    "intro": "Estimate the arithmetic of an identified job change using entered labor hours, a labor cost rate, materials, outside work and a markup percentage. The tool separates cost from markup. It does not authorize the work, decide a customer\u2019s obligation to pay or establish a project price. The starting values are fictional and should be replaced with supported scope assumptions.",
+    "fields": [
+      {
+        "name": "hours",
+        "label": "Additional labor hours",
+        "value": 12,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "rate",
+        "label": "Labor cost per hour",
+        "value": 40,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "materials",
+        "label": "Additional materials",
+        "value": 300,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "outside",
+        "label": "Outside work cost",
+        "value": 200,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "markup",
+        "label": "Markup on entered cost (%)",
+        "value": 20,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      }
+    ],
+    "formula": "Labor cost = additional hours \u00d7 hourly cost. Entered total cost = labor + materials + outside work. Markup amount = entered cost \u00d7 markup percentage \u00f7 100. Cost plus markup = cost + markup amount. Markup is not profit margin.",
+    "example": "Fictional labor of 12 hours at $40 costs $480. Adding $300 materials and $200 outside work gives $980. A 20% markup adds $196, producing $1,176 before excluded items. The $196 is an arithmetic addition, not a promise of profit or evidence that the customer owes that amount.",
+    "sections": [
+      {
+        "title": "Anchor the inputs to the changed work",
+        "text": "Identify the change reference, affected deliverable and differences from the original scope. Do not include work already funded in the original quote unless the commercial treatment has been clarified. Record who supplied the hour estimate and what material quantities it assumes. The calculator cannot spot duplicated scope."
+      },
+      {
+        "title": "Separate cost rate from billing rate",
+        "text": "Enter the rate that matches your intended cost scenario. If the labor field uses a billing rate, adding markup again may answer a different question from the one intended. Keep employer costs, overhead and other allocations explicit. Ask your accountant how those components should be represented for the decision."
+      },
+      {
+        "title": "Keep approval outside the arithmetic",
+        "text": "A calculated amount is not an approved change order. Use the existing scope-change log to connect the estimate, customer decision, authorized work and later invoice. Compare actual quantities with the assumptions after completion, preserving the original estimate so the learning is not lost."
+      }
+    ],
+    "exclusions": "Tax, contractual caps, contingencies, delay costs, profit-margin targets and entitlement to payment are excluded. A markup percentage may exceed 100 mathematically; the tool does not recommend any percentage.",
+    "checklist": [
+      "Identify the precise scope change.",
+      "Avoid double counting original work.",
+      "Label the labor rate as cost or billing rate.",
+      "Retain the separate authorization and invoice evidence."
+    ],
+    "related": [
+      "fixed-fee-project-scope-change-log",
+      "construction-change-order-cost-log"
+    ]
+  },
+  {
+    "id": "capacity",
+    "slug": "service-hours-slot-capacity",
+    "title": "Service hours and whole-slot capacity calculator",
+    "intro": "Convert entered staffed hours into whole service slots after removing planned non-service time. Compare the resulting slot count with entered demand and show how much of the available time that demand would consume. The model is a simple planning scenario. It does not determine a safe staffing level, employee schedule, legal break requirement or appropriate service duration.",
+    "fields": [
+      {
+        "name": "staffed",
+        "label": "Total staffed hours",
+        "value": 40,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "nonservice",
+        "label": "Planned non-service hours",
+        "value": 8,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "minutes",
+        "label": "Minutes per service slot",
+        "value": 45,
+        "min": 0.01,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "demand",
+        "label": "Requested service slots",
+        "value": 35,
+        "min": 0,
+        "step": 1,
+        "max": null
+      }
+    ],
+    "formula": "Available minutes = (staffed hours \u2212 non-service hours) \u00d7 60. Whole slots = available minutes \u00f7 minutes per slot, rounded down. Slot difference = whole slots \u2212 demand. Demand time share = demand \u00d7 minutes per slot \u00f7 available minutes \u00d7 100.",
+    "example": "Fictional staffed time of 40 hours less 8 non-service hours leaves 32 hours, or 1,920 minutes. At 45 minutes per service, 42 whole slots fit, with 30 minutes unused. Demand for 35 slots leaves a seven-slot difference and uses about 82.03% of the available time.",
+    "sections": [
+      {
+        "title": "Set a realistic boundary",
+        "text": "Use hours and demand from the same team and period. Identify whether the service duration includes preparation, cleanup and documentation. Record any tasks you place in non-service time so they are not also included in the slot duration. Qualified managers should determine necessary staffing and service standards."
+      },
+      {
+        "title": "Understand rounding and pooling",
+        "text": "Rounding down applies to the total entered pool of minutes. Real schedules may have separate shifts, rooms, skills or appointment windows that prevent all pooled time from being used. The result is not a guarantee that the slots can be placed on a calendar. Examine each practical constraint before relying on the aggregate."
+      },
+      {
+        "title": "Read demand above capacity as a question",
+        "text": "A time share above 100% means the entered demand requires more time than the entered pool provides. It does not prescribe overtime, faster service or additional hiring. Review demand timing, scope and available resources with the responsible team. Use the appointment-capacity guide to record those operating decisions."
+      }
+    ],
+    "exclusions": "Shift fragmentation, no-shows, parallel work, staffing ratios, regulatory requirements and variable service durations are excluded. The tool does not assign employees or recommend reducing necessary non-service time.",
+    "checklist": [
+      "Use one team and planning period.",
+      "Document what the slot duration includes.",
+      "Review scheduling fragmentation separately.",
+      "Treat the result as a scenario, not a staffing instruction."
+    ],
+    "related": [
+      "appointment-capacity-and-no-show-review"
+    ]
+  },
+  {
+    "id": "inventory",
+    "slug": "inventory-movement-variance",
+    "title": "Inventory movement and count variance calculator",
+    "intro": "Reconcile an opening unit count with receipts, returns and recorded outflows, then compare the expected balance with a physical count. The result isolates a quantity difference for investigation. It does not determine theft, value, ownership or the accounting entry needed to resolve a discrepancy. All counts should use the same item, unit, location boundary and cutoff.",
+    "fields": [
+      {
+        "name": "opening",
+        "label": "Opening units",
+        "value": 100,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "receipts",
+        "label": "Received units",
+        "value": 40,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "returns",
+        "label": "Returned-in units",
+        "value": 5,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "outgoing",
+        "label": "Shipped or used units",
+        "value": 80,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "removed",
+        "label": "Other documented outflow units",
+        "value": 3,
+        "min": 0,
+        "step": 1,
+        "max": null
+      },
+      {
+        "name": "counted",
+        "label": "Physical closing count",
+        "value": 60,
+        "min": 0,
+        "step": 1,
+        "max": null
+      }
+    ],
+    "formula": "Available units = opening + receipts + returned-in units. Expected closing = available \u2212 shipped or used \u2212 other outflows. Count variance = physical count \u2212 expected closing. A negative variance means the count is below the recorded expectation.",
+    "example": "Fictional opening stock of 100 plus 40 receipts and 5 returns gives 145 available units. Subtracting 80 shipped or used and 3 other outflows leaves 62 expected. A physical count of 60 creates a \u22122-unit variance. The model does not identify why the two units differ.",
+    "sections": [
+      {
+        "title": "Check the cutoff first",
+        "text": "A receipt counted physically but entered after the reporting cutoff can create a timing difference. Retain receipt, shipment and count timestamps. Include internal transfers only when they cross the boundary of the stock being reviewed. A transfer within the same combined location should not inflate both receipts and outflows unnecessarily."
+      },
+      {
+        "title": "Keep categories from overlapping",
+        "text": "Returned-in units should not also be included in receipts unless you intentionally change the categories. Likewise, damaged goods removed from stock should not also be deducted as shipped units. The calculator accepts nonnegative whole counts and rejects outflows greater than available units. That validation catches one inconsistent combination, not every record error."
+      },
+      {
+        "title": "Investigate before adjusting value",
+        "text": "Recount, check units of measure and trace missing movement documents before deciding on an adjustment. Keep the original count and the explanation. Ask the appropriate accounting professional to decide valuation and posting. The related inventory-count guide helps assemble the evidence, while this tool makes the unit rollforward transparent."
+      }
+    ],
+    "exclusions": "Value, ownership, consignment status, measurement tolerances, fractional stock units and accounting adjustments are excluded. A reconciled quantity does not prove the underlying inventory records are complete.",
+    "checklist": [
+      "Match item, unit, boundary and cutoff.",
+      "Avoid overlapping receipt or outflow categories.",
+      "Retain the physical count evidence.",
+      "Investigate the cause before choosing an accounting entry."
+    ],
+    "related": [
+      "inventory-count-handoff",
+      "warehouse-transfer-reconciliation"
+    ]
+  },
+  {
+    "id": "concentration",
+    "slug": "customer-revenue-exposure",
+    "title": "Customer revenue share and exposure calculator",
+    "intro": "Calculate one customer\u2019s share of entered revenue and the arithmetic effect of a user-selected reduction in that customer\u2019s revenue. The model keeps the exposure assumption visible. It does not forecast customer behavior, assign a risk rating or prescribe a concentration threshold. Use comparable periods and the same revenue definition for the customer and the business total.",
+    "fields": [
+      {
+        "name": "total",
+        "label": "Total revenue for the period",
+        "value": 100000,
+        "min": 0.01,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "customer",
+        "label": "Revenue from selected customer",
+        "value": 25000,
+        "min": 0,
+        "step": 0.01,
+        "max": null
+      },
+      {
+        "name": "risk",
+        "label": "Scenario reduction in customer revenue (%)",
+        "value": 40,
+        "min": 0,
+        "step": 0.01,
+        "max": 100
+      }
+    ],
+    "formula": "Customer share = customer revenue \u00f7 total revenue \u00d7 100. Scenario reduction = customer revenue \u00d7 entered reduction percentage \u00f7 100. Remaining revenue = total \u2212 scenario reduction. Overall reduction percentage = scenario reduction \u00f7 total \u00d7 100.",
+    "example": "With fictional total revenue of $100,000 and customer revenue of $25,000, the customer share is 25%. A 40% reduction in that customer\u2019s revenue removes $10,000, leaving $90,000 total revenue in the scenario. The business-wide reduction is 10%, not 40%.",
+    "sections": [
+      {
+        "title": "Define the customer consistently",
+        "text": "Decide whether the selected amount represents one legal customer, a group under common control or a channel, and document that choice. Do not combine an annual business total with one month of customer activity. Keep revenue separate from unpaid receivables and cash collected; those answer different questions."
+      },
+      {
+        "title": "Separate the scenario from a prediction",
+        "text": "The reduction percentage is your assumption. A 0% entry shows no reduction, while 100% removes all entered revenue from that customer. Neither boundary claims the event is likely. The calculator rejects customer revenue above total revenue because the amounts must describe the same population."
+      },
+      {
+        "title": "Follow through beyond revenue",
+        "text": "The result does not show profit or cash effects. Some costs may change with volume, payments may arrive later and replacement work may use different capacity. Use the customer-concentration guide to organize those questions and involve the appropriate adviser when evaluating actual business decisions."
+      }
+    ],
+    "exclusions": "Probability, margin, receivables collection, customer groups not entered, replacement sales and cost changes are excluded. No displayed percentage is labeled safe or unsafe.",
+    "checklist": [
+      "Use matching periods and revenue definitions.",
+      "Document the selected customer or group boundary.",
+      "Treat the reduction as an assumption.",
+      "Review margin and cash effects separately."
+    ],
+    "related": [
+      "customer-concentration-review",
+      "cash-runway-scenario-review"
+    ]
+  }
+]
