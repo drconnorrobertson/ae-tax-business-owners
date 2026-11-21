@@ -9572,5 +9572,725 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "coffee-roaster-lot-yield-reconciliation",
+    "title": "Reconcile green coffee input with roasted-lot output",
+    "category": "Sector record reviews",
+    "description": "Reconcile green coffee input with roasted-lot output. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A coffee roaster needs to explain how a received green-bean lot becomes roasted stock, samples, losses and remaining material. A single purchase weight and sales total cannot provide that explanation. Build a lot reconciliation using the operation’s measured quantities and consistent units. This is an inventory-evidence workflow, not a roasting specification, quality judgment or prescribed accounting method.",
+    "sections": [
+      {
+        "title": "Follow the lot through each stage",
+        "text": "Assign the supplier lot and receiving reference to the green stock. Record quantities issued to each roast batch, returned unused, sampled or otherwise removed. Keep raw input weights separate from finished roasted weights. A change in moisture or processing can affect quantity without representing missing stock, so ask production to explain the observed movement rather than imposing an assumed yield. Identify who recorded each measurement and which scale or process record supplied it."
+      },
+      {
+        "title": "Separate conversion from later movement",
+        "text": "Record roasted output before subtracting packaging samples, fulfilled orders or finished-stock losses. Otherwise a sales movement can be mistaken for a poor production yield. Use a finished-lot reference that connects back to the input batches, including blends where more than one green lot is used. If packaging changes the unit from kilograms to bags, retain both the bag count and the stated net weight so the conversion remains visible to the reviewer."
+      },
+      {
+        "title": "Worked example: two reconciliations, not one",
+        "text": "In a hypothetical batch, 100 kilograms of green coffee are issued and 84 kilograms of roasted coffee are measured. Production explains the 16-kilogram conversion difference in its batch record. From the 84 kilograms, 2 are used for samples and 70 are packed for dispatch, leaving 12 in finished stock: 84 minus 2 minus 70 equals 12. The two differences serve different purposes; the sample and dispatch quantities should not be added to the original conversion difference."
+      },
+      {
+        "title": "Review unexplained balances before costing",
+        "text": "Compare the expected finished balance with the physical count at a defined cutoff. Keep measurement corrections, waste and unexplained differences separate. Send the accountant the quantity trail, purchasing documents and production explanation rather than assigning an unsupported value adjustment yourself. IRS guidance describes keeping supporting business records; it does not supply a coffee yield or mandate this worksheet. Related general inventory guides can help with count and landed-cost questions, while this lot trail preserves the production-specific facts."
+      }
+    ],
+    "checklist": [
+      "Supplier lot, roast batches and finished lots linked",
+      "Input and output weights retained separately",
+      "Samples and dispatches deducted only from finished stock",
+      "Unexplained quantity differences assigned for review"
+    ],
+    "questions": [
+      "Can every finished lot be traced to measured input?",
+      "Did a packaging or sales movement get confused with roast conversion?",
+      "Which differences remain unexplained at cutoff?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "inventory-count-handoff",
+      "inventory-landed-cost-review"
+    ]
+  },
+  {
+    "slug": "brewery-keg-deposit-return-reconciliation",
+    "title": "Reconcile brewery keg deposits and container returns",
+    "category": "Sector record reviews",
+    "description": "Reconcile brewery keg deposits and container returns. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A keg movement, beer sale, container deposit and deposit refund are different events. A brewery or distributor can lose visibility when those events are collapsed into one customer balance. Maintain a container trail beside the related cash records, using the actual agreement and approved operational records. This worksheet does not determine deposit ownership, revenue recognition, excise treatment or refund entitlement.",
+    "sections": [
+      {
+        "title": "Identify the container obligation",
+        "text": "Record the keg identifier or controlled quantity group, customer, dispatch date and document reference. Distinguish owned, rented and supplier-owned containers where the arrangement makes that relevant. Link any separately stated deposit to the dispatch without assuming it has the same accounting treatment as the product charge. Preserve the agreement or approved terms for professional interpretation. If the business tracks containers by quantity rather than serial number, state that limitation explicitly."
+      },
+      {
+        "title": "Record physical returns before financial settlement",
+        "text": "A returned keg may be awaiting inspection, allocation or a customer credit. Keep physical receipt, accepted return and cash refund as separate dated fields. Record missing, disputed or damaged containers without deciding liability from the warehouse note alone. The operations team can confirm what arrived, while accounting can review how the accepted event should affect customer records. This separation also reveals a deposit refund issued before the corresponding return evidence exists."
+      },
+      {
+        "title": "Worked example: containers and cash have different balances",
+        "text": "A hypothetical customer begins with 12 kegs outstanding, receives 8 and returns 15, leaving 5: 12 plus 8 minus 15 equals 5. Separately, a 400-unit deposit receipt and a 250-unit refund create a net 150-unit cash inflow for the period. That cash figure does not prove the value associated with the five remaining kegs, because older deposits and the agreed per-container terms may differ. Reconcile each trail before asking the accountant to connect them."
+      },
+      {
+        "title": "Close with a customer-specific exception list",
+        "text": "Match the container register to dispatch and return evidence, then list accepted returns awaiting credit and credits lacking a matched return. Obtain explanations for old balances and changes in customer identity. Keep actual customer details inside approved systems; examples used for training should be fictional. IRS supporting-record guidance is general context, not a brewery-specific procedure. Use the related deposit guide for broader cash-versus-performance questions and retain this separate physical-container evidence for the specialist review. Keep customer transfers between locations explicit. A keg moved from one branch to another remains outstanding to the same commercial relationship unless an authorized record establishes a different arrangement."
+      }
+    ],
+    "checklist": [
+      "Opening, dispatched and returned keg quantities reconciled",
+      "Deposit receipts separated from product invoices",
+      "Accepted returns linked to credits or refunds",
+      "Disputed balances carried forward with named owners"
+    ],
+    "questions": [
+      "Which returns are physically received but not financially settled?",
+      "Does each credit have supporting return evidence?",
+      "Which terms require accounting or legal interpretation?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "customer-deposit-tracking",
+      "consignment-stock-custody-register"
+    ]
+  },
+  {
+    "slug": "bakery-production-order-finished-count-review",
+    "title": "Reconcile bakery production orders with finished counts",
+    "category": "Sector record reviews",
+    "description": "Reconcile bakery production orders with finished counts. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A bakery production order can produce several destinations: filled customer orders, display stock, samples, damaged units and unsold goods. Review that destination trail separately from recipe yield. The objective is to explain what happened to completed units after production, using actual records. The worksheet does not set food-handling rules, shelf life or accounting treatment for unsold items.",
+    "sections": [
+      {
+        "title": "Define the completed production unit",
+        "text": "Record the production order, product variant, completion time and counted finished units. Keep different pack sizes separate unless an approved conversion is documented. A tray, dozen and individually wrapped item are not interchangeable units. Identify when production responsibility ends and retail or dispatch responsibility begins. A late order change should remain connected to the production order rather than being written only on a sales slip."
+      },
+      {
+        "title": "Capture each destination once",
+        "text": "Record units allocated to customer orders, placed in display stock, used as samples, damaged or transferred. Separate an allocation from an actual dispatch so both events are not deducted. If goods move between counters, keep the transfer out and transfer in linked; do not call the movement a sale. Use the kitchen’s approved handling process and route any suitability question to qualified staff. The records here explain counts without deciding whether an item should be offered for sale."
+      },
+      {
+        "title": "Worked example: completed units with multiple destinations",
+        "text": "A hypothetical production order completes 240 units. Dispatch receives 150, the display counter receives 60, samples use 6 and production records 4 damaged units, leaving 20 awaiting allocation: 240 minus 150 minus 60 minus 6 minus 4 equals 20. Later sales from the 60 display units belong in the counter’s movement record, not another deduction from the original production order. This prevents double counting while preserving a clear handoff."
+      },
+      {
+        "title": "Investigate the handoff, not just the total",
+        "text": "Ask both sides of a transfer to confirm the same units and timestamp. Compare the remaining allocation balance with the actual held count. Keep unexplained differences visible and have the accountant review any proposed financial adjustment. IRS guidance supports maintaining business source records but does not mandate this bakery procedure. The related catering yield resource addresses ingredient-to-portion planning; this guide begins after finished production and focuses on destination counts. When the review crosses midnight, keep the production completion date and the destination movement date. A closing stock count should not be compared with dispatches that occurred after that count."
+      }
+    ],
+    "checklist": [
+      "Completed production units and pack sizes defined",
+      "Allocated and actually dispatched quantities distinguished",
+      "Transfers matched at both receiving and sending points",
+      "Remaining units reconciled before financial adjustments"
+    ],
+    "questions": [
+      "Has the same allocation and dispatch been deducted twice?",
+      "Which completed units remain without a documented destination?",
+      "Do production and retail counts use the same unit?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "catering-recipe-yield-cost-review",
+      "restaurant-food-waste-cost-log"
+    ]
+  },
+  {
+    "slug": "laundromat-machine-meter-cash-reconciliation",
+    "title": "Reconcile laundromat machine activity with collections",
+    "category": "Sector record reviews",
+    "description": "Reconcile laundromat machine activity with collections. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A laundromat operator may have machine counters, card-system reports and collected cash that cover different periods. Put them on the same timeline before investigating a difference. The goal is a reproducible activity-to-collection comparison, not an assumption that every cycle is a paid sale or that every cash variance indicates misconduct.",
+    "sections": [
+      {
+        "title": "Fix the collection period and machine population",
+        "text": "Record the opening and closing counter readings, machine identifier and collection timestamps. Note replacements, resets and out-of-service periods. A reading taken after new customers begin using the machine does not match cash removed earlier. Keep card activity and coin activity separately identifiable. Ask the responsible operator to explain how each counter behaves instead of assuming it counts successful paid cycles only."
+      },
+      {
+        "title": "Identify noncash and exception activity",
+        "text": "Maintain approved records for test cycles, refunds, promotions, interrupted service and manual overrides. Distinguish a refund authorized during the period from cash physically paid during the period. If attendants move cash between collection bags or drawers, preserve the transfer evidence. The review should trace a discrepancy through known events before assigning a cause. Use the business’s actual pricing changes and configuration dates rather than applying today’s vend price to all historical cycles."
+      },
+      {
+        "title": "Worked example: test cycles change the expectation",
+        "text": "In a hypothetical machine, the counter increases by 90 cycles. Six are documented maintenance tests, leaving 84 paid cycles at an assumed 5-unit vend price: 84 times 5 equals 420. Collected cash is 410, leaving a 10-unit difference to investigate. This does not establish a loss or its cause. A collection timing issue, a documented refund or an incorrect counter assumption could change the comparison, so keep the difference unresolved until supported."
+      },
+      {
+        "title": "Build a machine-level review file",
+        "text": "Reconcile individual machines before combining the store total, because offsetting differences can hide patterns. Attach counter evidence, price configuration, exception records and collection counts. Send unresolved issues to the appropriate operations and accounting owners. IRS recordkeeping guidance provides general supporting-record context, not a laundromat control standard. The related cash-deposit resource addresses the later step from collected cash to the bank; do not confuse that deposit reconciliation with machine activity. Use a dated collection sheet signed or confirmed through the business’s normal control process. If two people count the same bag differently, preserve both observations and the resolved recount. Do not alter the machine reading simply to make the collection total agree."
+      }
+    ],
+    "checklist": [
+      "Machine readings aligned with collection timestamps",
+      "Resets and test cycles documented",
+      "Price changes applied to the correct period",
+      "Machine variance kept separate from bank-deposit variance"
+    ],
+    "questions": [
+      "Does this counter represent paid completed cycles?",
+      "Do cash and activity reports cover the same interval?",
+      "Which exceptions explain the remaining difference?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "cash-deposit-reconciliation",
+      "business-card-expense-exception-review"
+    ]
+  },
+  {
+    "slug": "car-wash-membership-exception-refund-log",
+    "title": "Review car-wash membership exceptions and refunds",
+    "category": "Sector record reviews",
+    "description": "Review car-wash membership exceptions and refunds. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A car-wash membership record, an access event and a payment event describe different parts of the service. A useful exception log explains how cancellations, plate changes, failed charges and approved refunds move through those systems. It does not determine a customer’s contractual rights or the accounting treatment of membership receipts.",
+    "sections": [
+      {
+        "title": "Use a stable membership identity",
+        "text": "Keep an internal membership ID that survives a license-plate or vehicle change. Record the effective dates of each change and the source of the approved instruction. Avoid exporting full customer details into a general review sheet when an internal reference will do. Separate an access-system correction from a change to the billing agreement. A vehicle being recognized at the gate does not prove that the associated charge succeeded."
+      },
+      {
+        "title": "Distinguish requested and completed actions",
+        "text": "Record cancellation requests, approved effective dates, stopped renewals, failed payments and refunds with their own statuses. Preserve the actual terms for the qualified person who handles entitlement questions. An employee note saying refund requested is not evidence that a refund was issued. Likewise, a processor entry is not proof that an access change was completed. Link the two trails without allowing one status to overwrite the other."
+      },
+      {
+        "title": "Worked example: approvals and cash settle differently",
+        "text": "A hypothetical review includes 30 cancellation requests. Twenty-four have completed billing changes, four await clarification and two are not yet processed: 24 plus 4 plus 2 equals 30. Separately, eight approved refunds total 160 units; six processor-confirmed refunds total 120, leaving 40 approved but unconfirmed. The unresolved cancellation count and outstanding refund amount are different measures. Neither tells the accountant how to recognize membership revenue."
+      },
+      {
+        "title": "Review exceptions before contacting customers",
+        "text": "Match each action to its approval and system evidence, then assign unresolved items to the right team. Check whether a plate change created a duplicate membership rather than replacing the existing vehicle record. Keep customer communications accurate about what has actually occurred. IRS supporting-record guidance provides general context for the transaction trail, not membership rules. The related dues reconciliation resource can support broader roster-versus-payment questions, while this log isolates operational changes and refund completion. At the review cutoff, retain a snapshot of each system. Later corrections can then be recorded as subsequent events rather than changing the evidence for what staff saw originally. This is especially helpful when support, access control and payment processing update at different times."
+      }
+    ],
+    "checklist": [
+      "Stable membership ID with dated vehicle changes",
+      "Requested, approved and completed actions separated",
+      "Processor-confirmed refunds matched to approvals",
+      "Duplicates and failed-charge exceptions assigned for follow-up"
+    ],
+    "questions": [
+      "Did a vehicle change accidentally create another membership?",
+      "Which approved refunds lack completed processor evidence?",
+      "Which cancellation requests still need an authorized decision?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "membership-dues-reconciliation",
+      "customer-credit-limit-review-file"
+    ]
+  },
+  {
+    "slug": "parking-validation-settlement-reconciliation",
+    "title": "Reconcile parking validations with operator settlements",
+    "category": "Sector record reviews",
+    "description": "Reconcile parking validations with operator settlements. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "Parking validations can move through tenant approvals, ticket systems and operator statements before a building owner sees a charge. Reconcile those stages using the validation’s unit and pricing terms. A validated parking session is not automatically a cash receipt for the property owner, and an operator’s aggregate statement may conceal canceled or duplicate entries.",
+    "sections": [
+      {
+        "title": "Define who authorizes the validation",
+        "text": "Record the tenant or department, validation type, date and controlled reference. Distinguish a fixed-time discount, full-session validation and monetary allowance if the actual system offers different forms. Keep approved rates and effective dates with the record. Do not assume one stamp or code always has the same value. Identify whether the tenant pays the operator, the property owner settles centrally or another arrangement applies."
+      },
+      {
+        "title": "Follow redemption and settlement separately",
+        "text": "An issued validation may never be redeemed. A redeemed validation may be reversed or disputed before settlement. Capture those stages without counting each as a separate charge. Request enough transaction detail from the operator to connect billed items with approved redemptions, while limiting personal or vehicle data to what the review needs. Ask qualified advisers to interpret contractual terms and allocation rules when the statement does not make the basis clear."
+      },
+      {
+        "title": "Worked example: issued codes exceed billed uses",
+        "text": "A hypothetical tenant issues 100 validation codes. Eighty-two are redeemed, three of those are reversed and eighteen remain unused. The net redeemed count is 79: 82 minus 3. At an assumed 6-unit charge per net redemption, the expected settlement is 474 units. A statement for 480 differs by 6. Investigate the underlying event rather than forcing a balancing adjustment or assuming all 100 issued codes should be charged."
+      },
+      {
+        "title": "Keep the operator query reproducible",
+        "text": "Save the reporting cutoff, validation population, redemption data and the disputed statement line. Assign a person to resolve rate changes or duplicate references. Separate validation charges from unrelated parking revenue, management fees and remittances. IRS guidance provides general transaction-record context; it does not prescribe parking allocations. The related vendor invoice and reconciliation resources can help organize the broader payment approval after the validation evidence is complete. If one validation covers several time bands, retain the operator’s calculation detail. A single count may be insufficient to reproduce the charge. State that limitation openly and request the missing detail instead of substituting an average price that hides the difference."
+      }
+    ],
+    "checklist": [
+      "Validation type, authorizer and effective rate",
+      "Issued, redeemed and reversed events distinguished",
+      "Settlement count and amount recalculated",
+      "Disputed references linked to an operator query"
+    ],
+    "questions": [
+      "Are we paying for issuance or actual redemption?",
+      "Which reversed events remain in the statement?",
+      "Can each billed validation be matched to an authorized use?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "contractor-invoice-review-file",
+      "merchant-payout-reconciliation"
+    ]
+  },
+  {
+    "slug": "self-storage-unit-status-billing-register",
+    "title": "Review self-storage unit status against billing events",
+    "category": "Sector record reviews",
+    "description": "Review self-storage unit status against billing events. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A self-storage unit can be physically vacant, reserved, occupied or under an unresolved customer process while the billing system shows a different status. Build a dated register that compares operational events with authorized billing changes. This guide does not explain liens, eviction, disposal rights or customer entitlement; those matters require the actual agreement and qualified legal review.",
+    "sections": [
+      {
+        "title": "Record a clear event timeline",
+        "text": "Use unit ID, customer reference and effective dates for move-in, transfer, move-out and approved hold statuses. Keep observation dates separate from effective dates. A unit found empty on inspection may still need an authorized account change, and a billing cancellation may not prove the unit is physically ready for another customer. Preserve uncertainty rather than forcing both systems to show the same label prematurely."
+      },
+      {
+        "title": "Link changes without erasing history",
+        "text": "When a customer transfers units, record the old and new unit references and any approved charge changes. Distinguish a reservation payment, recurring charge, deposit and refund where the arrangement does so. Have accounting determine classification and counsel address rights or disputed charges. The operational register should explain what happened and who authorized it. Avoid storing access codes or unnecessary personal information in the review file."
+      },
+      {
+        "title": "Worked example: two transfers are not new occupancy",
+        "text": "A hypothetical location starts with 70 occupied units, records 8 external move-ins and 5 external move-outs, and transfers 2 customers internally. Expected occupied units are 73: 70 plus 8 minus 5. The internal transfers change which units are occupied but do not add two more occupied units to the total. If the billing roster shows 75, investigate whether the old accounts remained active after transfer before drawing a revenue conclusion."
+      },
+      {
+        "title": "Resolve differences with the right owner",
+        "text": "Compare the register with the dated billing roster and physical status report. List duplicate active accounts, missing effective dates and unexplained status changes. Do not initiate a legal or collection action from the worksheet alone. IRS supporting-record guidance is general context, not a self-storage procedure. Use the related customer-onboarding and deposit guides for financial handoff questions, while preserving this location-specific event history for the people authorized to act. Keep unit availability separate from occupancy. Cleaning, repair or an unresolved status can prevent a physically empty unit from being offered again. The register should retain those operational categories without turning them into presumed billing or legal conclusions."
+      }
+    ],
+    "checklist": [
+      "Unit events recorded with both observation and effective dates",
+      "Internal transfers linked across old and new units",
+      "Deposits and recurring charges distinguishable",
+      "Billing and physical exceptions reviewed without legal assumptions"
+    ],
+    "questions": [
+      "Did an internal transfer leave the old billing account active?",
+      "Which status changes lack an authorized effective date?",
+      "Do the compared reports use the same cutoff?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "customer-onboarding-to-billing-handoff",
+      "customer-deposit-tracking"
+    ]
+  },
+  {
+    "slug": "moving-inventory-change-charge-handoff",
+    "title": "Reconcile moving inventory changes with the charge handoff",
+    "category": "Sector record reviews",
+    "description": "Reconcile moving inventory changes with the charge handoff. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A moving job can change between the initial inventory and the final service record. Track added items, removed items and approved service changes so the invoice reviewer understands the difference. This is a record-handoff workflow, not a statement of moving estimates, consumer rights, carrier obligations or entitlement to extra charges.",
+    "sections": [
+      {
+        "title": "Preserve the original inventory baseline",
+        "text": "Record the job reference, inventory version and date used for the accepted commercial arrangement. Use the item groups or units actually supported by the operation. Avoid replacing the original file when a later walk-through changes the list. Distinguish the customer’s description from a crew observation. The original and revised records should remain available to whoever must interpret the agreement or answer a dispute."
+      },
+      {
+        "title": "Connect changes to authorization and performance",
+        "text": "For each difference, record the observation, proposed service effect, approval reference and evidence of work actually performed. A requested packing service is not necessarily a completed packing service. A crew note about an extra item does not itself establish a right to charge. Route entitlement questions to the qualified person responsible for the applicable terms. Keep operational counts separate from pricing calculations so one can be reviewed without assuming the other."
+      },
+      {
+        "title": "Worked example: the item count and services differ",
+        "text": "A hypothetical job starts with 60 inventoried item groups. The customer removes 4 and adds 7, giving 63 groups: 60 minus 4 plus 7. Separately, 10 packing units are approved but only 8 are recorded as used. The invoice handoff includes 63 item groups and 8 performed packing units, with the two unused units explained. No price or charge entitlement follows automatically from those quantities; the reviewer applies the approved arrangement."
+      },
+      {
+        "title": "Close the file with unresolved items visible",
+        "text": "Match the final inventory and performed-service record with approvals and delivery evidence. Keep missing signatures or disputed observations as open items instead of inventing confirmation. Protect customer address and household information in approved systems. IRS recordkeeping guidance supports retaining transaction evidence generally, not this moving-specific process. The related fixed-fee change log can help organize commercial revisions while this inventory trail preserves what changed on the job. If the final invoice uses weight, time or another measure instead of inventory groups, include the supporting record for that measure. Item counts can explain scope changes without replacing the agreed pricing basis. Keep the two forms of evidence connected but distinct."
+      }
+    ],
+    "checklist": [
+      "Original and revised inventory versions retained",
+      "Changes linked to approval and performed-service evidence",
+      "Inventory units separated from service units",
+      "Unresolved discrepancies passed to the authorized reviewer"
+    ],
+    "questions": [
+      "What changed from the accepted inventory?",
+      "Which approved services were actually performed?",
+      "Which charge questions need agreement or legal review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "fixed-fee-project-scope-change-log",
+      "contractor-invoice-review-file"
+    ]
+  },
+  {
+    "slug": "pet-boarding-stay-addon-invoice-check",
+    "title": "Check pet-boarding stays and add-ons against invoices",
+    "category": "Sector record reviews",
+    "description": "Check pet-boarding stays and add-ons against invoices. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A boarding reservation, completed stay and add-on charge are separate records. Connect them before sending a bill or reviewing a provider statement. The objective is a clear service trail using internal identifiers, not a judgment about veterinary care, animal health or the suitability of any boarding practice. Qualified staff should decide care requirements independently of this billing review.",
+    "sections": [
+      {
+        "title": "Define the stay and billing unit",
+        "text": "Record the reservation reference, scheduled arrival and departure, actual service dates and the billing unit in the agreed terms. A calendar day, overnight stay and partial-day service may be different units. Have the authorized manager interpret the actual arrangement rather than assuming all stays use the same convention. Keep extensions and early departures dated so the final charge can be understood without reconstructing a message thread."
+      },
+      {
+        "title": "Require an add-on service trail",
+        "text": "List each authorized add-on, scheduled occurrence and recorded completion. Separate recurring requests from one-time services. If an activity is not completed, record that fact and the manager’s billing decision without altering the service history. Avoid placing animal health details or customer personal information in the general reconciliation sheet. Use links to approved systems when context is needed by qualified staff."
+      },
+      {
+        "title": "Worked example: completed services differ from booked services",
+        "text": "A hypothetical period contains 40 agreed billable stay-units at an assumed 30 units each, giving 1,200. Twelve add-on services were authorized at 8 units each, but only ten were recorded as completed. The manager approves billing for those ten, giving 80 and a total of 1,280 before other documented adjustments. The two uncompleted services remain visible. These fictional rates illustrate the arithmetic, not market prices or a universal rule about refunds."
+      },
+      {
+        "title": "Review adjustments and receipts separately",
+        "text": "Match the approved service bill with discounts, credits and payment records without confusing collection with service completion. Ask the accountant how deposits and final settlements should be classified. IRS guidance provides general source-record context, not boarding terms. Use the related appointment-capacity guide for scheduling questions and the deposit guide for advance receipts. This review supplies the service evidence those broader decisions need, while leaving care, rights and accounting treatment to qualified people. When a stay crosses the reporting cutoff, show the portion of service before and after that date. Preserve the entire reservation reference so accounting can review the timing without duplicating the same add-on on two period reports."
+      }
+    ],
+    "checklist": [
+      "Agreed stay unit and actual service dates",
+      "Add-on authorization and completion separately visible",
+      "Manager-approved changes linked to the bill",
+      "Deposits and collected cash kept distinct from service totals"
+    ],
+    "questions": [
+      "Does the stay count use the unit in the actual agreement?",
+      "Which add-ons were authorized but not completed?",
+      "Who approves the resulting billing adjustment?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "appointment-capacity-and-no-show-review",
+      "customer-deposit-tracking"
+    ]
+  },
+  {
+    "slug": "tutoring-prepaid-lesson-attendance-balance",
+    "title": "Reconcile prepaid tutoring lessons with attendance",
+    "category": "Sector record reviews",
+    "description": "Reconcile prepaid tutoring lessons with attendance. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A prepaid lesson package creates a balance that should be explainable in lesson units as well as cash. Track purchases, attended sessions, authorized adjustments and remaining units against the same learner reference. Keep educational assessments and personal learner details outside the general financial worksheet. The review does not decide cancellation rights, refund entitlement or revenue-recognition policy.",
+    "sections": [
+      {
+        "title": "Define the package unit",
+        "text": "Record the package version, number and length of sessions, purchase date and applicable terms. Distinguish a group session, individual session and consultation where they draw different units. Do not combine minutes and lessons without an approved conversion. Ask the authorized manager to resolve unclear terms. Keep the original package record when a learner changes program so transferred balances can be traced rather than silently replaced."
+      },
+      {
+        "title": "Link attendance and adjustments",
+        "text": "Use dated attendance records to support completed units. Record no-shows, reschedules, transfers and credits separately, with the authorized decision that affects the package balance. A scheduled appointment is not evidence of attendance. A canceled session should not disappear from history even if the manager restores its unit. The accountant can then distinguish service activity from commercial adjustments when reviewing the records."
+      },
+      {
+        "title": "Worked example: a unit balance is not a cash balance",
+        "text": "A hypothetical learner buys 12 lessons, attends 7 and receives one authorized additional lesson. The remaining balance is 6: 12 minus 7 plus 1. If the original cash receipt was 600 units, the worksheet still should not label the remaining six lessons as 300 units of refundable cash. Pricing, package terms, prior adjustments and applicable accounting policy require separate review. The arithmetic proves the lesson rollforward only."
+      },
+      {
+        "title": "Prepare a clean period-end handoff",
+        "text": "Compare package balances with the scheduling system and investigate negative or duplicated balances. Separate active packages from those requiring a decision under the actual terms. Give accounting the opening units, movements, closing units and supporting receipt references. IRS recordkeeping guidance supplies general documentation context, not tutoring policy. The related prepaid-service guide explains broader financial questions, while this attendance trail makes the individual package movements reviewable. For a transfer between learners or programs, create linked outgoing and incoming entries with the same authorization reference. The combined unit balance should remain explainable. A transfer is not another cash purchase, and should not inflate package sales in an operational report."
+      }
+    ],
+    "checklist": [
+      "Package unit and version preserved",
+      "Attendance distinguished from bookings and reschedules",
+      "Credits and transfers supported by authorized decisions",
+      "Lesson units separated from refundable cash assumptions"
+    ],
+    "questions": [
+      "Can each consumed unit be matched to an attended session?",
+      "Which balance changes are commercial adjustments?",
+      "What needs separate accounting or entitlement review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "salon-prepaid-service-balance-review",
+      "appointment-capacity-and-no-show-review"
+    ]
+  },
+  {
+    "slug": "fitness-studio-channel-settlement-review",
+    "title": "Reconcile fitness class-channel activity with settlements",
+    "category": "Sector record reviews",
+    "description": "Reconcile fitness class-channel activity with settlements. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A fitness studio may receive bookings through its own system and through a third-party class marketplace. Attendance counts and payout amounts do not necessarily use the same unit or timing. Build a channel-specific settlement review using the actual platform reports. This guide does not recommend a platform or assert its current prices, payout policy or cancellation rules.",
+    "sections": [
+      {
+        "title": "Separate channels before reconciling",
+        "text": "Record the marketplace, statement period, class reference and attendance evidence. Keep direct memberships and direct class packs outside the marketplace subtotal unless a documented arrangement links them. Ask which events generate a payable amount under the actual terms. A reservation, checked-in attendee and compensated visit may be different populations. Preserve the applicable statement definition so an apparent mismatch can be explained."
+      },
+      {
+        "title": "Track payout components independently",
+        "text": "Identify gross earned amounts as reported, fees, adjustments, reserves and cash transfers. Use the platform’s own labels first and ask accounting how they map into the books. Do not infer that a payout is gross revenue or that a fee is the only difference. A cross-period adjustment should retain its original class reference if available. Keep unresolved items visible instead of allocating them arbitrarily across classes."
+      },
+      {
+        "title": "Worked example: attendance and cash bridge",
+        "text": "A hypothetical statement lists 50 compensated visits at an assumed 9 units each, giving 450. It shows a 30-unit adjustment and a 20-unit fee, leaving 400 transferred: 450 minus 30 minus 20 equals 400. The studio’s attendance report lists 54 visits, so four visits still need a classification explanation. Matching the 400-unit bank deposit does not resolve the attendance difference, and the attendance count does not independently validate the fee."
+      },
+      {
+        "title": "Review the class-level economics separately",
+        "text": "After reconciliation, provide the operator with consistent attendance and settlement data for capacity review. Avoid using an incomplete payout file to compare instructors or class profitability. IRS guidance gives general supporting-record context, not marketplace accounting rules. The related utilization and payout guides can support the next analysis, while this worksheet supplies the channel-specific bridge. Record policy changes by effective period so old and new settlements remain comparable. Retain the platform export used for the calculation because a live dashboard may later reflect revised settlements. If a visit is adjusted in a later statement, link that adjustment back to the original class instead of silently changing both periods."
+      }
+    ],
+    "checklist": [
+      "Direct and marketplace populations kept separate",
+      "Reservations, attendance and compensated visits distinguished",
+      "Statement components bridged to transferred cash",
+      "Unmatched visits and cross-period adjustments retained"
+    ],
+    "questions": [
+      "Which attendance events are compensated under this statement?",
+      "Does the cash bridge include every adjustment category?",
+      "What explains attended visits absent from the compensated count?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "merchant-payout-reconciliation",
+      "consulting-utilization-capacity-review"
+    ]
+  },
+  {
+    "slug": "dental-lab-remake-credit-trace",
+    "title": "Trace dental-laboratory remakes to commercial credits",
+    "category": "Sector record reviews",
+    "description": "Trace dental-laboratory remakes to commercial credits. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A dental laboratory can receive a remake request that has several operational and commercial outcomes. Maintain a case-reference trail that separates the request, authorized work, delivery and credit decision. Use non-identifying internal references in the business worksheet. Clinical details and patient information belong only in approved systems accessed by appropriately authorized professionals.",
+    "sections": [
+      {
+        "title": "Preserve the original commercial reference",
+        "text": "Record the original order, invoice, delivered item category and internal case reference. Link the remake request without replacing the original history. Identify whether the request concerns a new specification, a commercial accommodation or an unresolved issue, using only the authorized classification. The worksheet should not diagnose the cause or decide clinical responsibility. Qualified clinicians and technical staff must handle those questions through the appropriate process."
+      },
+      {
+        "title": "Separate production decisions from credit decisions",
+        "text": "A remake can be produced before its commercial treatment is decided. Record the work authorization, completion and shipment independently from any credit memo or new invoice. Ask who may approve a credit and where that approval is retained. Do not assume every remake is free or every replacement is billable. Preserve the actual agreement and authorized decision for accounting and legal review where required."
+      },
+      {
+        "title": "Worked example: requested and credited amounts differ",
+        "text": "A hypothetical lab receives six remake requests linked to prior invoices totaling 1,800 units. Four receive authorized credits totaling 900, one is approved as new billable work for 250 and one remains unresolved. The 900 credits and 250 new charge are separate entries, producing a net 650-unit reduction if both are posted in the compared period. The unresolved case is excluded from that arithmetic rather than being assigned an estimated credit."
+      },
+      {
+        "title": "Reconcile the commercial trail at cutoff",
+        "text": "Match completed remakes with authorized credit or billing outcomes and identify items still awaiting decisions. Keep unshipped work, delivered work and posted financial entries in distinct statuses. IRS guidance provides general transaction-support context, not a rule for dental warranties or clinical outcomes. The related credit-memo register supports accounting follow-up, while this remake trail explains which original order and authorized decision produced the entry. Use a separate column for the commercial decision date and the posting date. A decision made late in the period may reach accounting afterward. The distinction helps the reviewer investigate timing without introducing a clinical conclusion or rewriting the original case record."
+      }
+    ],
+    "checklist": [
+      "Non-identifying case reference linked to original invoice",
+      "Work authorization separated from credit approval",
+      "New charges and credits shown as distinct entries",
+      "Unresolved cases excluded from confirmed totals"
+    ],
+    "questions": [
+      "Which completed remakes still lack a commercial decision?",
+      "Does every credit identify the original order?",
+      "Are clinical and patient details excluded from this business worksheet?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "wholesale-customer-credit-memo-register",
+      "warranty-service-workload-forecast"
+    ]
+  },
+  {
+    "slug": "recruiting-placement-guarantee-credit-register",
+    "title": "Track recruiting placement events and credit decisions",
+    "category": "Sector record reviews",
+    "description": "Track recruiting placement events and credit decisions. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A recruiting engagement may include a replacement process or fee adjustment tied to later events. Keep the placement facts and commercial decision together without assuming that a departure automatically creates a refund. Use the actual agreement and authorized reviewer to determine the outcome. This worksheet does not interpret employment law, guarantee language or a candidate’s private circumstances.",
+    "sections": [
+      {
+        "title": "Record the contractual event references",
+        "text": "Identify the placement, accepted start date, invoice reference and the agreement version that applies. Use internal candidate references rather than unnecessary personal information. Record subsequent event dates from authorized sources, separating a reported event from a confirmed one. Ask the person responsible for the contract to identify what evidence is needed for review. Do not infer eligibility from a generic number of days copied from another recruiting engagement."
+      },
+      {
+        "title": "Distinguish replacement work from financial adjustments",
+        "text": "A provider may agree to restart a search, issue a credit, refund cash or take another documented action. Record each as its own outcome. A replacement search in progress is not evidence of a credit posted to the ledger. A credit note does not prove cash has been refunded. Keep correspondence and approvals linked so accounting can recognize which event actually occurred and which remains pending."
+      },
+      {
+        "title": "Worked example: several open placements",
+        "text": "A hypothetical agency reviews five placements. Two remain unchanged, one has an approved 2,000-unit credit, one has a replacement search with no financial adjustment yet, and one awaits contract review. If the original invoices total 25,000 and the credit is posted, the confirmed net invoiced amount is 23,000. Neither open case is assigned an estimated reduction. This arithmetic is a record bridge, not an interpretation of guarantee rights."
+      },
+      {
+        "title": "Prepare the renewal and accountant handoff",
+        "text": "List open replacement searches, approved but unposted credits and disputed events separately. Review whether the original fee invoice and later adjustment occur in different reporting periods. Ask accounting to decide classification and timing. IRS source-record guidance is general context, not recruiting policy. The related recruiting cost calculator can help compare proposed fee formulas, while this register addresses the later evidence needed to explain actual placement and adjustment history. Keep the new placement reference linked if a replacement search produces another hire. This prevents the same history from appearing as two unrelated successful engagements. Any additional fee or adjustment should retain its own approved document rather than being inferred from the new start date."
+      }
+    ],
+    "checklist": [
+      "Placement and agreement version linked",
+      "Reported events distinguished from confirmed facts",
+      "Replacement work, credits and refunds separated",
+      "Pending contract-review cases kept out of confirmed adjustments"
+    ],
+    "questions": [
+      "What evidence supports the event under this agreement?",
+      "Has the approved adjustment actually been posted or paid?",
+      "Which cases remain unresolved rather than estimated?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "professional-service-proposal-scope-grid",
+      "wholesale-customer-credit-memo-register"
+    ]
+  },
+  {
+    "slug": "greenhouse-tray-sellable-plant-reconciliation",
+    "title": "Reconcile greenhouse trays with sellable-plant counts",
+    "category": "Sector record reviews",
+    "description": "Reconcile greenhouse trays with sellable-plant counts. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A nursery can track production by trays while sales and inventory use individual plants or pots. Keep that unit conversion visible through propagation, transfers and grading. This review explains quantities for business records; it does not prescribe growing methods, diagnose plant conditions or determine which plants are suitable for sale.",
+    "sections": [
+      {
+        "title": "Define the batch and count unit",
+        "text": "Record the crop batch, tray configuration and starting count supported by the actual production record. Do not assume every tray is full or every tray has the same number of cells. Distinguish planned capacity from counted plants. Keep repotting and batch splits linked to the original reference so later stock can be traced without treating a container change as new production."
+      },
+      {
+        "title": "Track decisions and transfers separately",
+        "text": "Record plants transferred, retained for further growing, removed under the operation’s approved process and classified as sellable. A move to a different growing area should not reduce total stock unless the receiving side is also recorded. Qualified staff should make condition and sale-readiness decisions. The financial worksheet captures their authorized categories without substituting an accountant’s or buyer’s judgment for horticultural expertise."
+      },
+      {
+        "title": "Worked example: tray capacity is not the final count",
+        "text": "A hypothetical batch begins with 20 trays of 50 counted plants, giving 1,000 plants. Staff record 80 removals and 120 retained for further growing, leaving 800 classified as sellable: 1,000 minus 80 minus 120 equals 800. If 500 of those are transferred to retail, 300 sellable plants remain in production stock. The 120 retained plants are still separately tracked; they have not vanished merely because they are not in the sellable subtotal."
+      },
+      {
+        "title": "Review quantity before assigning value",
+        "text": "Compare the expected counts with physical counts at the same cutoff. Preserve differences by batch, variety and status rather than spreading them evenly. Give accounting the quantity bridge, purchases and authorized classification evidence for valuation review. IRS guidance supports maintaining business source records but does not prescribe nursery inventory treatment. The related warehouse-transfer and count guides explain general controls, while this worksheet preserves the tray-to-plant conversion and growing-status distinctions. If one batch is split across locations, maintain an overall control total and separate location subtotals. Reconcile those subtotals to the batch before comparing them with sales. An internal movement should not appear as both a new plant and a removed plant in the combined view."
+      }
+    ],
+    "checklist": [
+      "Actual tray configuration and counted starting plants",
+      "Repotting and location transfers linked in both directions",
+      "Retained plants separated from removals and sellable stock",
+      "Quantity bridge provided before accounting valuation"
+    ],
+    "questions": [
+      "Are we using tray capacity or actual counted plants?",
+      "Where are plants retained for further growing recorded?",
+      "Did a transfer create an unexplained loss or duplicate count?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "warehouse-transfer-reconciliation",
+      "inventory-count-handoff"
+    ]
+  },
+  {
+    "slug": "waste-hauler-weight-ticket-charge-reconciliation",
+    "title": "Reconcile waste-hauling weight tickets with customer charges",
+    "category": "Sector record reviews",
+    "description": "Reconcile waste-hauling weight tickets with customer charges. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A hauling job may connect a dispatch, vehicle load, scale ticket, facility charge and customer invoice. Keep those records linked before comparing costs or accepting a disputed amount. This worksheet does not determine waste classification, environmental compliance, disposal authorization or the legal accuracy of a scale. Qualified specialists must resolve those questions.",
+    "sections": [
+      {
+        "title": "Connect the operational references",
+        "text": "Record the job, vehicle, container or load reference and receiving facility ticket. Preserve timestamps and units from the original documents. If a load combines several customer pickups, record the approved allocation method and identify its limitations. Do not manufacture customer-level measured weights from an aggregate load without disclosing the allocation. Keep rejected loads and reroutes visible because they can create multiple tickets for one dispatch."
+      },
+      {
+        "title": "Separate measured quantities from rates",
+        "text": "Record gross, tare and net weight only as shown or supported by the facility record, and verify the arithmetic. Keep the facility’s charge basis distinct from the customer’s contracted basis, which may be per lift, container, weight or another agreed unit. Ask the authorized reviewer to resolve disagreements about applicable rates or materials. A correct net-weight calculation does not automatically establish that a particular customer charge is permitted."
+      },
+      {
+        "title": "Worked example: net weight and invoice components",
+        "text": "A hypothetical ticket shows 18,400 kilograms gross and 12,100 kilograms tare, giving 6,300 kilograms net. The facility bill uses 6.3 tonnes at an assumed 70 units per tonne, totaling 441. A separately documented 25-unit charge gives a facility total of 466. The customer invoice might follow a different agreement, so the 466 is a supported facility-cost total, not automatically the customer’s amount due."
+      },
+      {
+        "title": "Investigate missing or repeated tickets",
+        "text": "Compare dispatched jobs with accepted facility tickets, credits and customer invoice references. Ask why one load appears twice before deleting a record; a reweigh or rejected trip may explain it. Keep environmental and safety decisions outside the general financial worksheet. IRS recordkeeping guidance supplies general source-document context. The related freight and invoice guides can support broader expense review once the load-specific quantities and charge components are reconciled. When a ticket is corrected, retain the original reference and the replacement record. Ask whether the facility also issued a financial credit or simply corrected a quantity. That distinction prevents staff from assuming that an amended measurement automatically changed the payable balance."
+      }
+    ],
+    "checklist": [
+      "Dispatch, load and facility ticket references linked",
+      "Gross minus tare checked in consistent units",
+      "Facility and customer rate bases kept separate",
+      "Reweighs, rejections and duplicate-looking tickets explained"
+    ],
+    "questions": [
+      "Does this ticket belong to the dispatched load?",
+      "Is the rate applied to kilograms, tonnes or another unit?",
+      "What supports any allocation across multiple customers?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "freight-fuel-surcharge-reconciliation",
+      "contractor-invoice-review-file"
+    ]
+  },
+  {
+    "slug": "travel-agency-supplier-refund-remittance-tracker",
+    "title": "Track supplier refunds through customer remittance",
+    "category": "Sector record reviews",
+    "description": "Track supplier refunds through customer remittance. Reconcile the operating evidence before sending questions to your accountant.",
+    "intro": "A travel supplier’s refund notice, money received by an agency and money remitted to a customer can occur on different dates. A tracker should explain each stage without implying that a supplier message means cash has arrived. This guide does not determine cancellation rights, statutory refund obligations or who is entitled to retain a fee.",
+    "sections": [
+      {
+        "title": "Preserve the booking and payment chain",
+        "text": "Record the booking reference, supplier, original payment route and the customer’s internal reference. Link the cancellation or change request with the actual authorization. Distinguish supplier-held funds from agency-held funds and identify split payments if present. Avoid storing payment-card details or passport information in the reconciliation worksheet. The purpose is to trace events and amounts using secure references, not duplicate sensitive travel records."
+      },
+      {
+        "title": "Separate approval, receipt and onward payment",
+        "text": "Record the supplier’s stated refund amount, any explanation of adjustments, the receipt date and the customer remittance evidence. Keep a credit voucher separate from a cash refund. An approved refund may remain outstanding, and money received may still need allocation across travelers or payment routes. Ask qualified staff to interpret the terms and legal obligations before deciding what should be sent or retained."
+      },
+      {
+        "title": "Worked example: a partial cash bridge",
+        "text": "A hypothetical supplier approves a 1,200-unit refund. The agency receives 900 and records 300 still outstanding. Of the 900 received, 800 has been remitted to the customer and 100 awaits an authorized allocation decision. The bridge is 1,200 equals 800 remitted plus 100 held pending decision plus 300 not yet received. It does not establish that the agency is entitled to retain the 100, or that the supplier’s approved amount satisfies every obligation."
+      },
+      {
+        "title": "Review aged items without inventing entitlement",
+        "text": "Separate supplier follow-up from internal remittance follow-up so the right team owns each open balance. Preserve corrections and subsequent receipts under the same booking reference. Have accounting review cash classification and any liability balance. IRS guidance supplies general transaction-support context, not travel-refund rules. The related credit-memo and customer-deposit guides address adjacent financial questions, while this tracker keeps the supplier-to-agency-to-customer sequence clear. For group bookings, retain a documented allocation by traveler reference and payment route. The sum of allocated amounts should match the supported group total. Keep rounding differences visible and approved, rather than sending a remainder to an arbitrary traveler merely to clear the worksheet."
+      }
+    ],
+    "checklist": [
+      "Booking linked to original payment route",
+      "Cash refund distinguished from supplier credit or voucher",
+      "Approved, received and remitted amounts separately reconciled",
+      "Open supplier and internal decisions assigned different owners"
+    ],
+    "questions": [
+      "Has the supplier’s approved amount actually arrived?",
+      "What explains received money not yet remitted?",
+      "Which entitlement or allocation questions need qualified review?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping guidance provides general supporting-record context; the sector worksheet and hypothetical example are original editorial guidance",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5,
+    "relatedSlugs": [
+      "wholesale-customer-credit-memo-register",
+      "customer-deposit-tracking"
+    ]
   }
 ]
