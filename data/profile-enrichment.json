@@ -49,9 +49,27 @@
         "url": "https://instagram.com/mijustin",
         "evidence": "https://justinjackson.ca/",
         "kind": "social"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/justinijackson/",
+        "evidence": "https://justinjackson.ca/calm-company",
+        "kind": "social"
+      },
+      {
+        "label": "Essay on calm companies",
+        "url": "https://justinjackson.ca/calm-company",
+        "evidence": "https://justinjackson.ca/calm-company",
+        "kind": "professional"
       }
     ],
-    "sections": []
+    "sections": [
+      {
+        "title": "An operating philosophy in his own writing",
+        "text": "In his April 2024 essay about calm companies, Jackson describes a business designed to support both customers and the people doing the work. He links that aim to profitability, financial reserves, deliberate commitments and a sustainable pace of growth. His account of building Transistor with Jon Buda gives a concrete example: declining complex enterprise arrangements when the staffing and compliance demands did not fit the company they wanted to operate. This is Jackson’s explanation of his approach, rather than an independent assessment of Transistor’s finances or working conditions.",
+        "source": "https://justinjackson.ca/calm-company"
+      }
+    ]
   },
   {
     "url": "/founder-profiles/joel-gascoigne-buffer/",
