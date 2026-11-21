@@ -7452,5 +7452,805 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "contractor-bookkeeping-provider-selection",
+    "title": "Choose contractor bookkeeping support around job evidence",
+    "description": "Evaluate a contractor bookkeeping proposal using retainage, change orders and incomplete job information.",
+    "intro": "A contractor can receive timely financial statements and still lack a usable view of individual jobs. When choosing bookkeeping support, ask candidates to demonstrate how field records, commitments, invoices and job changes become explainable reports. This is a service-selection exercise, not a construction accounting standard. The appropriate accounting treatment and any external reporting requirements need separate professional agreement.",
+    "sections": [
+      {
+        "title": "Describe the contract mix",
+        "text": "Give candidates examples of the actual work: short service calls, progress-billed projects, fixed-price work or other arrangements. Explain how job identifiers are assigned and who approves changes. A proposal for routine bank categorization may not include gathering field information. Avoid describing every project as identical merely because the business calls them all jobs."
+      },
+      {
+        "title": "Test one progress payment",
+        "text": "Use a fictional project with an approved progress amount, a withheld portion and a later release. Ask the provider to show which records it requests and how the amounts remain traceable. The demonstration should distinguish an invoice, cash received and a remaining balance. Do not accept a generic statement that construction experience will take care of the differences."
+      },
+      {
+        "title": "Include an unapproved change",
+        "text": "Present extra work that a supervisor records before the customer has agreed to its price. Ask who follows up, how its status appears and what prevents it being confused with approved billing. The bookkeeping candidate may maintain a register without resolving the commercial negotiation. Identify the internal person responsible for obtaining the missing agreement."
+      },
+      {
+        "title": "Compare job-report inputs",
+        "text": "Ask whether reports incorporate purchase commitments, delivered materials, subcontractor invoices and labor information, or only transactions already posted. The answer affects what a manager can infer. A report excluding unbilled commitments should say so. Confirm who maps costs to jobs and how corrections are approved when an invoice contains work for several projects."
+      },
+      {
+        "title": "Specify the recurring review",
+        "text": "Request a sample meeting agenda built around an incomplete job rather than a perfect demonstration file. Discuss missing time records, a supplier credit and a job that is operationally finished but financially open. Name the people who answer each question. The provider’s role should be observable in a repeated process, not depend on the owner interpreting unexplained spreadsheets."
+      },
+      {
+        "title": "Define acceptance and boundaries",
+        "text": "For the first agreed cycle, require a traceable job example, a list of unresolved records and a documented reporting cutoff. Clarify what is outside scope, including estimating, contract interpretation, payroll decisions or specialized accounting judgments. Compare actual proposals on this common evidence set. Neither a job-cost report nor a bookkeeping engagement guarantees project profitability or establishes a tax result."
+      }
+    ],
+    "checklist": [
+      "Representative contract and job identifier",
+      "Progress-payment evidence",
+      "Change-order approval owner",
+      "Report inclusion and cutoff definitions",
+      "First-cycle job walkthrough"
+    ],
+    "questions": [
+      "Who obtains missing field records?",
+      "Do reports include commitments?",
+      "What distinguishes approved billing from unresolved work?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "ecommerce-bookkeeping-provider-selection",
+    "title": "Evaluate ecommerce bookkeeping beyond the bank deposit",
+    "description": "Compare provider scope for marketplace settlements, refunds, fees and inventory evidence.",
+    "intro": "An ecommerce bank deposit may combine many sales, fees, refunds and timing differences. Choosing bookkeeping help therefore requires more than asking whether a provider connects to a marketplace. Test how a candidate explains one settlement and how it preserves the detail needed to understand customer activity. The best comparison uses the same real-world channel mix and clearly labeled sample records.",
+    "sections": [
+      {
+        "title": "Map channels before integrations",
+        "text": "List marketplaces, direct stores, processors and currencies actually used. Identify whether the business sells owned inventory, made-to-order goods or another arrangement. Ask which sources the provider imports and which require manual evidence. A platform logo on a proposal does not establish coverage of every report, country account or payment flow used by the business."
+      },
+      {
+        "title": "Trace a mixed settlement",
+        "text": "Provide a fictional settlement containing ordinary sales, a refund from an earlier period and several fee types. Ask the provider to connect the detail to the net bank deposit without treating the deposit itself as total sales. The objective is an explainable bridge. Confirm who investigates when platform totals and the deposit differ or supporting reports arrive late."
+      },
+      {
+        "title": "Include refunds and disputes",
+        "text": "Ask how a return, a partial refund and a disputed payment reach the records, and who supplies the commercial facts. A bookkeeping service may record those events without managing customer service or disputing charges. The proposal should separate those functions. Retain references linking a correction to the original activity rather than allowing refund totals to become untraceable adjustments."
+      },
+      {
+        "title": "Inspect inventory boundaries",
+        "text": "Describe where stock is held and who records receipts, transfers and damaged returns. Ask whether the service maintains inventory records, reconciles supplied reports or excludes inventory work entirely. These are materially different scopes. Do not assume that importing sales data establishes quantities on hand or resolves product costs; confirm the relevant work with the accounting professional."
+      },
+      {
+        "title": "Compare exception capacity",
+        "text": "Use a month when one channel changes its report format and another holds part of a settlement. Ask who notices and what internal information is needed. Compare response expectations and additional-work triggers. A cheap fixed fee may assume stable feeds and few exceptions, while another proposal may include investigation. Document the difference without inventing a universal ecommerce service standard."
+      },
+      {
+        "title": "Accept a reproducible month",
+        "text": "Request a completed settlement bridge, source-report inventory and open-issue list for the initial period. Confirm that authorized business staff can retrieve reports and understand the mapping after a provider change. Official recordkeeping guidance supplies general background; it does not certify an integration or prescribe this workflow. Tax obligations and marketplace rules require separate fact-specific review."
+      }
+    ],
+    "checklist": [
+      "Channel and report inventory",
+      "Mixed-settlement bridge",
+      "Refund and dispute responsibility",
+      "Inventory-scope boundary",
+      "Exportable mapping and open issues"
+    ],
+    "questions": [
+      "Who explains the net settlement?",
+      "Which channel exceptions cost extra?",
+      "Who owns inventory evidence?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "restaurant-bookkeeping-provider-selection",
+    "title": "Compare restaurant bookkeeping using a full trading week",
+    "description": "Test restaurant bookkeeping proposals with POS closes, supplier credits and stock-count evidence.",
+    "intro": "A restaurant’s bookkeeping workload is shaped by trading days, sales channels, purchasing and stock use. A proposal should explain how those records are connected, not simply promise hospitality expertise. Give each candidate the same representative trading week, including exceptions. This guide focuses on scope and evidence; payroll, employment, sales-tax and other legal requirements must be confirmed separately for the actual business.",
+    "sections": [
+      {
+        "title": "Describe sales sources",
+        "text": "List dine-in, takeaway, delivery channels, catering and other activity that actually occurs. Explain how the business closes a trading day and who reviews differences. Ask what the provider receives from each source and how missing closes are tracked. A bank deposit alone may arrive on a different timetable from the trading activity it represents."
+      },
+      {
+        "title": "Use a week with corrections",
+        "text": "Present a fictional week containing a void, a refund and a delayed channel settlement. Ask the candidate to explain the source records and review questions needed to reconcile the period. The provider should identify which facts managers must supply. Avoid equating a successful POS connection with a complete review of every correction recorded by staff."
+      },
+      {
+        "title": "Follow a supplier credit",
+        "text": "Include produce rejected on delivery and a credit issued later. Ask who keeps the dispute visible until the supplier’s account reflects it. The bookkeeping service may reconcile statements without managing the delivery complaint. Clarify that handoff. Otherwise the owner may assume the bookkeeper recovered a credit while the bookkeeper assumes the kitchen has already resolved it."
+      },
+      {
+        "title": "Define stock-count involvement",
+        "text": "Ask whether the proposal includes arranging counts, processing figures supplied by the restaurant or reviewing unexplained changes. These tasks require different staff effort. Use a sample with a unit mismatch between cases purchased and portions recorded. Confirm who owns recipe or yield assumptions, and avoid presenting a bookkeeping report as a substitute for operational control of food use."
+      },
+      {
+        "title": "Set the manager interface",
+        "text": "Identify a manager who can answer questions about daily closes, purchases and unusual events. Agree on a queue that can be handled around trading demands. A service requiring instant responses during peak service may be impractical even if its accounting process is sound. Compare the actual communication rhythm and absence coverage rather than the number of meetings advertised."
+      },
+      {
+        "title": "Accept an explainable cycle",
+        "text": "Require a sample trading-week reconciliation, supplier-credit status and list of missing stock information. Ask what the owner can conclude from the resulting reports and what remains uncertain. Compare the same outlets and channels across proposals. The engagement should not imply that bookkeeping alone prevents waste, guarantees margins or confirms compliance with all hospitality obligations."
+      }
+    ],
+    "checklist": [
+      "Sales-source and trading-day map",
+      "Corrected-week example",
+      "Supplier-credit follow-up owner",
+      "Stock-count scope and unit definitions",
+      "Manager question queue"
+    ],
+    "questions": [
+      "Who investigates missing daily records?",
+      "Does the service arrange or only process counts?",
+      "Who follows up outstanding credits?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "saas-bookkeeping-provider-selection",
+    "title": "Select SaaS bookkeeping support around billing changes",
+    "description": "Evaluate bookkeeping scope for subscriptions, usage adjustments, credits and changing customer plans.",
+    "intro": "A subscription business needs records that connect billing events with the customer agreement and cash activity. When selecting bookkeeping support, test plan changes and credits rather than showing only a perfect recurring invoice. This guide does not set revenue-recognition rules. Ask qualified accounting professionals to determine the applicable treatment and make clear which work the proposed service performs.",
+    "sections": [
+      {
+        "title": "Describe the billing model",
+        "text": "List fixed subscriptions, usage charges, implementation fees or other actual billing components. Identify the systems containing contract terms, usage records and invoices. A provider may support one recurring-billing integration without handling every commercial variation. Give candidates the same model description and examples of exceptions so their scope proposals can be compared fairly."
+      },
+      {
+        "title": "Walk through a mid-cycle change",
+        "text": "Use a fictional customer upgrading partway through a billing period and receiving a later credit. Ask which records support the revised charge and how the provider follows it into the accounts. Clarify who confirms the commercial calculation. A bookkeeping team can process a documented adjustment without being responsible for deciding what the customer contract permits."
+      },
+      {
+        "title": "Include a usage correction",
+        "text": "Present a meter error discovered after an invoice is issued. Ask who obtains the corrected usage, authorizes the change and links the credit to the original invoice. The service should describe its evidence requirements. Connecting to a billing platform does not establish that the underlying usage is accurate or that every correction has appropriate approval."
+      },
+      {
+        "title": "Separate metrics from accounting",
+        "text": "Ask how reports distinguish customer counts, recurring-revenue measures, billings and recorded accounting amounts. The business should agree on metric definitions rather than assume all providers calculate them identically. A management metric may answer a different question from financial statements. Require labels and reconciliation where the engagement includes both, with accounting judgments assigned to the appropriate professional."
+      },
+      {
+        "title": "Compare operational dependencies",
+        "text": "Identify who supplies contract changes, cancellations and unusual customer arrangements. Discuss timing when sales staff change a deal after an invoice is prepared. A provider may need a reliable internal approval record before acting. Compare the business workload left under each proposal, including exception review, rather than assuming outsourcing removes the need for product or sales input."
+      },
+      {
+        "title": "Specify initial acceptance",
+        "text": "Use one customer timeline from agreement through changes, invoicing, payment and any remaining balance. Ask for a source-system map and unresolved-issue list. Confirm whether historical conversion and specialized revenue analysis are included or separately scoped. A clear first-cycle handoff is more informative than a generic promise to understand software companies, and it avoids implying any guaranteed accounting or tax outcome."
+      }
+    ],
+    "checklist": [
+      "Billing-model and source-system map",
+      "Mid-cycle customer timeline",
+      "Usage-correction approval evidence",
+      "Metric definitions and accounting boundaries",
+      "Historical-work exclusions"
+    ],
+    "questions": [
+      "Who validates the commercial adjustment?",
+      "Are management metrics defined consistently?",
+      "Which revenue judgments require separate expertise?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "franchise-bookkeeping-provider-selection",
+    "title": "Choose franchise bookkeeping support for location comparisons",
+    "description": "Compare proposals using location cutoffs, franchisor statements and shared costs.",
+    "intro": "A franchise owner may need both reliable local records and information organized for franchisor reporting. Those requirements can differ from a generic business bookkeeping package. Ask candidates to show how the proposed service handles the actual location structure, statements and reporting deadlines. Do not assume that experience with one franchise system establishes knowledge of another system’s contract or reporting requirements.",
+    "sections": [
+      {
+        "title": "Map entities and outlets",
+        "text": "List legal entities, outlets, bank accounts and shared functions. Explain whether the owner wants reports by location, entity or both. A proposal priced per business may define that unit differently from the owner. Confirm the reporting structure before comparing fees, and identify who maintains the map when a location opens, moves or closes."
+      },
+      {
+        "title": "Inspect franchisor inputs",
+        "text": "Provide a redacted or fictional example of required reports and periodic statements. Ask how the provider connects sales data, charges and adjustments without assuming the statement is automatically correct. Interpretation of the franchise agreement remains a separate professional issue. The bookkeeping scope should identify who investigates missing information and who raises commercial disputes with the franchisor."
+      },
+      {
+        "title": "Compare the same operating period",
+        "text": "Use two fictional locations whose deposits arrive on different days. Ask how the service maintains a common reporting cutoff and labels timing differences. Without clear definitions, an apparent performance difference may reflect processing dates. The provider should explain what its location comparison includes and what data still requires management confirmation."
+      },
+      {
+        "title": "Discuss shared costs",
+        "text": "Present a central invoice used by several outlets. Ask who supplies the allocation basis, who approves it and whether the provider maintains it consistently. The bookkeeper should not silently decide a management policy merely to finish the report. If allocation choices materially affect a location comparison, keep the assumptions visible alongside the figures."
+      },
+      {
+        "title": "Test statement exceptions",
+        "text": "Include a fee adjustment, a marketing-fund charge and a correction relating to an earlier period. Ask what evidence is requested and how an unresolved item appears. Comparing only routine monthly charges misses the work most likely to interrupt the owner. Record which follow-up is included and which needs the owner or a separately engaged adviser."
+      },
+      {
+        "title": "Agree acceptance and transfer",
+        "text": "Request one entity-to-location bridge, a reconciled statement example and a list of reporting definitions. Confirm who retains franchisor submissions and supporting records. A provider transition should preserve those definitions. The engagement does not guarantee that reports meet every contractual requirement; compare its deliverables with the actual requirements and obtain appropriate review where necessary."
+      }
+    ],
+    "checklist": [
+      "Entity and outlet map",
+      "Actual franchisor reporting requirements",
+      "Common cutoff definitions",
+      "Approved shared-cost basis",
+      "Statement-exception evidence"
+    ],
+    "questions": [
+      "What does the quote mean by one location?",
+      "Who interprets the franchise agreement?",
+      "Can location results be traced to entity records?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "agency-bookkeeping-provider-selection",
+    "title": "Evaluate agency bookkeeping around client money and project work",
+    "description": "Compare provider scope using media charges, subcontractors and project billing evidence.",
+    "intro": "An agency’s bank activity can mix its own operating costs with charges tied to a client campaign or project. Before choosing bookkeeping support, explain those flows and test how the provider keeps them understandable. This guide does not determine ownership of funds, trust obligations or accounting treatment. Those questions need the actual contracts and appropriate professional advice.",
+    "sections": [
+      {
+        "title": "Describe the commercial arrangements",
+        "text": "List retainers, fixed projects, time-based work and client-funded spending that actually occur. Identify who contracts with media platforms or subcontractors. Give candidates a consistent description. A proposal assuming ordinary supplier expenses may not include campaign-level tracking or client reporting. The bookkeeping service should state which records it needs to distinguish the flows."
+      },
+      {
+        "title": "Trace a campaign example",
+        "text": "Use a fictional client campaign with an advance, platform charges and an unused balance. Ask the provider to show how each event remains linked to the campaign and to the client record. Clarify who confirms the commercial meaning of the advance. A net bank movement should not be the only explanation available to the owner."
+      },
+      {
+        "title": "Include supplier timing",
+        "text": "Present a subcontractor invoice arriving after the agency bills the client. Ask how the provider identifies the project and communicates incomplete cost information. A project margin report that excludes late costs needs an explicit limitation. Confirm whether the service maintains a commitment list or relies entirely on posted invoices and staff updates."
+      },
+      {
+        "title": "Compare client-report duties",
+        "text": "Ask whether the scope includes preparing campaign spending reports, reconciling supplied platform figures or only maintaining the general ledger. Those deliverables can require different evidence and frequency. Identify who approves reports before they reach clients. Do not assume the bookkeeping provider is authorized to communicate contractual conclusions or settle a client dispute."
+      },
+      {
+        "title": "Review correction handling",
+        "text": "Use an example involving a platform credit and a client request to move it to another campaign. Ask who authorizes the treatment and how the audit trail is retained. The workflow should preserve the original event and the approved change. Compare the expected internal project-manager time, especially where a provider cannot interpret campaign details independently."
+      },
+      {
+        "title": "Define first-cycle proof",
+        "text": "Request an explainable campaign bridge, a project-cost exception list and a clear map of client-report responsibilities. Compare the same number and types of active projects across proposals. General IRS recordkeeping material provides context for supporting records; it does not prescribe agency-specific treatment. Keep accounting judgments, contractual advice and routine administrative work separately named in the engagement."
+      }
+    ],
+    "checklist": [
+      "Commercial-flow description",
+      "Campaign advance-to-charge example",
+      "Late-cost reporting limitation",
+      "Client-report preparation and approval",
+      "Credit-reallocation evidence"
+    ],
+    "questions": [
+      "Who supplies campaign context?",
+      "Are commitments included in project reports?",
+      "Who approves client-facing figures?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "manufacturer-bookkeeping-provider-selection",
+    "title": "Select manufacturing accounting support using production evidence",
+    "description": "Evaluate provider scope for work in process, scrap, rework and production records.",
+    "intro": "A manufacturer’s accounting needs depend on how production evidence reaches the financial records. Selecting support solely by transaction volume can miss work in process, material movements and operational exceptions. Ask each candidate to work through the same production example. Specialized accounting judgments should be assigned to qualified professionals; this guide helps identify the records and responsibilities a proposed engagement actually covers.",
+    "sections": [
+      {
+        "title": "Describe the production pattern",
+        "text": "Explain whether the business makes standard batches, custom jobs or a mixture. Identify systems holding material issues, labor records and finished quantities. A provider who maintains bank and supplier records may not maintain production data. The proposal should state where its work begins and which plant records must already be prepared by the business."
+      },
+      {
+        "title": "Use an unfinished batch",
+        "text": "Present a fictional batch started before month-end and completed afterward. Ask which source records the provider requests and who confirms progress. Avoid asking the bookkeeper to invent a completion estimate. The comparison should reveal how operational facts reach the appropriate accounting review, including what remains uncertain when production records are incomplete."
+      },
+      {
+        "title": "Add rework and scrap",
+        "text": "Include material returned to production and units rejected during inspection. Ask how these events are identified, documented and distinguished from ordinary output. A provider may summarize information without controlling quality decisions. Define the handoff with production managers, especially when a cause code or approval is missing and a report could otherwise conceal the exception."
+      },
+      {
+        "title": "Inspect product-cost scope",
+        "text": "Ask whether the service records supplied costs, maintains cost schedules or performs a separately scoped analysis. Confirm who approves assumptions and updates them when processes change. A financial report using a cost figure does not prove the figure was reviewed. The engagement should explain the support behind the amount and its limitations."
+      },
+      {
+        "title": "Compare close dependencies",
+        "text": "Map production cutoff, stock information, supplier invoices and management responses into the close calendar. A fast reporting promise may depend on inputs the plant does not currently produce. Compare which proposal includes improving those handoffs and which assumes they already work. Use realistic staff availability rather than a perfect demonstration timetable."
+      },
+      {
+        "title": "Accept a traceable cycle",
+        "text": "Request one production-to-records walkthrough, identified open items and documented responsibilities for assumptions. Confirm that source quantities and approved adjustments remain accessible after the close. The service should not be represented as a quality-control system or a guarantee of cost accuracy. Evaluate whether it gives managers and accounting reviewers an understandable evidence path."
+      }
+    ],
+    "checklist": [
+      "Production-pattern description",
+      "Unfinished-batch records",
+      "Rework and scrap handoff",
+      "Cost-assumption owner",
+      "Close-input timetable"
+    ],
+    "questions": [
+      "Who confirms production progress?",
+      "What cost analysis is included?",
+      "Can quantities and adjustments be traced?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "wholesale-bookkeeping-provider-selection",
+    "title": "Compare wholesale bookkeeping around credits and stock movements",
+    "description": "Evaluate proposals using customer returns, supplier rebates and warehouse transfers.",
+    "intro": "A wholesaler may handle high transaction volume while a small number of credits, rebates and stock movements create most reporting questions. A bookkeeping proposal should explain these exceptions alongside routine sales and purchases. Compare providers using the same warehouse and trading arrangements. This operational selection guide does not establish inventory valuation, contract interpretation or tax treatment for the business.",
+    "sections": [
+      {
+        "title": "Describe the trading structure",
+        "text": "List warehouses, direct shipments, purchasing arrangements and customer terms relevant to the service. Identify where orders, dispatches and invoices are recorded. Ask whether the provider imports those records, reconciles reports supplied by staff or maintains parts of the process. These scopes can produce similar monthly statements while leaving very different internal workloads."
+      },
+      {
+        "title": "Follow a customer return",
+        "text": "Use a fictional customer returning part of an order after receiving an invoice. Ask who confirms receipt of goods, authorizes the credit and connects the adjustment to the customer account. The bookkeeping team should not infer physical receipt merely from an email request. Compare how each proposal handles a return that is still awaiting warehouse confirmation."
+      },
+      {
+        "title": "Test a supplier rebate",
+        "text": "Present a rebate tied to a purchase period and a later supplier statement. Ask who obtains the supporting calculation and tracks whether the agreed amount is received or credited. Commercial entitlement and accounting treatment require the actual facts. The service should explain whether it maintains the tracking record or only posts the final approved document."
+      },
+      {
+        "title": "Include a warehouse transfer",
+        "text": "Ask how a movement between two locations is distinguished from a sale or purchase in the records available to the provider. Identify who resolves a quantity mismatch between dispatch and receipt. A bookkeeping engagement may depend on warehouse staff maintaining those observations. Keep the operational owner visible instead of assuming financial staff can reconstruct every stock movement."
+      },
+      {
+        "title": "Compare account-review work",
+        "text": "Provide a sample customer balance with an unpaid invoice, an unapplied receipt and a pending credit. Ask the candidate to show its review output and escalation. A total aged balance alone may obscure the issue. Confirm whether customer contact is included or remains with sales staff, and who approves any adjustment before it changes the ledger."
+      },
+      {
+        "title": "Define a practical acceptance test",
+        "text": "Require one traceable return, one rebate record and one transfer exception within the first review cycle. Compare the same activity volume and required staff inputs. Retain the mapping between operational documents and accounting records. The intended outcome is understandable responsibility and evidence, not a promise that outsourcing will eliminate trading disputes or inventory differences."
+      }
+    ],
+    "checklist": [
+      "Trading and warehouse map",
+      "Return receipt and credit approval",
+      "Rebate-support calculation",
+      "Transfer mismatch owner",
+      "Customer-account review example"
+    ],
+    "questions": [
+      "Who confirms goods were received?",
+      "Does the service track pending rebates?",
+      "Who resolves warehouse discrepancies?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "transport-bookkeeping-provider-selection",
+    "title": "Choose transport bookkeeping support around settlement records",
+    "description": "Compare provider scope for trip references, carrier settlements and operating charges.",
+    "intro": "A transport business can have records organized by vehicle, driver, load, customer or settlement period. Before buying bookkeeping support, identify which of those views the business actually needs and how the underlying records connect. A provider’s industry label is less useful than a demonstrated reconciliation. This guide concerns operational scope, without supplying transport, employment or tax compliance rules.",
+    "sections": [
+      {
+        "title": "Map the trip identifiers",
+        "text": "Explain how the business links a load or trip to invoices, settlements, fuel and other charges. Identify systems and documents used by dispatch staff. Ask candidates how they preserve these references in the proposed records. A service organized only around bank dates may not support the trip-level questions management wants to answer."
+      },
+      {
+        "title": "Reconcile a settlement example",
+        "text": "Use a fictional carrier statement that combines several trips, deductions and an adjustment to an earlier settlement. Ask the provider to connect the net deposit to the detail and identify any missing supporting records. The demonstration should show what the business must explain, particularly where a deduction is disputed or its commercial basis is unclear."
+      },
+      {
+        "title": "Handle fuel and other costs",
+        "text": "Describe how fuel purchases, maintenance invoices and toll records identify the relevant vehicle or activity. Ask who resolves missing identifiers and duplicate receipts. The bookkeeping proposal may classify costs without producing a reliable trip margin. Make the intended reporting level explicit rather than assuming each recorded expense is automatically attributable to the correct load."
+      },
+      {
+        "title": "Include delayed charges",
+        "text": "Present a charge received after the trip has been marked complete operationally. Ask how it reaches the reporting process and how prior views are updated or labeled. A provider should explain the cutoff and revision process, not simply promise timely books. Management needs to know whether a trip report is preliminary and which costs may still arrive."
+      },
+      {
+        "title": "Compare dispatch-office workload",
+        "text": "Identify who supplies missing trip documents, confirms settlement differences and approves corrections. A remote service may require a consistent internal coordinator. An onsite arrangement may still lack authority to resolve disputes. Compare actual communication windows with dispatch demands and determine how unanswered questions appear in reports rather than disappearing into a general suspense category."
+      },
+      {
+        "title": "Accept a complete evidence path",
+        "text": "For the first cycle, request a trip-to-settlement bridge, unresolved-deduction list and clear report definitions. Confirm access to documents after a provider change. Do not treat a reconciled deposit as proof that every operational charge is correct or legally required. The engagement should identify when specialist professional advice is needed beyond ordinary record maintenance."
+      }
+    ],
+    "checklist": [
+      "Trip and vehicle reference map",
+      "Net settlement bridge",
+      "Missing-cost identifiers",
+      "Late-charge cutoff rules",
+      "Dispatch escalation owner"
+    ],
+    "questions": [
+      "Can a deposit be traced to trips and deductions?",
+      "Which reports remain preliminary?",
+      "Who investigates a disputed charge?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "hospitality-bookkeeping-provider-selection",
+    "title": "Evaluate hospitality bookkeeping across booking channels",
+    "description": "Compare support for guest deposits, channel settlements, cancellations and property-level reports.",
+    "intro": "A hospitality operator may receive cash before a stay, after a stay or through several booking channels. Selecting bookkeeping help requires explaining those flows and their source records. Ask candidates to demonstrate a guest timeline with changes, rather than only an uncomplicated booking. This guide addresses scope comparison; accounting, lodging-tax and contractual obligations require separate review for the actual operation.",
+    "sections": [
+      {
+        "title": "Identify systems and properties",
+        "text": "List the reservation system, direct-payment tools, booking channels and properties included. Explain whether the owner needs property-level reporting or only an entity total. A proposal may assume one integrated system while the business uses several exports. Confirm what the provider receives, how often it receives it and who notices a missing channel report."
+      },
+      {
+        "title": "Use a changing guest timeline",
+        "text": "Present a fictional reservation with an advance payment, a date change and a partial cancellation. Ask the provider to identify the records needed to explain the customer balance and related cash. Do not let the booking’s current status erase the history. The service should preserve the link between the original activity and later approved changes."
+      },
+      {
+        "title": "Trace a channel settlement",
+        "text": "Ask how the gross booking detail, channel charges, refunds and net deposit are connected. A net bank receipt may not show the full activity behind it. Confirm who investigates an unexpected deduction and which disputes remain with property management. Bookkeeping reconciliation and negotiation with a platform are different tasks unless both are expressly included."
+      },
+      {
+        "title": "Define property comparisons",
+        "text": "Ask how shared costs and centrally collected receipts are reflected in property reports. Management should approve relevant allocation assumptions rather than leaving them implicit. If one property uses a different operating arrangement, explain it before comparing margins. A uniform report format does not necessarily make economically different arrangements directly comparable."
+      },
+      {
+        "title": "Test operational handoffs",
+        "text": "Identify who communicates no-shows, refunds, guest credits and off-system changes. A provider can only use information that reaches the process. Compare a week with several changes and a manager absence. The proposal should show a practical exception queue and backup contact, including what remains unresolved at the reporting cutoff."
+      },
+      {
+        "title": "Set first-period evidence",
+        "text": "Request one booking timeline, one channel-settlement bridge and documented property-report definitions. Clarify which historical balances, tax filings or specialized accounting work are outside scope. Keep source exports accessible to the business. A hospitality label alone does not establish that a service covers every channel, property and guest adjustment used by the operator."
+      }
+    ],
+    "checklist": [
+      "Property and channel inventory",
+      "Guest-change timeline",
+      "Settlement detail and deductions",
+      "Approved property-report definitions",
+      "Operational change queue"
+    ],
+    "questions": [
+      "Who informs the books of off-system changes?",
+      "Can deposits be traced to booking activity?",
+      "Which property comparisons need qualification?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "event-business-bookkeeping-provider-selection",
+    "title": "Choose event-business bookkeeping around commitments and settlement",
+    "description": "Evaluate support for deposits, supplier commitments and the financial closeout of each event.",
+    "intro": "An event business can make supplier commitments well before the final customer payment. A bookkeeping proposal should explain how those commitments, deposits and later adjustments remain visible by event. A standard monthly statement may not answer whether an upcoming event is fully funded or financially complete. Compare providers using a complete event timeline, while reserving legal and accounting judgments for appropriate professionals.",
+    "sections": [
+      {
+        "title": "Define the event record",
+        "text": "Explain how the business assigns an event identifier and links contracts, customer payments, supplier orders and staff records. Ask whether the service maintains an event-level file or works only from posted transactions. The distinction affects what the owner can see before invoices arrive. A planned commitment should not be confused with an already paid expense."
+      },
+      {
+        "title": "Walk through advance activity",
+        "text": "Use a fictional event with an initial customer payment and deposits paid to several suppliers. Ask the candidate to identify the evidence needed to track balances without assuming the accounting treatment. The service should distinguish contract information, invoicing and cash movements in its explanation. Confirm who supplies revised terms when the guest count or scope changes."
+      },
+      {
+        "title": "Include cancellation and substitutions",
+        "text": "Present a supplier replaced shortly before the event and an unresolved credit from the original supplier. Ask who tracks the credit and approves any new commitment. A bookkeeping service may record the transactions without managing the commercial negotiation. Name the internal owner so the credit does not disappear from attention merely because the event date has passed."
+      },
+      {
+        "title": "Define event closeout",
+        "text": "Ask what makes an event financially complete: final customer adjustments, supplier invoices, credit notes and other relevant items should have clear status. Operational completion alone may not mean every cost has arrived. Compare how reports label preliminary results and later revisions. The engagement should identify who follows up outstanding items and when they are escalated."
+      },
+      {
+        "title": "Compare workload during peaks",
+        "text": "Describe the busiest event periods and the availability of project managers to answer questions. Ask how providers prioritize several overlapping events and handle late documentation. A fixed monthly fee may assume consistent volume while the business has sharp peaks. Compare the actual scope and change triggers using the same calendar rather than an average that hides demanding weeks."
+      },
+      {
+        "title": "Agree acceptance evidence",
+        "text": "Request one event cash timeline, commitment list and closeout exception report from the first agreed period. Confirm that supporting documents remain organized by event and accessible after handoff. Do not treat these tools as predictions of profitability or as a determination of cancellation rights. Their value is making the facts and responsibilities clear enough for the owner and advisers to act."
+      }
+    ],
+    "checklist": [
+      "Event identifier and document map",
+      "Advance-payment timeline",
+      "Supplier substitution and credit owner",
+      "Preliminary versus closed reporting",
+      "Peak-period scope assumptions"
+    ],
+    "questions": [
+      "Who tracks commitments before invoices arrive?",
+      "When is an event financially closed?",
+      "Who pursues unresolved credits?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "repair-business-bookkeeping-provider-selection",
+    "title": "Compare repair-business bookkeeping using work orders",
+    "description": "Evaluate provider scope for customer authorization, parts returns and warranty jobs.",
+    "intro": "A repair business often tracks activity through a work order rather than a simple sale. Parts, deposits, customer approvals and warranty work can affect that order at different times. A useful bookkeeping comparison tests how those records reach the accounts. The provider need not run the workshop, but its proposal should make clear which workshop facts it depends on.",
+    "sections": [
+      {
+        "title": "Map work-order evidence",
+        "text": "Describe the system used for estimates, authorization, parts and final invoices. Ask how the provider links those records and which exports or documents are required. A service may process invoices without maintaining work-order detail. If management wants reporting by job type or technician, state that requirement and identify who supplies the necessary coding."
+      },
+      {
+        "title": "Test a changed repair",
+        "text": "Use a fictional job where inspection reveals additional work after the initial estimate. Ask who supplies the customer’s approval and how the revised charge is recorded. The bookkeeper should not infer authorization from the fact that parts were purchased. Compare how each proposal handles unresolved differences between the estimate, completed work and final invoice."
+      },
+      {
+        "title": "Follow a parts-core return",
+        "text": "Include a replacement part with a charge recoverable when a core is returned. Ask who records the expected credit, confirms the return and matches the later supplier document. These are distinct steps. A provider that reconciles supplier statements may still rely on workshop staff to prove that the core left the premises."
+      },
+      {
+        "title": "Include warranty work",
+        "text": "Present work billed differently because of a manufacturer or business warranty arrangement. Ask what evidence the provider needs and how the event remains distinguishable from ordinary customer-paid work. Do not assume a standard category answers every reporting question. Contract interpretation and eligibility for reimbursement should stay with the appropriately authorized person."
+      },
+      {
+        "title": "Compare open-order review",
+        "text": "Ask how customer deposits, unfinished work and invoices waiting for approval appear at period-end. An operationally closed work order may still have a missing supplier credit. Define who reviews these lists with the workshop and how corrections are approved. Compare the actual internal coordination needed rather than only the number of transactions processed."
+      },
+      {
+        "title": "Accept a connected sample",
+        "text": "Require a work-order-to-invoice example, a core-credit tracker and an explanation of open items for the initial cycle. Confirm record access and whether historical cleanup is separate. These acceptance tests are editorial tools, not accounting standards. The engagement should explain limitations and avoid promising that bookkeeping alone resolves warranty disputes or establishes the correct tax treatment."
+      }
+    ],
+    "checklist": [
+      "Work-order document links",
+      "Changed-work authorization",
+      "Core-return credit owner",
+      "Warranty evidence boundary",
+      "Open-order review process"
+    ],
+    "questions": [
+      "Who confirms a core was returned?",
+      "How are approval differences surfaced?",
+      "What remains open after workshop completion?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "membership-business-bookkeeping-provider-selection",
+    "title": "Choose membership bookkeeping support for account changes",
+    "description": "Compare provider scope for recurring dues, pauses, refunds and member balances.",
+    "intro": "A membership business may have a simple recurring price but a complex account history. Pauses, upgrades, failed payments and refunds can make a member’s current status different from the cash record. Before choosing bookkeeping support, test how a candidate connects membership administration with financial records. This guide does not decide contract rights, refund obligations or accounting treatment.",
+    "sections": [
+      {
+        "title": "Describe membership rules as inputs",
+        "text": "Explain the actual billing frequencies, plan types and administrative systems. Provide the approved policies that staff use, without expecting the bookkeeper to create them implicitly. A proposal may assume every member renews monthly without changes. Identify who communicates departures from that pattern and who is authorized to approve an adjustment."
+      },
+      {
+        "title": "Use a pause-and-return example",
+        "text": "Present a fictional member who pauses after being charged and later returns on a different plan. Ask how the provider traces the original payment, approved credit and revised charge. The current membership screen may not preserve enough explanation by itself. Keep the original approval reference with each change so another administrator can understand its history. Compare the source evidence each proposal requires and how the resulting balance can be understood later."
+      },
+      {
+        "title": "Include failed collections",
+        "text": "Ask how failed payments, retries and manual receipts reach the records without duplication. The bookkeeping service may reconcile results while another team manages member contact. Name that distinction. A payment platform’s retry feature does not establish that every outstanding balance has been reviewed or that the business has approved the next action."
+      },
+      {
+        "title": "Define member-level reporting",
+        "text": "Specify whether management needs a general revenue total, member balances, plan-level trends or another output. Ask which reports are included and who defines their terms. Active membership, billed membership and paying membership can describe different populations. The service should not present an operational count as equivalent to a financial measure without explaining the relationship."
+      },
+      {
+        "title": "Compare administrator handoffs",
+        "text": "Identify a person who supplies approved pauses, refunds and exceptional arrangements. Ask how late changes are handled after reports are prepared. A recurring service depends on this communication even when billing is automated. Compare the expected administrative effort and response windows, particularly during renewals or seasonal enrollment peaks."
+      },
+      {
+        "title": "Set an evidence-based start",
+        "text": "Require one changed-member timeline, a payment-to-account reconciliation and an unresolved-balance list in the initial period. Confirm access to historical records if the platform changes. Keep policy decisions separate from recording them. A well-defined engagement makes exceptions explainable; it does not guarantee collections or decide which members should retain access."
+      }
+    ],
+    "checklist": [
+      "Billing frequency and plan map",
+      "Pause-and-return timeline",
+      "Failed-payment reconciliation",
+      "Defined membership measures",
+      "Approved adjustment communication"
+    ],
+    "questions": [
+      "Who authorizes exceptional credits?",
+      "Which member count does the report use?",
+      "How are retries kept from duplicating receipts?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "salon-bookkeeping-provider-selection",
+    "title": "Evaluate salon bookkeeping using prepaid and staff records",
+    "description": "Compare support for service sales, product activity, prepaid balances and compensation inputs.",
+    "intro": "A salon’s records may combine services, product sales, prepaid packages and staff-related amounts. When selecting bookkeeping support, show candidates how the business actually operates and ask them to explain the boundaries of their work. This comparison does not classify workers, set compensation rights or determine tax treatment. Those decisions require the actual arrangements and qualified advice.",
+    "sections": [
+      {
+        "title": "Describe the operating arrangement",
+        "text": "List the booking and payment systems, service categories and any separately operated activities. Explain what records the business controls and what belongs to another operator. Do not ask the bookkeeper to infer legal relationships from a payment label. The proposal should identify the records needed and any areas where professional review is required before entries can be finalized."
+      },
+      {
+        "title": "Test a prepaid package",
+        "text": "Use a fictional customer buying a package and redeeming part of it in a later period. Ask how the provider links the sale, use and remaining balance under the agreed accounting process. A booking record and a payment receipt may answer different questions. The service should explain what it maintains and what information reception staff must supply."
+      },
+      {
+        "title": "Include product returns",
+        "text": "Present a retail product sale followed by a refund and a returned item that cannot be resold. Ask how the records distinguish the customer adjustment from the stock event. A bookkeeping provider may rely on staff to document product condition. Confirm whether inventory support is included or whether it merely records figures supplied by the salon."
+      },
+      {
+        "title": "Clarify compensation inputs",
+        "text": "Describe the approved reports used to calculate staff-related payments without asserting how anyone is legally classified. Ask who checks service totals, adjustments and the approval of payment inputs. Payroll processing and legal advice may be separate engagements. A bookkeeping service should not silently become responsible for employment decisions merely because it prepares a report."
+      },
+      {
+        "title": "Compare daily-close exceptions",
+        "text": "Use a trading day with a corrected transaction, a manual payment and a booking-system outage. Ask how the provider reconciles the day and obtains missing evidence. The workload may depend on a designated internal manager. Compare the communication process and backup coverage so incomplete closes do not accumulate unnoticed during busy periods."
+      },
+      {
+        "title": "Accept a transparent first cycle",
+        "text": "Request a prepaid-balance example, daily-close reconciliation and documented staff-report handoff. Confirm which historical corrections and specialist advice are excluded. The goal is an understandable flow of evidence from the salon’s systems to its records. Industry familiarity is useful only when the written scope and demonstrated work match the salon’s actual operating model."
+      }
+    ],
+    "checklist": [
+      "Operating arrangement and system map",
+      "Prepaid purchase-to-redemption example",
+      "Product-return evidence",
+      "Approved compensation-input handoff",
+      "Daily-close exception process"
+    ],
+    "questions": [
+      "Who maintains remaining package balances?",
+      "Who confirms returned product condition?",
+      "Which staff-related decisions are outside scope?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "landscaping-bookkeeping-provider-selection",
+    "title": "Choose landscaping bookkeeping around crews and seasonal work",
+    "description": "Evaluate support for recurring routes, one-time projects, materials and seasonal reporting.",
+    "intro": "A landscaping business may run repeat service routes alongside one-time installations. Those activities create different records and management questions. Before choosing bookkeeping support, ask candidates to demonstrate both, including weather-related changes and materials used across jobs. The service comparison should clarify how operating facts reach the accounts without assuming the bookkeeper controls scheduling or field decisions.",
+    "sections": [
+      {
+        "title": "Separate the service patterns",
+        "text": "Describe recurring maintenance, installations and other actual work. Explain how jobs and customers are identified in scheduling and billing systems. A proposal built around monthly invoices may not cover project deposits or stage billing. State which reports the owner wants and whether the service must distinguish route activity from installation work."
+      },
+      {
+        "title": "Trace a rescheduled route",
+        "text": "Use a fictional week when weather moves several visits and one customer receives an approved credit. Ask who confirms completed work and communicates the billing change. The provider should not treat a scheduled visit as proof that service occurred. Compare the input needed from field or office staff and the handling of late corrections."
+      },
+      {
+        "title": "Follow shared materials",
+        "text": "Present a delivery used partly on one installation and partly on another. Ask who records the split and what happens when the allocation is missing. A bookkeeping service may maintain job coding without knowing what crews consumed. Make the field handoff explicit and preserve the basis for approved changes instead of reallocating costs merely to make reports look plausible."
+      },
+      {
+        "title": "Include equipment and seasonal costs",
+        "text": "Ask how management can distinguish recurring operating activity from seasonal preparation and other identified costs in the agreed reports. Avoid requiring the provider to make unsupported tax judgments. The scope should explain the source records and review needed for equipment purchases, repairs or other unusual activity, with specialist questions escalated appropriately."
+      },
+      {
+        "title": "Compare peak-season responsiveness",
+        "text": "Describe the actual volume and staff availability during busy months. Ask how missing job references and supplier records are prioritized. A fixed monthly scope may need clear volume assumptions. Compare the same seasonal calendar and internal coordination effort across proposals, rather than an annual average that conceals the weeks when the process is most strained."
+      },
+      {
+        "title": "Define initial acceptance",
+        "text": "Request one recurring-route reconciliation, one installation-cost example and an open-items review. Confirm whether opening job balances and historical cleanup are included. Keep the data definitions available for the next season. A tailored engagement makes the records more usable; it does not promise favorable weather, predictable demand or a particular margin."
+      }
+    ],
+    "checklist": [
+      "Route and project distinction",
+      "Completed-work confirmation",
+      "Shared-material allocation evidence",
+      "Seasonal reporting definitions",
+      "Peak-volume assumptions"
+    ],
+    "questions": [
+      "Who confirms a visit occurred?",
+      "Who supplies job material splits?",
+      "Does the scope fit peak-season volume?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "equipment-rental-bookkeeping-provider-selection",
+    "title": "Compare equipment-rental bookkeeping around hire events",
+    "description": "Evaluate support for hire periods, extensions, deposits, damage charges and fleet records.",
+    "intro": "Equipment rental records follow the movement and condition of assets as well as customer payments. When choosing bookkeeping support, test an actual hire lifecycle: booking, collection, extension, return and final settlement. A generic sales-processing scope may leave important facts outside the accounts. This guide concerns service responsibilities, not the enforceability of charges or the accounting treatment of deposits.",
+    "sections": [
+      {
+        "title": "Map the hire record",
+        "text": "Explain how the business identifies equipment, customers, hire periods and related documents. Ask how the proposed service receives extensions and returns from the rental system. A booking is not necessarily a completed hire, and a returned item may still have an unresolved final charge. The provider should describe the evidence it requires for each status."
+      },
+      {
+        "title": "Use an extended hire example",
+        "text": "Present a fictional hire returned later than planned with an approved extension. Ask who confirms the actual return date and validates the revised billing instruction. The bookkeeping team may record an approved charge without determining the contract right to charge it. Keep commercial approval and record maintenance visibly separate in the responsibility map."
+      },
+      {
+        "title": "Follow deposits and damage questions",
+        "text": "Include a customer payment held pending inspection and a disputed damage amount. Ask how the provider tracks the open issue and who authorizes final settlement. Do not assume a payment label establishes its legal or accounting character. The service should identify when it needs a management decision or qualified advice before finalizing the record."
+      },
+      {
+        "title": "Connect maintenance and asset records",
+        "text": "Ask whether the scope includes maintaining equipment identifiers on costs, reconciling a supplied fleet register or only processing invoices. A repair invoice may relate to several items or include work for an item no longer in service. Identify who supplies that context. Operational utilization reports and accounting asset records may require different data and review."
+      },
+      {
+        "title": "Compare incomplete-return handling",
+        "text": "Use a busy return day with missing inspection notes, an unrecorded accessory and a customer awaiting a final statement. Ask how the candidate handles the exception queue and what remains with the rental counter. The proposal should not imply that bookkeeping staff can verify physical condition remotely without evidence from the people who inspect equipment."
+      },
+      {
+        "title": "Set a hire-to-ledger test",
+        "text": "For the initial cycle, request a complete hire timeline, open-deposit explanation and documented fleet-record handoff. Compare identical asset and location coverage across proposals. Clarify whether historical register cleanup and specialist accounting work are separate. The useful outcome is a traceable process with clear decisions, not a promise that every disputed charge will be recovered."
+      }
+    ],
+    "checklist": [
+      "Hire and equipment identifier map",
+      "Extension and return-date approval",
+      "Open deposit and damage issue owner",
+      "Fleet-cost record boundary",
+      "Hire-to-ledger acceptance example"
+    ],
+    "questions": [
+      "Who confirms physical return and condition?",
+      "Who approves final settlement?",
+      "Which fleet records does the service maintain?"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping",
+    "sourceLabel": "IRS recordkeeping background; service-selection examples and acceptance workflows are original editorial guidance",
+    "category": "Industry service selection",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]
