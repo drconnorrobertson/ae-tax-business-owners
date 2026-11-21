@@ -5516,5 +5516,1141 @@
     "published": "2026-11-20",
     "reviewed": "2026-11-20",
     "readMinutes": 5
+  },
+  {
+    "slug": "restaurant-delivery-channel-contribution",
+    "title": "Compare restaurant delivery-channel contribution after the fees",
+    "description": "Separate menu receipts, platform charges, packaging and incremental work when reviewing delivery channels.",
+    "intro": "A delivery platform can increase restaurant sales while producing a different contribution from dine-in or direct orders. The useful question is what remains after the costs attributable to the order, not whether gross sales rose. Build a channel review from actual orders and settlements. Keep accounting treatment with the finance professional and avoid treating an illustrative margin as a target every restaurant should achieve.",
+    "sections": [
+      {
+        "title": "Define the order population",
+        "text": "Choose a period and identify completed orders by channel and order number. Separate cancelled, refunded and duplicate records. Decide how taxes, tips and other collected amounts appear in the source data before comparing totals. A platform dashboard and a point-of-sale report may describe different measures, so retain their definitions and reconcile the population first."
+      },
+      {
+        "title": "Match fees to the same orders",
+        "text": "Connect commissions, delivery charges borne by the restaurant, promotional contributions and other agreed fees to the applicable orders. Review the actual merchant arrangement rather than assuming one advertised rate applies to all activity. Keep fixed subscription charges separate from per-order costs until the business chooses and documents an allocation method for the comparison."
+      },
+      {
+        "title": "Identify incremental kitchen costs",
+        "text": "Estimate food ingredients, packaging and additional work using current operating evidence. Distinguish costs that change with an order from existing overhead. Do not allocate all rent to a small delivery sample and then compare it with another channel that carries no overhead. If labor estimates are uncertain, show a range and explain how the estimate was developed."
+      },
+      {
+        "title": "Work through one transparent example",
+        "text": "For a fictional $30 order, assume $9 ingredients, $2 packaging and $6 platform-related charges borne by the restaurant. That leaves $13 before incremental labor and other relevant costs. The example is arithmetic, not a market benchmark. Replace every assumption with the restaurant’s own data and explain any collected amount that is not restaurant revenue."
+      },
+      {
+        "title": "Investigate differences before repricing",
+        "text": "Review menu mix, discounts, order errors and delivery radius where they affect the results. A low-contribution channel may still serve a strategic purpose, but that purpose should be explicit. Ask whether a proposed price or menu change would affect volume, preparation workload or customer experience rather than assuming the current order count will stay unchanged."
+      },
+      {
+        "title": "Keep the analysis tied to settlements",
+        "text": "Reconcile the reviewed orders to platform statements, bank receipts and the accounting records. Track unresolved refunds or fees into the next period instead of omitting them. Assign an owner to recurring discrepancies. A repeatable channel review helps management compare actual changes while preserving the distinction between sales growth, contribution and cash collected."
+      }
+    ],
+    "checklist": [
+      "Defined completed-order population",
+      "Order-linked platform charges",
+      "Documented ingredient and packaging costs",
+      "Separate labor and overhead assumptions",
+      "Settlement reconciliation and action owner"
+    ],
+    "questions": [
+      "Are both channels measured on the same basis?",
+      "Which fees are missing from the order view?",
+      "Would a price change alter demand or workload?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "catering-recipe-yield-cost-review",
+    "title": "Review catering recipe yield before quoting the next event",
+    "description": "Connect purchased quantities, usable yield, planned portions and actual production to event pricing.",
+    "intro": "A catering estimate can be distorted when purchased weight, usable ingredients and served portions are treated as the same quantity. A yield review makes those steps explicit before the next quote. Use the operation’s own recipes and measured experience, and have qualified staff direct food handling. This is a costing workflow, not a food-safety standard or a universal portion-size recommendation.",
+    "sections": [
+      {
+        "title": "Define the recipe and service format",
+        "text": "Record the recipe version, planned portion, service style and event conditions. A plated meal and a self-service buffet may have different production requirements. Keep client changes and staff-meal assumptions visible. If several recipes use the same ingredient, identify how purchases are shared so one event is not charged for stock used elsewhere."
+      },
+      {
+        "title": "Separate purchased and usable quantity",
+        "text": "Record purchase units, preparation losses and usable output using consistent measurements. Confirm conversions with the kitchen rather than relying on an unexplained spreadsheet factor. Different specifications or suppliers can produce different yields. Preserve the observation date and conditions so an older measurement is not silently applied to a changed product."
+      },
+      {
+        "title": "Calculate the planned requirement",
+        "text": "Show the intended number of portions, usable quantity per portion and purchase quantity implied by the documented yield. Identify contingency assumptions separately. A buffer may be sensible for a particular event, but it should not be hidden in both portion size and extra purchase quantity. Have the production owner approve the plan before purchasing."
+      },
+      {
+        "title": "Use an explicit numeric illustration",
+        "text": "In a fictional recipe, ten purchased units producing eight usable units represent an 80 percent observed yield. If the event requires sixteen usable units under the same conditions, the planning calculation is twenty purchased units. This does not establish the actual yield of any food. Replace the example with measured kitchen data and review uncertainty before ordering."
+      },
+      {
+        "title": "Compare production with the event outcome",
+        "text": "Record quantities prepared, served, held for an approved purpose and discarded. Separate guest-count changes from preparation differences. A surplus can result from the service format or client changes rather than an inaccurate recipe alone. Review explanations with kitchen and event staff before changing the standard cost or treating every leftover as avoidable waste."
+      },
+      {
+        "title": "Feed the result into quoting",
+        "text": "Update the recipe-cost basis, purchasing assumptions and event brief with approved changes. Keep actual supplier costs and yield assumptions dated. Compare like-for-like events before drawing a trend. The revised quote should still consider staffing, transport, rentals and service scope; ingredient yield is one part of the complete event economics, not the entire selling-price decision."
+      }
+    ],
+    "checklist": [
+      "Recipe version and portion assumptions",
+      "Measured purchase-to-usable conversion",
+      "Transparent required-quantity calculation",
+      "Actual production and event changes",
+      "Dated cost update for future quotes"
+    ],
+    "questions": [
+      "Which unit is being measured?",
+      "Is contingency counted twice?",
+      "Did the event change after the quote was prepared?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "subcontractor-pay-application-review",
+    "title": "Review subcontractor pay applications against the job record",
+    "description": "Match billed progress, approved changes and prior payments before approving a construction payment.",
+    "intro": "A subcontractor’s payment request should be understandable against the actual job record and agreement. The review needs more than checking that the arithmetic adds up. Build a file connecting the current request to approved scope, progress evidence, changes and previous payments. This workflow does not interpret construction law or payment rights; route those questions to qualified advisers and the actual contract.",
+    "sections": [
+      {
+        "title": "Establish the agreement baseline",
+        "text": "Record the subcontract, schedule of values where used, approved changes and relevant payment provisions for professional review. Keep the current approved total distinct from requested but unresolved changes. An estimator’s budget is not necessarily the same as the executed subcontract amount, so identify the document supporting each number before comparing the application."
+      },
+      {
+        "title": "Connect claimed progress to evidence",
+        "text": "Ask the responsible project person to review completed quantities or milestones using the applicable process. Record the observation date and outstanding work. Do not treat a percentage written on an invoice as independent proof of progress. If the agreement allows billing for stored materials, collect the evidence the authorized reviewer requires rather than assuming delivery alone is sufficient."
+      },
+      {
+        "title": "Reconcile prior applications and payments",
+        "text": "Show previous approved requests, actual payments, credits and amounts still open. Separate approval from cash settlement. A subcontractor may submit a revised application while an earlier payment is in transit, so keep references clear enough to avoid paying the same amount twice. Investigate mismatches with the subcontractor instead of netting unexplained figures."
+      },
+      {
+        "title": "Illustrate the cumulative calculation",
+        "text": "For a fictional review, cumulative approved work of $60,000 less $45,000 previously approved leaves $15,000 of new approved work before any other contract-specific adjustments. That arithmetic is not an instruction about retainage, withholding or payment timing. Apply only the adjustments confirmed by the responsible reviewer under the actual arrangement."
+      },
+      {
+        "title": "Resolve exceptions before release",
+        "text": "List disputed quantities, unapproved changes, missing support and other issues with owners and next actions. Distinguish the undisputed review result from unresolved items without making a legal conclusion about what can be withheld. Obtain appropriate advice when necessary. Keep communications attached to the application so finance can understand the approval decision later."
+      },
+      {
+        "title": "Complete the approval trail",
+        "text": "Record who reviewed progress, who authorized payment and what finance released. Match the payment reference back to the approved application. Update the job’s remaining commitment and cash forecast using the confirmed outcome. A consistent handoff reduces repeated questions between site staff and finance while preserving the evidence behind each decision."
+      }
+    ],
+    "checklist": [
+      "Executed scope and approved changes",
+      "Progress evidence and reviewer",
+      "Prior approval and payment reconciliation",
+      "Owned exception list",
+      "Payment authorization and job forecast update"
+    ],
+    "questions": [
+      "Is the billed change approved?",
+      "Do cumulative amounts reconcile to prior applications?",
+      "Who can resolve the contract-specific question?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "construction-allowance-selection-register",
+    "title": "Track construction allowances from selection to actual cost",
+    "description": "Separate allowance assumptions, client selections, supplier commitments and approved price changes.",
+    "intro": "An allowance can stand in for an unresolved selection when a project is priced, but it should not disappear into the contract total once decisions begin. Maintain a selection register showing the assumption, the actual choice and its cost implications. The agreement determines the parties’ rights and responsibilities; this guide is an operating record, not a legal interpretation of an allowance clause.",
+    "sections": [
+      {
+        "title": "Record the original assumption",
+        "text": "Identify the allowance item, amount, included quantity and scope described in the approved documents. Note what remains unspecified. A number for a fixture package may or may not include installation, delivery or related work. Preserve the original description so the later comparison does not depend on what somebody remembers the allowance was meant to cover."
+      },
+      {
+        "title": "Track the selection decision",
+        "text": "Record the client or authorized decision-maker, selected product, specification, date and approval evidence. Keep alternatives and superseded choices separate from the current selection. Identify the date by which procurement needs a decision. A showroom conversation should not be treated as a final instruction unless the project’s approval process confirms it."
+      },
+      {
+        "title": "Build the actual cost comparison",
+        "text": "Collect supplier quotes, quantities, delivery charges and related work identified by the project team. Compare the same scope with the allowance baseline. For a fictional $5,000 allowance and a $6,200 like-for-like selected package, the initial difference is $1,200 before other confirmed adjustments. The example does not determine who bears that difference."
+      },
+      {
+        "title": "Identify schedule and coordination effects",
+        "text": "Ask whether the selection changes lead time, installation details, dimensions or other trades’ work. A product with a similar price may create a different project impact. Record technical questions with the qualified project team. Do not approve substitutions solely from the financial comparison when suitability or coordination remains unresolved."
+      },
+      {
+        "title": "Document the commercial outcome",
+        "text": "Have the authorized parties confirm any resulting change under the agreement. Keep proposed, accepted and rejected adjustments distinct. Do not modify the original allowance figure to make the register appear balanced. Finance and project management need to see both the baseline and the approved outcome to understand the remaining commitment."
+      },
+      {
+        "title": "Close the item after delivery and billing",
+        "text": "Match received goods and supplier invoices to the approved selection. Record returns, credits and late changes. Update the job forecast and keep the client-facing record consistent with the procurement file. A completed selection is not necessarily a closed financial item until final costs and approved adjustments have been reconciled."
+      }
+    ],
+    "checklist": [
+      "Original allowance scope",
+      "Dated approved selection",
+      "Like-for-like actual cost comparison",
+      "Schedule and technical dependencies",
+      "Confirmed change and final invoice evidence"
+    ],
+    "questions": [
+      "What did the allowance actually include?",
+      "Has the selection been authorized?",
+      "Do technical or schedule effects remain unresolved?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "fabrication-remnant-material-register",
+    "title": "Track fabrication remnants before buying replacement material",
+    "description": "Record usable leftover material by specification, condition and location so future jobs can evaluate it.",
+    "intro": "A fabrication shop can hold useful remnants that are invisible to purchasing because they lack reliable identification. A remnant register helps staff evaluate existing material before ordering more. The register should distinguish physical availability from technical suitability. Qualified production staff must confirm specifications and safe use; a matching size or low accounting value does not establish that a remnant is appropriate for a job.",
+    "sections": [
+      {
+        "title": "Identify material at the source",
+        "text": "Record the material specification, grade or other required identifiers while the original stock information is still available. Assign a stable remnant reference and link the source job or purchase. Avoid relying on a handwritten dimension alone if the work requires traceability. Label uncertain material for review rather than guessing its identity after it has moved around the shop."
+      },
+      {
+        "title": "Measure the usable form",
+        "text": "Capture dimensions, quantity, condition and any known damage or restrictions using the shop’s approved method. Distinguish nominal size from material actually available after irregular cuts. Photographs can supplement measurements but should not replace required inspection. Record who checked the item and when, because handling or storage can change its condition."
+      },
+      {
+        "title": "Make location and status visible",
+        "text": "Identify the storage location and whether the item is available, reserved, under review or no longer usable. A remnant promised to one job should not also be counted as free stock for another. Keep transfers and reservations current so the register reflects the shop floor rather than a historical list of pieces that may have disappeared."
+      },
+      {
+        "title": "Evaluate a job-specific opportunity",
+        "text": "For a fictional job needing two pieces of a confirmed specification, a matching remnant may reduce a new purchase if the production reviewer approves the cut plan and traceability. Include extra handling or setup in the comparison. The example does not suggest using unidentified material or treating every leftover as a direct substitute for new stock."
+      },
+      {
+        "title": "Coordinate financial records",
+        "text": "Ask finance how the business records remnants, transfers and any adjustments. Do not assign a value solely by multiplying retail price by an estimated size. Keep operational quantities and accounting treatment connected but distinct. A physically useful item can require further review before its cost is assigned to the next job."
+      },
+      {
+        "title": "Review the register periodically",
+        "text": "Remove or update entries only with evidence of use, disposal or reclassification under the approved process. Investigate repeated discrepancies between the list and physical stock. Use the findings to improve cut planning and purchasing. A smaller, accurate register of identifiable material is more useful than a large collection of uncertain leftovers."
+      }
+    ],
+    "checklist": [
+      "Traceable material identity",
+      "Usable dimensions and condition",
+      "Location and reservation status",
+      "Qualified job-specific approval",
+      "Recorded consumption or disposal"
+    ],
+    "questions": [
+      "Can the material be identified confidently?",
+      "Is it reserved for another job?",
+      "Does the proposed use meet the required specification?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "manufacturing-rework-cost-review",
+    "title": "Separate manufacturing rework from the cost of normal production",
+    "description": "Connect defect records, extra operations, materials and recovery decisions to a specific batch or job.",
+    "intro": "Rework can be hidden inside ordinary labor and material totals, making it difficult to understand why a job missed its estimate. A rework-cost review connects the production issue with the additional effort it caused. It should support process improvement without replacing qualified quality or engineering decisions. Do not classify every extra minute as avoidable loss before understanding the actual production conditions.",
+    "sections": [
+      {
+        "title": "Define the rework event",
+        "text": "Record the product, job or batch, observed issue, date and responsible review team. Distinguish rework, planned finishing, inspection and a customer-requested change. Use the production or quality system’s approved definitions. A broad label such as quality problem is not enough to determine what work happened or whether it should be compared with normal production."
+      },
+      {
+        "title": "Capture additional operations",
+        "text": "Identify the extra labor steps, machine time, materials, outside processing and inspections tied to the event. Separate amounts already included in the original routing from genuinely additional work. Record estimates until actual records become available. Avoid counting a replacement material purchase and its later issue to the job as two separate material costs."
+      },
+      {
+        "title": "Review a transparent cost example",
+        "text": "For a fictional event, four extra labor hours at an internal costing rate of $35 plus $80 of additional material gives a $220 planning cost before other effects. That rate is an example, not a market wage or a required accounting method. Explain the rate basis and have finance review how the operation’s actual cost records should be used."
+      },
+      {
+        "title": "Include schedule consequences separately",
+        "text": "Record whether rework displaced another job, required overtime or delayed shipment. Keep confirmed costs distinct from estimates of opportunity cost. A late shipment may have several causes, so do not attribute every consequence to the rework event without evidence. Ask the production owner to explain the chain of effects and the remaining uncertainty."
+      },
+      {
+        "title": "Connect disposition and recovery",
+        "text": "Document the approved technical disposition and any supplier credit, customer agreement or recoverable amount. A request for reimbursement is not cash received. Match actual credits to the event without netting away the gross cost history. That history helps management understand both the operational burden and the outcome of recovery efforts."
+      },
+      {
+        "title": "Use patterns to improve the process",
+        "text": "Review repeated events by product, process, input or other meaningful category. Preserve changes in volume and inspection practices when comparing periods. Assign a specific corrective action and track whether it was implemented. The cost review should inform a qualified improvement process, not encourage staff to conceal events to make a metric look better."
+      }
+    ],
+    "checklist": [
+      "Defined event and job reference",
+      "Additional operation records",
+      "Documented costing assumptions",
+      "Separate schedule consequences",
+      "Disposition, recoveries and corrective action"
+    ],
+    "questions": [
+      "Is the work truly additional?",
+      "Are replacement costs counted twice?",
+      "What evidence links the proposed cause to the event?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "production-batch-size-changeover-review",
+    "title": "Compare production batch sizes using changeover and inventory effects",
+    "description": "Model setup effort, demand timing, storage and remaining stock before increasing a production run.",
+    "intro": "A larger batch can spread setup effort over more units while tying up material and creating stock before it is needed. A smaller batch may reduce inventory but require more changeovers. Compare the trade-off using the shop’s actual constraints rather than assuming one batch size is universally efficient. Qualified production staff should confirm technical limits, quality requirements and safe operating procedures.",
+    "sections": [
+      {
+        "title": "Define a comparable product and period",
+        "text": "Choose a product family and planning horizon with consistent specifications. Record expected demand, customer commitments and existing usable stock. A batch calculation based on last year’s demand can mislead if product mix or ordering patterns changed. Keep forecast uncertainty visible instead of treating every planned unit as a confirmed customer requirement."
+      },
+      {
+        "title": "Measure the changeover work",
+        "text": "Document setup labor, machine downtime, preparation material and required verification under the approved process. Separate fixed setup activity from work that varies with run length. Ask operators whether the recorded time includes waiting for material or approval. A changeover estimate should explain what is being measured before it is used to justify a larger batch."
+      },
+      {
+        "title": "Compare a simple illustration",
+        "text": "If a fictional setup takes two hours, a run of 100 units spreads that time over more units than a run of 25. Four separate 25-unit runs would require eight setup hours under the same assumption. The calculation describes one cost component only. It does not establish that producing 100 at once is best when demand timing, storage or product changes matter."
+      },
+      {
+        "title": "Map inventory and cash timing",
+        "text": "Show when material is purchased, units are completed and customers are expected to take delivery. Include storage limits, handling and risk of a specification change. Do not treat finished stock as immediate cash. Ask finance to review the working-capital implication while production reviews whether the proposed schedule fits equipment and staffing constraints."
+      },
+      {
+        "title": "Test alternatives against actual constraints",
+        "text": "Consider a different run sequence, partial release or other option the production team can genuinely execute. Document assumptions for quality checks and service commitments. Avoid selecting the spreadsheet’s lowest unit cost if it depends on unavailable capacity or creates excessive stock. The feasible operating plan matters as much as the arithmetic."
+      },
+      {
+        "title": "Review the selected run afterward",
+        "text": "Compare setup time, output, demand and residual inventory with the plan. Explain important differences without overwriting the original assumptions. Use the evidence to improve the next batch decision. A repeatable review should reveal where setup reductions or better scheduling offer more value than simply making every run larger."
+      }
+    ],
+    "checklist": [
+      "Comparable demand and specification",
+      "Measured setup components",
+      "Transparent batch alternatives",
+      "Inventory and cash calendar",
+      "Actual run review and revised assumptions"
+    ],
+    "questions": [
+      "What part of setup is fixed?",
+      "When will customers take the extra units?",
+      "Is the lowest-cost alternative operationally feasible?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "scrap-metal-settlement-reconciliation",
+    "title": "Reconcile scrap-metal collections to weights and settlement statements",
+    "description": "Track dispatch, grading, charges and receipts when a business sells production scrap.",
+    "intro": "Scrap proceeds can be difficult to review when the shop records a collection but finance sees only a net bank receipt. A settlement reconciliation connects the physical movement with the buyer’s statement and agreed commercial terms. This guide does not determine material classification, environmental requirements or the appropriate accounting treatment. Use qualified staff and advisers for those questions.",
+    "sections": [
+      {
+        "title": "Record the collected material",
+        "text": "Identify the source location, material description, collection date and container or load reference. Keep available internal weight or quantity evidence and the person authorizing release. Separate material types where the operation’s process requires it. A generic entry called scrap pickup makes it difficult to investigate later differences in grading, weight or settlement."
+      },
+      {
+        "title": "Preserve dispatch and buyer records",
+        "text": "Link collection tickets, transport references and the buyer’s receiving statement. Distinguish estimated site weight from the buyer’s measured weight and record units. Do not replace one with the other without an explanation. If scales or handling differ, ask the responsible parties how the commercial weight is established under their actual arrangement."
+      },
+      {
+        "title": "Review grade and price evidence",
+        "text": "Connect the settled classification and price to the relevant quote or agreement. Record contamination, mixed loads or other adjustments the buyer identifies. Avoid treating a public commodity price as the price owed for every load; specifications, timing and commercial terms may differ. Escalate uncertain grading or material questions to qualified people."
+      },
+      {
+        "title": "Work through the settlement",
+        "text": "For a fictional settled weight of 1,000 units at $0.20 per unit, gross value is $200. A separately agreed $30 charge produces $170 before other applicable adjustments. These numbers are illustrative only. Show the gross amount, each charge and the resulting receipt so finance can check the statement without losing the components."
+      },
+      {
+        "title": "Match payment and resolve differences",
+        "text": "Record the payment reference and any outstanding amount, credit or dispute. A buyer’s issued statement does not prove the bank received the money. Keep requests for corrections with the original load reference. Do not clear a difference with an unexplained entry simply because the amount is small or the material would otherwise have been discarded."
+      },
+      {
+        "title": "Review the operating pattern",
+        "text": "Compare collection frequency, handling effort and net proceeds across comparable material streams. Identify storage, safety and processing questions for qualified review rather than pursuing proceeds in isolation. Use accurate records to plan collections and improve segregation where appropriate. Preserve the final settlement file under the business’s approved recordkeeping process."
+      }
+    ],
+    "checklist": [
+      "Material and load identification",
+      "Dispatch and measured-weight evidence",
+      "Agreed grade and pricing references",
+      "Gross-to-net settlement calculation",
+      "Payment and exception trail"
+    ],
+    "questions": [
+      "Which weight is used commercially?",
+      "What explains grading or charge differences?",
+      "Has the statement amount actually been received?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "freight-detention-charge-file",
+    "title": "Review freight detention charges using appointment and event records",
+    "description": "Connect quoted terms, arrival evidence, loading events and invoice adjustments for waiting-time charges.",
+    "intro": "A waiting-time charge can be difficult to evaluate when the invoice arrives without the pickup or delivery history. Build an event file that preserves the commercial terms and actual timestamps. The goal is to support a clear review with the carrier and site team, not to assume a standard free-time period or decide a legal entitlement. The applicable agreement and qualified review govern disputed terms.",
+    "sections": [
+      {
+        "title": "Identify the shipment and arrangement",
+        "text": "Link the load reference, carrier, location, appointment and relevant rate confirmation or agreement. Record the party responsible for the charge under the proposed billing arrangement. Do not substitute a general carrier policy for the terms that apply to this shipment. Keep amendments and special instructions with the original documents so the reviewer can understand the full context."
+      },
+      {
+        "title": "Build the event timeline",
+        "text": "Capture arrival, check-in, dock assignment, loading or unloading, paperwork release and departure where reliable evidence exists. Identify the source of each timestamp. A driver message and a gate-system record may use different events or time zones. Preserve the discrepancy instead of picking the timestamp that produces the preferred result. Ask the relevant people to explain missing intervals."
+      },
+      {
+        "title": "Apply only confirmed calculations",
+        "text": "Have the authorized reviewer identify the applicable time allowance, rate and calculation method. For a fictional agreement that confirms a $50 hourly charge on two chargeable hours, the arithmetic is $100. It does not establish a market rate or prove those hours are chargeable. Keep assumptions and unresolved contract questions separate from the calculation."
+      },
+      {
+        "title": "Compare the invoice and supporting claim",
+        "text": "Match the billed amount, requested evidence and shipment references. Record whether the carrier supplied the required documentation and whether the site team agrees with the event history. A disputed charge should have a reason and next action, not simply remain unpaid without an owner. Route legal or contractual interpretation through the appropriate commercial and professional channels."
+      },
+      {
+        "title": "Track the final settlement and cause",
+        "text": "Link accepted charges, credits and payments back to the original invoice. Review repeated delays for appointment planning, staffing or documentation improvements. Keep operational cause separate from financial responsibility: the event that delayed a truck may not by itself settle who pays. Use the completed file to improve communication while preserving the evidence for the specific transaction. For the next review, sample a completed pickup and a completed delivery separately. A site may record arrival before the appointment while another records check-in afterward. Confirm those event meanings with the people maintaining the records so the same timestamp labels are not assumed to mean the same thing at every location."
+      }
+    ],
+    "checklist": [
+      "Shipment-specific terms",
+      "Sourced event timestamps",
+      "Confirmed calculation assumptions",
+      "Invoice and dispute evidence",
+      "Settlement and operational follow-up"
+    ],
+    "questions": [
+      "Do all timestamps describe the same events?",
+      "Which terms apply to this shipment?",
+      "What action could prevent a repeat delay?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "fleet-empty-mile-route-review",
+    "title": "Review empty miles as part of a complete route decision",
+    "description": "Separate paid distance, repositioning, driver time and schedule constraints before judging a route.",
+    "intro": "An empty-mile percentage can identify an operating issue, but it does not show whether an alternative route is feasible or more profitable. Review the complete movement, including customer timing, driver availability and the next assignment. This guide is a financial and scheduling discussion tool. Qualified staff must determine safe operations and compliance with transport requirements.",
+    "sections": [
+      {
+        "title": "Define the route and measured distance",
+        "text": "Record the vehicle, dates, stops and the source of mileage data. Separate loaded, empty, yard and other movement using consistent definitions. A route planner estimate may differ from actual travel. Preserve both if they serve different purposes, and avoid comparing a driver’s recorded trip with another route measured only by a mapping tool."
+      },
+      {
+        "title": "Connect the next operational commitment",
+        "text": "Identify where the vehicle and qualified driver need to be after delivery. An empty return can be part of a longer assignment rather than an isolated failure to find freight. Document customer windows, equipment needs and other constraints through the appropriate dispatch process. Do not assume that a backhaul listing is a usable alternative without confirming its requirements."
+      },
+      {
+        "title": "Compare incremental economics",
+        "text": "Include expected revenue and costs that change with the alternative, such as fuel, tolls, paid time and additional handling. Keep common fixed costs separate unless the comparison deliberately allocates them. For a fictional 100-mile repositioning move, a possible paying load that adds 80 more miles requires a full incremental comparison; the presence of revenue alone does not prove the detour is better."
+      },
+      {
+        "title": "Test timing and capacity assumptions",
+        "text": "Ask dispatch to review the proposed sequence and qualified staff to assess operating constraints. Show uncertainty in pickup readiness or customer delays. A spreadsheet result based on an unavailable driver or incompatible trailer cannot support a practical decision. Keep the financial scenario and the operational approval connected without treating one as a substitute for the other."
+      },
+      {
+        "title": "Review actual outcomes consistently",
+        "text": "After the route, compare distance, time, charges and collections with the plan. Separate dispatch changes from customer-driven changes. Use several comparable trips before changing a standard assumption. The useful outcome is a better route decision process, not a target that encourages hiding repositioning miles or accepting unsuitable work merely to improve a percentage. Keep customer service consequences in the comparison. An alternative that reduces empty distance but repeatedly misses an agreed delivery window can create a different operating problem. Ask the commercial team to confirm what flexibility exists before dispatch changes the route, and record the actual reason when a promising alternative cannot be used."
+      }
+    ],
+    "checklist": [
+      "Consistent actual-distance categories",
+      "Next assignment and equipment constraints",
+      "Incremental revenue and cost comparison",
+      "Qualified operational review",
+      "Actual route outcome and assumption updates"
+    ],
+    "questions": [
+      "Is the route being judged in isolation?",
+      "Can the alternative actually be performed?",
+      "Which costs change if the vehicle takes the extra work?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "cargo-claim-document-handoff",
+    "title": "Prepare a cargo-claim document file without assuming recovery",
+    "description": "Organize shipment, condition, value and communication evidence for the authorized claim reviewer.",
+    "intro": "A damaged or missing shipment can create a rush to estimate a loss and recover money. Start by preserving the facts and notifying the authorized people through the required process. This guide does not establish carrier liability, coverage, claim deadlines or the amount recoverable. Qualified claim, insurance or legal reviewers should determine those matters from the actual arrangement and evidence.",
+    "sections": [
+      {
+        "title": "Identify the shipment and parties",
+        "text": "Record shipment references, shipper, recipient, carrier and any intermediaries. Link the contract, transport documents and relevant instructions. Keep the party owning the goods distinct from the party booking transport or paying freight. A shared reference list helps reviewers understand which records belong to the event and who is authorized to communicate about it."
+      },
+      {
+        "title": "Preserve condition and event evidence",
+        "text": "Collect delivery records, available photographs, inspection notes and a timeline of discovery. Follow the responsible team’s instructions about preserving goods or packaging. Record who created each item and when. Do not alter an original document to fill a gap, and do not describe a suspected cause as established fact before the appropriate review."
+      },
+      {
+        "title": "Separate quantity, cost and claimed value",
+        "text": "Document the affected items, quantities and supporting purchase or production records. Keep repair, replacement, freight and other proposed components separate. A fictional shipment with ten affected units at a recorded cost of $100 each has a $1,000 cost reference, but that arithmetic does not establish the legal claim amount or insurance recovery. Ask the reviewer which value basis and support apply."
+      },
+      {
+        "title": "Track notices and requests",
+        "text": "Record communications, requested documents and dates supplied. Have the authorized reviewer confirm any applicable deadline rather than assuming a standard period. Distinguish an acknowledgement from acceptance of liability or approval of payment. Assign an owner to unanswered requests so the claim does not become a folder of emails with no clear next step."
+      },
+      {
+        "title": "Reconcile the operational and financial close",
+        "text": "Link final disposition, credits, payments and remaining losses to the event. Ask finance how to record the outcome. Preserve the original gross amounts as well as any recovery so management can understand the operational impact. Review prevention actions separately from the claim result; receiving a payment does not necessarily mean the underlying process problem has been resolved. Maintain a simple index of original documents and later explanations. If a reviewer asks for a missing delivery notation, record the gap instead of creating a replacement that appears contemporaneous. A clearly dated explanation may help the review, but it should remain distinguishable from evidence recorded when the shipment was received."
+      }
+    ],
+    "checklist": [
+      "Shipment and authorized-party map",
+      "Original condition and event evidence",
+      "Separated value components",
+      "Reviewer-confirmed notices and requests",
+      "Disposition, recovery and finance handoff"
+    ],
+    "questions": [
+      "Who is authorized to make the claim?",
+      "Which facts are confirmed rather than suspected?",
+      "What evidence supports each amount requested?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "event-closeout-settlement-review",
+    "title": "Close an event budget with supplier and client settlement evidence",
+    "description": "Reconcile the approved event plan to final invoices, credits, client billing and outstanding commitments.",
+    "intro": "An event can be operationally finished while its financial result is still unclear. Final guest counts, overtime, rentals, credits and client changes may arrive after the room is empty. Use a closeout review to connect those items to the approved plan. Keep the exercise separate from assuming that every vendor invoice is accepted or every proposed client charge is collectible.",
+    "sections": [
+      {
+        "title": "Freeze the approved baseline",
+        "text": "Retain the latest approved budget, scope and change log with the event identifier. Separate client-authorized changes from internal working estimates. If several versions circulated during the event, identify which was operative and what remained unresolved. A meaningful closeout explains movement from a known baseline instead of comparing final costs with an outdated sales estimate."
+      },
+      {
+        "title": "Collect supplier completion records",
+        "text": "Gather final invoices, delivery or return documents, staffing times and credit notes as appropriate to the service. Match them to the supplier commitment and actual event activity. Identify deposits already paid so they are not added again to the final cost. Record disputed or estimated amounts separately until the responsible reviewer resolves them."
+      },
+      {
+        "title": "Reconcile client billing",
+        "text": "Map deposits, progress invoices, approved extras, final invoices and receipts. Ask the authorized commercial owner to confirm the treatment of changes under the agreement. A supplier overtime charge is not automatically a billable client extra. Keep the operational reason and the client approval evidence together before presenting the expected revenue as final."
+      },
+      {
+        "title": "Explain the result with components",
+        "text": "For a fictional event budgeted at $20,000 of cost, $1,000 additional staffing and a $500 rental credit produce $20,500 before other changes. Show the gross additions and reductions rather than only the net variance. Explain whether each item came from attendance, scope, price or execution so the lesson can inform the next quote."
+      },
+      {
+        "title": "Track the remaining cash and actions",
+        "text": "List unpaid suppliers, expected client receipts, refundable deposits and open disputes with owners and dates. A profitable closeout can still have a near-term cash gap. Have finance confirm the accounting and retain the final settlement pack. Review recurring causes of variance without changing the history of the original quote or approved event plan. Assign a final review date and identify who can approve closing the event financially. If a supplier invoice is still expected, show the estimate and its basis rather than treating the absence of an invoice as a saving. When the actual amount arrives, retain the bridge from estimate to final cost for future quoting."
+      }
+    ],
+    "checklist": [
+      "Approved event baseline",
+      "Supplier completion and deposit records",
+      "Client-approved billing changes",
+      "Explained gross variances",
+      "Outstanding cash and closeout owners"
+    ],
+    "questions": [
+      "Are deposits being counted twice?",
+      "Which extras did the client actually approve?",
+      "What remains financially open after the event?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "hotel-group-block-pickup-review",
+    "title": "Review hotel group-block pickup before forecasting room receipts",
+    "description": "Separate reserved inventory, confirmed bookings, actual stays and agreement-specific questions.",
+    "intro": "A group room block is not the same as a set of paid stays. Booking pace, cancellations and room releases can change the forecast before the event arrives. Build a pickup review that uses the actual agreement and booking data. This guide does not interpret attrition, cancellation or other contract provisions; qualified commercial or legal reviewers should resolve those questions.",
+    "sections": [
+      {
+        "title": "Define the block and reporting cutoff",
+        "text": "Record the group, property, stay dates, room types and agreement version. State when the booking data was extracted. Keep rooms held for the group distinct from rooms already booked by named guests. A report covering one stay date may not explain the full block, so show the nightly pattern instead of relying only on a total room count."
+      },
+      {
+        "title": "Reconcile booking status categories",
+        "text": "Separate confirmed reservations, pending requests, cancellations, released rooms and actual stays once available. Identify duplicate or moved bookings and note whether they remain associated with the group. Use the property’s established records rather than an organizer’s estimate alone. A cancellation followed by a rebooking should not be counted as both lost and new demand without understanding the sequence."
+      },
+      {
+        "title": "Connect the rate and payment arrangement",
+        "text": "Record the agreed rate categories and who is expected to pay for each type of charge. Keep guest-paid rooms, master-account items and other arrangements distinct. Do not infer collectibility from a reservation status. Ask the authorized reviewer to explain any guarantees, deposits or disputed amounts under the applicable agreement."
+      },
+      {
+        "title": "Use a nightly forecast example",
+        "text": "For a fictional three-night event, twenty booked rooms on the first night and ten on each remaining night represent forty booked room-nights, not sixty. Apply the appropriate confirmed rate assumptions separately and identify bookings still uncertain. The illustration is a counting method, not a revenue-recognition rule or a promise that every booking will become a paid stay."
+      },
+      {
+        "title": "Review changes and final settlement",
+        "text": "Compare pickup with prior forecasts and explain changes in attendee plans, booking channels or release decisions. Have the commercial owner confirm actions before rooms or obligations are changed. After the event, reconcile actual stays, invoices, deposits and receipts. Preserve unresolved contract questions so a clean occupancy report is not mistaken for a completed financial settlement. Keep forecasts supplied to the organizer consistent with the internal version. If a booking moves outside the group code, investigate whether it still belongs in the commercial review before changing totals. Record the source of the decision so sales, reservations and finance do not maintain competing interpretations of the same stay history."
+      }
+    ],
+    "checklist": [
+      "Nightly block and cutoff",
+      "Reconciled booking categories",
+      "Rate and payer map",
+      "Transparent room-night forecast",
+      "Actual stay and settlement review"
+    ],
+    "questions": [
+      "Are held rooms being mistaken for bookings?",
+      "Does the forecast reflect nightly differences?",
+      "Who confirms agreement-specific obligations?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "rental-turnover-vendor-invoice-check",
+    "title": "Match rental-turnover vendor invoices to actual property work",
+    "description": "Connect bookings, authorized tasks, completion evidence and charges for cleaning and turnover services.",
+    "intro": "Rental turnover work can include routine cleaning, supplies, inspections and special tasks after a guest leaves. A vendor invoice should be matched to the actual property event and authorized scope before it is used in management reporting. This guide is an operating control, not advice about lodging rules, worker classification or the tax treatment of rental activity.",
+    "sections": [
+      {
+        "title": "Create a turnover reference",
+        "text": "Link the property, booking or occupancy event, checkout date and scheduled service. Use a stable reference that appears in task assignments and invoices. Keep cancelled or moved turnovers visible. A property serviced twice in one week can have two legitimate events, but duplicate billing is harder to spot if every charge carries only the street address."
+      },
+      {
+        "title": "Separate routine and additional tasks",
+        "text": "Record what the standard service includes and who can authorize extras. Identify linen services, restocking, repairs, deep cleaning or other work separately. Do not assume a vendor’s usual package matches every property. Keep the approved change and its reason with the event so finance can distinguish a scope difference from a price increase."
+      },
+      {
+        "title": "Collect completion evidence",
+        "text": "Use the agreed checklist, timestamp, inspection or other practical confirmation. State what the evidence demonstrates and what it does not. A photograph of one room does not verify every task. Route quality or safety concerns to the responsible property manager rather than treating an invoice alone as proof that the property was ready for the next guest."
+      },
+      {
+        "title": "Review the charge components",
+        "text": "For a fictional turnover with a $150 routine service and a separately approved $40 task, the planned charge is $190 before other agreed amounts. Match supplies, travel or rush charges to their supporting terms and records. Avoid approving an extra simply because it appears on the invoice, and do not infer a universal market price from the example."
+      },
+      {
+        "title": "Reconcile settlement and property reporting",
+        "text": "Match the approved invoice to payment and any credit. Allocate the cost to the correct property and event using the business’s documented process. Review recurring differences with the vendor and property team. A useful control improves assignment clarity and evidence collection rather than creating a large checklist that nobody checks before payment. When a booking changes, confirm whether the related service was cancelled, moved or already completed. A reservation cancellation does not automatically cancel an external work order. Preserve the vendor response and any agreed charge so the invoice reviewer can understand why an apparently unused turnover still appears in the account."
+      }
+    ],
+    "checklist": [
+      "Property-event reference",
+      "Standard scope and approved extras",
+      "Completion and inspection evidence",
+      "Invoice component review",
+      "Payment, credits and property allocation"
+    ],
+    "questions": [
+      "Does the invoice identify the correct turnover?",
+      "Who approved additional work?",
+      "What confirms the property was ready?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "repair-parts-core-return-register",
+    "title": "Track repair-parts core deposits through return and credit",
+    "description": "Connect replacement-part purchases, returnable cores, shipment evidence and supplier credits.",
+    "intro": "A replacement part can carry a separate core charge that may be credited when an eligible old component is returned under the supplier’s terms. If the return is not tracked, a repair shop can lose visibility of cash tied up in the process. This guide does not decide eligibility, warranty rights or a supplier’s return deadline. Confirm those details from the actual arrangement.",
+    "sections": [
+      {
+        "title": "Identify the part and core charge",
+        "text": "Record the repair order, purchased part, supplier, invoice and separately stated core amount. Keep the replacement part and returned core identifiers linked where available. A general parts total can hide several different return obligations. Ask purchasing to clarify invoices that do not separate the components well enough for later reconciliation."
+      },
+      {
+        "title": "Confirm the return conditions",
+        "text": "Preserve the supplier’s instructions, eligibility criteria and confirmed timing requirements. Assign a person to resolve uncertain conditions before the component is shipped. Do not assume all cores or suppliers use the same rules. If an old part is unavailable or unsuitable, record that fact so a projected credit is not treated as certain."
+      },
+      {
+        "title": "Track physical custody and shipment",
+        "text": "Record where the core is stored, its status, who releases it and the shipment reference. Keep packaging or identification requirements with the task. A core marked ready in a workshop system is not evidence that the supplier received it. Retain proof of dispatch and available delivery confirmation for follow-up."
+      },
+      {
+        "title": "Match credits to original deposits",
+        "text": "For a fictional $250 core charge with a confirmed $200 supplier credit, the $50 difference needs an explanation. It is not automatically an error or an accepted deduction. Link the credit note to the original invoice and ask the authorized reviewer to assess the supplier’s reason under the applicable terms."
+      },
+      {
+        "title": "Review aging and the financial outcome",
+        "text": "List cores awaiting return, receipt, assessment or credit with owners and next actions. Reconcile the register to supplier statements and accounting records. Ask finance how unresolved deposits and final outcomes should be recorded. Use recurring issues to improve the workshop handoff so cores do not remain unlabelled or untracked after the customer repair is complete. Include a practical workshop check before items leave the site: can staff match the packaged core to the supplier return reference without asking the original technician? If not, improve labeling and the handoff. That small check can prevent an otherwise valid return becoming an untraceable package that finance cannot connect to the expected credit."
+      }
+    ],
+    "checklist": [
+      "Part, repair and core-charge link",
+      "Supplier-specific return instructions",
+      "Custody and shipment evidence",
+      "Original deposit-to-credit reconciliation",
+      "Aged exceptions and finance handoff"
+    ],
+    "questions": [
+      "Has the core actually reached the supplier?",
+      "Is the expected credit confirmed or conditional?",
+      "What explains any difference from the deposit?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "dealer-demonstration-equipment-register",
+    "title": "Track dealer demonstration equipment from assignment to sale",
+    "description": "Separate demonstration assets, customer use, condition changes and sales preparation records.",
+    "intro": "Demonstration equipment can move between a showroom, salesperson, customer site and service department without a normal sale or rental transaction. A register gives the dealership a current view of custody, purpose and condition. This is an operating and recordkeeping guide; it does not determine insurance coverage, tax treatment or the legal terms for customer use.",
+    "sections": [
+      {
+        "title": "Identify each demonstration unit",
+        "text": "Record the unit identifier, specification, acquisition reference and current internal status. Keep accessories and attachments associated with the unit. A model name alone may not distinguish several machines in the same fleet. Ask finance which records connect the operational register to the accounting system without deciding that classification from a physical label."
+      },
+      {
+        "title": "Document authorized assignments",
+        "text": "Record who approved the demonstration, the customer or event, location, expected duration and responsible employee. Preserve the applicable agreement and conditions for qualified review. Do not assume a salesperson’s calendar entry establishes permission for every use. Keep extensions visible and identify who can authorize a change to the original arrangement."
+      },
+      {
+        "title": "Track movements and condition",
+        "text": "Capture dispatch, receipt and inspection records at each handoff. Note operating hours or other appropriate measures and any observed issues. Qualified staff should determine readiness and safe operation. A signed delivery receipt may establish custody but not the technical condition of every component, so keep the relevant inspection process distinct."
+      },
+      {
+        "title": "Review costs and sale assumptions",
+        "text": "Connect transport, preparation, repair and other recorded costs to the unit. For a fictional demonstration requiring $500 of transport and $300 of preparation, the $800 total is one part of evaluating the opportunity, not the full cost of ownership. Keep any expected sales benefit as an assumption rather than offsetting actual cost with an unconfirmed future deal."
+      },
+      {
+        "title": "Prepare the next disposition",
+        "text": "When a unit returns, document the approved next use, servicing, sale preparation or retirement. Update its location and responsible owner promptly. Ask the appropriate professionals to review pricing, accounting and contractual issues. A current register helps avoid promising the same unit to two customers or selling it using an outdated condition description. Use an upcoming demonstration to test whether the register is current. Ask the coordinator to locate the unit, confirm its approval status and find the relevant accessories without relying on a salesperson’s memory. Record discrepancies before promising availability to a customer, then correct the underlying assignment or return process."
+      }
+    ],
+    "checklist": [
+      "Unique unit and accessory record",
+      "Authorized assignment and duration",
+      "Movement and inspection evidence",
+      "Unit-specific costs and sales assumptions",
+      "Approved next use and current location"
+    ],
+    "questions": [
+      "Who currently has custody?",
+      "Is the unit approved for its next use?",
+      "Are expected sales benefits being confused with actual receipts?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "veterinary-outside-lab-invoice-review",
+    "title": "Match veterinary outside-laboratory charges to practice records",
+    "description": "Reconcile ordered tests, supplier invoices, credits and client billing through an authorized administrative review.",
+    "intro": "Outside laboratory invoices can contain many small charges that are difficult to trace after the month closes. A practice can review those charges against authorized orders and billing records without making clinical decisions. Protect client and patient information through the practice’s established systems. This guide concerns administrative reconciliation, not the selection, interpretation or medical necessity of a test.",
+    "sections": [
+      {
+        "title": "Define the record references",
+        "text": "Use the practice’s approved case and order identifiers to connect outside-laboratory activity. Limit personal information in the reconciliation to what authorized staff need. Record the laboratory, service date and ordering reference. A supplier account number alone may not identify the underlying case, while exporting full clinical records into an ordinary spreadsheet can create unnecessary exposure."
+      },
+      {
+        "title": "Reconcile orders and completed services",
+        "text": "Compare authorized orders with the laboratory’s reported activity and invoice. Identify cancelled requests, repeat services and items whose status is unclear. Ask qualified practice staff to resolve clinical or technical questions. Do not assume a test was performed merely because it was ordered, or that an unfamiliar charge is invalid without checking the relevant service record."
+      },
+      {
+        "title": "Check quoted or agreed charges",
+        "text": "Use the applicable fee schedule, agreement or quote and effective date. Separate transport, urgent-service or other charges when stated. For a fictional invoice with ten services at an agreed $40 each, the base calculation is $400 before separately confirmed items. The example is not a market price or a recommendation about what a practice should charge clients."
+      },
+      {
+        "title": "Connect client billing appropriately",
+        "text": "Ask the authorized billing team how outside services map to client invoices under the practice’s process. Identify missed, duplicated or corrected entries for review. Keep supplier cost separate from the client selling price. A cost appearing on the laboratory invoice does not by itself establish the correct client charge, clinical documentation or accounting treatment."
+      },
+      {
+        "title": "Resolve credits and recurring exceptions",
+        "text": "Track requested corrections through supplier acknowledgement and issued credit, then match the settlement. Review repeated mismatches for order-entry or interface problems. Retain enough reference information for follow-up without circulating unnecessary clinical details. The result should be a reliable administrative control that supports practice management while leaving professional judgments with the appropriate people. Use an approved sample of invoice lines to test the process after a system integration changes. Confirm identifiers, dates and credit handling without exporting unnecessary case details. An interface that transfers amounts successfully can still attach them to the wrong administrative reference, so review traceability as well as arithmetic totals."
+      }
+    ],
+    "checklist": [
+      "Approved case and order references",
+      "Order-to-service reconciliation",
+      "Applicable fee evidence",
+      "Authorized client-billing handoff",
+      "Credits and recurring-system issues"
+    ],
+    "questions": [
+      "Can each supplier line be traced to an authorized record?",
+      "Is the issue administrative or clinical?",
+      "Has a requested credit actually been issued?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "childcare-enrollment-billing-calendar",
+    "title": "Reconcile childcare enrollment changes to billing periods",
+    "description": "Track agreed attendance schedules, start dates, credits and invoice changes without inferring regulatory capacity.",
+    "intro": "Enrollment changes can affect childcare billing when start dates, attendance schedules and family agreements change during a period. A clear administrative calendar connects those facts to invoices and receipts. This guide does not determine staffing ratios, licensing capacity, attendance eligibility or refund rights. Qualified staff and advisers should apply the relevant requirements and the actual family agreement.",
+    "sections": [
+      {
+        "title": "Define the enrollment record",
+        "text": "Record the approved child or family identifier, program, agreed schedule, start date and responsible administrator in the authorized system. Use only necessary information in billing extracts. Distinguish an enquiry, reserved place and active enrollment. A name on a waiting list should not automatically become a billable record or count as an approved place in the program."
+      },
+      {
+        "title": "Preserve schedule changes",
+        "text": "Link requests and approvals for changed days, extended care, pauses or end dates. Keep the effective date and source of each change. Do not overwrite the original schedule so completely that a prior invoice cannot be explained. Where a request is unresolved, label it pending rather than billing according to an assumption the family has not accepted."
+      },
+      {
+        "title": "Map agreements to billing periods",
+        "text": "Ask the authorized billing owner how fees, partial periods and other charges should be applied under the actual terms. For a fictional schedule moving from three days to four, the administrative record should show which period changed and the approval reference. The example does not establish a standard proration or a right to a credit."
+      },
+      {
+        "title": "Reconcile invoices and payments",
+        "text": "Match billed periods, approved adjustments and receipts to the family account. Separate outstanding amounts, unapplied payments and proposed credits. Attendance records can be a relevant input, but they may not alone determine the fee under the agreement. Resolve discrepancies through the practice’s authorized process and maintain an understandable statement history."
+      },
+      {
+        "title": "Review exceptions before the next cycle",
+        "text": "Identify future starts, scheduled departures and pending changes before invoices are generated. Assign an owner to missing approvals or conflicting dates. Protect sensitive records and give staff only the access required for their role. The calendar should improve administrative accuracy without substituting for program-management, safeguarding or professional compliance decisions. Before implementing a new billing cycle, test a routine enrollment, a midperiod change and a departure using anonymized examples. Ask the authorized administrator to verify how each should appear under the actual terms. Record the approved outcome so later staff do not improvise different treatments for similar administrative situations."
+      }
+    ],
+    "checklist": [
+      "Approved enrollment and schedule",
+      "Dated change requests and decisions",
+      "Agreement-to-period billing rules",
+      "Invoices, credits and receipts",
+      "Next-cycle exception review"
+    ],
+    "questions": [
+      "Which schedule was approved for this period?",
+      "Is a pending change being treated as final?",
+      "Who can resolve a disputed charge?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "creative-subcontract-deliverable-payment",
+    "title": "Connect creative subcontractor payments to accepted deliverables",
+    "description": "Track briefs, revisions, file handoffs and approvals before paying for outsourced creative work.",
+    "intro": "A creative project can generate drafts, revised files and informal feedback that are difficult to connect to the subcontractor’s invoice. A deliverable-payment register links the agreed assignment to the work accepted. This guide does not determine copyright ownership, employment status or a legal right to withhold payment. Use the agreement and qualified advice for those questions.",
+    "sections": [
+      {
+        "title": "Establish the commissioned scope",
+        "text": "Record the creative brief, deliverables, formats, milestones and authorized decision-maker. Link the current subcontractor agreement and any later change. A broad request for brand assets may not explain how many concepts, revisions or final files are expected. Resolve those details before comparing completion claims with the invoice."
+      },
+      {
+        "title": "Distinguish feedback from approval",
+        "text": "Keep draft review comments, requested revisions and final acceptance in separate statuses. Record who approved which version and when. A positive comment in a chat may not mean every deliverable was accepted. The register should preserve the approved artifact reference so another team member can identify the exact file that supports the billing milestone."
+      },
+      {
+        "title": "Check the final handoff",
+        "text": "Verify the agreed editable files, exports, documentation and other materials are available through business-controlled storage. Confirm that an authorized person can open them. Do not infer rights from possession of a file; licensing or ownership questions require the actual agreement and appropriate review. Record unresolved handoff items instead of declaring the project complete after receiving a preview image."
+      },
+      {
+        "title": "Match invoice scope and changes",
+        "text": "For a fictional assignment priced at $2,000 plus a separately approved $300 revision, compare the invoice with both authorizations. That arithmetic does not establish whether another unapproved request is billable. Identify quantities, milestones and outside expenses as agreed, and route disputes through the commercial owner rather than silently editing the invoice amount."
+      },
+      {
+        "title": "Close the supplier and project records",
+        "text": "Link accepted invoices, payments, credits and remaining obligations to the project. Preserve the decision trail and useful asset references for later reuse. Review whether the brief or approval process caused avoidable rework. A complete closeout should leave the business able to find the work and explain the payment without relying on the original project manager’s memory. If a subcontractor works through a shared project platform, preserve the approval reference when the project is archived. A closed task may be difficult to inspect later if permissions change. The final register should point to business-controlled evidence that finance and the project owner can still access when a payment question arises."
+      }
+    ],
+    "checklist": [
+      "Current brief and commissioned scope",
+      "Version-specific approval evidence",
+      "Accessible final-file handoff",
+      "Invoice-to-change reconciliation",
+      "Payment and asset-record closeout"
+    ],
+    "questions": [
+      "Who could authorize acceptance?",
+      "Can the team identify the approved version?",
+      "Do rights questions need separate professional review?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "licensed-content-use-register",
+    "title": "Maintain a licensed-content register before reusing creative assets",
+    "description": "Connect images, music, templates and other licensed materials to their documented permissions and renewal questions.",
+    "intro": "A business may reuse creative material long after the person who bought it leaves. A licensed-content register helps staff find the relevant agreement before assuming a file is available for every use. It is an information-management tool, not a legal interpretation of intellectual-property rights. Have qualified advisers resolve unclear permissions and use the provider’s actual terms for the material in question.",
+    "sections": [
+      {
+        "title": "Identify the asset and source",
+        "text": "Record a stable asset reference, description, provider, purchase account and acquisition date. Link the source file and proof of purchase without storing passwords in the register. A folder name such as approved photos does not show where an image came from. Preserve enough information that another employee can locate the applicable transaction and agreement."
+      },
+      {
+        "title": "Capture the documented permission",
+        "text": "Link the license or terms version supplied with the asset and summarize key questions for review. Record stated users, channels, duration or other restrictions without presenting the summary as a substitute for the full document. Do not assume that an online preview, a paid download or possession of an editable file establishes the same permission in every case."
+      },
+      {
+        "title": "Map actual and proposed uses",
+        "text": "List where the material appears and the internal owner of each use. Separate current uses from a proposed new campaign. For a fictional image licensed for one brochure, a planned advertising campaign is a question to check against the agreement, not an automatic extension. Ask the appropriate reviewer before distributing the new material."
+      },
+      {
+        "title": "Track renewals and evidence gaps",
+        "text": "Record known end dates, renewal contacts and unresolved source questions. Set a review task early enough to obtain clarification or choose replacement content. An empty expiration field should mean unknown, not unlimited. If original evidence cannot be found, flag the asset for qualified review instead of inventing a purchase record or copying another asset’s terms."
+      },
+      {
+        "title": "Make the register usable for future staff",
+        "text": "Keep the current version in business-controlled storage and link it from the relevant production workflow. Review assets when campaigns, suppliers or staff change. Preserve decisions and supporting responses so a later user understands what was checked. The purpose is to support informed reuse without turning a convenient internal label into an unsupported legal assurance. Test one older asset before launching a new campaign: can the team locate its source, the applicable terms and the record of the intended use? If one is missing, escalate the uncertainty before distribution. This practical check can reveal whether the register supports real production decisions rather than simply listing filenames."
+      }
+    ],
+    "checklist": [
+      "Asset provenance and purchase reference",
+      "Applicable license or terms version",
+      "Current and proposed use map",
+      "Renewal and uncertainty tasks",
+      "Business-controlled decision record"
+    ],
+    "questions": [
+      "Can the original permission be located?",
+      "Is the proposed use covered or still unresolved?",
+      "Who owns the renewal or replacement decision?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "commercial-print-job-spoilage-review",
+    "title": "Review print-job spoilage and overruns against the production plan",
+    "description": "Separate approved quantities, setup sheets, production loss and usable excess output in a print-cost review.",
+    "intro": "A print job can use more stock than the final delivery quantity without all extra material being the same kind of loss. Setup, quality checks, damaged output and usable overruns have different operational explanations. Review the job against its production plan before changing estimating assumptions. Qualified production staff should determine process requirements and acceptable output, not a financial ratio alone.",
+    "sections": [
+      {
+        "title": "Preserve the approved job specification",
+        "text": "Record the quantity, material, dimensions, colors, finishing and delivery requirements from the accepted job. Keep subsequent changes linked to the original plan. A cost review cannot fairly compare production with an obsolete specification if the customer changed paper, artwork or quantity after approval. Identify the relevant version before calculating any variance."
+      },
+      {
+        "title": "Classify stock usage consistently",
+        "text": "Separate planned setup material, production waste, rework, quality samples and usable extra output. Record quantities in comparable units. A press sheet may produce several finished pieces, so a sheet count and a finished-unit count should not be subtracted without a documented conversion. Ask the production owner to explain unusual categories rather than forcing them into one spoilage number."
+      },
+      {
+        "title": "Connect causes to job evidence",
+        "text": "Link stoppage notes, material defects, artwork changes and finishing issues where documented. Distinguish observed causes from assumptions. A difficult job may require more setup without indicating poor performance. Conversely, hiding repeated preventable rework inside a broad setup allowance can make estimates less useful. Keep the event detail available for a qualified operational review."
+      },
+      {
+        "title": "Use a transparent quantity example",
+        "text": "For a fictional job requiring 1,000 delivered pieces, 1,100 equivalent pieces of input and 40 usable extra pieces leave 60 pieces outside delivered or usable output under that simple definition. The calculation is not a recommended spoilage rate. Explain samples, work in progress and other legitimate differences before assigning a cost or drawing a conclusion."
+      },
+      {
+        "title": "Update estimating from comparable jobs",
+        "text": "Compare actual usage with the assumptions used in the quote, then identify a specific change to estimating or production if supported. Include setup labor and finishing effects where relevant. Have finance review cost allocation rather than valuing every unused piece at the selling price. Preserve the original estimate so later jobs can show whether the revision improved accuracy. Keep customer-requested samples separate from production rejects if they serve different purposes in the job record. Ask the production lead to explain the treatment consistently. Otherwise a change in sampling practice can make spoilage appear to worsen even when the physical process has not changed, leading to an inaccurate estimate revision."
+      }
+    ],
+    "checklist": [
+      "Current approved print specification",
+      "Comparable material and output units",
+      "Distinct setup, loss and overrun categories",
+      "Documented causes and quantity bridge",
+      "Cost review and future estimating action"
+    ],
+    "questions": [
+      "Are sheets and finished pieces being mixed?",
+      "Is usable overrun treated as waste?",
+      "What evidence supports changing the estimate?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "cloud-service-unit-cost-review",
+    "title": "Review cloud-service unit costs without confusing estimates and invoices",
+    "description": "Connect cloud charges, usage measures, shared costs and product activity before evaluating unit economics.",
+    "intro": "A cloud bill can increase because of traffic, architecture, price, resource configuration or timing. A unit-cost review connects charges to a meaningful product activity rather than dividing the total by whichever metric is easiest to find. Use provider billing documentation and qualified technical input. The review is a management analysis, not a security assessment or a promise that reducing one resource will safely reduce costs.",
+    "sections": [
+      {
+        "title": "Choose the business unit deliberately",
+        "text": "Define the activity whose cost matters, such as a completed transaction, active customer or processed file. State the period and exclusions. A login count may not explain a compute-heavy service. Ask product and technical owners whether the denominator reflects real delivered work, and keep changes in the definition visible when comparing periods."
+      },
+      {
+        "title": "Use the correct billing data state",
+        "text": "Distinguish estimated in-period charges from finalized invoices and later credits. AWS documentation, for example, explains that Cost and Usage Reports are updated and that charges can change as billing is finalized. Do not treat an early snapshot as the final bill. Record the export version and date so a later reviewer can reproduce the analysis."
+      },
+      {
+        "title": "Map direct and shared costs",
+        "text": "Connect identifiable resources or tags to services where reliable, and document any allocation of shared costs. An untagged resource should remain an exception until ownership is resolved. Avoid assigning every shared service to the largest product merely to clear the list. Ask technical staff to confirm resource purpose before considering removal or resizing."
+      },
+      {
+        "title": "Calculate and explain a scenario",
+        "text": "For a fictional service with $3,000 of reviewed monthly costs and 100,000 consistently defined completed jobs, the simple average is $0.03 per job. It is not necessarily the incremental cost of one more job. Separate fixed commitments, shared overhead and usage-related charges before using the result to price a product or forecast growth."
+      },
+      {
+        "title": "Review changes with technical owners",
+        "text": "Compare volume, service mix, deployment changes and billing adjustments before attributing an increase to inefficiency. Ask the owner to evaluate proposed changes for reliability and operational effects. Track the action and actual later outcome. A useful cost review preserves the evidence behind the decision instead of treating a lower bill as proof that the service improved. Preserve the denominator extract with the billing version. If product analytics later removes duplicate jobs or changes event definitions, the old unit-cost figure may no longer be comparable. Restate the comparison explicitly when appropriate rather than presenting a definition change as a technical efficiency gain that nobody actually achieved."
+      }
+    ],
+    "checklist": [
+      "Defined product-activity denominator",
+      "Dated billing export and invoice state",
+      "Resource ownership and allocation basis",
+      "Average-versus-incremental distinction",
+      "Technical review and measured outcome"
+    ],
+    "questions": [
+      "Is the billing data finalized?",
+      "Does the activity metric explain the workload?",
+      "What operational effect could a proposed reduction have?"
+    ],
+    "source": "https://docs.aws.amazon.com/cur/latest/userguide/what-is-cur.html",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "usage-meter-to-customer-billing-reconciliation",
+    "title": "Reconcile product usage meters to customer billing",
+    "description": "Trace measured events, billing rules and invoice quantities before relying on usage-based revenue reports.",
+    "intro": "Usage-based billing depends on more than a working invoice system. The business must know which events are counted, how duplicates and corrections are handled, and how contract terms become billable quantities. Build a meter-to-invoice reconciliation with product, engineering and finance owners. This guide does not determine revenue recognition or interpret a customer contract.",
+    "sections": [
+      {
+        "title": "Define the metered event",
+        "text": "Record the event name, unit, identifier and business meaning. Distinguish attempted, successful, retried and reversed activity where relevant to the product. A technical log entry may not be the billable event described in the agreement. Have the responsible teams agree on the definition and keep its version history so a software change does not silently change billing."
+      },
+      {
+        "title": "Control the customer and period mapping",
+        "text": "Connect events to the correct customer account, product and billing period. Document time-zone and cutoff conventions. Identify migrations, merged accounts or test activity that require special handling. Do not assume that an event’s arrival time is always its service time. Late or corrected data should have an explicit process rather than being counted wherever it first appears."
+      },
+      {
+        "title": "Apply documented billing rules",
+        "text": "Link contract quantities, included allowances, tiers or other relevant rules to the calculation. Use the actual agreement and authorized interpretation. For a fictional account with 1,200 eligible events and a confirmed allowance of 1,000, the excess quantity is 200 before applying the agreed price. The example does not establish a standard allowance or rate."
+      },
+      {
+        "title": "Reconcile calculations to invoices",
+        "text": "Compare the eligible event total, calculated billable quantity and actual invoice lines. Preserve exclusions and corrections with reasons. A small overall difference can hide offsetting errors across customers, so examine meaningful exceptions rather than only the grand total. Keep issued credits linked to the original events and invoice where practical."
+      },
+      {
+        "title": "Review changes before rollout",
+        "text": "Test meter or pricing changes on representative historical cases and obtain approval from the responsible teams. Include duplicate, late and reversed events in the review. Ask finance to determine reporting treatment and engineering to assess data reliability. A successful test should show that the agreed rules were applied consistently, not merely that the system produced a number. Keep a small set of approved test cases with known expected results under the current agreement. Include a period boundary, a duplicated event and a correction. Re-run those cases when the metering pipeline changes and retain the outcome, so the team can identify a billing regression before sending customer invoices."
+      }
+    ],
+    "checklist": [
+      "Versioned metered-event definition",
+      "Customer and period mapping",
+      "Agreement-based billing rules",
+      "Event-to-invoice exception report",
+      "Approved change and correction process"
+    ],
+    "questions": [
+      "Does the technical event match the billable event?",
+      "How are late or duplicate events treated?",
+      "Can each invoice quantity be reproduced?"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
+  },
+  {
+    "slug": "parcel-dimensional-charge-review",
+    "title": "Review parcel dimensional charges against shipment evidence",
+    "description": "Compare billed dimensions, weight, packaging and quoted carrier terms before accepting shipping adjustments.",
+    "intro": "A parcel invoice can change after shipment if the carrier measures a package differently or applies another charge. A review file should connect the adjustment to the physical shipment and the applicable service terms. This guide does not state a universal dimensional-weight formula or determine a carrier’s legal entitlement. Use current carrier documents and qualified commercial review for the actual arrangement.",
+    "sections": [
+      {
+        "title": "Identify the exact shipment",
+        "text": "Record tracking number, service, ship date, sender, destination and packaging reference. Link the original label transaction and invoice. A summary adjustment line may combine several parcels, so obtain enough detail to review the individual shipments. Keep duplicate labels, voids and reshipments visible rather than assuming every tracking record represents a separate completed delivery."
+      },
+      {
+        "title": "Preserve measured packaging data",
+        "text": "Record the dimensions, actual weight, unit of measure and source used when the label was purchased. Distinguish a standard carton specification from the packed parcel’s measured size. Bulging or added protective material may matter to the carrier’s measurement. Ask the shipping team to confirm the evidence rather than using a catalog dimension as unquestioned proof."
+      },
+      {
+        "title": "Match the current commercial rules",
+        "text": "Identify the carrier, service and effective terms used for the shipment. Ask the authorized reviewer to confirm calculation, rounding and adjustment provisions. Do not borrow a dimensional divisor or surcharge from another carrier or an old online example. Keep quoted discounts and account-specific terms with the review so the expected amount can be reproduced."
+      },
+      {
+        "title": "Explain the billed difference",
+        "text": "For a fictional review, a quoted $18 charge and a $24 final charge create a $6 difference to investigate. Separate a measurement adjustment from fuel, handling, address or other components shown by the carrier. A correct total can still contain a misunderstood charge, and a higher total is not automatically evidence of an error."
+      },
+      {
+        "title": "Resolve and improve packaging decisions",
+        "text": "Track the carrier inquiry, supporting evidence, response and any issued credit. Compare recurring adjustments by packaging type and process. Ask operations to assess safe packaging alternatives while finance evaluates cost; cheaper packaging that fails to protect the product may create larger losses. Retain the outcome with the shipment and update the quoting assumptions only when supported. Review a few representative packages with the shipping team before changing packaging or account settings. Confirm the packing method as well as the recorded measurements. A single unusually packed parcel should not automatically become the basis for all future quotes, and a recurring measurement issue should have a named operational owner."
+      }
+    ],
+    "checklist": [
+      "Tracking and original label reference",
+      "Packed dimensions and actual-weight evidence",
+      "Current service and account terms",
+      "Component-level adjustment comparison",
+      "Carrier response and packaging follow-up"
+    ],
+    "questions": [
+      "Are carton specifications being mistaken for packed dimensions?",
+      "Which exact rule produced the adjustment?",
+      "Has any approved credit appeared on the account?"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+    "sourceLabel": "Primary-source background; the operating workflow and examples are editorial guidance",
+    "category": "Industry controls",
+    "published": "2026-11-20",
+    "reviewed": "2026-11-20",
+    "readMinutes": 5
   }
 ]
